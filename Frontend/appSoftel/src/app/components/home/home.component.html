@@ -1,0 +1,30 @@
+<div @moveAnimation (@moveAnimation.done)="homeServ.doneAnimationEmit()">
+    <section class="bg-green p-4 my-4">
+        <p class="fs-5">Cantidad de cuestionarios realizados: {{quantityQuery}}</p>
+        <button mat-button class="text-forest fw-bold" (click)="emitChange()">Ver resultados</button>
+    </section>
+    <section class="h-25-rem bg-green p-4 my-4">
+        <p class="fs-5">Uso de la aplicación</p>
+        <div class="h-90">
+            <canvas baseChart class="chart" 
+                [data]="barChartData" 
+                [options]="barChartOptions"
+                [type]="barChartType"
+                >
+            </canvas>
+        </div>
+    </section>
+    <section class="bg-green p-4 my-4">
+        <p class="fs-5">Últimos resultados</p>
+        <div>
+            <ng-container *ngFor="let nameDate of results; let i= index">
+                <a *ngIf="i < 5" mat-button class="mx-2">
+                    {{i+1}}-{{nameDate | date: 'dd-MM-yyyy'}}
+                </a>
+            </ng-container>
+            <ng-container *ngIf="results.length === 0">
+                <p>No ha guardado ninguna consulta</p>
+            </ng-container>
+        </div>
+    </section>
+</div>

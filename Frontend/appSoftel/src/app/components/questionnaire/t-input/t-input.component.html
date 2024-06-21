@@ -1,0 +1,12 @@
+<div class="ms-3" [ngClass]="typeI == 'number' ? 'col-4': 'col-8'">
+    <input (keydown.enter)="sendAnswer()" 
+            (input)="isExistValue()" 
+            [disabled]="disabled || disabledAll" 
+            type={{typeI}} 
+            placeholder={{placeHolderText}} 
+            class="form form-control" 
+            [(ngModel)]="value"
+            [min]="typeI == 'number' ? 14 : 0"
+            [max]="typeI == 'number' ? 100 : 0">
+    <app-actions-buttons *ngIf="!disabledAll" [disabled]="btnDisabled" (clickAcept)="sendAnswer()" (clickCancel)="eventCancel()"></app-actions-buttons>
+</div>

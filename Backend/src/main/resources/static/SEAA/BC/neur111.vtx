@@ -1,0 +1,443 @@
+1,11,1 1 2
+	Desde cu&#225;ndo tiene Alteraci&#243;n de la Sensibilidad:
+		Horas - D&#237;as
+		Semanas - meses
+2,11,1 1 5
+	D&#243;nde se localiza la Alteraci&#243;n de la Sensibilidad:
+		Hemicuerpo
+		Extremidades Superiores
+		Extremidades Inferiores
+		Cuello
+		Facial
+3,11,1 1 2
+	C&#243;mo se inici&#243; la Alteraci&#243;n de la Sensibilidad:
+		Bruscamente
+		Lentamente
+4,11,1 1 2
+	Cu&#225;nto dur&#243; la Alteraci&#243;n de la Sensibilidad:
+		Menos de 48 horas
+		Persistente desde el inicio
+5,11,1 1 3
+	Desde cu&#225;ndo tiene Alteraciones de la Memoria:
+		Horas - D&#237;as
+		Meses
+		A&#241;os
+6,11,1 1 2
+	C&#243;mo se present&#243; la Alteraci&#243;n de la Memoria:
+		Bruscamente
+		Lentamente
+7,11,1 1 4
+	Cu&#225;nto dura la Alteraci&#243;n de la Memoria:
+		Minutos
+		Horas
+		Persistente
+		Fluctuante
+8,11,1 1 3
+	La alteraci&#243;n Afecta a la Memoria:
+		Anterograda
+		Retrograda temprana
+		Retrograda tard&#237;a
+9,11,1 1 7
+	La Alteraci&#243;n de la Memoria se relaciona con:
+		Ingesta de f&#225;rmacos
+		Ingesta de alcohol
+		Traumatismo Cr&#225;neo-Encef&#225;lico
+		Proceso infeccioso
+		Cambios de ambiente habitual
+		Trastorno emocional
+		Exposici&#243;n a t&#243;xicos
+10,11,1 1 3
+	Desde cu&#225;ndo tiene Paresia:
+		Horas - d&#237;as
+		Semanas - meses
+		A&#241;os
+11,11,1 1 2
+	C&#243;mo se present&#243; la Paresia:
+		Bruscamente
+		Lentamente
+12,11,1 1 8
+	D&#243;nde se localiza la Paresia:
+		Hemicuerpo Derecho
+		Hemicuerpo Izquierdo
+		Extremidad Superior Derecha
+		Extremidad Superior Izquierda
+		Extremidad Inferior Derecha
+		Extremidad Inferior Izquierda
+		Facial Unilateral
+		Facial Bilateral
+13,11,1 1 2
+	Cu&#225;nto dura la Paresia:
+		Menos de 48 horas
+		Persistente desde su instauraci&#243;n
+14,11,1 1 3
+	Desde cu&#225;ndo tiene Movimientos Involuntarios:
+		Infancia - Adolescencia (&#60; 20 a&#241;os)
+		Edad adulta  (20 - 60 a&#241;os)
+		Edad avanzada (&#62; 60 a&#241;os)
+15,11,1 1 9
+	El Movimiento Involuntario es:
+		Sacudidas bruscas, rigidas y/o gesticulaciones (Corea)
+		Lentos y sinuosos (manos, dedos y pies )(Atetosis)
+		Parox&#237;sticos incordinados y exagerados (Coreoatetosis)
+		Alteraci&#243;n postura por trastornos tono muscular (Diston&#237;a)
+		R&#237;gido unilateral, espont&#225;neo y centr&#237;fugo (Hemibalismo)
+		Espasmo involuntario asincr&#243;nico muscular (Fasciculaciones)
+		Espasmo involuntario sincr&#243;nico muscular (Ticks)
+		Espasmo en cuello con rotaci&#243;n de cabeza (Tort&#237;culis)
+		Temblor de extremidades
+16,11,1 1 4
+	Desde cu&#225;ndo es la Alteraci&#243;n de la Marcha:
+		Horas - d&#237;as
+		Semanas
+		Meses
+		A&#241;os
+17,11,1 1 2
+	C&#243;mo se inici&#243; la Alteraci&#243;n de la Marcha:
+		Bruscamente
+		Lentamente
+18,11,1 1 7
+	C&#243;mo es la Marcha:
+		Irregular. Ampliaci&#243;n base sustentaci&#243;n. Inseguridad
+		Unilateral. Arrastra extremidad (&#34;en guada&#241;a&#34;)
+		Pasos cortos y pies pegados al suelo (Parkinsoniana)
+		Irregular con movimientos coreicos
+		Equina
+		Pato
+		Inestable
+19,11,1 1 3
+	Desde cu&#225;ndo tiene Temblor:
+		Infancia- Adolescencia (Menos de 20 a&#241;os)
+		Edad adulta (Entre 20 y 50 a&#241;os)
+		Edad avanzada (M&#225;s de 50 a&#241;os)
+20,11,1 1 3
+	C&#243;mo es el Temblor:
+		De reposo
+		Postural
+		De intenci&#243;n
+21,11,1 1 2
+	El Temblor es fundamentalmente de tipo:
+		Fino
+		Grueso
+22,11,1 1 2
+	El Temblor es:
+		Focalizado
+		Generalizado
+23,11,1 1 4
+	Factores desencadenantes del Temblor:
+		Movimiento
+		Abstinencia alcoh&#243;lica
+		Ansiedad, tensi&#243;n o strees
+		F&#225;rmacos
+24,11,1 1 7
+	Factores atenuantes del Temblor:
+		Movimiento
+		Alcohol
+		F&#225;rmacos ansiol&#237;ticos
+		F&#225;rmacos B-Bloqueantes
+		F&#225;rmacos anticolin&#233;rgicos
+		Sue&#241;o
+		Reposo
+25,11,1 1 3
+	Desde cu&#225;ndo tiene las Cefaleas:
+		Horas - d&#237;as (15 d&#237;as)
+		D&#237;as - meses (12 meses)
+		M&#225;s de 1 a&#241;o
+26,11,1 1 6
+	Localizaci&#243;n de la Cefalea:
+		Occipital
+		Temporal
+		Frontal
+		En banda
+		Macizo Facial
+		Periorbitario y Orbitario
+27,11,1 1 4
+	El dolor (Cefalea) es:
+		Opresivo
+		Pulsatil
+		Violento
+		Sordo
+28,11,1 1 2
+	El dolor (Cefalea) se inici&#243;:
+		De forma brusca
+		Lentamente
+29,11,1 1 3
+	Prodomos previos a la Cefalea:
+		Fotopsias. Escotomas. Alt. campo
+		Hemiparesia con o sin parestesias. Afasia
+		Ataxia. Disartria. Diplopia v&#233;rtigo. Confusi&#243;n
+30,11,1 1 5
+	Ritmo de la crisis de Cefalea:
+		Persistente durante d&#237;as-semanas
+		M&#250;ltiples episodios, breves, diarios
+		Episodios nocturnos (varios)
+		Crisis &#250;nicas espor&#225;dicas
+		Empeora al principio de la ma&#241;ana
+31,11,1 1 4
+	Duraci&#243;n de los episodios de Cefalea:
+		Minutos
+		Horas-d&#237;as
+		Semanas
+		Meses
+32,11,1 1 6
+	Factores desencadenantes de la Cefalea:
+		Emocionales
+		Cambios posturales cef&#225;licos. Tos. Valsalva
+		Diet&#233;ticos (vino, chocolate, nueces, alcohol, etc)
+		Ejercicios de la relaci&#243;n sexual
+		Ingesta de f&#225;rmacos
+		Menstruaci&#243;n
+33,11,1 1 3
+	Desde cu&#225;ndo tiene Mareo - V&#233;rtigo:
+		D&#237;as
+		Semanas-meses
+		M&#225;s de 1 a&#241;o
+34,11,1 1 4
+	Cu&#225;nto duran los episodios de Mareo:
+		Segundos
+		Minutos a horas
+		D&#237;as
+		Semanas-meses
+35,11,1 1 3
+	Frecuencia de los episodios de Mareo:
+		Unicos
+		Recurrentes
+		Persistentes
+36,11,1 1 3
+	Los episodios de Mareo son:
+		Mareo rotatorio
+		Aturdimiento, embotamiento
+		Sensaci&#243;n de desequilibrio, inestabilidad
+37,11,1 1 2
+	Comienzo del Mareo:
+		Bruscamente
+		Insidioso
+38,11,1 1 2
+	Intensidad del Mareo:
+		Leve
+		Intenso (obliga al reposo absoluto)
+39,11,1 1 3
+	El Mareo se desencadena por:
+		Movimientos cef&#225;licos, giros del cuello
+		Cambios posturales (de Dec&#250;bito a Bipedestaci&#243;n)
+		Maniobras de valsalva
+40,11,1 1 2
+	El Mareo se alivia o desaparece:
+		Con el dec&#250;bito supino
+		Manteniendo la cabeza inm&#243;vil
+41,11,1 1 4
+	Tiene Desorientaci&#243;n Temporo-Espacial desde:
+		Horas-d&#237;as
+		Semanas
+		Meses
+		A&#241;os
+42,11,1 1 2
+	La Desorientaci&#243;n Temporo-Espacial se present&#243;:
+		Bruscamente o r&#225;pidamente
+		Lentamente
+43,11,1 1 2
+	Forma de evoluci&#243;n de la Desorientaci&#243;n Temporo-Espacial:
+		Progresiva
+		Fluctuante
+44,11,1 1 7
+	La Desorientaci&#243;n Temporo-Espacial se relacionada con:
+		Ingesta de f&#225;rmacos
+		Abstiencia alcoh&#243;lica
+		Traumatismo Cr&#225;neo-Encef&#225;lico
+		Proceso infeccioso
+		Cambio de ambiente
+		Trastorno emocional
+		Exposici&#243;n a t&#243;xicos
+45,11,1 1 2
+	La Debilidad Muscular se instaur&#243; de forma:
+		Brusca
+		Progresiva
+46,11,1 1 3
+	Tiene Debilidad Muscular desde:
+		Horas-d&#237;as
+		Semanas-meses
+		A&#241;os
+47,11,1 1 3
+	Evoluci&#243;n en el tiempo de la Debilidad Muscular:
+		Persistente y continua
+		Fluctuaciones diarias
+		Epis&#243;dica o recurrente
+48,11,1 1 2
+	La Debilidad Muscular es:
+		Generalizada
+		Localizada
+49,11,1 1 3
+	La Debilidad Muscular se localiza en:
+		Extremidad proximal
+		Extremidad distal
+		Toda la extremidad
+50,11,1 1 4
+	Factores desencadenantes de la Debilidad Muscular:
+		Ejercicio
+		Esfuerzo mantenido
+		Ayuno
+		Enfermedades infecciosas
+51,11,1 1 4
+	Desde cu&#225;ndo presenta crisis Convulsivas:
+		Primer episodio
+		Infancia - adolescencia (Menos de 20 a&#241;os)
+		Edad adulta (Entre 20 y 60 a&#241;os)
+		Edad avanzada (M&#225;s de 60 a&#241;os)
+52,11,1 1 7
+	Durante las crisis Convulsivas presenta:
+		Coloraci&#243;n cian&#243;tica
+		Palidez
+		Aura previa
+		Movimientos cl&#243;nicos
+		Relajaci&#243;n esfinteres
+		Confusi&#243;n postcrisis
+		Amnesia retr&#243;grada
+53,11,1 1 12
+	Las crisis Convulsivas son:
+		Motoras generalizadas t&#243;nico cl&#243;nicas
+		Ausencias
+		Contracciones musculares s&#250;bitas, breves &#250;nicas y m&#250;ltiples
+		P&#233;rdida conocimiento y ca&#237;da al suelo
+		Alucinaciones olfatorias, gustativas, sensaciones abdomin.
+		Parciales motoras
+		Pensamiento compulsivo, miedo, ira
+		Ilusiones (macropsia, micropsia o especifica)
+		Automatismo (deglutir, chupeteo, caminar sin objetivo)
+		Estados discognoscitivos (fen&#243;menos de deja vu o jamais vu)
+		Crisis adversivas
+		Contracciones musculares recurrentes (dedo,mano,brazo,cara)
+54,11,1 1 4
+	Factor desencadenante de las crisis Convulsivas:
+		Abstinencia alcoh&#243;lica
+		Infecciones previas o concomitantes
+		Deprivaci&#243;n sue&#241;o
+		Incumplimiento farmacol&#243;gico anticomicial
+55,11,1 1 2
+	La Cefalea es:
+		Unilateral
+		Bilateral
+56,11,1 1 2
+	La Alteraci&#243;n del Tono Muscular es:
+		Hipertonia
+		Hipotonia
+57,11,1 1 2
+	La localizaci&#243;n de la Debilidad Muscular en la Extremidad Proximal es:
+		Bilateral
+		Unilateral
+58,11,1 1 2
+	La localizaci&#243;n de la Debilidad Muscular en la Extremidad Distal es:
+		Bilateral
+		Unilateral
+59,11,1 1 3
+	La Debilidad Muscular est&#225; Localizada en:
+		Extremidad Superior
+		Tronco
+		Extremidad Inferior
+60,11,1 1 2
+	Desde cu&#225;ndo tiene episodios de Tetania:
+		Meses
+		A&#241;os
+61,11,1 1 3
+	Los episodios de Tetania se desencadenan en relaci&#243;n con:
+		Crisis de ansiedad
+		Hiperventilaci&#243;n
+		Se desencadenan espont&#225;neamente
+62,11,1 1 2
+	Desde cu&#225;ndo tiene Dolor Cervical:
+		Menos de un mes
+		M&#225;s de un mes
+63,11,1 1 3
+	D&#243;nde se localiza el Dolor Cervical:
+		Regi&#243;n central cervical
+		Regiones laterales
+		Occipital (nuca)
+64,11,1 1 2
+	Tiempo de duraci&#243;n del Dolor Cervical:
+		Horas - dias
+		Semanas - meses
+65,11,1 1 5
+	El Dolor Cervical se desencadena o agrava con:
+		Posiciones
+		Hiperextensi&#243;n
+		Tos o estornudos
+		Ejercicio
+		Inactividad
+66,11,1 1 2
+	El Dolor Cervical se alivia con:
+		Descanso, dec&#250;bito supino o flexi&#243;n cuello
+		Movimiento o actividad
+67,11,1 1 2
+	Alteraci&#243;n del Trofismo Muscular:
+		Atrofia
+		Hipertrofia
+68,11,1 1 6
+	La Alteraci&#243;n de la Sensibilidad se manifiesta como:
+		Parestesia
+		Disminuci&#243;n de la sensibilidad alg&#233;sica
+		Disminuci&#243;n de la sensibilidad t&#233;rmica
+		Disminuci&#243;n de la sensibilidad t&#225;ctil
+		Disminuci&#243;n de la sensibilidad profunda (vib. posicional)
+		Hiperestesia
+69,11,1 1 2
+	La Alteraci&#243;n de la Sensibilidad es en el Hemicuerpo:
+		Derecho
+		Izquierdo
+70,11,1 1 3
+	La Alteraci&#243;n del Lenguaje se manifiesta como:
+		Disartria
+		Afasia
+		Hipofon&#237;a
+71,11,1 1 5
+	Factores agravantes de la Cefalea:
+		Luz
+		Ruido
+		Estornudo
+		Movimiento
+		Tos
+72,11,1 1 4
+	La Alteraci&#243;n de la Sensibilidad en Extremidad Superior Derecha:
+		Toda la extremidad
+		N. Mediano
+		N. Cubital
+		N. Radial
+73,11,1 1 4
+	La Alteraci&#243;n de la Sensibilidad en Extremidad Superior Izquierda:
+		Toda la extremidad
+		N. Mediano
+		N. Cubital
+		N. Radial
+74,11,1 1 2
+	La Alteraci&#243;n de la Sensibilidad facial es:
+		Unilateral
+		Bilateral
+75,11,1 1 2
+	Duraci&#243;n del D&#233;ficit Neurol&#243;gico Focal que presenta el paciente:
+		Menos de 24 horas
+		Entre 24 horas y 1 mes
+80,11,1 1 2
+	La Alteraci&#243;n de la Sensibilidad es en Extremidades Superiores:
+		Derecha
+		Izquierda
+81,11,1 1 2
+	La Alteraci&#243;n de la Sensibilidad es en Extremidades Inferiores:
+		Derecha
+		Izquierda
+82,11,1 1 3
+	Desde cu&#225;ndo tiene Dolor Neur&#237;tico:
+		Horas - D&#237;as
+		Entre una semana y un mes
+		M&#225;s de tres meses
+83,11,1 1 5
+	D&#243;nde se localiza el Dolor Neur&#237;tico:
+		Zona intercostal
+		Zona Cervical
+		Zona de la rama oft&#225;lmica del Trig&#233;mino
+		Zona del Ganglio Genicalado
+		Zona Lumbofemoral o Sacroizqui&#225;tica
+84,11,1 1 2
+	Tiempo de duraci&#243;n del Dolor Neur&#237;tico:
+		Horas - D&#237;as
+		Semanas - Meses
+85,11,1 1 2
+	S&#237;ntomas acompa&#241;antes del Dolor Neur&#237;tico:
+		Erupci&#243;n en la Piel
+		Ves&#237;culas cut&#225;neas

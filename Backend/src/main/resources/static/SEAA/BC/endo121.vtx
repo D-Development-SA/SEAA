@@ -1,0 +1,383 @@
+1,12,1 1 3
+	Cu&#225;nto tiempo lleva Perdiendo Peso:
+		Entre uno y tres meses
+		Entre tres y seis meses
+		M&#225;s de seis meses
+2,12,1 1 3
+	Su apetito se mantiene:
+		Igual
+		Aumentado
+		Disminuido
+3,12,1 1 2
+	Desde cu&#225;ndo presenta el Dolor en la Regi&#243;n Tiroidea:
+		Menos de un mes
+		M&#225;s de un mes
+4,12,1 1 2
+	Desde cu&#225;ndo ha notado la aparici&#243;n de Trastornos Virilizantes:
+		Menos de tres meses
+		Tres meses o m&#225;s
+5,12,1 1 2
+	Desde cu&#225;ndo ha notado la Prominencia de los Globos Oculares:
+		Menos de un mes
+		M&#225;s de un mes
+6,12,1 1 2
+	La Prominencia de los Globos Oculares es:
+		Unilateral
+		Bilateral
+7,12,1 1 2
+	Desde cu&#225;ndo presenta Galactorrea:
+		Menos de un mes
+		M&#225;s de un mes
+8,12,1 1 2
+	La Galactorrea es:
+		Espont&#225;nea
+		S&#243;lo a presi&#243;n manual
+9,12,1 1 2
+	La Esterilidad se trata de:
+		Ausencia de la capacidad de concebir
+		P&#233;rdida de la capacidad de concebir
+10,12,1 1 3
+	Cu&#225;nto tiempo hace que Toma M&#225;s L&#237;quido de lo Habitual:
+		Menos de un mes
+		Entre uno y tres meses
+		Tres o m&#225;s meses
+11,12,1 2 3
+	Desde cu&#225;ndo ha notado la Aparici&#243;n del Vello en Zonas que
+	 Normalmente NO Tienen:
+		Menos de tres meses
+		Mas de tres meses
+		Desde la pubertad
+12,12,1 2 3
+	La Presencia del Vello se localiza en &#225;reas del cuerpo sensibles a los
+	 efectos de los andr&#243;genos:
+		Cara
+		Torax
+		Abdomen bajo
+13,12,1 1 2
+	Cu&#225;ndo apareci&#243; la Obesidad:
+		Desde la infancia
+		Cuando adulto
+14,12,1 1 2
+	La Obesidad del paciente ha sido:
+		R&#225;pido (en d&#237;as)
+		En meses o a&#241;os
+15,12,1 1 2
+	Desde cu&#225;ndo ha notado Aumento de Tama&#241;o de las Mamas:
+		Menos de un mes
+		M&#225;s de un mes
+16,12,1 1 2
+	El Aumento de Tama&#241;o de las Mamas es:
+		Unilateral
+		Bilateral
+17,12,1 2 2
+	Cu&#225;nto tiempo hace que ha notado Abultamiento en la Regi&#243;n Anterior
+	 del Cuello:
+		Menos de un mes
+		M&#225;s de un mes
+18,12,1 1 3
+	El comienzo del Abultamiento en la Regi&#243;n Anterior del Cuello fue:
+		En horas o d&#237;as (Agudo)
+		D&#237;as o semanas (Subagudo)
+		Meses o a&#241;os (Gradual Insidioso)
+19,12,1 1 4
+	El volumen del Abultamiento en la Regi&#243;n Anterior del Cuello:
+		Se mantiene sin cambio
+		Ha aumentado recientemente
+		Ha aumentado r&#225;pidamente con dolor
+		Ha aumentado r&#225;pidamente sin dolor
+20,12,1 2 3
+	El paciente sigue o ha seguido Tratamiento Farmacol&#243;gico con alguno de los
+	 siguientes grupos de medicamentos:
+		Diur&#233;ticos
+		Anfetaminas
+		Antitiroideos
+21,12,1 1 3
+	Desde cu&#225;ndo tiene Hiperpigmentaci&#243;n de la Piel y Mucosas:
+		Menos de un mes
+		Entre uno y tres meses
+		Tres o m&#225;s meses
+22,12,1 1 2
+	La Hiperpigmentaci&#243;n de la Piel y Mucosas es:
+		Generalizado
+		Localizado
+23,12,1 1 6
+	La Hiperpigmentaci&#243;n de la Piel y Mucosas se localiza:
+		Puntos de presi&#243;n y pezones
+		Gluteos
+		Cicatrices recientes
+		Mucosa oral con manchas pardas
+		Codos
+		Surcos de la mano
+24,12,1 1 3
+	El paciente lleva o ha llevado Recientemente Tratamiento con:
+		Diur&#233;ticos
+		Litio
+		Hidantoina
+25,12,1 1 9
+	El paciente lleva o ha llevado Recientemente Tratamiento con:
+		Anab&#243;licos
+		Diur&#233;ticos
+		Cimetidina
+		Metildopa
+		Ansiol&#237;tico
+		Isoniacida
+		Antidepresivos tric&#237;clicos
+		Penicilamina
+		Ketoconazol
+26,12,1 1 3
+	La Ginecomastia se acompa&#241;a de:
+		Dolor
+		Rubor y/o Calor
+		Fiebre y/o Escalofr&#237;o
+27,12,1 1 3
+	El paciente lleva o ha llevado Recientemente Tratamiento con:
+		Sustitutos Hormonales
+		Esteroides
+		Anab&#243;licos
+28,12,1 1 4
+	El paciente lleva o ha llevado Recientemente Tratamiento con:
+		Ansiol&#237;ticos
+		Antidepresivos tric&#237;clicos
+		Metildopa
+		Antihem&#233;ticos
+29,12,1 1 12
+	El paciente lleva o ha llevado Recientemente Tratamiento con:
+		Amiodarona
+		Derivados de la Anilina
+		Arsenicales org&#225;nicos
+		Isoniacida
+		Yoduros
+		Litio
+		Fenilbutazona
+		Antitiroideos
+		Sulfamidas
+		Medios de contrastes yodados
+		Yodo radiactivo
+		Radiaciones externas del cuello
+30,12,1 1 4
+	El paciente lleva o ha llevado Recientemente Tratamiento con:
+		Diur&#233;ticos
+		Anfetaminas
+		Antitiroideos
+		Corticoides
+31,12,1 1 3
+	Desde cu&#225;ndo tiene Aumento de Tama&#241;o de las Manos y los Pies:
+		Menos de tres meses
+		Tres meses a un a&#241;o
+		M&#225;s de un a&#241;o
+32,12,1 1 11
+	S&#237;ntomas no Endocrinos que acompa&#241;an a la Obesidad:
+		Estre&#241;imiento
+		Debilidad Muscular
+		Astenia
+		Amenorrea
+		Oligomenorrea
+		Poliuria
+		Fragilidad Capilar
+		Cefalea
+		Intolerancia al Fr&#237;o
+		Bradicinesia
+		Bradisiquia
+33,12,1 1 2
+	S&#237;ntomas Endocrinos que acompa&#241;an a la Obesidad:
+		Hirsutismo
+		Polidipsia
+34,12,1 1 3
+	S&#237;ntomas que acompa&#241;an a la Ginecomastia:
+		Esterilidad
+		Impotencia
+		Disminuci&#243;n de la L&#237;bido
+35,12,1 2 11
+	S&#237;ntomas que acompa&#241;an a la Hiperpigmentaci&#243;n Cut&#225;neo
+	 Mucosa:
+		N&#225;useas
+		V&#243;mitos
+		Debilidad Muscular
+		Astenia
+		Amenorrea
+		Anorexia
+		P&#233;rdida de Peso
+		Diarrea
+		Dolor Abdominal
+		P&#233;rdida del Vello Corporal
+		Nervioso, Irritable o Ansioso
+36,12,1 1 5
+	S&#237;ntomas que acompa&#241;an al Aumento de Tama&#241;o de Manos y Pies:
+		Voz Cavernosa
+		Aumento de Tama&#241;o del Maxilar Inferior
+		Sudoraci&#243;n
+		Aumenta de Peso
+		Dolor Articular
+37,12,1 1 6
+	S&#237;ntomas que acompa&#241;an al Virilismo:
+		Amenorrea
+		Oligomenorrea
+		Hirsutismo
+		Esterilidad
+		Disminuci&#243;n de la L&#237;bido
+		Desfeminizaci&#243;n
+38,12,1 1 4
+	S&#237;ntomas que acompa&#241;an al Dolor en la Regi&#243;n Tiroidea:
+		Fiebre
+		Astenia
+		Bocio y/o N&#243;dulo Tiroideo
+		Disfagia
+39,12,1 2 18
+	S&#237;ntomas no Endocrinos que acompa&#241;an al Bocio y/o N&#243;dulo
+	 Tiroideo:
+		Disfagia
+		Disnea
+		P&#233;rdida de Peso
+		Temblor
+		Intolerancia al Fr&#237;o
+		Intolerancia al Calor
+		Nervioso, Irritable o Ansioso
+		Diarrea
+		Debilidad Muscular
+		Edema
+		Disfon&#237;a
+		Palpitaciones
+		Adenopat&#237;as
+		Fiebre
+		Astenia
+		Amenorrea
+		Estre&#241;imiento
+		Bradicinesia
+40,12,1 1 4
+	S&#237;ntomas Endocrinos que acompa&#241;an a Bocio y/o N&#243;dulo Tiroideo:
+		Dolor en la Regi&#243;n Tiroidea
+		Obesidad
+		Prominencia de los Globos Oculares
+		Piel H&#250;meda y/o Caliente
+41,12,1 1 10
+	S&#237;ntomas que acompa&#241;an a Prominencia de los Globos Oculares:
+		Bocio y/o N&#243;dulo Tiroideo
+		P&#233;rdida de Peso
+		Temblor
+		Intolerancia al Calor
+		Nervioso, Irritable o Ansioso
+		Diarrea
+		Debilidad Muscular
+		Edema
+		Disfon&#237;a
+		Palpitaciones
+42,12,1 1 7
+	S&#237;ntomas no Endocrinos que acompa&#241;an a Polidipsia:
+		Cefalea
+		Debilidad Muscular
+		Poliuria
+		Astenia
+		Edema
+		Dificultad de la Visi&#243;n
+		Sed Intensa
+43,12,1 1 10
+	S&#237;ntomas no Endocrinos que acompa&#241;an a Hirsutismo:
+		Amenorrea
+		Oligomenorrea
+		Astenia
+		Cefalea
+		Debilidad Muscular
+		Edema
+		Fragilidad Capilar
+		Poliuria
+		Impotencia
+		Disminuci&#243;n de la L&#237;bido
+44,12,1 1 5
+	S&#237;ntomas Endocrinos que acompa&#241;an a Hirsutismo:
+		Polidipsia
+		Esterilidad
+		Virilismo
+		Desfeminizaci&#243;n
+		Obesidad
+45,12,1 1 14
+	S&#237;ntomas que acompa&#241;an a la P&#233;rdida de Peso:
+		Astenia
+		Amenorrea
+		Anorexia
+		Debilidad Muscular
+		Diarrea
+		Disfon&#237;a
+		Dolor Abdominal
+		Edema
+		Intolerancia al Calor
+		N&#225;useas
+		Nervioso, Irritable o Ansioso
+		Palpitaciones
+		Temblor
+		V&#243;mitos
+46,12,1 1 5
+	S&#237;ntomas Endocrinos que acompa&#241;an a la P&#233;rdida de Peso:
+		Piel H&#250;meda y/o Caliente
+		Prominencia de los Globos Oculares
+		Hiperpigmentaci&#243;n Cut&#225;neo - Mucosa
+		P&#233;rdida del Vello Corporal
+		Bocio y/o N&#243;dulo Tiroideo
+47,12,1 1 6
+	El paciente lleva o ha llevado Recientemente Tratamiento con:
+		Amiodarona
+		Anticonceptivos orales
+		Antidepresivos tric&#237;clicos
+		Esteroides o Corticoides
+		Litio
+		Yodo radiactivo
+48,12,1 1 4
+	El paciente lleva o ha llevado Recientemente Tratamiento con:
+		Rifampicina
+		Difenilhidanto&#237;na
+		Ketoconazol
+		Opi&#225;ceos
+49,12,1 1 7
+	Presenta Antecedentes Patol&#243;gicos Familiares de:
+		Hipertiroidismo
+		Hipotiroidismo
+		Tiroiditis
+		Hipogonadismo
+		Diabetes Mellitus
+		Diabetes Ins&#237;pida
+		Esterilidad
+50,12,1 1 7
+	Presenta Antecedentes Patol&#243;gicos Personales de:
+		Enfermedad Tiroidea
+		Operaci&#243;n del Tiroides
+		Radioterapia en la Cabeza o Regi&#243;n Cervical
+		Anemia Megalobl&#225;stica
+		Hipertensi&#243;n Arterial
+		Neoplasias Pulmonares
+		Micro o Macroadenomas Hipofisiarios Productores de ACTH
+51,12,1 1 2
+	Presenta Antecedentes Patol&#243;gicos Personales de:
+		Diabetes Mellitus
+		Hipertensi&#243;n Arterial
+52,12,1 1 7
+	Presenta Antecedentes Patol&#243;gicos Personales de:
+		Radiaciones Externas al Cuello
+		Enfermedades del Tejido Conectivo
+		Hipertensi&#243;n Arterial
+		Radioterapia en la Cabeza o Regi&#243;n Cervical
+		Infecci&#243;n en las V&#237;as Respiratorias
+		Enfermedad Tiroidea
+		Anemia Megalobl&#225;stica
+53,12,1 1 3
+	Presenta Antecedentes Patol&#243;gicos Personales de:
+		Hipertensi&#243;n Arterial
+		Hipotensi&#243;n Arterial
+		Cirug&#237;a Hipofisaria
+54,12,1 1 5
+	Presenta Antecedentes Patol&#243;gicos Personales de:
+		Cirrosis Hep&#225;ticas
+		C&#225;ncer de Pr&#243;stata
+		Tumores Testiculares
+		Hepatopat&#237;a Cr&#243;nica con/sin Ascitis
+		Neoplasias Pulmonares
+55,12,1 1 5
+	Presenta Antecedentes Patol&#243;gicos Personales de:
+		Enfermedades del Tejido Conectivo
+		Hipertensi&#243;n Arterial
+		Hipotensi&#243;n Arterial
+		Cirug&#237;a Hipofisaria
+		Panhipopitituarismo
+56,12,1 1 3
+	Cu&#225;nto tiempo hace que Come M&#225;s de lo Habitual:
+		Menos de un mes
+		Entre uno y tres meses
+		Tres o m&#225;s meses

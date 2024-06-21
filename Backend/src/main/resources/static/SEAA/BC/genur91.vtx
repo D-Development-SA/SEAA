@@ -1,0 +1,549 @@
+1,9,1 1 17
+	S&#237;ntomas acompa&#241;antes urinarios:
+		Nicturia
+		Hematuria
+		Polaquiuria
+		Uretrorrea
+		Leucorrea
+		Modificaciones del Chorro
+		Prurito Genital
+		Dolor Lumbar
+		Dolor Testicular
+		Aumento de Volumen Testicular
+		Oliguria
+		Disuria
+		Hipersensibilidad Testicular
+		Dispareunia
+		Ardor y/o Dolor Vaginal
+		retenci&#243;n de la Orina
+		Incontinencia de la Orina
+2,9,1 1 2
+	El Dolor Lumbar es:
+		Unilateral
+		Bilateral
+3,9,1 1 3
+	El Dolor Asociado a la Menstruaci&#243;n aparece:
+		D&#237;as antes de la regla
+		Durante la regla
+		Despu&#233;s de la regla
+4,9,1 1 4
+	C&#243;mo es su dieta diaria:
+		Normal
+		Excluye alimentos (Dietas Peculiares)
+		Malos h&#225;bitos alimenticios
+		Insuficiente (Dieta Estricta)
+5,9,1 1 3
+	Desde cu&#225;ndo tiene el Edema:
+		Menos de 48 horas
+		Entre 48 horas y un mes
+		M&#225;s de un mes
+6,9,1 1 2
+	El Edema es:
+		Localizado
+		Generalizado
+7,9,1 1 7
+	El Edema est&#225; localizado en:
+		Regi&#243;n periorbitaria
+		P&#225;rpados
+		Cara
+		Cuello
+		Extremidades Inferiores
+		Extremidades Superiores
+		Abdomen
+8,9,1 1 2
+	El Edema de las Extremidades Superiores es:
+		Bilateral
+		Unilateral
+9,9,1 1 2
+	El Edema de las Extremidades Inferiores es:
+		Bilateral
+		Unilateral
+10,9,1 1 3
+	Qu&#233; cantidad de sangre pierde en la regla:
+		Excesiva (+ de 6 compresas por d&#237;a)
+		Escasa (- de 2 compresas por d&#237;a)
+		Normal ( de 2 a 6 compresas por d&#237;a)
+11,9,1 1 2
+	El Edema en la cara apareci&#243;:
+		R&#225;pidamente
+		Gradualmente
+12,9,1 1 2
+	El Edema en la Extremidades Superiores apareci&#243;:
+		R&#225;pidamente
+		Gradualmente
+13,9,1 2 7
+	El Edema en las Extremidades Superiores se acompa&#241;a de otros s&#237;ntomas
+	 en la extremidad:
+		Palidez
+		Frialdad
+		Hipoestesia o Anestesia
+		Eritema
+		Cianosis
+		Signos Inflamatorios Locales
+		Ulceras
+14,9,1 1 2
+	La Ascitis:
+		Apareci&#243; primero que el edema de las piernas
+		Apareci&#243; siguiendo el edema de las piernas
+15,9,1 1 13
+	S&#237;ntomas acompa&#241;antes Genito-Urinarios:
+		Nicturia
+		Hematuria
+		Polaquiuria
+		Uretrorrea
+		Leucorrea
+		Modificaciones del Chorro
+		Prurito Genital
+		Dolor Lumbar
+		Dolor Testicular
+		Aumento de Volumen Testicular
+		Oliguria
+		Disuria
+		Poliuria
+16,9,1 1 4
+	En relaci&#243;n con la Incontinencia Urinaria presenta el paciente:
+		P&#233;rdida de orina al realizar un esfuerzo
+		Micciones frecuentes, de escasa cantidad, gota a gota
+		Deseos imperiosos de realizar la micci&#243;n
+		Necesidad de esfuerzos &#243; presi&#243;n manual de vejiga al miccionar
+17,9,1 1 5
+	Factores desencadenantes del Edema de las Extremidades Superiores:
+		Traumatismo previo
+		Infecci&#243;n local
+		Picadura de insecto
+		Agente irritante local
+		F&#225;rmacos
+18,9,1 1 13
+	S&#237;ntomas acompa&#241;antes Genito-Urinarios:
+		Nicturia
+		Hematuria
+		Polaquiuria
+		Uretrorrea
+		Leucorrea
+		Modificaciones del Chorro
+		Prurito Genital
+		Dolor Lumbar
+		Dolor Testicular
+		Aumento de Volumen Testicular
+		Oliguria
+		Disuria
+		Poliuria
+19,9,1 1 9
+	La Amenorrea se acompa&#241;a de:
+		Cefaleas
+		Nauseas
+		V&#243;mitos
+		Metrorragia
+		Sialorrea
+		Mareo - V&#233;rtigo
+		Aumento de Volumen de las Mamas
+		Bultos en las Mamas
+		Mastodinia
+20,9,1 1 8
+	Tiene o ha tenido recientemente Tratamiento con:
+		Bloqueadores de los canales del calcio
+		Manitol
+		Indometacina
+		Fenilbutazona
+		Corticoides
+		Estr&#243;genos
+		Testosterona
+		Amantadina
+21,9,1 1 2
+	Desde cu&#225;ndo tiene Uretrorrea:
+		M&#225;s de un mes
+		Menos de un mes
+22,9,1 1 4
+	C&#243;mo es la Secreci&#243;n Uretral:
+		Clara
+		Blanquecina
+		Purulenta
+		Amarilla
+23,9,1 1 2
+	Cu&#225;nto tiempo ha trancurrido desde el &#250;ltimo contacto sexual:
+		M&#225;s de 10 d&#237;as
+		Menos de 10 d&#237;as
+24,9,1 1 4
+	Cu&#225;nto tiempo hace que tiene Disuria:
+		Uno a dos d&#237;as
+		Dos a siete d&#237;as
+		Siete d&#237;as a un mes
+		M&#225;s de un mes
+25,9,1 1 2
+	C&#243;mo fue el comienzo de la Disuria:
+		De forma s&#250;bita
+		De forma progresiva
+26,9,1 1 3
+	La Disuria se presenta:
+		Al principio del chorro
+		Al final del chorro
+		Durante toda la micci&#243;n
+27,9,1 1 2
+	Es su orina:
+		Clara
+		Turbia
+28,9,1 1 3
+	El paciente presenta:
+		Dolor en el area vesical (suprap&#250;bica)
+		Dolor en el extremo del pene
+		Dolor en regi&#243;n perineal
+29,9,1 1 2
+	Desde cu&#225;ndo tiene Leucorrea:
+		M&#225;s de un mes
+		Menos de un mes
+30,9,1 1 5
+	C&#243;mo es la Leucorrea:
+		Blanquecina
+		Amarilla
+		Maloliente y espumosa
+		Purulenta
+		Clara
+31,9,1 1 4
+	Cu&#225;nto tiempo hace que tiene Modificaci&#243;n del Chorro:
+		Uno a dos d&#237;as
+		Dos a siete d&#237;as
+		Siete d&#237;as a un mes
+		M&#225;s de un mes
+32,9,1 1 4
+	El Chorro de orina es:
+		D&#233;bil
+		Fraccionado
+		Disperso
+		Intermitente
+33,9,1 1 4
+	Cu&#225;nto tiempo hace que nota Polaquiuria:
+		Uno a dos d&#237;as
+		Dos a siete d&#237;as
+		Siete d&#237;as a un mes
+		M&#225;s de un mes
+34,9,1 1 3
+	En qu&#233; momento del d&#237;a orina m&#225;s frecuentemente:
+		D&#237;a
+		Noche
+		Ambos
+35,9,1 1 3
+	Cu&#225;nto tiempo hace que nota Dolor Testicular:
+		M&#225;s de un mes
+		Menos de un mes
+		Horas
+36,9,1 1 2
+	D&#243;nde se localiza el Dolor Testicular:
+		En un test&#237;culo
+		En ambos
+37,9,1 1 2
+	El Dolor Testicular se irradia a regi&#243;n:
+		Inguino abdominal
+		Lumbar
+38,9,1 1 4
+	El Dolor Testicular se acompa&#241;a de S&#237;ntomas Inflamatorios Locales:
+		Aumento de volumen testicular
+		Rubor
+		Calor
+		N&#243;dulos testiculares
+39,9,1 1 2
+	El Dolor Testicular:
+		Empeora con la elevaci&#243;n del escroto
+		Se alivia con la elevaci&#243;n del escroto
+40,9,1 1 5
+	Ha presentado recientemente:
+		Traumatismo testicular
+		Enfermedad de transmisi&#243;n sexual
+		Infecci&#243;n urinaria
+		Prostatitis
+		Sondaje vesical reciente
+41,9,1 1 3
+	Cu&#225;nto tiempo hace que tiene Aumento de Volumen Testicular:
+		M&#225;s de un mes
+		Menos de un mes
+		Horas
+42,9,1 1 2
+	El Aumento de Volumen Testicular apareci&#243; de forma:
+		Brusca
+		Progresiva
+43,9,1 1 2
+	Cu&#225;nto tiempo hace que tiene Hematuria:
+		Menos de un mes
+		M&#225;s de un mes
+44,9,1 1 2
+	Color de la orina:
+		Rojo brillante
+		Rojo oscuro
+45,9,1 1 3
+	Aparece sangre:
+		Al principio de la micci&#243;n
+		Al final de la micci&#243;n
+		Durante toda la micci&#243;n
+46,9,1 1 2
+	Los co&#225;gulos de sangre son:
+		Grandes y voluminosos
+		Alargados o filiformes
+47,9,1 1 2
+	Desde cu&#225;ndo ha notado Bultos en las Mamas:
+		Menos de un mes
+		M&#225;s de un mes
+48,9,1 1 4
+	Present&#243; pr&#233;viamente historia de:
+		Prostatismo
+		C&#243;lico Nefr&#237;tico
+		Infecci&#243;n de V&#237;as Urinarias
+		Traumatismo Perineal
+49,9,1 1 2
+	La Insuficiencia Renal es:
+		Aguda
+		Cr&#243;nica
+50,9,1 1 2
+	La Amigdalitis Pult&#225;cea es:
+		48 horas previas a la aparici&#243;n de los s&#237;ntomas
+		48 horas despu&#233;s de la aparici&#243;n de los s&#237;ntomas
+51,9,1 1 2
+	La Faringitis es:
+		48 horas previas a la aparici&#243;n de los s&#237;ntomas
+		48 horas despu&#233;s de la aparici&#243;n de los s&#237;ntomas
+52,9,1 1 2
+	La Infecci&#243;n Cut&#225;nea es:
+		48 horas previas a la aparici&#243;n de los s&#237;ntomas
+		48 horas despu&#233;s de la aparici&#243;n de los s&#237;ntomas
+53,9,1 1 3
+	Desde cu&#225;ndo ha notado Dolor en las Reglas:
+		Desde la menarqu&#237;a
+		Varios a&#241;os despu&#233;s de la menarqu&#237;a
+		Edad madura
+54,9,1 1 8
+	Ha tomado recientemente alguno de los siguientes F&#225;rmacos:
+		Anticolin&#233;rgicos
+		Fenitoina
+		Antidepresivos tric&#237;clicos
+		Inhibidores de la monoaminooxidasa
+		Drogas (hero&#237;na, anfetaminas, mariuhana, coca&#237;na)
+		Antibi&#243;ticos (penicilina, cefalosporinas, tetraciclinas, ..)
+		Antiinflamatorios no esteroideos
+		Hidralazina
+55,9,1 1 2
+	Ha tenido Tratamiento Farmacol&#243;gico reciente con:
+		Estr&#243;genos
+		Anticonceptivos orales
+56,9,1 1 2
+	Desde cu&#225;ndo presenta Incontinencia Urinaria:
+		Menos de un mes
+		M&#225;s de un mes
+57,9,1 1 9
+	Antecedentes de Tratamiento reciente con alguno de los siguientes Medicamentos:
+		Diur&#233;ticos
+		Corticoides
+		Anticolin&#233;rgicos
+		Fenitoina
+		Litio
+		Anfotericina
+		Tioridazina
+		Cloropromacina
+		Vitamina D
+58,9,1 1 6
+	Tiene alguno de los siguientes procesos:
+		Diabetes Mellitus
+		Infecci&#243;n Urinaria
+		Enfermedad Prost&#225;tica
+		Multipara
+		Prolapso
+		C&#237;stoceles
+59,9,1 1 2
+	Cu&#225;nto tiempo hace que presenta Dolor Lumbar:
+		Menos de un mes
+		M&#225;s de un mes
+60,9,1 1 2
+	El Dolor Lumbar comenz&#243;:
+		De forma s&#250;bita
+		Gradualmente
+61,9,1 1 2
+	La instauraci&#243;n de la Retenci&#243;n Urinaria ocurri&#243;:
+		Bruscamente
+		Gradualmente
+62,9,1 1 4
+	Se irradia el Dolor Lumbar:
+		A lo largo del &#225;rea subcostal hacia el ombligo
+		Hacia la fosa il&#237;aca o genital ipsolateral
+		Hacia el &#225;rea suprap&#250;bica
+		Hacia la cara posterior o lateral del muslo o pierna
+63,9,1 1 3
+	El Dolor Lumbar dur&#243;:
+		Horas
+		D&#237;as
+		Meses
+64,9,1 1 2
+	El Dolor Lumbar es:
+		Sordo, constante, de poca intensidad
+		Intenso, agudo y epis&#243;dico
+65,9,1 1 3
+	El Dolor Lumbar se alivia:
+		Con analg&#233;sicos orales o parenteral
+		Movi&#233;ndose constantemente
+		En reposo sin moverse en cama
+66,9,1 1 4
+	Tiene Antecedentes Personales de:
+		C&#225;lculos renales y/o expulsi&#243;n de arenillas
+		Infecciones urinarias
+		Hiperunicemia o episodios de Gota
+		Traumatismo reciente en regi&#243;n lumbar o p&#233;lvica
+67,9,1 1 11
+	Los Bultos en las Mamas se acompa&#241;an de:
+		Secresiones Sanguinolentas por el Pez&#243;n
+		Retracci&#243;n del Pez&#243;n
+		Adenopat&#237;as Axilares
+		Adenopat&#237;as Supraclaviculares
+		S&#237;ntomas Inflamatorios
+		Metrorragia
+		Dismenorrea
+		Amenorrea
+		Leucorrea
+		Mastodinia
+		Galactorrea
+68,9,1 1 9
+	La Mastodinia se acompa&#241;a de:
+		Amenorrea
+		Leucorrea
+		Dismenorrea
+		Metrorragia
+		Signos Inflamatorios de las Mamas
+		Fiebre
+		Galactorrea
+		Cefalea
+		Bultos en las Mamas
+69,9,1 1 3
+	Cu&#225;nto tiempo hace que Orina M&#225;s de lo Habitual:
+		Menos de un mes
+		De un mes a tres meses
+		M&#225;s de tres meses
+70,9,1 1 2
+	Tiene Antecedentes Familiares de:
+		C&#225;ncer de Mamas
+		Lesiones Benignas de Mamas
+71,9,1 1 2
+	Cu&#225;nto orina en cada micci&#243;n:
+		Gran cantidad
+		Peque&#241;a cantidad varias veces
+72,9,1 1 7
+	La Poliuria se acompa&#241;a de:
+		Polidipsia
+		Polifagia
+		Cefalea
+		Dificultad para la Visi&#243;n
+		Anorexia
+		Debilidad Muscular
+		Sed Intensa
+73,9,1 1 2
+	Los Bultos en las Mamas se localizan de forma:
+		Unilateral
+		Bilateral
+74,9,1 1 6
+	Est&#225; diagnosticado el paciente de:
+		Enfermedad Renal
+		Diabetes Mellitus
+		Infecci&#243;n Urinaria
+		Enfermedad Prost&#225;tica
+		Ansiedad o S&#237;ndrome Depresivo
+		Hipertensi&#243;n Arterial
+75,9,1 1 3
+	Qu&#233; cantidad de l&#237;quido ingiere durante el d&#237;a:
+		Menos de 1 litro
+		Entre 1-2 litros
+		M&#225;s de 2 litros
+76,9,1 1 2
+	Toma en la actualidad alguno de los siguientes F&#225;rmacos:
+		Diur&#233;ticos
+		Litio
+77,9,1 1 4
+	Cu&#225;ndo presenta la Hematuria:
+		S&#243;lo por las ma&#241;anas
+		Despu&#233;s de un paseo, carrera, esfuerzo f&#237;sico
+		Cuando se expone al frio
+		Siempre o sin causa aparente
+78,9,1 1 2
+	Cu&#225;nto tiempo hace que Orina Menos de lo Habitual o nada:
+		Menos de 48 horas
+		M&#225;s de 48 horas
+79,9,1 1 13
+	El paciente padece o ha padecido recientemente de:
+		Dolor de Garganta
+		Infecci&#243;n Urinaria
+		Enfermedad Renal
+		Hematuria
+		Estudios Radiol&#243;gicos Contrastados
+		Uso reciente de alg&#250;n producto de limpieza
+		C&#225;lculos Renales
+		Hipertensi&#243;n Arterial
+		Enfermedad Prost&#225;tica
+		Traumatismo reciente
+		Tratamiento Quir&#250;rgico o Postoperatorio Mediato
+		Quemaduras que lleven tratamiento intrahospitalario
+		Insuficiencia Card&#237;aca
+80,9,1 1 9
+	Ha tenido Tratamiento Farmacol&#243;gico reciente con:
+		Antiinflamatorios no esteroides
+		Ciclosporinas
+		Aminoglucociales
+		Inhibidores de la enzima convertidora de angiotensina
+		Anfotericina B
+		Fenitoina
+		Penicilina
+		Tetracloruro de carbono
+		Cisplatino
+81,9,1 1 3
+	Ha tenido Tratamiento Farmacol&#243;gico reciente con:
+		Antibi&#243;ticos
+		Corticoides
+		Inmunosupresores
+82,9,1 1 2
+	Desde cu&#225;ndo tiene Mastodinia:
+		Menos de un mes
+		M&#225;s de un mes
+83,9,1 1 2
+	La Mastodinia es:
+		Unilateral
+		Bilateral
+84,9,1 1 3
+	La Mastodinia aparece o se exaserva en relaci&#243;n con la regla:
+		Una Semana antes y desaparece al 2do &#243; 3er d&#237;a de la regla
+		S&#243;lo d&#237;as antes de la regla
+		S&#243;lo durante la regla
+85,9,1 1 5
+	La Mastodinia guarda relaci&#243;n con:
+		Puerperio
+		Embarazo
+		Traumatismo
+		Lesiones de continuidad en el pez&#243;n
+		Menstruaci&#243;n
+86,9,1 1 2
+	Cu&#225;ntas reglas le han faltado:
+		Entre una y dos
+		M&#225;s de tres
+87,9,1 1 3
+	A qu&#233; edad tuvo la primera regla:
+		Menos de 12 a&#241;os
+		Entre 12 y 14 a&#241;os
+		Despu&#233;s de 15 a&#241;os
+88,9,1 1 3
+	Cu&#225;l es el ritmo de su Ciclo Menstrual:
+		Menos de 21 d&#237;as
+		Entre 25 y 31 d&#237;as
+		M&#225;s de 35 d&#237;as
+89,9,1 1 2
+	Cu&#225;nto tiempo hace que ha notado la Metrorragia:
+		Menos de tres meses
+		M&#225;s de tres meses
+90,9,1 1 3
+	Tiene Hemorragias irregulares entre ciclos menstruales:
+		Despu&#233;s del coito
+		A mitad de ciclo
+		Unos d&#237;as antes del inicio de una regla normal
+91,9,1 1 2
+	La sangre asociada a la Metrorragia es:
+		Rojo brillante
+		Oscura
+92,9,1 1 3
+	Cu&#225;nto dura su menstruaci&#243;n:
+		Menos de dos d&#237;as
+		Entre tres y cinco d&#237;as
+		M&#225;s de seis d&#237;as
+94,9,1 1 2
+	Se exacerba el Dolor Lumbar con:
+		Ejercicio o movimiento
+		Tos o estornudo

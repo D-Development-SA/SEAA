@@ -1,0 +1,1149 @@
+1,11,1 1
+	El paciente presenta Marcha Vacilante
+2,11,1 1
+	El paciente presenta Corea
+3,11,1 1
+	Tiene Alteraci&#243;n de la Sensibilidad desde: Horas - d&#237;as
+4,11,1 1
+	Tiene Alteraci&#243;n de la Sensibilidad desde: Semanas - meses
+5,11,1 1
+	Alteraci&#243;n de la Sensibilidad localizada en : Hemicuerpo
+6,11,1 1
+	Alteraci&#243;n de la Sensibilidad localizada en : Extr. Superiores
+7,11,1 1
+	Alteraci&#243;n de la Sensibilidad localizada en : Extr. Inferiores
+8,11,1 1
+	Paresia localizada en Extremidades Superiores izquierda: toda la extremidad
+9,11,1 1
+	C&#243;mo se inici&#243; la Alteraci&#243;n de la Sensibilidad : Bruscamente
+10,11,1 1
+	C&#243;mo se inici&#243; la Alteraci&#243;n de la Sensibilidad : lentamente
+11,11,1 1
+	Cu&#225;nto dur&#243; la Alteraci&#243;n de la Sensibilidad : 48 horas o menos
+12,11,1 1
+	La Alteraci&#243;n de la Sensibilidad es persistente desde el inicio
+13,11,1 1
+	Desde cu&#225;ndo tiene Alteraciones de la Memoria: Horas-D&#237;as
+14,11,1 1
+	Desde cu&#225;ndo tiene Alteraciones de la Memoria: Meses
+15,11,1 1
+	Desde cu&#225;ndo tiene Alteraciones de la Memoria: A&#241;os
+16,11,1 1
+	C&#243;mo se present&#243; la Alteraci&#243;n de la Memoria: Bruscamente
+17,11,1 1
+	C&#243;mo se present&#243; la Alteraci&#243;n de la Memoria: Lentamente
+18,11,1 1
+	Cu&#225;nto dura la Alteraci&#243;n de la Memoria: Horas
+19,11,1 1
+	Cu&#225;nto dura la Alteraci&#243;n de la Memoria: Persistente
+20,11,1 1
+	Cu&#225;nto dura la Alteraci&#243;n de la Memoria: Fluctuante
+21,11,1 1
+	La Alteraci&#243;n afecta a la Memoria: Anterretrograda
+22,11,1 1
+	La Alteraci&#243;n afecta a la Memoria: Retrograda Temprana
+23,11,1 1
+	La Alteraci&#243;n afecta a la memoria: Retrograda Tard&#237;a
+24,11,1 1
+	Alteraci&#243;n de la Memoria se relaciona con: Ingesta de f&#225;rmacos
+25,11,1 1
+	Alteraci&#243;n de la Memoria se relaciona con: Ingesta de alcohol
+26,11,1 2
+	Alteraci&#243;n de la Memoria se relaciona con: Traumatismo Cr&#225;neo-
+	 Encef&#225;lico
+27,11,1 1
+	Alteraci&#243;n de la Memoria se relaciona con: Proceso infecciosos
+28,11,1 1
+	Alteraci&#243;n de la Memoria se relaciona con: Cambios de ambiente habitual
+29,11,1 1
+	Alteraci&#243;n de la Memoria se relaciona con: Trastornos emocionales
+30,11,1 2
+	Alteraci&#243;n de la Memoria se relacionada con: Exposici&#243;n a
+	 t&#243;xicos
+31,11,1 1
+	Desde cu&#225;ndo tiene Paresia: Horas - d&#237;as
+32,11,1 1
+	Desde cu&#225;ndo tiene Paresia: Semanas - meses
+33,11,1 1
+	Desde cu&#225;ndo tiene Paresia: A&#241;os
+34,11,1 1
+	C&#243;mo se present&#243; la Paresia: Bruscamente
+35,11,1 1
+	C&#243;mo se present&#243; la Paresia: Lentamente
+36,11,1 1
+	D&#243;nde se localiza la Paresia: Hemicuerpo
+37,11,1 1
+	D&#243;nde se localiza la Paresia: Extremidades Superiores
+38,11,1 1
+	D&#243;nde se localiza la Paresia: Extremidades Inferiores
+39,11,1 1
+	Cu&#225;nto dura la Paresia: 48 horas o menos
+40,11,1 1
+	Cu&#225;nto dura la Paresia: Persistente desde su instauraci&#243;n
+41,11,1 2
+	Desde cu&#225;ndo tiene Movimientos Involuntarios: Infancia - Adolescencia
+	 (Menos de 20 a&#241;os)
+42,11,1 2
+	Desde cu&#225;ndo tiene Movimientos Involuntarios: Edad adulta (Entre 20 y 60
+	 a&#241;os)
+43,11,1 2
+	Desde cu&#225;ndo tiene Movimientos Involuntarios: Edad avanzada (M&#225;s de
+	 60 a&#241;os)
+44,11,1 2
+	Movimientos Involuntarios: Sacudidas incordinadas bruscas, r&#237;gidas y/o
+	 gesticulaciones (Corea)
+45,11,1 1
+	Movimientos Involuntarios: Lentos y sinuosos (manos, dedos y pies) (Atetosis)
+46,11,1 2
+	Movimientos Involuntarios: Parox&#237;sticos incordinados y exagerados
+	 (Coreoatetosis)
+47,11,1 2
+	Movimientos Involuntarios: Alteraciones en postura producida por trastornos en
+	 el tono muscular (Diston&#237;a)
+48,11,1 2
+	Movimientos Involuntarios: R&#237;gido unilateral, espont&#225;neo y
+	 centr&#237;fugo de una extremidad (Hemibalismo)
+49,11,1 2
+	Movimientos Involuntarios: Espasmo involuntario asincr&#243;nico muscular
+	 (Fasciculaciones)
+50,11,1 2
+	Movimientos Involuntarios: Espasmo involuntario sincr&#243;nico muscular
+	 (Ticks)
+51,11,1 2
+	Movimientos Involuntarios: Espasmo involuntario del cuello con rotaci&#243;n o
+	 inclinaci&#243;n de la cabeza (Tort&#237;culis)
+52,11,1 1
+	Movimientos Involuntarios: Temblor de extremidades
+53,11,1 1
+	Factor desencadenante del Temblor: F&#225;rmacos
+54,11,1 1
+	Desde cu&#225;ndo es la Alteraci&#243;n de la Marcha: Horas - d&#237;as
+55,11,1 1
+	Desde cu&#225;ndo es la Alteraci&#243;n de la Marcha: Semanas
+56,11,1 1
+	Desde cu&#225;ndo es la Alteraci&#243;n de la Marcha: Meses
+57,11,1 1
+	C&#243;mo se inici&#243; la Alteraci&#243;n de la Marcha: Bruscamente
+58,11,1 1
+	C&#243;mo se inici&#243; la Alteraci&#243;n de la Marcha: Lentamente
+59,11,1 2
+	C&#243;mo es la Marcha: Irregular ampliaci&#243;n base sustentaci&#243;n
+	 Inseguridad
+60,11,1 2
+	C&#243;mo es la Marcha: Unilateral arrastra extremidad &#34;en
+	 Guada&#241;a&#34;
+61,11,1 1
+	Marcha: Pasos cortos y pies pegados al suelo (Parkinsoniana)
+62,11,1 1
+	C&#243;mo es la Marcha: Irregular con movimientos coreicos
+63,11,1 1
+	C&#243;mo es la Marcha: Equina
+64,11,1 1
+	C&#243;mo es la Marcha: Pato
+65,11,1 1
+	C&#243;mo es la Marcha: Inestable
+66,11,1 2
+	Desde cu&#225;ndo tiene Temblor: Infancia - Adolescencia (Menos de 20
+	 a&#241;os)
+67,11,1 1
+	Desde cu&#225;ndo tiene Temblor: Edad adulta (Entre 20 y 50 a&#241;os)
+68,11,1 1
+	Desde cu&#225;ndo tiene Temblor: Edad avanzada (M&#225;s de 50 a&#241;os)
+69,11,1 1
+	C&#243;mo es el Temblor: De reposo
+70,11,1 1
+	C&#243;mo es el Temblor: Postural
+71,11,1 1
+	C&#243;mo es el Temblor: De intenci&#243;n
+72,11,1 1
+	El Temblor es focalizado
+73,11,1 1
+	El Temblor es generalizado
+74,11,1 1
+	El Temblor es fundamentalmente de tipo Fino
+75,11,1 1
+	El Temblor es fundamentalmente de tipo Grueso
+76,11,1 1
+	Factor atenuante del Temblor: Sue&#241;o
+77,11,1 1
+	Factor atenuante del Temblor: Reposo
+78,11,1 1
+	Factor desencadenante de la Debilidad Muscular: Enfermedades infecciosas
+79,11,1 1
+	Cu&#225;nto dura la Alteraci&#243;n de la Memoria: Minutos
+80,11,1 1
+	Factor desencadenante del Temblor: Movimiento
+81,11,1 1
+	Factor desencadenante del Temblor: Abstinencia alcoh&#243;lica
+82,11,1 1
+	Factor desencadenante del Temblor: Ansiedad, tensi&#243;n o strees
+83,11,1 1
+	Factor atenuante del Temblor: Movimiento
+84,11,1 1
+	Factor atenuante del Temblor: Alcohol
+85,11,1 1
+	Factor atenuante del Temblor: F&#225;rmacos
+86,11,1 1
+	Factor atenuante del Temblor: F&#225;rmacos Ansiol&#237;ticos
+87,11,1 1
+	Factor atenuante del Temblor: F&#225;rmacos B-Bloqueantes
+88,11,1 1
+	Factor atenuante del Temblor: F&#225;rmacos Anticolin&#233;rgicos
+89,11,1 1
+	Desde cu&#225;ndo tiene las Cefaleas: Horas - d&#237;as (15 d&#237;as)
+90,11,1 1
+	Desde cu&#225;ndo tiene las Cefaleas: D&#237;as - meses (12 meses)
+91,11,1 1
+	Desde cu&#225;ndo tiene las Cefaleas: M&#225;s de 1 a&#241;o
+92,11,1 1
+	Localizaci&#243;n de la Cefalea: Unilateral
+93,11,1 1
+	Localizaci&#243;n de la Cefalea: Bilateral
+94,11,1 1
+	Localizaci&#243;n de la Cefalea: Occipital
+95,11,1 1
+	Localizaci&#243;n de la Cefalea: Temporal
+96,11,1 1
+	Localizaci&#243;n de la Cefalea: Frontal
+97,11,1 1
+	Localizaci&#243;n de la Cefalea: En banda
+98,11,1 1
+	Localizaci&#243;n de la Cefalea: Macizo facial
+99,11,1 1
+	Localizaci&#243;n de la Cefalea: Periorbitario y orbitario
+100,11,1 1
+	El dolor (Cefalea) es: Opresivo
+101,11,1 1
+	El dolor (Cefalea) es: Pulsatil
+102,11,1 1
+	El dolor (Cefalea) es: Violento
+103,11,1 1
+	El dolor (Cefalea) es: Sordo
+104,11,1 1
+	El dolor (Cefalea) se inici&#243;: De forma brusca
+105,11,1 1
+	El dolor (Cefalea) se inici&#243;: Lentamente
+106,11,1 1
+	Prodomos previos a la Cefalea: No
+107,11,1 1
+	Prodomos previos a la Cefalea: Fotopsias. Escotomas. Alt.campo
+108,11,1 1
+	Prodomos previos a la Cefalea: Hemiparesia c/s parestesias, Afasia
+109,11,1 2
+	Prodomos previos a la Cefalea: Ataxia. Disartria. Diplopia v&#233;rtigo.
+	 Confusi&#243;n
+110,11,1 1
+	Ritmo de la crisis de Cefalea: Persistente durante d&#237;as - semanas
+111,11,1 1
+	Ritmo de la crisis de Cefalea: M&#250;ltiples episodios, breves, diarios
+112,11,1 1
+	Ritmo de la crisis de Cefalea: Episodios nocturnos (varios)
+113,11,1 1
+	Ritmo de la crisis de Cefalea: Crisis &#250;nicas espor&#225;dicas
+114,11,1 1
+	Duraci&#243;n de los episodios de Cefalea: Minutos
+115,11,1 1
+	Duraci&#243;n de los episodios de Cefalea: Horas-d&#237;as
+116,11,1 1
+	Duraci&#243;n de los episodios de Cefalea: Semanas
+117,11,1 1
+	Duraci&#243;n de los episodios de Cefalea: Meses
+118,11,1 1
+	Factor desencadenante de la Cefalea: Emocionales
+119,11,1 2
+	Factor desencadenante de la Cefalea: Cambios posturales cef&#225;licos, Tos,
+	 Valsalva.
+120,11,1 2
+	Factor desencadenante de la Cefalea: Factores Diet&#233;ticos (vino, chocolate,
+	 nueces, alcohol, etc.)
+121,11,1 2
+	Factor desencadenante de la Cefalea: Ejercicios de la relaci&#243;n sexual,
+	 Pujos
+122,11,1 1
+	Factor desencadenante de la Cefalea: Ingesta de f&#225;rmacos
+123,11,1 1
+	Factor desencadenante de la Cefalea: Menstruaci&#243;n
+124,11,1 1
+	Desde cu&#225;ndo tiene Mareo y V&#233;rtigo: D&#237;as
+125,11,1 1
+	Desde cu&#225;ndo tiene Mareo y V&#233;rtigo: Semanas-meses
+126,11,1 1
+	Desde cu&#225;ndo tiene Mareo y V&#233;rtigo: M&#225;s de 1 a&#241;o
+127,11,1 1
+	Cu&#225;nto duran los episodios de Mareo: Segundos
+128,11,1 1
+	Cu&#225;nto duran los episodios de Mareo: Minutos a horas
+129,11,1 1
+	Cu&#225;nto duran los episodios de Mareo: D&#237;as
+130,11,1 1
+	Cu&#225;nto duran los episodios de Mareo: Semanas-meses
+131,11,1 1
+	Frecuencia de los episodios de Mareo: Unicos
+132,11,1 1
+	Frecuencia de los episodios de Mareo: Recurrentes
+133,11,1 1
+	Frecuencia de los episodios de Mareo: Persistentes
+134,11,1 1
+	Los episodios de Mareo son: Mareo Rotatorio
+135,11,1 1
+	Los episodios de Mareo son: Aturdimiento, embotamiento
+136,11,1 1
+	Los episodios de Mareo son: Sensaci&#243;n de desequilibrio, inestabilidad
+137,11,1 1
+	Comienzo del Mareo: Bruscamente
+138,11,1 1
+	Comienzo del Mareo: Insidioso
+139,11,1 1
+	Intensidad del Mareo: Leve
+140,11,1 1
+	Intensidad del Mareo: Intenso (obliga al reposo absoluto)
+141,11,1 1
+	El Mareo se desencadena por: Movimientos cef&#225;licos, giros del cuello
+142,11,1 2
+	El Mareo se desencadena por: Cambios posturales (Dec&#250;bito a
+	 Bipedestaci&#243;n)
+143,11,1 1
+	El Mareo se desencadena por: Maniobras de valsalva
+144,11,1 1
+	El Mareo se alivia o desaparece: Con el dec&#250;bito supino
+145,11,1 1
+	El Mareo se alivia o desaparece: Manteniendo la cabeza inm&#243;vil
+146,11,1 1
+	El Mareo se alivia o desaparece en relaci&#243;n con la postura
+147,11,1 1
+	Desorientaci&#243;n Temporo-Espacial desde: Horas-d&#237;as
+148,11,1 1
+	Desorientaci&#243;n Temporo-Espacial desde: Semanas
+149,11,1 1
+	Desorientaci&#243;n Temporo-Espacial desde: Meses
+150,11,1 1
+	Desorientaci&#243;n Temporo-Espacial desde: A&#241;os
+151,11,1 2
+	Desorientaci&#243;n Temporo-Espacial se present&#243;: Bruscamente o
+	 r&#225;pidamente
+152,11,1 1
+	Desorientaci&#243;n Temporo-Espacial se present&#243;: Lentamente
+153,11,1 1
+	Desorientaci&#243;n Temporo-Espacial con evoluci&#243;n: Progresiva
+154,11,1 1
+	Desorientaci&#243;n Temporo-Espacial con evoluci&#243;n: Fluctuante
+155,11,1 1
+	Desorientaci&#243;n Temporo-Espacial relacionada con: Ingesta de f&#225;rmacos
+156,11,1 2
+	Desorientaci&#243;n Temporo-Espacial relacionada con: Abstiencia
+	 alcoh&#243;lica
+157,11,1 2
+	Desorientaci&#243;n Temporo-Espacial relacionada con: Traumatismo Cr&#225;neo -
+	 Encef&#225;lico
+158,11,1 1
+	Desorientaci&#243;n Temporo-Espacial relacionada con: Proceso infeccioso
+159,11,1 1
+	Desorientaci&#243;n Temporo-Espacial relacionada con: Cambio de ambiente
+160,11,1 1
+	Desorientaci&#243;n Temporo-Espacial relacionada con: Trastorno emocional
+161,11,1 2
+	Desorientaci&#243;n Temporo-Espacial relacionada con: Exposici&#243;n a
+	 t&#243;xicos
+162,11,1 1
+	La Debilidad Muscular se instaur&#243; de forma: Brusca
+163,11,1 1
+	La Debilidad Muscular se instaur&#243; de forma: Progresiva
+164,11,1 1
+	Tiene Debilidad Muscular desde: Horas-d&#237;as
+165,11,1 1
+	Tiene Debilidad Muscular desde: Semanas-meses
+166,11,1 1
+	Tiene Debilidad Muscular desde: A&#241;os
+167,11,1 1
+	Evoluci&#243;n en el tiempo de la Debilidad Muscular: Persistente y continua
+168,11,1 1
+	Evoluci&#243;n en el tiempo de la Debilidad Muscular: Fluctuaciones diarias
+169,11,1 2
+	Evoluci&#243;n en el tiempo de la Debilidad Muscular: Epis&#243;dica o
+	 recurrente
+170,11,1 1
+	Debilidad Muscular: Generalizada
+171,11,1 1
+	Debilidad Muscular: Localizada
+172,11,1 1
+	Localizaci&#243;n de la Debilidad Muscular en extremidad Proximal
+173,11,1 1
+	Localizaci&#243;n de la Debilidad Muscular en la extremidad Distal
+174,11,1 1
+	Factor desencadenante de la Debilidad Muscular: Ejercicio
+175,11,1 1
+	Factor desencadenante de la Debilidad Muscular: Esfuerzo mantenido
+176,11,1 1
+	Factor desencadenante de la Debilidad Muscular: Ayuno
+177,11,1 1
+	Desde cu&#225;ndo es la Alteraci&#243;n de la Marcha: A&#241;os
+178,11,1 1
+	Desde cu&#225;ndo presenta Crisis Convulsivas: Primer episodio
+179,11,1 2
+	Desde cu&#225;ndo presenta Crisis Convulsivas: Infancia-Adolescencia (20
+	 a&#241;os o menos)
+180,11,1 2
+	Desde cu&#225;ndo presenta Crisis Convulsivas: Edad adulta (Edad mayor de 20 y
+	 menor o igual que 60 a&#241;os)
+181,11,1 2
+	Desde cu&#225;ndo presenta Crisis Convulsivas: Edad avanzada (Mayor de 60
+	 a&#241;os)
+182,11,1 1
+	Durante las Crisis Convulsivas presenta: Coloraci&#243;n cian&#243;tica
+183,11,1 1
+	Durante las Crisis Convulsivas presenta: Palidez
+184,11,1 1
+	Durante las Crisis Convulsivas presenta: Aura previa
+185,11,1 1
+	Paresia localizada en Extremidades Superiores derecha: Toda la extremidad
+186,11,1 1
+	Durante las Crisis Convulsivas presenta: Movimientos cl&#243;nicos
+187,11,1 1
+	Paresia localizada en Extremidades Superiores: N. Mediano
+188,11,1 1
+	Durante las Crisis Convulsivas presenta: Relajaci&#243;n esfinteres
+189,11,1 1
+	Paresia localizada en Extremidades Superiores derecha: N. Cubital
+190,11,1 1
+	Durante las Crisis Convulsivas presenta: Confusi&#243;n postcrisis
+191,11,1 1
+	Paresia localizada en Extremidades Superiores derecha: N. Radial
+192,11,1 1
+	Las Crisis Convulsivas son motoras generalizadas: T&#243;nico cl&#243;nicas
+193,11,1 1
+	Las Crisis Convulsivas son: Ausencias
+194,11,1 2
+	Las Crisis Convulsivas son: Contracciones musculares s&#250;bitas, breves
+	 &#250;nicas y multiples
+195,11,1 1
+	Las Crisis Convulsivas son: P&#233;rdida conocimiento y ca&#237;da al suelo
+196,11,1 2
+	Las Crisis Convulsivas son: Alucinaciones olfatorias, gustativas, sensaciones
+	 abdominales
+197,11,1 1
+	Las Crisis Convulsivas son: Crisis parciales motoras
+198,11,1 1
+	Las Crisis Convulsivas son: Pensamiento compulsivo, miedo, ira
+199,11,1 1
+	Factor desencadenante de las Crisis Convulsivas: Abstinencia alcoh&#243;lica
+200,11,1 2
+	Factor desencadenate de las Crisis Convulsivas: Infecciones previas o
+	 concomitantes
+201,11,1 1
+	Factor desencadenante de las Crisis Convulsivas: Deprivacion sue&#241;o
+202,11,1 2
+	Factor desencadenantes de las Crisis Convulsivas: Incumplimiento
+	 farmacol&#243;gico anticomicial
+203,11,1 1
+	Presenta Trastornos Emocionales
+204,11,1 1
+	Evidencias de Epilepsia T&#243;nico-Cl&#243;nica Generalizada Idiop&#225;tica
+205,11,1 1
+	El paciente presenta Hipertonia
+206,11,1 1
+	La Paresia se localiza en hemicuerpo derecho
+207,11,1 1
+	La Paresia se localiza en hemicuerpo izquierdo
+208,11,1 1
+	La Paresia se localiza en extremidad superior derecha
+209,11,1 1
+	La Paresia se localiza en extremidad superior izquierda
+210,11,1 1
+	La Paresia se localiza en extremidad inferior derecha
+211,11,1 1
+	La Paresia se localiza en extremidad inferior izquierda
+212,11,1 1
+	Existen evidencias de Jaqueca o Migra&#241;a Com&#250;n
+213,11,1 1
+	CMBD de Jaqueca o Migra&#241;a Com&#250;n (Cefalea)
+214,11,1 1
+	Existen evidencias de Jaqueca o Migra&#241;a Cl&#225;sica
+215,11,1 1
+	CMBD de Jaqueca o Migra&#241;a Cl&#225;sica (Cefalea)
+216,11,1 1
+	Existen evidencias de Jaqueca o Migra&#241;a Hemipl&#233;jica
+217,11,1 1
+	CMBD 1 de Jaqueca o Migra&#241;a Hemipl&#233;jica (Cefalea)
+218,11,1 1
+	CMBD 2 de Jaqueca o Migra&#241;a Hemipl&#233;jica (Cefalea)
+219,11,1 1
+	Existen evidencias de Jaqueca o Migra&#241;a Basilar
+220,11,1 1
+	CMBD de Jaqueca o Migra&#241;a Basilar (Cefalea)
+221,11,1 1
+	Existen evidencias de Jaqueca o Migra&#241;a Oftalmopl&#233;jica
+222,11,1 1
+	CMBD de Jaqueca o Migra&#241;a Oftalmopl&#233;jica (Cefalea)
+223,11,1 1
+	Existen evidencias de Cefalea Tensional
+224,11,1 1
+	CMBD de Cefalea Tensional (Cefalea)
+225,11,1 1
+	Existen evidencias de Cefalea Secundaria a Neoplasia Cerebral
+226,11,1 1
+	CMBD a de Cefalea Secundaria a Neoplasia Cerebral (Cefalea)
+227,11,1 1
+	CMBD b de Cefalea Secundaria a Neoplasia Cerebral (Cefalea)
+228,11,1 1
+	CMBD c y d de Cefalea Secundaria a Neoplasia Cerebral (Cefalea)
+229,11,1 1
+	CMBD e y f  de Cefalea secundaria a Neoplasia Cerebral (Cefalea)
+230,11,1 1
+	Existen evidencias de Mareo Secundario a Tap&#243;n de Cerumen
+231,11,1 1
+	Existen evidencias de Cefalea Secundaria a Hemorragia Cerebral
+232,11,1 1
+	CMBD a de Cefalea Secundaria a Hemorragia Cerebral (Cefalea)
+233,11,1 1
+	Existen evidencias de Hemicranea Parox&#237;stica Cr&#243;nica
+234,11,1 1
+	CMBD de Hemicranea Parox&#237;stica Cr&#243;nica (Cefalea)
+235,11,1 1
+	Factor que acentua la Cefalea: Tos
+236,11,1 1
+	CMBD 2 de Hipertensi&#243;n Endocraneana (Cefalea)
+237,11,1 1
+	Existen evidencias de Cefalea Postraum&#225;tica
+238,11,1 1
+	CMBD de Cefalea Postraum&#225;tica (Cefalea)
+239,11,1 1
+	Existen evidencias de Cefalea Secundaria a Meningitis - Encefalitis
+240,11,1 1
+	CMBD de Cefalea Secundaria a Meningitis - Encefalitis (Cefalea)
+241,11,1 1
+	Existen evidencias de Cefalea Histaminica de Horton o en Racimos
+242,11,1 1
+	CMBD 1 de Cefalea en Racimos (Cefalea)
+243,11,1 1
+	CMBD de Neuronitis Vestibular (Mareo - Vertigo)
+244,11,1 1
+	Existen evidencias de Cefalea Secundaria a F&#225;rmacos
+245,11,1 1
+	CMBD de Cefalea Secundaria a F&#225;rmacos (Cefalea)
+246,11,1 1
+	Existen evidencias de Cefalea Secundaria a Infecci&#243;n Extracerebral
+247,11,1 1
+	CMBD de Cefalea Secundaria a Infecci&#243;n Extracerebral (Cefalea)
+248,11,1 1
+	Existen evidencias de Demencia
+249,11,1 1
+	CMBD de Demencia (Desorientaci&#243;n Temporo-Espacial)
+250,11,1 1
+	CMBD de Demencia (Alteraci&#243;n de la Marcha)
+251,11,1 1
+	CMBD de Demencia (Alteraci&#243;n de la Memoria)
+252,11,1 1
+	Existen evidencias de Meningitis Aguda
+253,11,1 1
+	El paciente presenta Parestesia
+254,11,1 1
+	CMBD de Meningitis Aguda (Crisis Convulsiva)
+255,11,1 1
+	CMBD de Meningitis Aguda (Desorientaci&#243;n Temporo-Espacial)
+256,11,1 1
+	Existen evidencias de Mareo Secundario a Trastornos del Ritmo Card&#237;aco
+257,11,1 1
+	CMBD de Mareo Secundario a Trastornos del Ritmo Cardiaco (Mareo)
+258,11,1 1
+	El paciente presenta Disminuci&#243;n de la Sensibilidad Alg&#233;sica
+259,11,1 1
+	Existen evidencias de Vertigo Posicional Paroxistico
+260,11,1 1
+	CMBD de Vertigo Posicional Paroxistico (Mareo y Vertigo)
+261,11,1 1
+	Existen evidencias de Temblor Senil
+262,11,1 1
+	El paciente presenta Disminuci&#243;n de la Sensibilidad T&#233;rmica
+263,11,1 1
+	Existen evidencias de Vertigo Laberintico Agudo o Laberintitis aguda
+264,11,1 1
+	CMBD de Vertigo Laberintico Agudo o Laberintitis Aguda
+265,11,1 2
+	Existen evidencias de Vertigo Laberintico Secundario a F&#225;rmacos
+	 Otot&#243;xicos
+266,11,1 1
+	CMBD de Vertigo laberintico Secundario a F&#225;rmacos Otot&#243;xicos
+267,11,1 1
+	Existen evidencias de Mareo Secundario a F&#225;rmacos
+268,11,1 1
+	CMBD de Mareo Secundario a F&#225;rmacos
+269,11,1 1
+	Existen evidencias de Neuronitis Vestibular
+270,11,1 2
+	Existen evidencias de Vertigo Secundario a Otitis O&#237;do Medio (Aguda o
+	 Cr&#243;nica)
+271,11,1 1
+	CMBD 1 de Vertigo Secundario a Otitis O&#237;do Medio (V&#233;rtigo)
+272,11,1 2
+	Intermedio de 2 CMBDs de Mononeuropat&#237;a Dolorosa Asim&#233;trica 408 V 472
+	 =&#62; ...
+273,11,1 1
+	Existen evidencias de Mareo de Origen Psic&#243;geno
+274,11,1 1
+	CMBD de Mareo de Origen Psic&#243;geno (V&#233;rtigo)
+275,11,1 1
+	Existen evidencias de V&#233;rtigo Secundario a Neurinoma del Ac&#250;stico
+276,11,1 1
+	CMBD 1 de Vertigo Secundario a Neurinoma del Ac&#250;stico (V&#233;rtigo)
+277,11,1 1
+	El paciente tiene Alteraci&#243;n de Sensibilidad: Hipoestesia o Anestesia
+278,11,1 1
+	Existen evidencias de V&#233;rtigo Secundario a Tumores Cerebelosos
+279,11,1 1
+	CMBD de V&#233;rtigo Secundario a Tumores Cerebelosos (V&#233;rtigo)
+280,11,1 1
+	Existen evidencias de Isquemia en Territorio Vertebro-Basilar
+281,11,1 1
+	CMBD de Isquemia en Territorio Vertebro-Basilar (Mareo y V&#233;rtigo)
+282,11,1 1
+	Existen evidencias de Mareo Secundario a Insuficiencia Vertebro-Basilar
+283,11,1 1
+	CMBD de Mareo Secundario a Insuficiencia Vertebro-Basilar
+284,11,1 1
+	Existen evidencias de Mareo Secundario a Esclerosis M&#250;ltiple
+285,11,1 1
+	CMBD de Mareo Secundario a Esclerosis M&#250;ltiple
+286,11,1 1
+	Existen evidencias de Mareo Secundario a Patolog&#237;a Cervical
+287,11,1 1
+	CMBD de Mareo Secundario a Patolog&#237;a Cervical
+288,11,1 1
+	Existen evidencias de Mareo Secundario a F&#237;stula Laber&#237;ntica
+289,11,1 1
+	CMBD de Mareo Secundario a F&#237;stula Laber&#237;ntica
+290,11,1 2
+	Existen evidencias de Mareo Secundario a Neuropat&#237;a Auton&#243;mica en
+	 Diabetes Mellitus
+291,11,1 1
+	CMBD Mareo Secundario a Neuropat&#237;a Auton&#243;mica en Diabetes Mellitus
+292,11,1 1
+	Existen evidencias de Enfermedad Cerebrovascular
+293,11,1 1
+	CMBD de Enfermedad Cerebrovascular (Parestesia)
+294,11,1 1
+	CMBD de Enfermedad Cerebrovascular (Movimientos Involuntarios)
+295,11,1 1
+	CMBD de Enfermedad Cerebrovascular (Alteraci&#243;n de la Marcha)
+296,11,1 1
+	Paresia localizada en Extremidades Superiores izquierda: N. mediano
+297,11,1 1
+	Paresia localizada en Extremidades Superiores izquierda: N. cubital
+298,11,1 1
+	Paresia localizada en Extremidades Superiores izquierda: N. radial
+299,11,1 1
+	Alteraci&#243;n de la Sensibilidad localizada en Hemicuerpo derecho
+300,11,1 1
+	Alteraci&#243;n de Sensibilidad localizada en Hemicuerpo izquierdo
+301,11,1 1
+	Alteraci&#243;n de la Sensibilidad localizada en Extremidad Superior derecha
+302,11,1 1
+	Alteraci&#243;n de la Sensibilidad localizada en Extremidad Superior izquierda
+303,11,1 1
+	Alteraci&#243;n de la Sensibilidad localizada en Extremidad Inferior derecha
+304,11,1 1
+	Alteraci&#243;n de la Sensibilidad localizada en Extremidad Inferior izquierda
+305,11,1 1
+	Alteraci&#243;n de la Sensibilidad en toda la Extremidad Superior derecha
+306,11,1 1
+	Alteraci&#243;n de la Sensibilidad en Extremidad Superior derecha: N. mediano
+307,11,1 1
+	Alteraci&#243;n de la Sensibilidad en Extremidad Superior derecha: N. cubital
+308,11,1 1
+	Alteraci&#243;n de la Sensibilidad en Extremidad Superior derecha: N. radial
+309,11,1 1
+	Alteraci&#243;n de la Sensibilidad en toda la Extremidad Superior izquierda
+310,11,1 1
+	Alteraci&#243;n de la Sensibilidad en Extremidad Superior izquierda: N. mediano
+311,11,1 1
+	Alteraci&#243;n de la Sensibilidad en Extremidad Superior izquierda: N. cubital
+312,11,1 1
+	Alteraci&#243;n de la Sensibilidad en Extremidad Superior izquierda: N. radial
+313,11,1 1
+	Existen evidencias de Episodio de Amnesia Global Transitoria
+314,11,1 1
+	CMBD de Episodio de Amnesia Global Transitoria (Alteraci&#243;n de la Memoria)
+315,11,1 1
+	Existen evidencias de Crisis Convulsiva Secundaria a Enfermedad Cerebrovascular
+316,11,1 2
+	CMBD de Crisis convulsiva Secundaria a Enfermedad Cerebrovascular (Crisis
+	 Convulsiva)
+317,11,1 1
+	CMBD de Enfermedad Cerebrovascular (S&#237;ncope)
+318,11,1 1
+	El paciente presenta Disartria
+319,11,1 1
+	El paciente presenta Hipotonia
+320,11,1 1
+	CMBD de Mareo Secundario a Tap&#243;n de Cerumen (Mareo)
+321,11,1 1
+	Existen evidencias de S&#237;ndrome Bulbar Lateral de Wallenberg
+322,11,1 2
+	Localizaci&#243;n de la Debilidad Muscular en la extremidad proximal es:
+	 Bilateral
+323,11,1 2
+	Localizaci&#243;n de la Debilidad Muscular en la extremidad proximal es:
+	 Unilateral
+324,11,1 2
+	Localizaci&#243;n de la Debilidad Muscular en la extremidad distal es:
+	 Bilateral
+325,11,1 2
+	Localizaci&#243;n de la Debilidad Muscular en la extremidad distal es:
+	 Unilateral
+326,11,1 1
+	Debilidad Muscular localizada en Extremidad Superior
+327,11,1 1
+	Debilidad Muscular localizada en el Tronco
+328,11,1 1
+	Debilidad Muscular localizada en Extremidad Inferior
+329,11,1 1
+	Desde cu&#225;ndo tiene episodios de Tetania: Meses
+330,11,1 1
+	Desde cu&#225;ndo tiene episodios de Tetania: A&#241;os
+331,11,1 1
+	Factor desencadenante de los episodios de Tetania: Crisis de Ansiedad
+332,11,1 1
+	Factor desencadenante de los episodios de Tetania: Hiperventilaci&#243;n
+333,11,1 1
+	Los episodios de Tetania se desencadenan espont&#225;neamente
+334,11,1 1
+	Desde cu&#225;ndo tiene Dolor Cervical: 1 mes o menos
+335,11,1 1
+	Desde cu&#225;ndo tiene Dolor Cervical: M&#225;s de 1 mes
+336,11,1 1
+	D&#243;nde se localiza el Dolor Cervical: Regi&#243;n central cervical
+337,11,1 1
+	D&#243;nde se localiza el Dolor Cervical: Regiones laterales
+338,11,1 1
+	D&#243;nde se localiza el Dolor Cervical: Occipital (nuca)
+339,11,1 1
+	El Dolor Cervical se irradia a las Extremidades Superiores
+340,11,1 1
+	Tiempo de duraci&#243;n del Dolor Cervical: Horas - dias
+341,11,1 1
+	Tiempo de duraci&#243;n del Dolor Cervical: Semanas - meses
+342,11,1 1
+	El Dolor Cervical se desencadena o agrava con: Posiciones
+343,11,1 1
+	El Dolor Cervical se desencadena o agrava con: Hiperextensi&#243;n
+344,11,1 1
+	El Dolor Cervical se desencadena o agrava con: Tos o estornudos
+345,11,1 1
+	El Dolor Cervical se desencadena o agrava con: Ejercicio
+346,11,1 1
+	El Dolor Cervical se desencadena o agrava con: Inactividad
+347,11,1 2
+	El Dolor Cervical se alivia con: Descanso, dec&#250;bito supino o flexi&#243;n
+	 cuello
+348,11,1 1
+	El Dolor Cervical se alivia con: Movimiento o actividad
+349,11,1 1
+	Hay evidencias de Temblor Secundario a Toma de Psicof&#225;rmacos
+350,11,1 1
+	CMBD de Temblor Secundario a Toma de Neurol&#233;pticos (Temblor)
+351,11,1 1
+	Existen evidencias de Temblor Esencial Benigno
+352,11,1 3
+	Existen evidencias de Corea de Causas Probables: - Corea de Sydenham - Corea de
+	 Huntington - Enfermedad de Wilson - S&#237;ndrome de Lesch-Nyhan -
+	 Ataxia-Telangiectasia
+353,11,1 1
+	Existen evidencias de Temblor Secundario a Ansiedad
+354,11,1 1
+	CMBD de Temblor Secundario a Ansiedad (Temblor)
+355,11,1 1
+	Existen evidencias de Temblor Secundario a Alcoholismo
+356,11,1 1
+	CMBD de Temblor Secundario a Alcoholismo (Temblor)
+357,11,1 1
+	Existen evidencias de Temblor Secundario a F&#225;rmacos
+358,11,1 1
+	CMBD de Temblor Secundario a F&#225;rmacos (Temblor)
+359,11,1 1
+	Existen evidencias de Temblor Secundario a Metabolopat&#237;a
+360,11,1 1
+	CMBD de Temblor Secundario a Metabolopat&#237;a (Temblor)
+361,11,1 1
+	Existen evidencias de Temblor de Origen Cerebeloso
+362,11,1 1
+	CMBD de Temblor de Origen Cerebeloso (Temblor)
+363,11,1 1
+	Existen evidencias de Neuralgia del Trig&#233;mino o Tic Doloroso
+364,11,1 1
+	CMBD de Neuralgia del Trig&#233;mino (Dolor Facial)
+365,11,1 1
+	Existen evidencias de Neuralgia Facial Postherp&#233;tica
+366,11,1 1
+	CMBD de Neuralgia Herp&#233;tica Facial (Dolor Facial)
+367,11,1 1
+	Existen evidencias de Neuralgia de Origen Dentario
+368,11,1 1
+	CMBD de Neuralgia de Origen Dentario (Dolor Facial)
+369,11,1 1
+	Existen evidencias de Disfunci&#243;n Temporo - Mandibular
+370,11,1 1
+	CMBD de Disfunci&#243;n Temporo - Mandibular (Dolor Facial)
+371,11,1 1
+	Existen evidencias de Neuralgia Facial At&#237;pica
+372,11,1 1
+	CMBD de Neuralgia Facial At&#237;pica (Dolor Facial)
+373,11,1 1
+	CMBD de Esclerosis M&#250;ltiple (Alteraci&#243;n de la Sensibilidad)
+374,11,1 1
+	CMBD de Esclerosis M&#250;ltiple (Debilidad Muscular)
+375,11,1 1
+	Existen evidencias de Encefalopat&#237;a Subaguda (Complejo Demencia-SIDA)
+376,11,1 1
+	CMBD de Encefalopat&#237;a Subaguda (Desorientaci&#243;n Temporo- Espacial)
+377,11,1 1
+	CMBD de Encefalopat&#237;a Subaguda (Alteraci&#243;n de la Memoria)
+378,11,1 1
+	Existen evidencias de Mielopat&#237;a en paciente VIH
+379,11,1 1
+	CMBD de Mielopat&#237;a en paciente VIH (Paresia)
+380,11,1 1
+	Existen evidencias de Absceso Epidural Espinal
+381,11,1 1
+	CMBD de Absceso Epidural Espinal (Dolor Tor&#225;cico Dorsal)
+382,11,1 1
+	CMBD de Absceso Epidural Espinal (Dolor Lumbar)
+383,11,1 1
+	Existen evidencias S&#237;ndrome Radicular Cervical con Mielopat&#237;a
+384,11,1 1
+	CMBD de S&#237;ndrome Radicular Cervical con Mielopat&#237;a (Dolor Cervical)
+385,11,1 1
+	Existen evidencias de Mielitis Transversa
+386,11,1 1
+	CMBD de Mielitis Transversa (Dolor Cervical)
+387,11,1 1
+	CMBD de Mielitis Transversa (Dolor Tor&#225;cico Dorsal)
+388,11,1 1
+	El paciente presenta Hiperestesia
+389,11,1 1
+	Existen evidencias de Epilepsia T&#243;nico-Cl&#243;nica Generalizada
+390,11,1 1
+	CMBD de Epilepsia T&#243;nico-Cl&#243;nica Generalizada (Crisis Convulsiva)
+391,11,1 1
+	Existen evidencias de Convulsiones Motoras Menores
+392,11,1 1
+	CMBD de Convulsiones Motoras Menores (Crisis Convulsiva)
+393,11,1 2
+	Existen evidencias de Convulsiones Parciales con Sintomatolog&#237;a Compleja -
+	 Epilepsia temporal, Crisis Psicomotora
+394,11,1 2
+	CMBD de Convulsiones Parciales con Sintomatolog&#237;a Compleja (Crisis
+	 Convulsiva)
+395,11,1 2
+	Existen evidencias de Convulsiones Parciales Motoras con Sintomatolog&#237;a
+	 Elemental - Epilepsia Jacksoniana
+396,11,1 2
+	CMBD de Convulsiones Motoras con Sintomatolog&#237;a Elemental (Crisis
+	 Convulsiva)
+397,11,1 1
+	Existen evidencias de Tumores Medulares
+398,11,1 1
+	CMBD de Tumores Medulares (Paresia)
+399,11,1 1
+	CMBD de Tumores Medulares (Dolor Lumbar)
+400,11,1 1
+	Evidencias de Epilepsia T&#243;nico-Cl&#243;nica Generalizada Secundaria
+401,11,1 2
+	Intermedio de sintomatolog&#237;a que apunta a Temblor Secundario a
+	 Metabolopat&#237;a sin Antecedentes Patol&#243;gicos Personales
+402,11,1 2
+	Existen evidencias de Convulsiones Parciales Motoras con Sintomatolog&#237;a
+	 Elemental Secundaria
+403,11,1 1
+	Existen evidencias de Esclerosis M&#250;ltiple
+404,11,1 1
+	CMBD de Esclerosis M&#250;ltiple (Mareo y V&#233;rtigo)
+405,11,1 1
+	CMBD de Esclerosis M&#250;ltiple (Temblor)
+406,11,1 1
+	CMBD de Esclerosis M&#250;ltiple (Paresia)
+407,11,1 1
+	Existen evidencias de Mononeuropat&#237;a Dolorosa Asim&#233;trica
+408,11,1 1
+	CMBD de Mononeuropat&#237;a Dolorosa Asim&#233;trica (Debilidad Muscular)
+409,11,1 2
+	Existen evidencias de Par&#225;lisis Facial Perif&#233;rica o Par&#225;lisis de
+	 Bell
+410,11,1 1
+	CMBD de Par&#225;lisis Facial Perif&#233;rica (Paresia)
+411,11,1 1
+	Existen evidencias de Masa Intracraneal en paciente VIH
+412,11,1 1
+	CMBD de Masa Intracraneal en paciente VIH (Cefalea)
+413,11,1 1
+	CMBD de Masa Intracraneal en paciente VIH (Paresia)
+414,11,1 1
+	Existen evidencias de Poliradiculoneuritis Aguda
+415,11,1 1
+	CMBD de Poliradiculoneuritis Aguda (Debilidad Muscular)
+416,11,1 1
+	CMBD de Poliradiculoneuritis Aguda (Paresia)
+417,11,1 1
+	El Temblor se localiza en la regi&#243;n perioral
+418,11,1 1
+	El paciente presenta Par&#225;lisis de Todd
+419,11,1 1
+	Las Crisis Convulsivas son: Ilusiones (macropsia, micropsia o especifica)
+420,11,1 2
+	Las Crisis Convulsivas son: Automatismo (deglutir, chupeteo, caminar sin
+	 objetivo)
+421,11,1 1
+	Durante las Crisis Convulsivas presenta: Amnesia Retr&#243;grada
+422,11,1 2
+	Las Crisis Convulsivas son: Estados Discognoscitivos (Fen&#243;menos de Deja vu
+	 o Jamais vu)
+423,11,1 1
+	Las Crisis Convulsivas son: Crisis Adversivas
+424,11,1 1
+	CMBD de Absceso Epidural Espinal (Paresia)
+425,11,1 1
+	El paciente presenta Atrofia Muscular
+426,11,1 1
+	El paciente presenta Hipertrofia Muscular
+427,11,1 1
+	La Atrofia Muscular se localiza en manos y antebrazos
+428,11,1 1
+	D&#243;nde se localiza la Alteraci&#243;n de la Sensibilidad: Cuello
+429,11,1 1
+	D&#243;nde se localiza la Alteraci&#243;n de la Sensibilidad: Facial
+430,11,1 1
+	Existen evidencias de Siringomielia
+431,11,1 1
+	CMBD de Siringomielia (Alteraci&#243;n de la Sensibilidad)
+432,11,1 1
+	Existen evidencias de Hipertensi&#243;n Endocraneana
+433,11,1 1
+	CMBD de Hipertensi&#243;n Endocraneana (Cefalea)
+434,11,1 1
+	Existen evidencias de Enfermedad de Parkinson
+435,11,1 1
+	CMBD de Enfermedad de Parkinson (Temblor)
+436,11,1 1
+	CMBD de Enfermedad de Parkinson (Alteraci&#243;n de la Marcha)
+437,11,1 1
+	El paciente presenta Afasia
+438,11,1 1
+	Existen evidencias de Neoplasia Cerebral
+439,11,1 1
+	CMBD de Neoplasia Cerebral (Crisis Convulsiva)
+440,11,1 1
+	CMBD de Neoplasia Cerebral (Paresia)
+441,11,1 1
+	CMBD 1 de Neoplasia Cerebral (Alteraci&#243;n de la Marcha)
+442,11,1 1
+	CMBD 2 de Neoplasia Cerebral (Alteraci&#243;n de la Marcha)
+443,11,1 1
+	Existen evidencias de Hematoma Subdural
+444,11,1 1
+	CMBD de Hematoma Subdural (Cefalea)
+445,11,1 1
+	CMBD de Hematoma Subdural (Desorientacion)
+446,11,1 1
+	CMBD 1 de Hematoma Subdural (Paresia)
+447,11,1 1
+	CMBD 2 de Hematoma Subdural (Paresia)
+448,11,1 1
+	CMBD de Mielitis transversa (Paresia)
+449,11,1 1
+	Existen evidencias de Polineuropat&#237;a Sensitivo Motora Cr&#243;nica
+450,11,1 1
+	CMBD de Polineuropat&#237;a Sensitivo Motora Cr&#243;nica
+451,11,1 1
+	Ritmo de crisis de Cefalea: Empeora al principio de la ma&#241;ana
+452,11,1 1
+	El paciente presenta Hipofon&#237;a (Alteraci&#243;n del Lenguaje)
+453,11,1 1
+	CMBD de Enfermedad de Parkinson (Movimientos Involuntarios)
+454,11,1 1
+	Existen evidencias de Parkinsonismo Postencefal&#237;tico
+455,11,1 1
+	CMBD de Parkinsonismo Postencefal&#237;tico (Temblor)
+456,11,1 1
+	Existen evidencias de Parkinsonismo Secundario a Neurol&#233;pticos
+457,11,1 1
+	CMBD de Mielitis Transversa (Dolor Lumbar)
+458,11,1 1
+	La Cefalea cambia de lugar
+459,11,1 1
+	Factor que acentua la Cefalea: Luz
+460,11,1 1
+	Factor que acentua la Cefalea: Ruido
+461,11,1 1
+	Factor que acentua la Cefalea: Estornudo
+462,11,1 1
+	Factor que acentua la Cefalea: Movimiento
+463,11,1 1
+	El paciente presenta Disminuci&#243;n de la Sensibilidad T&#225;ctil
+464,11,1 2
+	El paciente presenta Disminuci&#243;n de la Sensibilidad Profunda (Vibratoria
+	 Posicional)
+465,11,1 1
+	Existen evidencias de Enfermedad Cerebrovascular Ictus Agudo
+466,11,1 1
+	Evidencias de S&#237;ndrome de la Arteria Cerebral Media
+467,11,1 1
+	Evidencias S&#237;ndrome de la Arteria Cerebral Media Incompleta
+468,11,1 1
+	Evidencias de S&#237;ndrome de la Arteria Cerebral Anterior
+469,11,1 1
+	Evidencias de S&#237;ndrome de la Arteria Cerebral Posterior
+470,11,1 1
+	Evidencias de S&#237;ndrome Vertebro-Basilar
+471,11,1 1
+	Existen evidencias Enfermedad Cerebrovascular: Estado Lagunar
+472,11,1 2
+	CMBD de Mononeuropat&#237;a Dolorosa Asim&#233;trica (Alteraciones de la
+	 Sensibilidad)
+473,11,1 2
+	CMBD de Mononeuropat&#237;a Dolorosa Asim&#233;trica (Dolor Extremidades
+	 Inferiores)
+474,11,1 1
+	CMBD de Poliradiculoneuritis Aguda (Alteraci&#243;n de la Sensibilidad)
+475,11,1 1
+	CMBD de Poliradiculoneuritis Aguda (Parestesia)
+476,11,1 1
+	Localizaci&#243;n Alteraci&#243;n de la Sensibilidad: Facial: Unilateral
+477,11,1 1
+	Localizaci&#243;n Alteraci&#243;n de la Sensibilidad: Facial: Bilateral
+478,11,1 2
+	CMBD de Par&#225;lisis Facial Perif&#233;rica (Alteraci&#243;n de la
+	 Sensibilidad)
+479,11,1 1
+	D&#243;nde se localiza la Paresia: Facial
+480,11,1 1
+	D&#243;nde se localiza la Paresia: Facial: Unilateral
+481,11,1 1
+	D&#243;nde se localiza la Paresia: Facial: Bilateral
+482,11,1 1
+	El paciente presenta Agitacia, Excitaci&#243;n o Alucinaciones
+483,11,1 1
+	CMBD de Enfermedad CerebroVascular (Ictus Agudo) por Paresia
+484,11,1 2
+	CMBD Enfermedad Cerebrovascular (S&#237;ndrome Arteria Cerebral Media) por
+	 Paresia
+485,11,1 2
+	CMBD Enfermedad Cerebrovascular (S&#237;ndrome Arteria Cerebral Media
+	 Incompleta) por Paresia
+486,11,1 2
+	CMBD Enfermedad Cerebrovascular (S&#237;ndrome Arteria Cerebral Anterior) por
+	 Paresia
+487,11,1 2
+	CMBD Enfermedad Cerebrovascular (S&#237;ndrome Arteria Cerebral Posterior) por
+	 Paresia
+488,11,1 1
+	CMBD de Enfermedad Cerebrovascular (S&#237;ndrome vertebro basilar) por Paresia
+489,11,1 1
+	CMBD de Enfermedad Cerebrovascular (Estado Lagunar) por Paresia
+490,11,1 2
+	CMBD de Enfermedad Cerebrovascular (S&#237;ndrome Vertebro Basilar) por
+	 S&#237;ncope
+491,11,1 1
+	Duraci&#243;n del D&#233;ficit Neurol&#243;gico Focal: Menos de 24 horas
+492,11,1 1
+	Duraci&#243;n del D&#233;ficit Neurol&#243;gico Focal: Entre 24 horas y un mes
+493,11,1 1
+	D&#233;ficit Neurol&#243;gico Focal
+494,11,1 2
+	Existen evidencias Enfermedad Cerebrovascular: Ataque Isqu&#233;mico
+	 Transitorio
+495,11,1 2
+	Existen evidencias Enfermedad Cerebrovascular: D&#233;ficit Neurol&#243;gico
+	 Isqu&#233;mico Residual
+496,11,1 2
+	Existen evidencias Enfermedad Cerebrovascular: Ictus en evoluci&#243;n o
+	 progresivo
+497,11,1 1
+	Existen evidencias Enfermedad Cerebrovascular: Ictus establecido
+498,11,1 1
+	El D&#233;ficit Neurol&#243;gico Focal inicial progresa
+499,11,1 1
+	El D&#233;ficit Neurol&#243;gico Focal inicial se agrava progresivamente
+500,11,1 1
+	El D&#233;ficit Neurol&#243;gico Focal inicial fluctua
+501,11,1 1
+	El D&#233;ficit Neurol&#243;gico Focal es totalmente reversible
+502,11,1 1
+	Se cumplan al menos 2 Sintomas Acompa&#241;antes
+503,11,1 1
+	Se cumplan al menos 3 Sintomas Acompa&#241;antes
+504,11,1 1
+	Se cumplan al menos 4 Sintomas Acompa&#241;antes
+505,11,1 1
+	Se cumplan al menos 5 Sintomas Acompa&#241;antes
+506,11,1 1
+	El paciente presenta Nistagmo
+507,11,1 1
+	Localizaci&#243;n de la Debilidad Muscular en toda la extremidad
+508,11,1 1
+	Realizaci&#243;n inconsciente de actividades muy elaboradas durante la crisis
+509,11,1 2
+	Las Crisis Convulsivas son: Contracciones musculares recurrentes (dedo, mano,
+	 brazo o cara)
+510,11,1 1
+	Existen evidencias de Temblor Familiar
+511,11,1 1
+	CMBD2 de Temblor benigno
+512,11,1 2
+	Existen evidencias de Corea de Causas Probables: - Corea de Huntington -
+	 Enfermedad de Wilson - Encefalitis - Farmacol&#243;gica
+513,11,1 2
+	Existen evidencias de Corea de Causas Probables: - De Origen Vascular -
+	 Esencial - Farmacol&#243;gica
+514,11,1 2
+	Existen evidencias de Atetosis de Causas Probables: - Hipoxia Neonatal -
+	 Enfermedad de Sydenham - Enfermedad de Wilson - Diston&#237;a Musculorum de Forhans
+515,11,1 3
+	Existen evidencias de Mioclonias de Causas Probables: - S&#237;ndrome de West -
+	 Enfermedad de Dep&#243;sito - Polidistrofia Progresiva - Neuroblastoma
+	 Cerebeloso
+516,11,1 3
+	Existen evidencias de Mioclonias de Causas Probables: - Encefalopat&#237;a
+	 Metab&#243;lica - Encefalitis - Tumores Cerebelosos - Epilepsia
+	 Miocl&#243;nica - Enfermedad de Creutzfeldt-Jakob - Intoxicaci&#243;n por Bismuto
+517,11,1 3
+	Existen evidencias de Diston&#237;a de Causas Probables: - Diston&#237;a
+	 Muscular por Deformidad - Enfermedad de Wilson - Ataxia-Telangiectasia -
+	 Enfermedad de Huntington
+518,11,1 3
+	Existen evidencias de Diston&#237;a de Causas Probables: - Tort&#237;culis
+	 Espasm&#243;dica - Farmacol&#243;gica (Fenotiacin, etc...) - Enfermedad de
+	 Wilson - Enfermedad de Huntington
+519,11,1 3
+	Existen evidencias de Tics de Causas Probables: - Enfermedad de Lesch-Nyhan -
+	 S&#237;ndrome de Gilles de la Tourette - Postencefal&#237;tico -
+	 Farmacol&#243;gica - Diston&#237;a Parox&#237;stica
+520,11,1 2
+	Existen evidencias de Tics de Causas Probables: - Postencefal&#237;tico -
+	 Traumatismos Craneales - Farmacol&#243;gica
+521,11,1 1
+	Existen evidencias de Neuropat&#237;a Perif&#233;rica en Pacientes VIH
+522,11,1 1
+	CMBD de Neuropat&#237;a Perif&#233;rica en Pacientes VIH
+523,11,1 1
+	Dolor Neur&#237;tico de Horas - D&#237;as
+524,11,1 1
+	Dolor Neur&#237;tico de m&#225;s de 1 semana y menos de 1 mes
+525,11,1 1
+	Dolor Neur&#237;tico de m&#225;s de m&#225;s de 1 mes
+526,11,1 1
+	Dolor Neur&#237;tico localizado en: Zona Intercostal
+527,11,1 1
+	Dolor Neur&#237;tico localizado en: Zona Cervical
+528,11,1 2
+	Dolor Neur&#237;tico localizado en: Zona de la rama oft&#225;lmica del
+	 Trig&#233;mino
+529,11,1 1
+	Dolor Neur&#237;tico localizado en: Zona del Ganglio Genicalado
+530,11,1 1
+	Dolor Neur&#237;tico localizado en: Zonas Lumbofemoral o Sacroizqui&#225;tica
+531,11,1 1
+	Dolor Neur&#237;tico se irradia por un Dermatoma
+532,11,1 1
+	Tiempo de duraci&#243;n del Dolor Neur&#237;tico: Horas - D&#237;as
+533,11,1 1
+	Tiempo de duraci&#243;n del Dolor Neur&#237;tico: Semanas - Meses
+534,11,1 1
+	Comod&#237;n de S&#237;ntomas acompa&#241;antes de Dolor Neur&#237;tico

@@ -1,0 +1,399 @@
+1,15,1 1
+	Existen evidencias de L&#233;ntigos
+2,15,1 1
+	Copia de Prurito Localizado
+3,15,1 1
+	Copia de Prurito Generalizado
+4,15,1 1
+	Comod&#237;n de la localizaci&#243;n del Prurito
+5,15,1 1
+	El paciente presenta Prurito de menos de 1 semana
+6,15,1 1
+	El paciente presenta Prurito de 1 a 3 semanas
+7,15,1 1
+	El paciente presenta Prurito de de 3 semanas o m&#225;s
+8,15,1 1
+	El Prurito se manifiesta en puntos de contacto con sustancias o productos
+9,15,1 1
+	El Prurito se manifiesta en Lesiones de la Piel
+10,15,1 1
+	El Prurito comienza de forma Brusca
+11,15,1 1
+	El Prurito comienza de forma Progresiva/lentamente
+12,15,1 1
+	El Prurito se manifiesta de forma Continua
+13,15,1 1
+	El Prurito se manifiesta de forma Intermitente
+14,15,1 1
+	El Prurito se manifiesta de forma Recurrente
+15,15,1 1
+	El paciente presenta exacerbaci&#243;n nocturna del Prurito
+16,15,1 1
+	El paciente presenta Manchas en la Piel de menos de 1 semana
+17,15,1 1
+	El paciente presenta Manchas en la Piel de 1 semana a 1 mes
+18,15,1 1
+	El paciente presenta Manchas en la Piel de m&#225;s de 1 mes
+19,15,1 1
+	El paciente presenta Manchas en la Piel localizadas
+20,15,1 1
+	El paciente presenta Manchas en la Piel generalizadas
+21,15,1 2
+	Las Manchas en la Piel son localizadas en el periorificial (alrededor de boca,
+	 nariz, ojos, pezones, ombligo, ano)
+22,15,1 1
+	Las Manchas en la Piel son localizadas en el dorso de la mano
+23,15,1 1
+	Las Manchas en la Piel son localizadas en el cara anterior de las mu&#241;ecas
+24,15,1 1
+	Las Manchas en la Piel son localizadas en el antebrazos
+25,15,1 1
+	Las Manchas en la Piel son localizadas en genitales o perigenitales
+26,15,1 1
+	El comienzo de las Manchas en la Piel fue Brusco
+27,15,1 1
+	El comienzo de las Manchas en la Piel fue Lentamente progresivo
+28,15,1 1
+	Comod&#237;n de S&#237;ntomas Acompa&#241;antes de Prurito
+29,15,1 1
+	Comod&#237;n de S&#237;ntomas Acompa&#241;antes de Manchas en la Piel
+30,15,1 1
+	Comod&#237;n 2 de S&#237;ntomas Acompa&#241;antes de Manchas en la Piel
+31,15,1 1
+	El paciente presenta Alteraci&#243;n de la Sensibilidad en Zonas de la Piel
+32,15,1 1
+	El paciente presenta P&#233;rdida de la Cola de las Cejas
+33,15,1 1
+	Los Bultos en la Piel son Localizados
+34,15,1 1
+	Los Bultos en la Piel son Generalizados
+35,15,1 1
+	Los Bultos en la Piel se localizan en: Esternoclavicular
+36,15,1 1
+	Los Bultos en la Piel se localizan en: Cara posterior de la pierna
+37,15,1 1
+	Los Bultos en la Piel se localizan en: Cara anterior de la pierna
+38,15,1 1
+	Los Bultos en la Piel se localizan en: Brazos
+39,15,1 1
+	Los Bultos en la Piel se localizan en: Muslos
+40,15,1 1
+	Los Bultos en la Piel son redondeados con relieve cut&#225;neo
+41,15,1 1
+	Las Lesiones en la Piel se distribuyen: Sim&#233;tricamente
+42,15,1 1
+	Las Lesiones en la Piel se distribuyen: Asim&#233;tricamente
+43,15,1 1
+	Las Lesiones en la Piel se distribuyen: Bilaterales
+44,15,1 1
+	El paciente presenta Erupci&#243;n en la Piel de menos de 1 semana
+45,15,1 1
+	El paciente presenta Erupci&#243;n en la Piel de de 1 a 3 semanas
+46,15,1 1
+	El paciente presenta Erupci&#243;n en la Piel de de 3 semanas o m&#225;s
+47,15,1 1
+	La Erupci&#243;n en la Piel se presenta localizada
+48,15,1 1
+	La Erupci&#243;n en la Piel se presenta generalizada
+49,15,1 1
+	La Erupci&#243;n en la Piel localizada: Manos
+50,15,1 1
+	La Erupci&#243;n en la Piel localizada: Cuello
+51,15,1 1
+	La Erupci&#243;n en la Piel localizada: Cara
+52,15,1 1
+	La Erupci&#243;n en la Piel localizada: Piernas
+53,15,1 1
+	La Erupci&#243;n en la Piel localizada: Genitales
+54,15,1 1
+	La Erupci&#243;n en la Piel localizada: Parte superior del tronco
+55,15,1 1
+	La Erupci&#243;n en la Piel localizada: Pliegues de codos/rodillas
+56,15,1 1
+	La Erupci&#243;n en la Piel comienza de forma Brusca
+57,15,1 1
+	La Erupci&#243;n en la Piel comienza de forma Progresiva/lentamente
+58,15,1 1
+	La Erupci&#243;n en la Piel se manifiesta de forma Continua
+59,15,1 1
+	La Erupci&#243;n en la Piel se manifiesta de forma Intermitente
+60,15,1 1
+	La Erupci&#243;n en la Piel se manifiesta de forma Recurrente
+61,15,1 1
+	La Erupci&#243;n en la Piel tiene ritmo estacional que empeora en el invierno
+62,15,1 1
+	La Erupci&#243;n en la Piel tiene ritmo estacional que mejora en el verano
+63,15,1 2
+	La Erupci&#243;n en la Piel tiene ritmo estacional en cualquier epoca del
+	 a&#241;o
+64,15,1 1
+	La Erupci&#243;n en la Piel evoluciona de manera Aguda
+65,15,1 1
+	La Erupci&#243;n en la Piel evoluciona de Cr&#243;nica
+66,15,1 1
+	La Erupci&#243;n en la Piel evoluciona de cr&#243;nica en brotes de agudizacion
+67,15,1 1
+	Los Bultos en la Piel son redondeados sin relieve cut&#225;neo
+68,15,1 1
+	La coloraci&#243;n de los Bultos en la Piel coincide con el de la piel (Normal)
+69,15,1 1
+	La coloraci&#243;n de los Bultos en la Piel es Roja o Violeta
+70,15,1 1
+	Existen evidencias de Vitiligo
+71,15,1 1
+	CMBD de Vitiligo
+72,15,1 1
+	Existen evidencias de Lepra (Enfermedad de Hansen)
+73,15,1 1
+	CMBD1 de Lepra (aporte de Manchas en la Piel)
+74,15,1 1
+	CMBD2 de Lepra (aporte de Alteraciones de la Sensibilidad)
+75,15,1 1
+	La coloraci&#243;n de los Bultos en la Piel es Rosada de Jam&#243;n
+76,15,1 1
+	La coloraci&#243;n de los Bultos en la Piel es Amarillo Acaramelado
+77,15,1 1
+	La evoluci&#243;n de los Bultos en la Piel es Aguda
+78,15,1 1
+	La evoluci&#243;n de los Bultos en la Piel es Subaguda
+79,15,1 1
+	La evoluci&#243;n de los Bultos en la Piel es Cr&#243;nica
+80,15,1 1
+	Los Bultos en la Piel son Dolorosos
+81,15,1 1
+	Comod&#237;n para S&#237;ntomas Acompa&#241;antes de Bultos en la Piel
+82,15,1 1
+	La Erupci&#243;n en la Piel localizada: Pliegues intergl&#250;teos
+83,15,1 1
+	La Erupci&#243;n en la Piel localizada: Cuero cabelludo
+84,15,1 1
+	La Erupci&#243;n en la Piel localizada: Lecho subungueal
+85,15,1 2
+	La Erupci&#243;n en la Piel localizada: Palma de las manos y plantas de los
+	 pies
+86,15,1 1
+	La Erupci&#243;n en la Piel localizada: A un dermatoma
+87,15,1 1
+	La Erupci&#243;n en la Piel se distribuye de forma Sim&#233;trica
+88,15,1 1
+	La Erupci&#243;n en la Piel se distribuye de forma Asim&#233;trica
+89,15,1 1
+	Las Manchas en la Piel son localizadas en: Pliques de codos/rodillas
+90,15,1 1
+	Las Manchas en la Piel son localizadas en: Pliegue intergl&#250;teos
+91,15,1 1
+	Las Manchas en la Piel son localizadas en: Cuero cabelludo
+92,15,1 1
+	Las Manchas en la Piel son localizadas en: Lecho subungueal
+93,15,1 2
+	Las Manchas en la Piel son localizadas en: Palma de las manos y plantas de los
+	 pies
+94,15,1 1
+	Las Manchas en la Piel son de color: Rojo
+95,15,1 1
+	Las Manchas en la Piel son de color: Oscuro
+96,15,1 1
+	Las Manchas en la Piel son de color: Blanco
+97,15,1 1
+	Existen evidencias de Dermatitis de Contacto
+98,15,1 1
+	Existen evidencias de Dermatitis Medicamentosa
+99,15,1 1
+	Existen evidencias de Dermatitis Piogena
+100,15,1 1
+	Existen evidencias de Dermatitis At&#243;picas
+101,15,1 1
+	CMBD de Dermatitits de Contacto
+102,15,1 1
+	En su evoluci&#243;n, la Dermatitis, es facilmente reducible al Integro
+103,15,1 2
+	El paciente ha estado en contacto con sustancias y/o productos inflamatorios
+	 para la piel
+104,15,1 2
+	Las lesiones de la piel se localizan en puntos de contacto con sustancias y/o
+	 productos inflamatorios para la piel
+105,15,1 1
+	Existe respuesta beneficiosa a terapeutica con esteroides internos o externos
+106,15,1 1
+	Antecedentes de Reacci&#243;n al contactante sospechoso
+107,15,1 1
+	Antecedentes de Positividad a la Prueba del Parche con el agente contactante
+108,15,1 2
+	Existen evidencias de Dermatitis de Contacto Al&#233;rgica (Dermatitis en
+	 Berlocque &#243; Fito-Foto-Dermatitis)
+109,15,1 2
+	Antecedentes personales de contacto con zumos de frutas c&#237;tricas y/o
+	 sustancias que contengan este elemento
+110,15,1 1
+	Antecedentes de Uso o Contacto con: Tinte de Pelo
+111,15,1 1
+	Antecedentes de Uso o Contacto con: Esmalte de U&#241;as
+112,15,1 2
+	Antecedentes de Uso o Contacto con: Cremas para la cara, polvos, creyones de
+	 labios, etc.
+113,15,1 1
+	Antecedentes de Uso o Contacto con: Piretrum &#243; DDT (Insecticida)
+114,15,1 1
+	Antecedentes de Uso o Contacto con: Niquel - Cromo
+115,15,1 1
+	Antecedentes de Uso o Contacto con: Acero - Cromo
+116,15,1 1
+	Antecedentes de Uso o Contacto con: Cromo
+117,15,1 1
+	Antecedentes de Uso o Contacto con: Desodorantes y/o Antiperspirantes
+118,15,1 1
+	Antecedentes de Uso o Contacto con: Cloruro de Benzolconio
+119,15,1 1
+	Antecedentes de Uso o Contacto con: Ropas hechas con materiales sint&#233;ticos
+120,15,1 1
+	Antecedentes de Uso o Contacto con: Zapatos, pieles, tintes de zapatos, etc.
+121,15,1 2
+	Antecedentes personales recientes de un medicamento aplicado en heridas,
+	 abscesos, contuciones, etc.
+122,15,1 2
+	Antecedentes personales recientes de haber utilizado un medicamento para
+	 afecciones de nariz, ojos, oidos, etc.
+123,15,1 1
+	Antecedentes personales recientes de un Medicamento ingerido y/o inyectado
+124,15,1 1
+	Lesiones de Piel en puntos de contacto con alg&#250;n medicamento
+125,15,1 1
+	CMBD1 de Dermatitis Medicamentosa
+126,15,1 1
+	CMBD2 de Dermatitis Medicamentosa
+127,15,1 1
+	CMBD1 de Dermatitis Piogena
+128,15,1 1
+	El paciente presenta alguna Herida Infectada
+129,15,1 1
+	CMBD1 de Dermatitis At&#243;pica
+130,15,1 1
+	CMBD2 de Dermatitis At&#243;pica
+131,15,1 1
+	Existen evidencias de Psoriasis
+132,15,1 1
+	CMBD1 de Psoriasis
+133,15,1 1
+	CMBD2 de Psoriasis
+134,15,1 3
+	Antecedentes patol&#243;gicos personales recientes de contacto con plantas
+	 irritantes para la piel y/o derivados de ellas. Ej: Guao, Salvadera,
+	 Card&#243;n, Manzanillo, etc.
+135,15,1 1
+	Existen evidencias de Eritema Nodoso
+136,15,1 1
+	CMBD de Eritema Nodoso
+137,15,1 1
+	Existen evidencias de Eritema Indurado de Bazin
+138,15,1 1
+	CMBD de Eritema Indurado de Bazin
+139,15,1 1
+	Existen evidencias de Herpes Zoster
+140,15,1 1
+	CMBD1 de Herpes Zoster
+141,15,1 1
+	CMBD2 de Herpes Zoster
+142,15,1 1
+	Existen evidencias de Neuralgia Poherp&#233;tica
+143,15,1 1
+	Existen evidencias de S&#237;ndrome de Ramsay Hunt
+144,15,1 1
+	Las ves&#237;culas cut&#225;neas se localizan a un Dermatoma
+145,15,1 1
+	La Alteraci&#243;n en las U&#241;as es desde hace menos de una semana
+146,15,1 1
+	La Alteraci&#243;n en las U&#241;as es desde hace una semana a un mes
+147,15,1 1
+	La Alteraci&#243;n en las U&#241;as es desde hace m&#225;s de un mes
+148,15,1 1
+	La Alteraci&#243;n en las U&#241;as es Localizada
+149,15,1 1
+	La Alteraci&#243;n en las U&#241;as es Generalizada
+150,15,1 2
+	La Alteraci&#243;n en las U&#241;as es Localizada a algunas u&#241;as de las
+	 manos
+151,15,1 2
+	La Alteraci&#243;n en las U&#241;as es Localizada a algunas u&#241;as de los
+	 pies
+152,15,1 2
+	La Alteraci&#243;n en las U&#241;as es Generalizada a todas las u&#241;as de
+	 las manos
+153,15,1 2
+	La Alteraci&#243;n en las U&#241;as es Generalizada a todas las u&#241;as de
+	 los pies
+154,15,1 1
+	La Alteraci&#243;n en las U&#241;as comenz&#243; de forma: Brusca
+155,15,1 2
+	La Alteraci&#243;n en las U&#241;as comenz&#243; de forma: Lentamente
+	 progresiva
+156,15,1 1
+	La Alteraci&#243;n en las U&#241;as es del tipo: P&#233;rdida del Lustre Normal
+157,15,1 2
+	La Alteraci&#243;n en las U&#241;as es del tipo: Friables, secas, con
+	 estr&#237;as longitudinales
+158,15,1 1
+	La Alteraci&#243;n en las U&#241;as es del tipo: Rotas, quebradizas
+159,15,1 1
+	La Alteraci&#243;n en las U&#241;as es del tipo: Reborde ungueal inflamado
+160,15,1 1
+	La Erupci&#243;n en la Piel localizada: Pies
+161,15,1 1
+	La Erupci&#243;n en la Piel localizada: Pliegues de Flexi&#243;n
+162,15,1 1
+	La Erupci&#243;n en la Piel localizada: Surco submamario
+163,15,1 1
+	La Erupci&#243;n en la Piel localizada: Pliegues inguinales
+164,15,1 1
+	El paciente presenta Lesiones de Piel localizada en los Pies
+165,15,1 1
+	El paciente presenta otras Lesiones de Piel en los Pies
+166,15,1 1
+	Comod&#237;n para la variable 36
+167,15,1 1
+	Los Bultos en la Piel se localizan en: Genitales Externos
+168,15,1 1
+	Los Bultos en la Piel se localizan en: Regi&#243;n Perianal
+169,15,1 1
+	Los Bultos en la Piel son Verrugas o Excrecencias Papilares
+170,15,1 1
+	Comod&#237;n de S&#237;ntomas Acompa&#241;antes de Erupci&#243;n en la piel
+171,15,1 1
+	Existen evidencias de Epidermofitosis de los Pies
+172,15,1 1
+	CMBD1 de Epidermofitosis de los Pies
+173,15,1 1
+	Las Manchas son localizadas en: El Tronco
+174,15,1 1
+	Existen evidencias de Onicomicosis (Ti&#241;a de las U&#241;as)
+175,15,1 1
+	CMBD de Onicomicosis
+176,15,1 1
+	Existen evidencias de Eczema Marginado de Hebra
+177,15,1 1
+	CMBD de Eczema Marginado de Hebra
+178,15,1 1
+	Existen evidencias de Condiloma Aluminado o Verrugas Ven&#233;reas
+179,15,1 1
+	CMBD de Condiloma Aluminado o Verrugas Ven&#233;reas
+180,15,1 1
+	El paciente presenta Prurito en los Pies
+181,15,1 1
+	Neurofibromatosis o Enfermedad de Von Recklinghausen
+182,15,1 1
+	CMBD de Neurofibromatosis
+183,15,1 1
+	Las Manchas son localizadas en: Raiz de los miembros
+184,15,1 1
+	Existen evidencias de S&#237;filis Primaria
+185,15,1 1
+	CMBD de S&#237;filis Primaria
+186,15,1 1
+	Existen evidencias de S&#237;filis Secundaria
+187,15,1 1
+	CMBD1 de S&#237;filis Secundaria
+188,15,1 1
+	CMBD2 de S&#237;filis Secundaria
+189,15,1 1
+	Existen evidencias de S&#237;filis Tard&#237;a
+190,15,1 1
+	Intermedio de S&#237;filis Tard&#237;a

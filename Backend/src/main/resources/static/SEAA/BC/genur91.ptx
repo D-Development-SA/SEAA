@@ -1,0 +1,850 @@
+1,9,1 1
+	Desde cu&#225;ndo tiene el Edema: Menos de 48 horas
+2,9,1 1
+	Desde cu&#225;ndo tiene el Edema: M&#225;s de 48 horas
+3,9,1 1
+	Desde cu&#225;ndo tiene el Edema: M&#225;s de un mes
+4,9,1 1
+	El Edema es localizado
+5,9,1 1
+	El Edema es generalizado
+6,9,1 1
+	El Edema es en la cara
+7,9,1 1
+	El Edema es en el cuello
+8,9,1 1
+	Uretrorrea de m&#225;s de un mes
+9,9,1 1
+	El Edema es en las extremidades
+10,9,1 1
+	El Edema es periorbitario
+11,9,1 1
+	El Edema es en las extremidades superiores
+12,9,1 1
+	El Edema de Extremidades Inferiores es bilateral
+13,9,1 1
+	El Edema de Extremidades Inferiores es unilateral
+14,9,1 1
+	El Edema en la cara apareci&#243; r&#225;pidamente
+15,9,1 1
+	El Edema en la cara apareci&#243; gradualmente
+16,9,1 1
+	El Edema en la cara es m&#225;s pronunciado en la ma&#241;ana
+17,9,1 1
+	El Edema en las Extremidades Superiores apareci&#243; r&#225;pidamente
+18,9,1 1
+	El Edema en las Extremidades Superiores apareci&#243; gradualmente
+19,9,1 1
+	Intermedio de C&#225;ncer de Mama (Mastodinia)
+20,9,1 1
+	Intermedio de Enfermedad Fibroqu&#237;stica (Mastodinia)
+21,9,1 1
+	Intermedio de Mastopat&#237;a Fibroqu&#237;stica (Mastodinia)
+22,9,1 2
+	Factores desencadenantes del Edema en Extremidades Superiores: Traumatismo
+	 Previo
+23,9,1 2
+	Factores desencadenantes del Edema en Extremidades Superiores: Infecci&#243;n
+	 Local
+24,9,1 2
+	Factores desencadenantes del Edema en Extremidades Superiores: Picadura de
+	 Insecto
+25,9,1 1
+	Intermedio de Antecedentes Personales para Insuficiencia Renal Aguda
+26,9,1 2
+	Factores desencadenantes del Edema en Extremidades Superiores: Agente Irritante
+	 Local
+27,9,1 1
+	El Edema deja fovea
+28,9,1 1
+	La Ascitis apareci&#243; primero que el Edema de Extremidades Inferiores
+29,9,1 1
+	La Ascitis apareci&#243; siguiendo el Edema de Extremidades Inferiores
+30,9,1 1
+	El paciente refiere tener Nicturia
+31,9,1 1
+	CMBD HPB (Disuria)
+32,9,1 1
+	Tiene Oliguria de menos de 48 horas
+33,9,1 1
+	Tiene Oliguria de m&#225;s de 48 horas
+34,9,1 1
+	Edema en P&#225;rpados
+35,9,1 1
+	Padre de lista de Edema en P&#225;rpados
+36,9,1 1
+	El paciente tiene N&#243;dulos Testiculares
+37,9,1 1
+	El Edema de Extremidades Superiores es bilateral
+38,9,1 1
+	El Edema de Extremidades Superiores es unilateral
+39,9,1 1
+	Desde cu&#225;ndo ha notado Bultos en las Mamas: M&#225;s de 1 mes
+40,9,1 1
+	Desde cu&#225;ndo ha notado Bultos en las Mamas: Menos de 1 mes
+41,9,1 1
+	Los Bultos en las Mamas se localizan de forma: Unilateral
+42,9,1 1
+	Comod&#237;n de la variable 4
+43,9,1 1
+	Intermedio de Glomerulonefritis Aguda por Edema o Hematuria
+44,9,1 1
+	Comod&#237;n de la variable 15
+45,9,1 1
+	La Polaquiuria tiene relaci&#243;n con estados de Ansiedad o Stress
+46,9,1 1
+	CMBD de Tumor Testicular por Dolor Testicular
+47,9,1 2
+	Intermedio de S&#237;ntomas Acompa&#241;antes. Otras manifestaciones para
+	 Insuficiencia Renal Aguda
+48,9,1 1
+	Comod&#237;n de la variable 20
+49,9,1 1
+	Comod&#237;n de la variable 7
+50,9,1 1
+	Uretrorrea de menos de un mes
+51,9,1 1
+	Secreci&#243;n Uretral clara
+52,9,1 1
+	Secreci&#243;n Uretral blanquecina
+53,9,1 1
+	Secreci&#243;n Uretral purulenta
+54,9,1 1
+	Ultimo contacto sexual: M&#225;s de 10 d&#237;as
+55,9,1 1
+	Ultimo contacto sexual: Menos de 10 d&#237;as
+56,9,1 1
+	Nota Disuria hace: Uno a dos d&#237;as
+57,9,1 1
+	Nota Disuria hace: Dos a siete d&#237;as
+58,9,1 1
+	Nota Disuria hace: M&#225;s de un mes
+59,9,1 1
+	La Disuria comenz&#243; de forma s&#250;bita
+60,9,1 1
+	La Disuria comenz&#243; de forma progresiva
+61,9,1 1
+	La Disuria se presenta al principio del chorro
+62,9,1 1
+	La Disuria se presenta al final del chorro
+63,9,1 1
+	La Disuria se presenta durante toda la micci&#243;n
+64,9,1 1
+	Es su orina clara
+65,9,1 1
+	Es su orina turbia
+66,9,1 1
+	Intermedio para Glomerulonefritis Aguda Posestreptoc&#243;cica
+67,9,1 1
+	Dolor en &#225;rea vesical (Suprap&#250;bico)
+68,9,1 1
+	Dolor en extremo del pene
+69,9,1 1
+	Dolor en regi&#243;n perineal
+70,9,1 1
+	Nota Disuria hace: Siete d&#237;as a un mes
+71,9,1 1
+	Desde cu&#225;ndo tiene Leucorrea: M&#225;s de un mes
+72,9,1 1
+	Desde cu&#225;ndo tiene Leucorrea: Menos de un mes
+73,9,1 1
+	Leucorrea blanquecina
+74,9,1 1
+	Leucorrea amarilla
+75,9,1 1
+	Leucorrea maloliente y espumosa
+76,9,1 1
+	Desde cu&#225;ndo tiene Modificaci&#243;n del Chorro: Uno a dos d&#237;as
+77,9,1 1
+	Desde cu&#225;ndo tiene Modificaci&#243;n del Chorro: Dos a siete d&#237;as
+78,9,1 2
+	Desde cu&#225;ndo tiene Modificaci&#243;n del Chorro: De siete d&#237;as a un
+	 mes
+79,9,1 1
+	Desde cu&#225;ndo tiene Modificaci&#243;n del Chorro: M&#225;s de un mes
+80,9,1 1
+	El Chorro de Orina es d&#233;bil
+81,9,1 1
+	El Chorro de Orina es fraccionado
+82,9,1 1
+	El Chorro de Orina es disperso
+83,9,1 1
+	El Chorro de Orina es intermitente
+84,9,1 1
+	Desde cu&#225;ndo tiene Polaquiuria: Uno a dos d&#237;as
+85,9,1 1
+	Desde cu&#225;ndo tiene Polaquiuria: Dos a siete d&#237;as
+86,9,1 1
+	Desde cu&#225;ndo tiene Polaquiuria: De siete d&#237;as a un mes
+87,9,1 1
+	Desde cu&#225;ndo tiene Polaquiuria: M&#225;s de un mes
+88,9,1 1
+	Glomerulonefritis Aguda Posestreptoc&#243;cica
+89,9,1 1
+	El paciente refiere tener Goteo Postmicci&#243;n
+90,9,1 1
+	En que momento del d&#237;a orina m&#225;s frecuentemente: D&#237;a
+91,9,1 1
+	En que momento del d&#237;a orina m&#225;s frecuentemente: Noche
+92,9,1 1
+	En que momento del d&#237;a orina m&#225;s frecuentemente: Ambos
+93,9,1 1
+	Desde cu&#225;ndo tiene Dolor Testicular: M&#225;s de un mes
+94,9,1 1
+	Desde cu&#225;ndo tiene Dolor Testicular: menos de un mes
+95,9,1 1
+	Desde cu&#225;ndo tiene Dolor Testicular: Horas
+96,9,1 1
+	El Dolor Testicular se localiza en: Un test&#237;culo
+97,9,1 1
+	El Dolor Testicular se localiza en: Ambos test&#237;culos
+98,9,1 2
+	Intermedio de S&#237;ntomas Acompa&#241;antes Toxicos de Retenci&#243;n para
+	 Insuficiencia Renal Aguda
+99,9,1 1
+	El Dolor Testicular se irradia a regi&#243;n Inguino Abdominal
+100,9,1 1
+	El Dolor Testicular se irradia a regi&#243;n Lumbar
+101,9,1 1
+	Rubor Testicular
+102,9,1 1
+	Calor Testicular
+103,9,1 1
+	Comod&#237;n de la variable 38
+104,9,1 1
+	El Dolor Testicular empeora con la elevaci&#243;n del escroto
+105,9,1 1
+	El Dolor Testicular se alivia con la elevaci&#243;n del escroto
+106,9,1 1
+	Comod&#237;n de la variable 40
+107,9,1 1
+	Desde cu&#225;ndo tiene Aumento de Volumen Testicular: M&#225;s de un mes
+108,9,1 1
+	Desde cu&#225;ndo tiene Aumento de Volumen Testicular: Menos de un mes
+109,9,1 1
+	Desde cu&#225;ndo tiene Aumento de Volumen Testicular: Horas
+110,9,1 1
+	El Aumento de Volumen Testicular apareci&#243; de forma: Brusca
+111,9,1 1
+	El Aumento de Volumen Testicular apareci&#243; de forma: Progresiva
+112,9,1 1
+	Tiene Hematuria hace: Menos de un mes
+113,9,1 1
+	Tiene Hematuria hace: M&#225;s de un mes
+114,9,1 1
+	Es la primera vez que tiene Hematuria
+115,9,1 1
+	Color de la orina: Rojo brillante
+116,9,1 1
+	Color de la orina: Rojo oscuro
+117,9,1 1
+	Aparece sangre: Al principio de la micci&#243;n
+118,9,1 1
+	Aparece sangre: Al final de la micci&#243;n
+119,9,1 1
+	Aparece sangre: Durante toda la micci&#243;n
+120,9,1 1
+	La Retenci&#243;n Urinaria se instaur&#243; bruscamente
+121,9,1 1
+	Contiene la orina co&#225;gulos de sangre
+122,9,1 1
+	Contiene la orina co&#225;gulos de sangre: Grandes y voluminosos
+123,9,1 1
+	Contiene la orina co&#225;gulos de sangre: Alargados o filiformes
+124,9,1 1
+	La Retenci&#243;n Urinaria se instaur&#243; gradualmente
+125,9,1 1
+	La Orina es de color Rojo: S&#243;lo por las ma&#241;anas
+126,9,1 2
+	La Orina es de color Rojo: Despu&#233;s de un paseo, carrera, esfuerzo
+	 f&#237;sico
+127,9,1 1
+	La Orina es de color Rojo: Cuando se expone al fr&#237;o
+128,9,1 1
+	La Orina es de color Rojo: Siempre o sin causa aparente
+129,9,1 2
+	Intermedio de S&#237;ntomas Acompa&#241;antes Hipertensivos para Insuficiencia
+	 Renal Aguda
+130,9,1 1
+	El paciente refiere presentar Eyaculaci&#243;n D&#233;bil
+131,9,1 2
+	Antecedentes Patol&#243;gicos Personales de Amigdalitis Pult&#225;cea de 48
+	 horas previas a aparici&#243;n de s&#237;ntomas
+132,9,1 2
+	Antecedentes Patol&#243;gicos Personales de Amigdalitis Pult&#225;cea de 48
+	 horas despu&#233;s de aparici&#243;n de s&#237;ntomas
+133,9,1 2
+	Antecedentes Patol&#243;gicos Personales de Faringitis de 48 horas previas a
+	 aparici&#243;n de s&#237;ntomas
+134,9,1 2
+	Antecedentes Patol&#243;gicos Personales de Faringitis de 48 horas despu&#233;s
+	 de aparici&#243;n de s&#237;ntomas
+135,9,1 2
+	Antecedentes Patol&#243;gicos Personales de infecci&#243;n cut&#225;nea de 48
+	 horas previas a aparici&#243;n de s&#237;ntomas
+136,9,1 2
+	Antecedentes Patol&#243;gicos Personales de Infecci&#243;n Cut&#225;nea de 48
+	 horas despu&#233;s de aparici&#243;n de s&#237;ntomas
+137,9,1 1
+	Comod&#237;n de la variable 49
+138,9,1 1
+	El paciente refiere tener Chorro en Abanico o Regadera
+139,9,1 1
+	Existen evidencias de Vejiga Neur&#243;gena
+140,9,1 1
+	Ha notado que sus micciones son m&#225;s prolongadas que lo habitual
+141,9,1 1
+	CMBD de Estrechez Uretral (Polaquiuria)
+142,9,1 1
+	Comod&#237;n de la variable 54
+143,9,1 1
+	Incontinencia de Orina de menos de un mes
+144,9,1 1
+	Incontinencia de Orina de m&#225;s de un mes
+145,9,1 1
+	Tiene a veces ganas exageradas de orinar
+146,9,1 1
+	Orina gota a gota, poca cantidad, a intervalos frecuentes
+147,9,1 1
+	Pierde orina al realizar un esfuerzo
+148,9,1 2
+	Tiene que hacer esfuerzos o presi&#243;n manual de la vejiga durante toda la
+	 micci&#243;n
+149,9,1 1
+	Comod&#237;n de la variable tratamiento farmacol&#243;gico 57
+150,9,1 1
+	Comod&#237;n de la variable enfermedades 58
+151,9,1 1
+	Dolor Lumbar de menos de un mes
+152,9,1 1
+	Dolor Lumbar de m&#225;s de un mes
+153,9,1 1
+	El Dolor Lumbar comenz&#243; de forma s&#250;bita
+154,9,1 1
+	El Dolor Lumbar comenz&#243; gradualmente
+155,9,1 1
+	Existen evidencias de Estrechez Uretral
+156,9,1 1
+	CMBD de Estrechez Uretral (Modificaci&#243;n del Chorro)
+157,9,1 1
+	CMBD de Estrechez Uretral (Disuria)
+158,9,1 1
+	Se irradia el Dolor Lumbar a lo largo del &#225;rea subcostal hacia el Hombligo
+159,9,1 1
+	Se irradia el Dolor Lumbar hacia la Fosa Il&#237;aca o Genital Ipsolateral
+160,9,1 1
+	Se irradia el Dolor Lumbar hacia el Area Suprap&#250;bica
+161,9,1 1
+	El Dolor Lumbar dur&#243;: Horas
+162,9,1 1
+	El Dolor Lumbar dur&#243;: D&#237;as
+163,9,1 1
+	El Dolor Lumbar dur&#243;: Meses
+164,9,1 1
+	Padeci&#243; anteriormente de episodios similares (Dolor Lumbar)
+165,9,1 1
+	El Dolor Lumbar es sordo, constante
+166,9,1 1
+	El Dolor Lumbar es intenso, agudo y epis&#243;dico
+167,9,1 1
+	El Dolor Lumbar se alivia con: Analg&#233;sicos orales o parenteral
+168,9,1 1
+	El Dolor Lumbar se alivia con: Movi&#233;ndose constantemente
+169,9,1 1
+	El Dolor Lumbar se alivia con: Reposo sin moverse en cama
+170,9,1 1
+	Comod&#237;n Antecedentes Personales de Dolor Lumbar V66
+171,9,1 1
+	CMBD de Vejiga Neur&#243;gena por Incontinencia Urinaria
+172,9,1 1
+	La Mastodinia guarda relaci&#243;n con: Menstruaci&#243;n
+173,9,1 1
+	El Dolor Lumbar se exacerba con los movimientos &#243; con el ejercicio
+174,9,1 1
+	El paciente presenta m&#225;s sed de lo habitual
+175,9,1 1
+	Cu&#225;nto tiempo hace que Orina M&#225;s de lo Habitual: Menos de un mes
+176,9,1 2
+	Cu&#225;nto tiempo hace que Orina M&#225;s de lo Habitual: De un mes a tres
+	 meses
+177,9,1 2
+	Cu&#225;nto tiempo hace que Orina M&#225;s de lo Habitual: Tres meses o
+	 m&#225;s
+178,9,1 1
+	Cu&#225;nto orina en cada micci&#243;n: Una gran cantidad de orina
+179,9,1 1
+	Prefiere bebidas muy fr&#237;as o heladas
+180,9,1 1
+	Existen evidencias de Insuficiencia Renal Aguda
+181,9,1 1
+	CMBD de Insuficiencia Renal Aguda (Oliguria)
+182,9,1 1
+	Durante el d&#237;a ingiere poca cantidad de l&#237;quido (menos de 1 litro)
+183,9,1 1
+	Durante el d&#237;a ingiere cantidad normal de l&#237;quido (1-2 litros)
+184,9,1 1
+	Comod&#237;n de la var 72
+185,9,1 1
+	Intermedio S&#237;ntomas Cr&#243;nicos para Hiperplasia Prost&#225;tica Benigna
+186,9,1 1
+	Comod&#237;n de la var 74
+187,9,1 1
+	Comod&#237;n de la var 75
+188,9,1 1
+	Comod&#237;n de la var 76
+189,9,1 1
+	Comod&#237;n de la var 79
+190,9,1 1
+	Comod&#237;n de la var 80
+191,9,1 1
+	Existen evidencias de Insuficiencia Renal Aguda Prerrenal
+192,9,1 2
+	El Aumento de Volumen Testicular se acompa&#241;a de s&#237;ntomas
+	 inflamatorios locales
+193,9,1 1
+	Existen evidencias de Prostatitis
+194,9,1 1
+	CMBD Prostatitis (Disuria)
+195,9,1 1
+	Existen evidencias de Retenci&#243;n Urinaria por Litiasis Renoureteral
+196,9,1 1
+	CMBD Prostatitis (Polaquiuria)
+197,9,1 1
+	Existen evidencias de Hiperplasia Prost&#225;tica Benigna
+198,9,1 1
+	CMBD HPB (Modificaci&#243;n del Chorro)
+199,9,1 1
+	CMBD HPB (Retenci&#243;n Urinaria)
+200,9,1 1
+	CMBD HPB (Incontinencia de Orina)
+201,9,1 1
+	CMBD HPB (Polaquiuria)
+202,9,1 2
+	Intermedio de Hiperplasia Prost&#225;tica Benigna y C&#225;ncer de
+	 Pr&#243;stata
+203,9,1 1
+	Existen evidencias de Retenci&#243;n Urinaria por Traumatismo
+204,9,1 1
+	Existen evidencias de C&#225;ncer de Pr&#243;stata
+205,9,1 1
+	Existen evidencias de Retenci&#243;n Urinaria Secundaria a F&#225;rmacos
+206,9,1 1
+	Existen evidencias de Cistitis Intersticial
+207,9,1 1
+	CMBD de Cistitis Intersticial (Disuria)
+208,9,1 1
+	CMBD de Cistitis Intersticial por Hematuria
+209,9,1 1
+	Intermedio de Disuria &#243; Polaquiuria
+210,9,1 1
+	CMBD de Cistitis Intersticial (Polaquiuria)
+211,9,1 1
+	Existen evidencias de Epididimitis
+212,9,1 1
+	CMBD de Epidimitis (Dolor Testicular)
+213,9,1 1
+	CMBD de Epidimitis (Aumento de Volumen Testicular)
+214,9,1 1
+	El paciente presenta Hipersensibilidad Testicular
+215,9,1 1
+	Comodin de la variable 1
+216,9,1 1
+	El Dolor Lumbar comenz&#243; en la espalda: Unilateral
+217,9,1 1
+	El Dolor Lumbar comenz&#243; en la espalda: Bilateral
+218,9,1 1
+	Existen evidencias de Torsi&#243;n Testicular
+219,9,1 1
+	CMBD de Torsi&#243;n Testicular (Dolor Testicular)
+220,9,1 1
+	Existen evidencias de Tumor Testicular
+221,9,1 1
+	CMBD de Tumor Testicular (Aumento de Volumen Testicular)
+222,9,1 1
+	Existen evidencias de Lesi&#243;n Traum&#225;tica Testicular
+223,9,1 1
+	CMBD de Lesi&#243;n Traum&#225;tica Testicular (Dolor Testicular)
+224,9,1 1
+	CMBD de Lesi&#243;n Traum&#225;tica Testicular (Aumento de Volumen testicular)
+225,9,1 1
+	Existen evidencias de Glomerulonefritis Aguda
+226,9,1 1
+	CMBD de Glomerulonefritis Aguda (Hematuria)
+227,9,1 1
+	CMBD de Glomerulonefritis Aguda (Edema)
+228,9,1 1
+	Manifestaciones Hipertensivas
+229,9,1 1
+	Intermedio para Insuficiencia Card&#237;aca y Edema
+230,9,1 1
+	CMBD de S&#237;ndrome de Good Posture por Hematuria
+231,9,1 1
+	Existen evidencias de S&#237;ndrome de Good Posture
+232,9,1 1
+	Existen evidencias de S&#237;ndrome Nefr&#243;tico
+233,9,1 1
+	CMBD de S&#237;ndrome Nefr&#243;tico (Edema)
+234,9,1 1
+	Existen evidencias de Pielonefritis Aguda
+235,9,1 1
+	CMBD de Pielonefritis Aguda (Dolor Lumbar)
+236,9,1 1
+	CMBD de Pielonefritis Aguda(Disuria)
+237,9,1 1
+	Intermedio 1 para Pielonefritis Aguda
+238,9,1 1
+	Intermedio 2 para Pielonefritis Aguda
+239,9,1 1
+	Intermedio 3 para Pielonefritis Aguda
+240,9,1 1
+	Intermedio 4 para Pielonefritis Aguda
+241,9,1 1
+	Existen evidencias de C&#225;ncer Renal
+242,9,1 1
+	CMBD de C&#225;ncer Renal (Hematuria)
+243,9,1 1
+	CMBD de C&#225;ncer Renal (Dolor abdominal)
+244,9,1 1
+	CMBD de Ri&#241;ones Poliqu&#237;sticos por Dolor Lumbar
+245,9,1 1
+	Existen evidencias de Ri&#241;ones Poliqu&#237;sticos
+246,9,1 1
+	CMBD de Ri&#241;ones Poliqu&#237;sticos (Hematuria)
+247,9,1 1
+	Existen evidencias de Absceso Renal
+248,9,1 1
+	CMBD de Absceso Renal (Dolor lumbar)
+249,9,1 1
+	Intermedio de Hematuria y Disuria
+250,9,1 1
+	Hay evidencias de Retenci&#243;n Urinaria Secundaria a C&#225;lculos Vesicales
+251,9,1 1
+	Existen evidencias de Uretritis Gonoc&#243;cica
+252,9,1 1
+	CMBD de Uretritis Gonoc&#243;cica (Uretrorrea)
+253,9,1 1
+	Existen evidencias de Vulvovaginitis Gonoc&#243;cica
+254,9,1 1
+	CMBD de Vulvovaginitis (Leucorrea)
+255,9,1 1
+	C&#225;ncer de Pr&#243;stata Metast&#225;sico
+256,9,1 1
+	Comod&#237;n de la var 81
+257,9,1 1
+	Existen evidencias de Vulvovaginitis por C&#225;ndidas
+258,9,1 1
+	CMBD de Vulvovaginitis (C&#225;ndidas por Leucorrea)
+259,9,1 1
+	Intermedio 79{2,1} V 73{2,1} V 10{2,1} para Vulvovaginitis por C&#225;ndidas
+260,9,1 1
+	Existen evidencias de Vulvovaginitis por Trichomonas
+261,9,1 1
+	CMBD de Vulvovaginitis por Trichomonas (Leucorrea)
+262,9,1 1
+	Existen evidencias de Vulvovaginitis Bacteriana (Chlamydia, Gandmerella, otras)
+263,9,1 1
+	Comod&#237;n de la var 85
+264,9,1 1
+	Cu&#225;ntas Reglas le han Faltado: Entre 1 y 2 (Amenorrea)
+265,9,1 1
+	Cu&#225;ntas Reglas le han Faltado: M&#225;s de 3 (Amenorrea)
+266,9,1 1
+	A que edad tuvo la primera regla: Menos de 12 a&#241;os
+267,9,1 1
+	A que edad tuvo la primera regla: Entre 12 y 14 a&#241;os
+268,9,1 1
+	A que edad tuvo la primera regla: Despu&#233;s de 15 a&#241;os
+269,9,1 1
+	Cu&#225;l es el ritmo de su Ciclo Menstrual: Entre 25 y 31 d&#237;as
+270,9,1 1
+	Cu&#225;l es el ritmo de su Ciclo Menstrual: Menos de 21 d&#237;as
+271,9,1 1
+	Cu&#225;l es el ritmo de su Ciclo Menstrual: M&#225;s de 35 d&#237;as
+272,9,1 1
+	Los Bultos en las Mamas se localizan de forma: Bilateral
+273,9,1 2
+	Desde cu&#225;ndo tiene Dolor en las Reglas: Desde la menarqu&#237;a
+	 (Dismenorrea)
+274,9,1 2
+	Desde cu&#225;ndo tiene Dolor en las Reglas: Varios a&#241;os despu&#233;s de
+	 la menarqu&#237;a (Dismenorrea)
+275,9,1 1
+	Desde cu&#225;ndo tiene Dolor en las Reglas: Edad madura (Dismenorrea)
+276,9,1 1
+	Sus reglas son regulares y predecibles
+277,9,1 1
+	Cu&#225;nto dura su Menstruaci&#243;n: Menos de 2 d&#237;as
+278,9,1 1
+	Cu&#225;nto dura su Menstruaci&#243;n: M&#225;s de 6 d&#237;as
+279,9,1 1
+	Cu&#225;nto dura su Menstruaci&#243;n: Entre 3 y 5 d&#237;as
+280,9,1 2
+	Sangre que pierde en su regla: Excesiva (m&#225;s de 6 compresas por d&#237;a),
+	 Hipermenorrea
+281,9,1 2
+	Sangre que pierde en su regla: Escasa (menos de 2 compresas por d&#237;a),
+	 Hipomenorrea
+282,9,1 2
+	Sangre que pierde en su regla: Normal ( de 2 a 6 compresas por d&#237;a),
+	 Eumenorrea
+283,9,1 1
+	El Dolor asociado a la Menstruaci&#243;n es: D&#237;as antes de la regla
+284,9,1 1
+	El Dolor asociado a la Menstruaci&#243;n es: Durante la regla
+285,9,1 1
+	El Dolor asociado a la Menstruaci&#243;n es: Despu&#233;s de la regla
+286,9,1 1
+	Comod&#237;n de la variable 48
+287,9,1 1
+	Tiempo que hace que ha notado Problemas Menstruales: 3 meses o menos
+288,9,1 1
+	Tiempo que hace que ha notado Problemas Menstruales: M&#225;s de 3 meses
+289,9,1 1
+	Metrorragias Irregulares entre ciclos menstruaci&#243;n: Despu&#233;s del coito
+290,9,1 1
+	Metrorragias Irregulares entre ciclos menstruales: A mitad de ciclo
+291,9,1 2
+	Metroragias Irregulares entre ciclos menstruales: Unos dias antes del inicio de
+	 una regla normal
+292,9,1 1
+	Tiene co&#225;gulos de sangre la menstruaci&#243;n
+293,9,1 1
+	La sangre asociada a la Metrorragia es: Rojo brillante
+294,9,1 1
+	La sangre asociada a la Metrorragia es: Oscura
+295,9,1 1
+	Secreci&#243;n de leche por el pez&#243;n
+296,9,1 1
+	Desde cu&#225;ndo tiene Mastodinia: 1 mes o menos
+297,9,1 1
+	Desde cu&#225;ndo tiene Mastodinia: M&#225;s de 1 mes
+298,9,1 1
+	La Mastodinia es: Unilateral
+299,9,1 1
+	La Mastodinia es: Bilateral
+300,9,1 1
+	Existen evidencias de Hidrocele
+301,9,1 2
+	La Mastodinia aparece: Una semana antes de la regla y desaparece a los 2 o 3
+	 d&#237;as de la menstruaci&#243;n
+302,9,1 1
+	La Mastodinia aparece: Solo d&#237;as antes de la menstruaci&#243;n
+303,9,1 1
+	La Mastodinia aparece: Solo durante la menstruaci&#243;n
+304,9,1 1
+	La Mastodinia guarda relaci&#243;n con: Puerperio
+305,9,1 1
+	La Mastodinia guarda relaci&#243;n con: Embarazo
+306,9,1 1
+	La Mastodinia guarda relaci&#243;n con: Traumatismo
+307,9,1 2
+	La Mastodinia guarda relaci&#243;n con: Lesiones de continuidad en el
+	 pez&#243;n
+308,9,1 1
+	Existen evidencias de Mastitis
+309,9,1 1
+	CMBD de Mastitis (Mastodinia)
+310,9,1 1
+	CMBD de Hidrocele (Aumento del Volumen Testicular)
+311,9,1 1
+	CMBD de Enfermedad Fibroqu&#237;stica (Bultos en las Mamas)
+312,9,1 1
+	CMBD de Enfermedad Fibroqu&#237;stica (Mastodinia)
+313,9,1 1
+	CMBD de Enfermedad Fibroqu&#237;stica (Galactorrea)
+314,9,1 1
+	Existen evidencias de Mastopat&#237;a Fibroqu&#237;stica
+315,9,1 1
+	CMBD de Mastopat&#237;a Fibroqu&#237;stica(Bultos en las Mamas)
+316,9,1 1
+	CMBD de Vejiga Neur&#243;gena por Retenci&#243;n Urinaria
+317,9,1 1
+	Existen evidencias de C&#225;ncer de Mama
+318,9,1 1
+	CMBD de C&#225;ncer de mama (Bultos en las Mamas)
+319,9,1 1
+	Secresi&#243;n sanguinolenta por el pez&#243;n
+320,9,1 1
+	Retracci&#243;n del Pez&#243;n
+321,9,1 1
+	CMBD de C&#225;ncer de Mama (Mastodinia)
+322,9,1 1
+	Existen evidencias de Embarazo
+323,9,1 1
+	CMBD de Embarazo (Amenorrea)
+324,9,1 1
+	Existen evidencias de Aborto
+325,9,1 1
+	CMBD de Aborto (Metrorragia)
+326,9,1 1
+	Existen evidencias de S&#237;ndrome Premenstrual
+327,9,1 1
+	CMBD de S&#237;ndrome Premenstrual (Dismenorrea)
+328,9,1 1
+	Comod&#237;n de la var 99
+329,9,1 1
+	Existen evidencias de Embarazo Ect&#243;pico
+330,9,1 1
+	CMBD de Embarazo Ect&#243;pico (Dolor Abdominal)
+331,9,1 1
+	Existen evidencias de Varicocele
+332,9,1 1
+	CMBD de Embarazo Ect&#243;pico (Metrorragia)
+333,9,1 1
+	CMBD de Embarazo (Galactorrea)
+334,9,1 1
+	CMBD de Aborto (Dolor Lumbar)
+335,9,1 1
+	Existen evidencias de C&#243;lico Renoureteral por Litiasis Renoureteral
+336,9,1 1
+	CMBD de C&#243;lico Renoureteral (Dolor Lumbar)
+337,9,1 1
+	CMBD de C&#243;lico Renoureteral (Dolor Abdominal)
+338,9,1 1
+	CMBD de C&#243;lico Renoureteral (Hematuria)
+339,9,1 1
+	Existen evidencias de Litiasis Vesical
+340,9,1 1
+	CMBD de Litiasis Vesical (Hematuria)
+341,9,1 1
+	CMBD de Litiasis Vesical (Disuria1)
+342,9,1 1
+	CMBD de Litiasis Vesical (Disuria2)
+343,9,1 1
+	CMBD de Litiasis Vesical (Polaquiuria)
+344,9,1 1
+	CMBD de Litiasis Vesical (Modificaci&#243;n del Chorro)
+345,9,1 1
+	Existen evidencias de C&#225;ncer de Vejiga
+346,9,1 1
+	CMBD de C&#225;ncer de Vejiga (Hematuria)
+347,9,1 1
+	CMBD de Varicocele por Aumento de Volumen Testicular
+348,9,1 1
+	CMBD de C&#225;ncer de Vejiga (Polaquiuria)
+349,9,1 2
+	Existen evidencias de P&#250;rpura de Sch&#38;ouml;nlein - Henoch &#243;
+	 P&#250;rpura Anafilactoide
+350,9,1 1
+	CMBD de P&#250;rpura de Sch&#38;ouml;nlein - Henoch (Hematuria)
+351,9,1 1
+	Comod&#237;n de la var 98
+352,9,1 1
+	Comod&#237;n de la var 90
+353,9,1 1
+	El sangrado actual fue precedido de ausencia de al menos una regla
+354,9,1 2
+	El paciente refiere tener Disuria de 7 a 10 d&#237;as despu&#233;s de la
+	 menstruaci&#243;n
+355,9,1 2
+	El paciente refiere tener Hematuria de 7 a 10 d&#237;as despu&#233;s de la
+	 menstruaci&#243;n
+356,9,1 1
+	comod&#237;n de la var 99
+357,9,1 1
+	comod&#237;n de la var 100
+358,9,1 2
+	El paciente refiere tener Polaquiuria de 7 a 10 d&#237;as despu&#233;s de la
+	 menstruaci&#243;n
+359,9,1 1
+	comod&#237;n de la var 102
+360,9,1 1
+	CMBD de Necrosis Papilar (Hematuria)
+361,9,1 1
+	Existen evidencias de Insuficiencia Renal Cr&#243;nica
+362,9,1 1
+	CMBD de insuficiencia Renal Cr&#243;nica (Debilidad Muscular)
+363,9,1 1
+	CMBD de insuficiencia Renal Cr&#243;nica (Oliguria)
+364,9,1 2
+	Intermedio 1 de S&#237;ntomas Acompa&#241;antes para Insuficiencia Renal
+	 Cr&#243;nica (Debilidad Muscular)
+365,9,1 2
+	Intermedio 2 de S&#237;ntomas Acompa&#241;antes para Insuficiencia Renal
+	 Cr&#243;nica (Debilidad Muscular)
+366,9,1 2
+	Intermedio de Antecedentes Patol&#243;gicos Personales para Insuficiencia Renal
+	 Cr&#243;nica
+367,9,1 2
+	Intermedio de S&#237;ntomas Acompa&#241;antes para Insuficiencia Renal
+	 Cr&#243;nica (Oliguria)
+368,9,1 1
+	Existen evidencias de Pielonefritis Cr&#243;nica
+369,9,1 1
+	Existen evidencias de Necrosis Papilar
+370,9,1 1
+	CMBD de Necrosis Papilar (Dolor Lumbar)
+371,9,1 1
+	Secreci&#243;n Uretral amarilla
+372,9,1 1
+	Leucorrea purulenta
+373,9,1 1
+	Leucorrea clara
+374,9,1 1
+	Existen evidencias de Uretritis no Gonoc&#243;cica
+375,9,1 1
+	CMBD de Uretritis no Gonoc&#243;cica (Uretrorrea)
+376,9,1 1
+	CMBD de Pielonefritis Cr&#243;nica (Dolor Lumbar)
+377,9,1 1
+	CMBD de Uretritis no Gonoc&#243;cica (Uretrorrea Clara)
+378,9,1 1
+	CMBD de Vulvovaginitis Bacteriana (Leucorrea)
+379,9,1 1
+	CMBD de Vulvovaginitis Bacteriana (Leucorrea Clara)
+380,9,1 1
+	CMBD de Pielonefritis Cr&#243;nica (Disuria)
+381,9,1 1
+	Comod&#237;n de la variable 15 (S&#237;ntomas Acompa&#241;antes de Edema)
+382,9,1 1
+	Factores desencadenantes del edema en Extremidades Superiores: F&#225;rmacos
+383,9,1 2
+	Comodin de la variable 102 (Sint&#237;ntomas Acompa&#241;antes en Extremidades
+	 de Edema en Extremidades Superiores)
+384,9,1 1
+	Padre de RPH para lista de edema en Extremidades Inferiores
+385,9,1 1
+	CMBD de Absceso Renal por (Dolor Lumbar+(Fiebre &#243; Escalofr&#237;os))
+386,9,1 1
+	CMBD de Absceso Renal por (Dolor Abdominal+(Fiebre &#243; Escalofr&#237;os))
+387,9,1 1
+	CMBD de P&#250;rpura de Sch&#38;ouml;nlein - Henoch por (Hemorragia)
+388,9,1 1
+	Existen evidencias de Mioma Uterino
+389,9,1 1
+	CMBD de Mioma Uterino por Metrorragia con/sin Dolor Abdominal
+390,9,1 1
+	Existen evidencias de Enfermedad Inflamatoria Pelviana Aguda
+391,9,1 1
+	Existen evidencias de Enfermedad Inflamatoria Pelviana Cr&#243;nica
+392,9,1 1
+	CMBD de Enfermedad Inflamatoria Pelviana Aguda (Dolor Abdominal)
+393,9,1 1
+	CMBD de Enfermedad Inflamatoria Pelviana Cr&#243;nica (Dolor Abdominal)
+394,9,1 1
+	Existen evidencias de Incontinencia Urinaria por Esfuerzo en la Mujer
+395,9,1 2
+	CMBD de la enfermedad &#34;Incontinencia Urinaria por esfuerzo en la Mujer&#34;
+	 por el s&#237;ntoma Incontinencia Urinaria
+396,9,1 1
+	Existen evidencias de Cervicitis Aguda
+397,9,1 1
+	CMBD de &#34;Cervicitis Aguda&#34; por Leucorrea
+398,9,1 1
+	Existen evidencias de Cervicitis Cr&#243;nica
+399,9,1 1
+	CMBD de &#34;Cervicitis Cr&#243;nica&#34; por Leucorrea
+400,9,1 1
+	Existen evidencias de Mola Hidiatiforme
+401,9,1 1
+	Elimina ves&#237;culas por la vagina
+402,9,1 1
+	El Dolor Lumbar se irradia hacia la cara posterior o lateral del muslo o pierna
+403,9,1 1
+	El Dolor Lumbar se exacerba con la Tos o Estornudo
+404,9,1 1
+	El Dolor Lumbar se localiza en el raquis
+405,9,1 1
+	El paciente refiere presentar Priapismo y Eyaculaci&#243;n Espont&#225;nea
+406,9,1 1
+	CMBD de P&#250;rpura de Sch&#38;ouml;nlein - Henoch (Artritis)

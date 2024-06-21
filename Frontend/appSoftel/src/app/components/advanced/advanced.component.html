@@ -1,0 +1,288 @@
+<div>
+  <h1>Avanzado</h1>
+  <div class="h-100">
+    <mat-tab-group>
+
+      <mat-tab [label]="'Administrar usuarios'">
+
+        <section>
+          <div style="height: 5rem;">
+            <div class="d-flex justify-content-between mt-3">
+              <h1 class="font-calibri fw-normal">Usuarios</h1>
+              <div class="d-flex gap-4 align-items-center">
+
+                <div>
+                  <mat-form-field style="font-size: smaller;">
+                    <mat-label>Filtrar por</mat-label>
+                    <mat-select [(value)]="filt">
+                      <mat-option value="name">Nombre</mat-option>
+                      <mat-option value="lastName">Apellidos</mat-option>
+                      <mat-option value="phoneNumber"># Teléfono</mat-option>
+                      <mat-option value="date">Fecha creación</mat-option>
+                    </mat-select>
+                  </mat-form-field>
+                </div>
+
+                <div style="width: 18rem;">
+                  <mat-form-field *ngIf="filt != 'date'" class="w-100">
+                    <input matInput #filt (input)="doFilter(filt)" [placeholder]="'Filtrar'">
+                  </mat-form-field>
+
+                  <mat-form-field *ngIf="filt == 'date'" class="w-100">
+                    <mat-date-range-input [formGroup]="range" [rangePicker]="picker">
+                      <input matStartDate formControlName="start" placeholder="Start date">
+                      <input matEndDate formControlName="end" placeholder="End date">
+                    </mat-date-range-input>
+                    <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+                    <mat-date-range-picker #picker (closed)="doFilter()"></mat-date-range-picker>
+                  </mat-form-field>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <ng-template #spinner>
+            <div class="d-flex justify-content-center mt-4 w-100">
+              <mat-spinner
+                style="width: 10%;--mdc-circular-progress-active-indicator-color: #006633!important;"></mat-spinner>
+            </div>
+          </ng-template>
+
+          <div *ngIf="!load; else spinner">
+            <mat-accordion @moveAnimation (@moveAnimation.done)="doneAnimationMain()" multi>
+              <ng-container *ngFor="let user of usersFiltered; let i = index">
+
+                <mat-expansion-panel #expansion (@panelAnimation.done)="doneAnimation($event,i)"
+                                     *ngIf="deleteExpansion[i]"
+                                     [expanded]="false" @panelAnimation>
+
+                  <mat-expansion-panel-header class="bg-green">
+                    <mat-panel-title>
+                      id.{{ user.id }} {{ user.name }} {{ user.lastName }}
+                    </mat-panel-title>
+                    <div *ngIf="!isAdmin(user)" class="d-flex align-items-center me-2">
+                      <button matTooltip="'Eliminar usuario'"
+                              [matTooltipShowDelay]="400"
+                              mat-icon-button
+                              (click)="deleteUser(i, expansion)">
+                        <mat-icon>delete</mat-icon>
+                      </button>
+                      <button matTooltip="Editar usuario"
+                              [matTooltipShowDelay]="400"
+                              mat-icon-button>
+                        <mat-icon>edit</mat-icon>
+                      </button>
+                      <button matTooltip="Desactivar usuario"
+                              [matTooltipShowDelay]="400"
+                              mat-icon-button
+                              (click)="toggleEnabledUser(expansion, i)">
+                        <mat-icon *ngIf="user.enabled">done</mat-icon>
+                        <mat-icon *ngIf="!user.enabled">clear</mat-icon>
+                      </button>
+                      <button mat-button>
+                        Registro
+                      </button>
+                    </div>
+                  </mat-expansion-panel-header>
+
+                  <ng-container *ngIf="show[i]">
+                    <div class="mt-4">
+                      <div class="mb-3">
+                        <h4 class="ms-2">Datos del Usuario</h4>
+                        <form class="d-flex gap-4">
+
+                          <mat-form-field class="flex-grow-1">
+                            <mat-label>Nombre</mat-label>
+                            <input matInput placeholder="Nombre"
+                                   [(ngModel)]="user.name"
+                                   name="name"
+                                   #inName="ngModel"
+                                   (ngModelChange)="validWithPattern(i,'name')" required>
+
+                            <mat-hint class="text-danger" *ngIf="inName.invalid && (inName.dirty || inName.touched)">
+                              Campo requerido.
+                            </mat-hint>
+                            <mat-hint [align]="'end'" class="text-danger"
+                                      *ngIf="!validPattern[i][0] && (inName.dirty || inName.touched)">
+                              Invalid.
+                            </mat-hint>
+
+                          </mat-form-field>
+
+                          <mat-form-field class="flex-grow-1">
+                            <mat-label>Apellidos</mat-label>
+                            <input matInput placeholder="Apellidos"
+                                   [(ngModel)]="user.lastName"
+                                   name="lastName"
+                                   #inLastName="ngModel"
+                                   (ngModelChange)="validWithPattern(i,'lastName')" required>
+
+                            <mat-hint class="text-danger"
+                                      *ngIf="inLastName.invalid && (inLastName.dirty || inLastName.touched)">
+                              Este campo es requerido.
+                            </mat-hint>
+                            <mat-hint class="text-danger"
+                                      *ngIf="!validPattern[i][1] && (inLastName.dirty || inLastName.touched)">
+                              Invalid.
+                            </mat-hint>
+
+                          </mat-form-field>
+                          <mat-form-field [hintLabel]="'Contraseña encriptada'" class="flex-grow-1">
+                            <mat-label>Contraseña</mat-label>
+                            <input matInput placeholder="Contraseña"
+                                   [(ngModel)]="user.password"
+                                   name="password"
+                                   #inPassword="ngModel"
+                                   (ngModelChange)="validWithPattern(i, 'password')" required>
+
+                            <mat-hint class="text-danger"
+                                      *ngIf="inPassword.invalid && (inPassword.dirty || inPassword.touched)">
+                              Campo requerido.
+                            </mat-hint>
+                            <mat-hint class="text-warning"
+                                      *ngIf="!validPattern[i][2] && (inPassword.dirty || inPassword.touched)">
+                              A-Z, a-z, 0-9, !&#64;#$%&*()_+.
+                            </mat-hint>
+                            <mat-hint [align]="'end'">8/<span
+                              [ngClass]="user.password.length < 8 ? 'text-danger' : 'text-success'">{{ user.password.length }}</span>
+                            </mat-hint>
+                          </mat-form-field>
+                          <mat-form-field class="flex-grow-1">
+                            <mat-label>Teléfono</mat-label>
+                            <input matInput type="number" placeholder="Número de télefono"
+                                   [(ngModel)]="user.phoneNumber"
+                                   name="phoneNumber"
+                                   #phoneNumber="ngModel"
+                                   (ngModelChange)="validWithPattern(i, 'phoneNumber')" required>
+                            <mat-hint class="text-danger"
+                                      *ngIf="phoneNumber.invalid && (phoneNumber.dirty || phoneNumber.touched)">
+                              Campo requerido.
+                            </mat-hint>
+                            <mat-hint class="text-danger"
+                                      *ngIf="user.phoneNumber.toString().length != 8 && (phoneNumber.dirty || phoneNumber.touched)">
+                              Invalid.
+                            </mat-hint>
+                            <mat-hint [align]="'end'"><span
+                              [ngClass]="user.phoneNumber.toString().length != 8 ? 'text-danger' : 'text-success'">{{ user.phoneNumber.toString().length }}</span>/8
+                            </mat-hint>
+                          </mat-form-field>
+                        </form>
+                        <mat-label>Se registró el : {{ user.date | date: 'dd/MM/yyyy hh:mm:ss' }}</mat-label>
+                      </div>
+
+                      <mat-divider></mat-divider>
+
+                      <div class="my-3">
+                        <h4 class="ms-2">Roles</h4>
+                        <div>
+                          <div class="d-flex gap-4 mb-1">
+                            <div *ngFor="let rol of user.roles; let j = index"
+                                 class="d-flex align-items-center border-end">
+                              <label class="fs-5">{{ rol.name }}</label>
+                              <button mat-icon-button (click)="deleteRol(j, user)">
+                                <mat-icon color="warn">clear</mat-icon>
+                              </button>
+                            </div>
+                          </div>
+                          <form class="d-flex mt-3">
+                            <mat-form-field>
+
+                              <mat-label>Selecciona el rol</mat-label>
+
+                              <input #input type="text" matInput [formControl]="myControl" [matAutocomplete]="auto"
+                                     (input)="filter(input)" (focus)="filter(input)">
+
+                              <mat-autocomplete #auto="matAutocomplete" (optionSelected)="addRol(user)">
+                                <mat-option *ngFor="let rol of filteredRoles" [value]="rol.name">
+                                                    <span *ngFor="let char of rol.name.split('')"
+                                                          [ngClass]="myControl.value?.toLowerCase()?.includes(char.toLowerCase()) ? 'bg-green rounded-0':''">{{ char }}</span>
+                                </mat-option>
+                              </mat-autocomplete>
+                              <mat-hint>Escriba el rol para filtrar</mat-hint>
+
+                            </mat-form-field>
+                            <div class="ms-5 p-2 border border-dark-subtle rounded" style="height: fit-content;">
+                              <p style="font-size: smaller;" class="text-secondary m-0">Debe tener mucho cuidado a la hora
+                                de establecer los roles</p>
+                              <p style="font-size: smaller;" class="text-secondary m-0">*Nota: No debe asignar el rol de
+                                especialista sin antes confirmarlo</p>
+                            </div>
+                          </form>
+                        </div>
+                      </div>
+
+                      <mat-divider></mat-divider>
+
+                      <div class="d-flex align-items-center gap-2 my-3">
+                        <button mat-stroked-button (click)="openDialog(i)">Ver más sobre el usuario</button>
+                        <button mat-button [ngClass]="loadSpinnerADdSpecialist[i] ? '' : 'bg-green'"
+                                [disabled]="loadSpinnerADdSpecialist[i]"
+                                (click)="assignedAsSpecialist(i)"
+                                *ngIf="!isSpecialist(user)">Asignar como ESPECIALISTA
+                        </button>
+                        <mat-spinner *ngIf="loadSpinnerADdSpecialist[i]"
+                                     style="width: 2%;height: 20px;--mdc-circular-progress-active-indicator-color: #006633!important;"></mat-spinner>
+                      </div>
+                    </div>
+
+                    <app-actions-buttons
+                      [spinner]="true"
+                      [disabled]="disabledBtn[i] || !(validPattern[i][0] && validPattern[i][1] && validPattern[i][2] && validPattern[i][3])"
+                      (clickAcept)="saveUser(i)"
+                      (clickCancel)="cancelUser(user, i)"
+                      [col]="true" class="w-100"
+                      [textPrimary]="'Aceptar'"></app-actions-buttons>
+                  </ng-container>
+                </mat-expansion-panel>
+              </ng-container>
+            </mat-accordion>
+
+            <div class="d-flex justify-content-center">
+              <div class="w-75">
+                <app-actions-buttons [spinner]="true" [disabled]="disabledBtnAll" (clickAcept)="saveAllUser()"
+                                     (clickCancel)="cancel()" (clickNeither)="addUser()" [col]="true"
+                                     [textPrimary]="'Guardar todo'" [textTerciary]="'Agregar +'" [anotherButton]="true"
+                                     [start]="true"></app-actions-buttons>
+              </div>
+            </div>
+
+            <div class="d-flex flex-column gap-2 me-4 mb-5 float">
+              <button class="btn btn-success shadow" (click)="accordion?.closeAll()"
+                      matTooltip="Cerrar los acordiones abiertos"
+                      [matTooltipPosition]="'before'"
+                      [matTooltipShowDelay]="500">
+                <mat-icon>
+                  line_weight
+                </mat-icon>
+              </button>
+              <button class="btn btn-success shadow"
+                      matTooltip="Guardar todas las modificaciones"
+                      [matTooltipPosition]="'before'"
+                      [matTooltipShowDelay]="500"
+                      (click)="saveAllUser()">
+                <mat-icon>
+                  save
+                </mat-icon>
+              </button>
+              <button class="btn btn-danger shadow"
+                      matTooltip="Cancelar modificaciones"
+                      [matTooltipPosition]="'before'"
+                      [matTooltipShowDelay]="500"
+                      (click)="cancel()">
+                <mat-icon>
+                  clear
+                </mat-icon>
+              </button>
+            </div>
+          </div>
+        </section>
+
+      </mat-tab>
+
+      <mat-tab [label]="'Registros'">
+        <app-table-to-logs></app-table-to-logs>
+      </mat-tab>
+
+    </mat-tab-group>
+  </div>
+</div>

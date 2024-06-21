@@ -1,0 +1,31 @@
+.sidenav {
+    padding: 20px;
+}
+.btn-float{
+    position: absolute;
+    z-index: 2;
+    color: white;
+    padding: 8px;
+}
+.left{
+    top: 1rem;
+    left: 1rem;
+}
+
+.right{
+    top: 1rem;
+    right: 1rem;
+}
+
+.fs-7{
+    font-size: 0.8rem!important;
+}
+
+.divider{
+    margin: 10px 0px;
+    border-color: white;
+}
+
+.mxm-w{
+    max-width: 88%;
+}

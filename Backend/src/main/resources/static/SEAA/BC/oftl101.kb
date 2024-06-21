@@ -1,0 +1,638 @@
+oftl101
+3
+//  Objetivos
+	24 115 116 117 119 121 123 125 127 128 130 131 133 135 136 137 139 140 142 144 146 148 150 152 158 
+//  Conclusiones Finales
+//  Proposiciones que van al BKB
+	31 35 36 37 99 100 101 102 105 116 117 119 121 123 125 127 128 130 131 133 135 136 137 139 140 142 144 146 148 150 152 158 
+//  Variables que van al BKB
+//  Proposiciones que se eliminan del BKB
+//  Variables que se eliminan del BKB
+//  PROPOSICIONES
+	1 /* Enrojecimiento Ocular de menos de un mes */
+		C & -1.0 1  63{1,1} [0.01 1.0]
+	2 /* Enrojecimiento Ocular de m&#225;s de un mes */
+		C & -1.0 1  63{1,1} [0.01 1.0]
+	3 /* Enrojecimiento Ocular de menos de 7 d&#237;as */
+		C & -1.0 1  1 [0.01 1.0]
+	4 /* Enrojecimiento Ocular de m&#225;s de 7 d&#237;as */
+		C & -1.0 1  1 [0.01 1.0]
+	5 /* Enrojecimiento Ocular unilateral */
+		C & -1.0 1  63{1,1} [0.01 1.0]
+	6 /* Enrojecimiento Ocular bilateral */
+		C & -1.0 1  63{1,1} [0.01 1.0]
+	7 /* Enrojecimiento Ocular m&#225;s manifiesto durante el d&#237;a */
+		C & -1.0 1  63{1,1} [0.01 1.0]
+	8 /* Enrojecimiento Ocular m&#225;s manifiesto durante la noche */
+		C & -1.0 1  63{1,1} [0.01 1.0]
+	9 /* Enrojecimiento Ocular m&#225;s manifiesto indiferente */
+		C & -1.0 1  63{1,1} [0.01 1.0]
+	10 /* Fotofobia de menos de un mes */
+		C & -1.0 1  252{1,1} [0.01 1.0]
+	11 /* Fotofobia de m&#225;s de un mes */
+		C & -1.0 1  252{1,1} [0.01 1.0]
+	12 /* Fotofobia de menos de 7 d&#237;as */
+		C & -1.0 1  10 [0.01 1.0]
+	13 /* Fotofobia de m&#225;s de 7 d&#237;as */
+		C & -1.0 1  10 [0.01 1.0]
+	14 /* Dolor Ocular de menos de un mes */
+		C & -1.0 1  62{1,1} [0.01 1.0]
+	15 /* Dolor Ocular de m&#225;s de un mes */
+		C & -1.0 1  62{1,1} [0.01 1.0]
+	16 /* Dolor Ocular de menos de 7 d&#237;as */
+		C & -1.0 1  14 [0.01 1.0]
+	17 /* Dolor Ocular de m&#225;s de 7 d&#237;as */
+		C & -1.0 1  14 [0.01 1.0]
+	18 /* Dolor Ocular unilateral */
+		C & -1.0 1  62{1,1} [0.01 1.0]
+	19 /* Dolor Ocular bilateral */
+		C & -1.0 1  62{1,1} [0.01 1.0]
+	20 /* Dolor Ocular que se irradia a zonas vecinas */
+		C & -1.0 1  62{1,1} [0.01 1.0]
+	21 /* Ardor Ocular de menos de un mes */
+		C & -1.0 1  61{1,1} [0.01 1.0]
+	22 /* Ardor Ocular de m&#225;s de un mes */
+		C & -1.0 1  61{1,1} [0.01 1.0]
+	23 /* Ardor Ocular de menos de 7 d&#237;as */
+		C & -1.0 1  21 [0.01 1.0]
+	24 /* Ardor Ocular de m&#225;s de 7 d&#237;as */
+		C & -1.0 1  21 [0.01 1.0]
+	25 /* Ardor Ocular unilateral */
+		C & -1.0 1  61{1,1} [0.01 1.0]
+	26 /* Ardor Ocular bilateral */
+		C & -1.0 1  61{1,1} [0.01 1.0]
+	27 /* Ardor Ocular m&#225;s manifiesto durante el d&#237;a */
+		C & -1.0 1  61{1,1} [0.01 1.0]
+	28 /* Ardor Ocular m&#225;s manifiesto durante la noche */
+		C & -1.0 1  61{1,1} [0.01 1.0]
+	29 /* Ardor Ocular m&#225;s manifiesto indiferente */
+		C & -1.0 1  61{1,1} [0.01 1.0]
+	30 /* El Ardor Ocular aparece o guarda relaci&#243;n con ambientes secos o irritantes  */
+		C & -1.0 1  61{1,1} [0.01 1.0]
+	31 /* Prurito Ocular de menos de un mes */
+		C & -1.0 1  261{1,1} [0.01 1.0]
+	32 /* Prurito Ocular de m&#225;s de un mes */
+		C & -1.0 1  261{1,1} [0.01 1.0]
+	33 /* Prurito Ocular de menos de 7 d&#237;as */
+		C & -1.0 1  31 [0.01 1.0]
+	34 /* Prurito Ocular de m&#225;s de 7 d&#237;as */
+		C & -1.0 1  31 [0.01 1.0]
+	35 /* Prurito Ocular unilateral */
+		C & -1.0 1  261{1,1} [0.01 1.0]
+	36 /* Prurito Ocular bilateral */
+		C & -1.0 1  261{1,1} [0.01 1.0]
+	37 /* Prurito Ocular m&#225;s manifiesto durante el d&#237;a */
+		C & -1.0 1  261{1,1} [0.01 1.0]
+	38 /* Prurito Ocular m&#225;s manifiesto durante la noche */
+		C & -1.0 1  261{1,1} [0.01 1.0]
+	39 /* Prurito Ocular m&#225;s manifiesto indiferente */
+		C & -1.0 1  261{1,1} [0.01 1.0]
+	40 /* El Prurito Ocular aparece o guarda relaci&#243;n con ambientes secos o irritante */
+		C & -1.0 1  261{1,1} [0.01 1.0]
+	41 /* Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos de menos de un mes */
+		C & -1.0 1  262{1,1} [0.01 1.0]
+	42 /* Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos de m&#225;s de un mes */
+		C & -1.0 1  262{1,1} [0.01 1.0]
+	43 /* Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos de menos de 7 d&#237;as */
+		C & -1.0 1  41 [0.01 1.0]
+	44 /* Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos de m&#225;s de 7 d&#237;as */
+		C & -1.0 1  41 [0.01 1.0]
+	45 /* Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos unilateral */
+		C & -1.0 1  262{1,1} [0.01 1.0]
+	46 /* Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos bilateral */
+		C & -1.0 1  262{1,1} [0.01 1.0]
+	47 /* Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos m&#225;s manifiesto durante el d&# */
+		C & -1.0 1  262{1,1} [0.01 1.0]
+	48 /* Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos m&#225;s manifiesto durante la noc */
+		C & -1.0 1  262{1,1} [0.01 1.0]
+	49 /* Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos m&#225;s manifiesto indiferente */
+		C & -1.0 1  262{1,1} [0.01 1.0]
+	50 /* Se produce recidiva del Enrojecimiento Ocular durante meses o a&#241;os */
+		C & -1.0 1  63{1,1} [0.01 1.0]
+	51 /* La recidiva del Enrojecimiento Ocular ocurre en primavera */
+		C & -1.0 1  50 [0.01 1.0]
+	52 /* Se produce recidiva del Ardor Ocular durante meses o a&#241;os */
+		C & -1.0 1  61{1,1} [0.01 1.0]
+	53 /* La recidiva del Ardor Ocular ocurre en primavera */
+		C & -1.0 1  52 [0.01 1.0]
+	54 /* Se produce recidiva del Prurito Ocular durante meses o a&#241;os */
+		C & -1.0 1  261{1,1} [0.01 1.0]
+	55 /* La recidiva del Prurito Ocular ocurre en primavera */
+		C & -1.0 1  54 [0.01 1.0]
+	56 /* Se produce recidiva de la Fotofobia Ocular durante meses o a&#241;os */
+		C & -1.0 1  252{1,1} [0.01 1.0]
+	57 /* La recidiva de la Fotofobia ocurre en primavera */
+		C & -1.0 1  56 [0.01 1.0]
+	58 /* El Dolor Ocular se intensifica con el parpadeo */
+		C & -1.0 1  62{1,1} [0.01 1.0]
+	59 /* Lagrimeo de menos de un mes */
+		C & -1.0 1  64{1,1} [0.01 1.0]
+	60 /* Lagrimeo de m&#225;s de un mes */
+		C & -1.0 1  64{1,1} [0.01 1.0]
+	61 /* Lagrimeo de menos de 7 d&#237;as */
+		C & -1.0 1  59 [0.01 1.0]
+	62 /* Lagrimeo de m&#225;s de 7 d&#237;as */
+		C & -1.0 1  59 [0.01 1.0]
+	63 /* Lagrimeo unilateral */
+		C & -1.0 1  64{1,1} [0.01 1.0]
+	64 /* Lagrimeo bilateral */
+		C & -1.0 1  64{1,1} [0.01 1.0]
+	65 /* Lagrimeo m&#225;s manifiesto durante el d&#237;a */
+		C & -1.0 1  64{1,1} [0.01 1.0]
+	66 /* Lagrimeo m&#225;s manifiesto durante la noche */
+		C & -1.0 1  64{1,1} [0.01 1.0]
+	67 /* Lagrimeo m&#225;s manifiesto indiferente */
+		C & -1.0 1  64{1,1} [0.01 1.0]
+	68 /* El Lagrimeo aparece o guarda relaci&#243;n con ambientes secos o irritantes qu&# */
+		C & -1.0 1  64{1,1} [0.01 1.0]
+	69 /* Se produce recidiva del Lagrimeo durante meses o a&#241;os */
+		C & -1.0 1  64{1,1} [0.01 1.0]
+	70 /* La recidiva del Lagrimeo ocurre en primavera */
+		C & -1.0 1  69 [0.01 1.0]
+	71 /* Secreci&#243;n Conjuntival de menos de un mes */
+		C & -1.0 1  263{1,1} [0.01 1.0]
+	72 /* Secreci&#243;n Conjuntival de m&#225;s de un mes */
+		C & -1.0 1  263{1,1} [0.01 1.0]
+	73 /* Secreci&#243;n Conjuntival de menos de 7 d&#237;as */
+		C & -1.0 1  71 [0.01 1.0]
+	74 /* Secreci&#243;n Conjuntival de m&#225;s de 7 d&#237;as */
+		C & -1.0 1  71 [0.01 1.0]
+	75 /* Secreci&#243;n Conjuntival unilateral */
+		C & -1.0 1  263{1,1} [0.01 1.0]
+	76 /* Secreci&#243;n Conjuntival bilateral */
+		C & -1.0 1  263{1,1} [0.01 1.0]
+	77 /* Secreci&#243;n Conjuntival m&#225;s manifiesto durante el d&#237;a */
+		C & -1.0 1  263{1,1} [0.01 1.0]
+	78 /* Secreci&#243;n Conjuntival m&#225;s manifiesto durante la noche */
+		C & -1.0 1  263{1,1} [0.01 1.0]
+	79 /* Secreci&#243;n Conjuntival m&#225;s manifiesto indiferente */
+		C & -1.0 1  263{1,1} [0.01 1.0]
+	80 /* La Secreci&#243;n Conjuntival aparece o guarda relaci&#243;n con ambientes secos */
+		C & -1.0 1  263{1,1} [0.01 1.0]
+	81 /* La Secreci&#243;n Conjuntival es purulenta */
+		C & -1.0 1  263{1,1} [0.01 1.0]
+	82 /* La Secreci&#243;n Conjuntival es serosa */
+		C & -1.0 1  263{1,1} [0.01 1.0]
+	83 /* La Secreci&#243;n Conjuntival es seropurulenta */
+		C & -1.0 1  263{1,1} [0.01 1.0]
+	84 /* La Secreci&#243;n Conjuntival es hemorr&#225;gica */
+		C & -1.0 1  263{1,1} [0.01 1.0]
+	85 /* Los ojos aparecen pegados al despertar */
+		C & -1.0 1  263{1,1} [0.01 1.0]
+	86 /* Edema en P&#225;rpados unilateral */
+		C & -1.0 1  34{9,1} [0.01 1.0]
+	87 /* Edema en P&#225;rpados bilateral */
+		C & -1.0 1  34{9,1} [0.01 1.0]
+	88 /* Edema en P&#225;rpados que apareci&#243; rapidamente */
+		C & -1.0 1  34{9,1} [0.01 1.0]
+	89 /* Edema en P&#225;rpados que apareci&#243; gradualmente */
+		C & -1.0 1  34{9,1} [0.01 1.0]
+	90 /* Edema en P&#225;rpados desencadenado por infecciones locales */
+		C & -1.0 1  34{9,1} [0.01 1.0]
+	91 /* Edema en P&#225;rpados desencadenado por agente irritante local */
+		C & -1.0 1  34{9,1} [0.01 1.0]
+	92 /* Edema en P&#225;rpados desencadenado por trastornos conjuntivales */
+		C & -1.0 1  34{9,1} [0.01 1.0]
+	93 /* Edema en P&#225;rpados desencadenado por quemaduras */
+		C & -1.0 1  34{9,1} [0.01 1.0]
+	94 /* Comod&#237;n de S&#237;ntomas Acompa&#241;antes de Edema en P&#225;rpados */
+		C & -1.0 1  34{9,1} [0.01 1.0]
+		V 34 U
+	95 /* Disminuci&#243;n de la Agudeza Visual de menos de un mes */
+		C & -1.0 1  65{1,1} [0.01 1.0]
+	96 /* Disminuci&#243;n de la Agudeza Visual de m&#225;s de un mes */
+		C & -1.0 1  65{1,1} [0.01 1.0]
+	97 /* Disminuci&#243;n de la Agudeza Visual de menos de 7 d&#237;as */
+		C & -1.0 1  95 [0.01 1.0]
+	98 /* Disminuci&#243;n de la Agudeza Visual de m&#225;s de 7 d&#237;as */
+		C & -1.0 1  95 [0.01 1.0]
+	99 /* Disminuci&#243;n de la Agudeza Visual unilateral */
+		C & -1.0 1  65{1,1} [0.01 1.0]
+	100 /* Disminuci&#243;n de la Agudeza Visual bilateral */
+		C & -1.0 1  65{1,1} [0.01 1.0]
+	101 /* Disminuci&#243;n de la Agudeza Visual: Visi&#243;n borrosa */
+		C & -1.0 1  65{1,1} [0.01 1.0]
+	102 /* Disminuci&#243;n de la Agudeza Visual: Visi&#243;n de bultos */
+		C & -1.0 1  65{1,1} [0.01 1.0]
+	103 /* Disminuci&#243;n de la Agudeza Visual: Visi&#243;n de manchas */
+		C & -1.0 1  65{1,1} [0.01 1.0]
+	104 /* Disminuci&#243;n de la Agudeza Visual: Visi&#243;n de halos luminosos */
+		C & -1.0 1  65{1,1} [0.01 1.0]
+	105 /* Disminuci&#243;n de la Agudeza Visual: Visi&#243;n doble */
+		C & -1.0 1  65{1,1} [0.01 1.0]
+	106 /* Disminuci&#243;n de la Agudeza Visual para visi&#243;n de lejos */
+		C & -1.0 1  65{1,1} [0.01 1.0]
+	107 /* Disminuci&#243;n de la Agudeza Visual para visi&#243;n de cerca */
+		C & -1.0 1  65{1,1} [0.01 1.0]
+	108 /* La Sensaci&#243;n de Cuerpo Extra&#241;o se intensifica con el parpadeo */
+		C & -1.0 1  262{1,1} [0.01 1.0]
+	109 /* Comod&#237;n de Otros S&#237;ntomas Acompa&#241;antes */
+		V 40 U
+	110 /* Comod&#237;n de Antecedentes Personales de S&#237;ntomas Oftalmol&#243;gicos */
+		V 41 U
+	111 /* Comod&#237;n de Antecedentes Familiares de S&#237;ntomas Oftalmol&#243;gicos */
+		V 42 U
+	112 /* Comod&#237;n de enfermedades de la madre */
+		C & -1.0 1  528{2,1} [0.01 1.0]
+		V 43 U
+	113 /* Comod&#237;n de Antecedentes Farmacol&#243;gicos de S&#237;ntomas Oftalmol&#243; */
+		V 44 U
+	114 /* CMBD de Orzuelo */
+	115 /* Existen evidencias de Orzuelo */
+	116 /* Existen evidencias de Orzuelo Externo */
+	117 /* Existen evidencias de Orzuelo Interno */
+	118 /* CMBD de Episcleritis */
+	119 /* Existen evidencias de Episcleritis */
+	120 /* CMBD de Blefaritis */
+	121 /* Existen evidencias de Blefaritis */
+	122 /* CMBD de Dacriocistitis Aguda */
+	123 /* Existen evidencias de Dacriocistitis Aguda */
+	124 /* CMBD de Dacriocistitis Cr&#243;nica */
+	125 /* Existen evidencias de Dacriocistitis Cr&#243;nica */
+	126 /* CMBD de Glaucoma de Angulo Abierto */
+	127 /* Existen evidencias de Glaucoma de Angulo Abierto */
+	128 /* Existen evidencias de Glaucoma de Angulo Abierto Juvenil */
+	129 /* CMBD de Glaucoma de Angulo Estrecho */
+	130 /* Existen evidencias de Glaucoma de Angulo Estrecho */
+	131 /* Existen evidencias de Glaucoma de Angulo Estrecho Juvenil */
+	132 /* CMBD de Catarata */
+	133 /* Existen evidencias de Catarata */
+	134 /* CMBD de Queratitis */
+	135 /* Existen evidencias de Queratitis Bacteriana */
+	136 /* Existen evidencias de Queratitis Viral */
+	137 /* Existen evidencias de Queratitis Mic&#243;tica */
+	138 /* CMBD de Conjuntivitis Aguda */
+	139 /* Existen evidencias de Conjuntivitis Bacteriana Aguda */
+	140 /* Existen evidencias de Conjuntivitis Viral Aguda */
+	141 /* CMBD de Conjuntivitis Al&#233;rgica */
+	142 /* Existen evidencias de Conjuntivitis Al&#233;rgica */
+	143 /* CMBD de Conjuntivitis Cr&#243;nica */
+	144 /* Existen evidencias de Conjuntivitis Cr&#243;nica */
+	145 /* CMBD de Glaucomas Secundarios */
+	146 /* Existen evidencias de Glaucomas Secundarios */
+	147 /* CMBD de Calacio */
+	148 /* Existen evidencias de Calacio */
+	149 /* CMBD de Uve&#237;tis Anterior Aguda */
+	150 /* Existen evidencias de Uve&#237;tis Anterior Aguda */
+	151 /* CMBD de Uve&#237;tis Posterior */
+	152 /* Existen evidencias de Uve&#237;tis Posterior */
+	153 /* Comod&#237;n de S&#237;ntomas Acompa&#241;antes Oftalmol&#243;gicos */
+		V 45 U
+	154 /* Dolor Ocular m&#225;s manifiesto durante el d&#237;a */
+		C & -1.0 1  62{1,1} [0.01 1.0]
+	155 /* Dolor Ocular m&#225;s manifiesto durante la noche */
+		C & -1.0 1  62{1,1} [0.01 1.0]
+	156 /* Dolor Ocular m&#225;s manifiesto indiferente */
+		C & -1.0 1  62{1,1} [0.01 1.0]
+	157 /* CMBD de Uve&#237;tis Anterior Cr&#243;nica */
+	158 /* Existen evidencias de Uve&#237;tis Anterior Cr&#243;nica */
+//  REGLAS
+	62{1,1} & 14 & 63{1,1} & 1 & 34{9,1}  => 114 1.0;
+	114  => 115 0.4;
+	114 & 18 & 5 & 86  => 115 0.5;
+	114 & 89  => 115 0.5;
+	114 & 20  => 115 0.45;
+	114 & 8  => 115 0.45;
+	114 & 574{2,1}  => 115 0.45;
+	114 & (261{1,1} V 64{1,1} ) => 115 0.45;
+	62{1,1} V 63{1,1} V 34{9,1}  => 116 0.001;
+	115  => 116 1.0;
+	62{1,1} V 63{1,1} V 34{9,1}  => 117 0.001;
+	115  => 117 1.0;
+		C & 0.0 2  3 [0.8 1.0] 16 [0.8 1.0]
+	3 & 16  => 117 0.1;
+		C & 0.0 2  3 [0.8 1.0] 16 [0.8 1.0]
+	62{1,1} V 63{1,1}  => 119 0.001;
+	62{1,1} & 14 & 63{1,1} & 1  => 118 1.0;
+	118  => 119 0.4;
+	118 & 5 & 18  => 119 0.5;
+	118 & 9  => 119 0.45;
+	118 & 20  => 119 0.45;
+	118 & (61{1,1} V 65{1,1} ) => 119 0.45;
+	118 & (64{1,1} V 252{1,1} ) => 119 0.5;
+	118 & (50{1,1} V 72{1,1} V 67{1,1} ) => 119 0.5;
+	118 & (412{2,1} V 321{2,1} V 601{2,1} V 150{2,1} V 101{2,1} ) => 119 0.6;
+	118 & -6{1,1}  => 119 0.6;
+	118 & 305{2,1}  => 119 0.5;
+	34{9,1}  => 119 -0.1;
+	261{1,1} V 61{1,1}  => 121 0.001;
+	261{1,1} & 32 & 61{1,1} & 22  => 120 1.0;
+	120  => 121 0.4;
+	120 & 36  => 121 0.55;
+	120 & 26  => 121 0.55;
+	120 & 39  => 121 0.45;
+	120 & 29  => 121 0.45;
+	120 & 52  => 121 0.5;
+	120 & 2  => 121 0.5;
+	120 & 9  => 121 0.45;
+	120 & 50  => 121 0.5;
+	120 & 532{2,1}  => 121 0.5;
+	120 & (548{2,1} V 153{2,1} ) => 121 0.45;
+	64{1,1} V 62{1,1} V 34{9,1}  => 123 0.001;
+	64{1,1} & 61 & 62{1,1} & 16 & 34{9,1} & (1{9,1} V 2{9,1} ) => 122 1.0;
+	122  => 123 0.4;
+	122 & 63  => 123 0.55;
+	122 & 18  => 123 0.55;
+	122 & 68  => 123 0.5;
+	122 & 20  => 123 0.5;
+	122 & 86  => 123 0.5;
+	122 & 88  => 123 0.5;
+	122 & (90 V 91 V 92 V 93 ) => 123 0.5;
+	122 & 6{1,1}  => 123 0.5;
+	122 & 63{1,1}  => 123 0.5;
+	122 & 95{1,1}  => 123 0.6;
+	122 & (576{2,1} V 589{2,1} ) => 123 0.5;
+	64{1,1} V 62{1,1} V 34{9,1}  => 125 0.001;
+	64{1,1} & (62 V 60 )& 62{1,1} & (17 V 15 )& 34{9,1} & 3{9,1}  => 124 1.0;
+	124  => 125 0.4;
+	124 & 63  => 125 0.55;
+	124 & 18  => 125 0.55;
+	124 & 68  => 125 0.5;
+	124 & 20  => 125 0.5;
+	124 & 86  => 125 0.5;
+	124 & 89  => 125 0.6;
+	124 & (90 V 91 V 92 V 93 ) => 125 0.5;
+	124 & 6{1,1}  => 125 0.5;
+	124 & 63{1,1}  => 125 0.5;
+	124 & 95{1,1}  => 125 0.6;
+	124 & (576{2,1} V 589{2,1} ) => 125 0.5;
+	65{1,1} V 62{1,1}  => 127 0.001;
+	65{1,1} & 96 & 62{1,1} & 15  => 126 1.0;
+	126  => 127 0.4;
+	126 & (101 V 104 ) => 127 0.55;
+	126 & 100  => 127 0.5;
+	126 & 99  => 127 0.45;
+	126 & (252{1,1} V 63{1,1} ) => 127 0.5;
+	126 & (31{1,1} V 108{1,1} V 109{1,1} ) => 127 0.5;
+	126 & -58{1,1}  => 127 0.6;
+	65{1,1} V 62{1,1}  => 128 0.001;
+	127  => 128 1.0;
+		C & 0.0 1  58{1,1} [0.8 1.0]
+	65{1,1} V 62{1,1}  => 130 0.001;
+	65{1,1} & 95 & 62{1,1} & 14  => 129 1.0;
+	129  => 130 0.4;
+	129 & (101 V 104 ) => 130 0.55;
+	129 & 100  => 130 0.5;
+	129 & 99  => 130 0.45;
+	129 & (252{1,1} V 63{1,1} ) => 130 0.5;
+	129 & (31{1,1} V 108{1,1} V 109{1,1} ) => 130 0.5;
+	129 & -58{1,1}  => 130 0.6;
+	65{1,1} V 62{1,1}  => 131 0.001;
+	130  => 131 1.0;
+		C & 0.0 1  58{1,1} [0.8 1.0]
+	65{1,1}  => 133 0.001;
+	65{1,1} & 96  => 132 1.0;
+	132  => 133 0.4;
+	132 & 100  => 133 0.45;
+	132 & 101  => 133 0.5;
+	132 & 106 & 107  => 133 0.5;
+	132 & 241{1,1}  => 133 0.6;
+	63{1,1} V 62{1,1}  => 133 -0.5;
+	62{1,1} & 252{1,1} & 64{1,1}  => 134 1.0;
+	62{1,1} V 252{1,1} V 64{1,1}  => 135 0.001;
+	134  => 135 0.4;
+	134 & 14  => 135 0.45;
+	134 & 15  => 135 0.5;
+	134 & 10  => 135 0.45;
+	134 & 11  => 135 0.5;
+	134 & 59  => 135 0.45;
+	134 & 60  => 135 0.5;
+	134 & 18  => 135 0.5;
+	134 & 20  => 135 0.5;
+	134 & 63  => 135 0.5;
+	134 & 65  => 135 0.5;
+	134 & 574{2,1}  => 135 0.45;
+	134 & -575{2,1}  => 135 0.5;
+	134 & (262{1,1} V 65{1,1} ) => 135 0.6;
+	134 & (576{2,1} V 588{2,1} V 453{2,1} ) => 135 0.5;
+	134 & (548{2,1} V 153{2,1} V 589{2,1} V 606{2,1} ) => 135 0.5;
+	134 & 63{1,1}  => 135 0.5;
+	134 & 1  => 135 0.45;
+	134 & (2 V 5 V 7 ) => 135 0.5;
+	62{1,1} V 252{1,1} V 64{1,1}  => 136 0.001;
+	134  => 136 0.4;
+	134 & 14  => 136 0.45;
+	134 & 15  => 136 0.5;
+	134 & 10  => 136 0.45;
+	134 & 11  => 136 0.5;
+	134 & 59  => 136 0.45;
+	134 & 60  => 136 0.5;
+	134 & 18  => 136 0.5;
+	134 & 20  => 136 0.5;
+	134 & 63  => 136 0.5;
+	134 & 65  => 136 0.5;
+	134 & 56  => 136 0.55;
+	134 & 574{2,1}  => 136 0.45;
+	134 & -575{2,1}  => 136 0.45;
+	134 & (262{1,1} V 65{1,1} ) => 136 0.55;
+	134 & (40{1,1} V 95{1,1} V 106{1,1} ) => 136 0.55;
+	134 & (212{2,1} V 97{2,1} V 548{2,1} V 153{2,1} V 583{2,1} V 584{2,1} V 585{2,1} V 586{2,1} ) => 136 0.55;
+	134 & (73{2,1} V 10{2,1} ) => 136 0.5;
+	134 & 1  => 136 0.45;
+	134 & (2 V 5 V 7 ) => 136 0.5;
+	62{1,1} V 252{1,1} V 64{1,1}  => 137 0.001;
+	134  => 137 0.4;
+	134 & 14  => 137 0.45;
+	134 & 15  => 137 0.5;
+	134 & 10  => 137 0.45;
+	134 & 11  => 137 0.5;
+	134 & 59  => 137 0.45;
+	134 & 60  => 137 0.5;
+	134 & 18  => 137 0.5;
+	134 & 20  => 137 0.5;
+	134 & 63  => 137 0.5;
+	134 & 65  => 137 0.5;
+	134 & 574{2,1}  => 137 0.45;
+	134 & -575{2,1}  => 137 0.5;
+	134 & (262{1,1} V 65{1,1} ) => 137 0.55;
+	134 & (576{2,1} V 588{2,1} V 453{2,1} ) => 137 0.5;
+	134 & (305{2,1} V 409{2,1} V 73{2,1} ) => 137 0.55;
+	134 & (548{2,1} V 153{2,1} V 589{2,1} V 606{2,1} ) => 137 0.5;
+	134 & 1  => 137 0.45;
+	134 & (2 V 5 V 7 ) => 137 0.5;
+	63{1,1} & 1 & 252{1,1} & 10 & 263{1,1} & 71  => 138 1.0;
+	63{1,1} V 252{1,1} V 263{1,1}  => 139 0.001;
+	138  => 139 0.4;
+	138 & 79  => 139 0.45;
+	138 & (81 V 83 ) => 139 0.55;
+	138 & 85  => 139 0.45;
+	138 & 8  => 139 0.45;
+	61{1,1} V 64{1,1} V 262{1,1}  => 139 0.15;
+	16  => 139 0.15;
+	58  => 139 0.15;
+	155  => 139 0.15;
+	63{1,1} V 252{1,1} V 64{1,1}  => 140 0.001;
+	138  => 140 0.4;
+	138 & 78  => 140 0.45;
+	138 & 82  => 140 0.55;
+	138 & 8  => 140 0.45;
+	138 & (40{1,1} V 95{1,1} V 106{1,1} V 243{1,1} ) => 140 0.55;
+	138 & (548{2,1} V 153{2,1} V 582{2,1} V 583{2,1} V 584{2,1} V 585{2,1} V 586{2,1} ) => 140 0.6;
+	61{1,1} V 64{1,1} V 262{1,1}  => 140 0.2;
+	63{1,1} V 261{1,1} V 64{1,1}  => 142 0.001;
+	(63{1,1} & 1 )V (261{1,1} & 31 )V (64{1,1} & 59 ) => 141 1.0;
+	141  => 142 0.4;
+	141 & 6  => 142 0.45;
+	141 & 50  => 142 0.5;
+	141 & 51  => 142 0.5;
+	141 & 64  => 142 0.45;
+	141 & 68  => 142 0.55;
+	141 & 69  => 142 0.55;
+	141 & 70  => 142 0.45;
+	141 & 36  => 142 0.45;
+	141 & 40  => 142 0.55;
+	141 & 54  => 142 0.55;
+	141 & 55  => 142 0.45;
+	141 & (31{1,1} V 84{1,1} V 83{1,1} ) => 142 0.55;
+	141 & (150{2,1} V 588{2,1} V 589{2,1} ) => 142 0.55;
+	141 & (305{2,1} V 52{2,1} V 409{2,1} V 595{2,1} ) => 142 0.55;
+	61{1,1} V 252{1,1} V 262{1,1} V 263{1,1}  => 142 0.15;
+	141 & 607{2,1}  => 142 0.5;
+	63{1,1} V 252{1,1} V 263{1,1}  => 144 0.001;
+	63{1,1} & 2 & 252{1,1} & 11 & 263{1,1} & 72  => 143 1.0;
+	143  => 144 0.4;
+	143 & 589{2,1}  => 144 0.55;
+	65{1,1} V 62{1,1}  => 146 0.001;
+	65{1,1} & 96 & 62{1,1} & 15 & (590{2,1} V 591{2,1} V 592{2,1} V 593{2,1} V 587{2,1} V 594{2,1} ) => 145 1.0;
+	145  => 146 0.4;
+	145 & (101 V 104 ) => 146 0.55;
+	145 & 100  => 146 0.5;
+	145 & 99  => 146 0.45;
+	145 & (252{1,1} V 63{1,1} ) => 146 0.5;
+	145 & (31{1,1} V 108{1,1} V 109{1,1} ) => 146 0.5;
+	145 & -58{1,1}  => 146 0.6;
+	62{1,1} V 63{1,1} V 34{9,1}  => 148 0.001;
+	62{1,1} & 17 & 63{1,1} & 4 & 34{9,1}  => 147 1.0;
+	147  => 148 0.4;
+	147 & 18  => 148 0.5;
+	147 & 5  => 148 0.5;
+	147 & 89  => 148 0.5;
+	147 & 20  => 148 0.5;
+	147 & 8  => 148 0.45;
+	147 & 574{2,1}  => 148 0.45;
+	147 & 261{1,1}  => 148 0.5;
+	62{1,1} V 252{1,1} V 65{1,1}  => 150 0.001;
+	62{1,1} & 14 & 252{1,1} & 10 & 65{1,1} & 95  => 149 1.0;
+	149  => 150 0.4;
+	149 & 18  => 150 0.5;
+	149 & 155  => 150 0.5;
+	149 & 20  => 150 0.45;
+	149 & 99  => 150 0.5;
+	149 & 101  => 150 0.45;
+	149 & (63 V 5 ) => 150 0.5;
+	149 & 58{1,1}  => 150 0.6;
+	63{1,1}  => 150 -0.1;
+	321{2,1} V 101{2,1} V 582{2,1} V 601{2,1} V 215{2,1} V 603{2,1} V 604{2,1} V 602{2,1} V 605{2,1}  => 150 -0.2;
+	590{2,1} V 412{2,1}  => 150 0.2;
+	576{2,1} V 577{2,1} V 578{2,1} V 589{2,1} V 590{2,1} V 593{2,1} V 583{2,1} V 584{2,1} V 585{2,1} V 586{2,1}  => 150 0.15;
+	62{1,1} V 252{1,1} V 65{1,1}  => 158 0.001;
+	62{1,1} & 15 & 252{1,1} & 11 & 65{1,1} & 96  => 157 1.0;
+	157  => 158 0.4;
+	157 & 18  => 158 0.5;
+	157 & 155  => 158 0.5;
+	157 & 20  => 158 0.45;
+	157 & 99  => 158 0.5;
+	157 & 101  => 158 0.45;
+	157 & (63 V 5 ) => 158 0.5;
+	157 & 58{1,1}  => 158 0.6;
+	63{1,1}  => 158 -0.1;
+	321{2,1} V 101{2,1} V 582{2,1} V 601{2,1} V 215{2,1} V 603{2,1} V 604{2,1} V 602{2,1} V 605{2,1}  => 158 -0.2;
+	590{2,1} V 412{2,1}  => 158 0.2;
+	576{2,1} V 577{2,1} V 578{2,1} V 589{2,1} V 590{2,1} V 593{2,1} V 583{2,1} V 584{2,1} V 585{2,1} V 586{2,1}  => 158 0.15;
+	62{1,1} V 252{1,1}  => 152 0.001;
+	62{1,1} & 15 & 252{1,1} & 11  => 151 1.0;
+	151  => 152 0.4;
+	151 & 18  => 152 0.45;
+	151 & 20  => 152 0.45;
+	151 & 56  => 152 0.55;
+	151 & (63 V 5 ) => 152 0.5;
+	151 & 64{1,1}  => 152 0.5;
+	65{1,1}  => 152 0.15;
+	321{2,1} V 101{2,1} V 582{2,1} V 601{2,1} V 215{2,1} V 603{2,1} V 604{2,1} V 602{2,1} V 605{2,1}  => 152 0.2;
+//  VARIABLES
+	S T S N 2 1 NULL 2 NULL 
+	S T S N 2 3 NULL 4 NULL 
+	S T S S 2 5 NULL 6 NULL 
+	S T S S 3 7 NULL 8 NULL 9 NULL 
+	S T S N 2 10 NULL 11 NULL 
+	S T S N 2 12 NULL 13 NULL 
+	S T S N 2 14 NULL 15 NULL 
+	S T S N 2 16 NULL 17 NULL 
+	S T S S 2 18 NULL 19 NULL 
+	S T S N 2 21 NULL 22 NULL 
+	S T S N 2 23 NULL 24 NULL 
+	S T S S 2 25 NULL 26 NULL 
+	S T S S 3 27 NULL 28 NULL 29 NULL 
+	S T S N 2 31 NULL 32 NULL 
+	S T S N 2 33 NULL 34 NULL 
+	S T S S 2 35 NULL 36 NULL 
+	S T S S 3 37 NULL 38 NULL 39 NULL 
+	S T S N 2 41 NULL 42 NULL 
+	S T S N 2 43 NULL 44 NULL 
+	S T S S 2 45 NULL 46 NULL 
+	S T S S 3 47 NULL 48 NULL 49 NULL 
+	S T S N 2 59 NULL 60 NULL 
+	S T S N 2 61 NULL 62 NULL 
+	S T S S 2 63 NULL 64 NULL 
+	S T S S 3 65 NULL 66 NULL 67 NULL 
+	S T S N 2 71 NULL 72 NULL 
+	S T S N 2 73 NULL 74 NULL 
+	S T S S 2 75 NULL 76 NULL 
+	S T S S 3 77 NULL 78 NULL 79 NULL 
+	S T S S 4 81 NULL 82 NULL 83 NULL 84 NULL 
+	S T S S 2 86 NULL 87 NULL 
+	S T S S 2 88 NULL 89 NULL 
+	M T S S 4 90 NULL 91 NULL 92 NULL 93 NULL 
+	N T S S 4 62{1,1} NULL 63{1,1} NULL 64{1,1} NULL 261{1,1} NULL 
+	S T S N 2 95 NULL 96 NULL 
+	S T S N 2 97 NULL 98 NULL 
+	S T S S 2 99 NULL 100 NULL 
+	M T S S 5 101 NULL 102 NULL 103 NULL 104 NULL 105 NULL 
+	M T S S 2 106 NULL 107 NULL 
+	N T S S 15 31{1,1} NULL 50{1,1} NULL 69{1,1} NULL 40{1,1} NULL 108{1,1} NULL 109{1,1} NULL 95{1,1} NULL 106{1,1} NULL 97{1,1} NULL 81{1,1} NULL 84{1,1} NULL 83{1,1} NULL 243{1,1} NULL 72{1,1} NULL 67{1,1} NULL 
+	N T S S 16 345{2,1} NULL 212{2,1} NULL 97{2,1} NULL 321{2,1} NULL 579{2,1} NULL 548{2,1} NULL 153{2,1} NULL 576{2,1} NULL 577{2,1} NULL 578{2,1} NULL 547{2,1} NULL 101{2,1} NULL 232{2,1} NULL 214{2,1} NULL 102{2,1} NULL 150{2,1} NULL 
+	N T S S 4 219{2,1} NULL 352{2,1} NULL 349{2,1} NULL 528{2,1} NULL 
+	N T S S 5 401{2,1} NULL 402{2,1} NULL 580{2,1} NULL 427{2,1} NULL 369{2,1} NULL 
+	N T S S 9 493{2,1} NULL 84{2,1} NULL 305{2,1} NULL 52{2,1} NULL 307{2,1} NULL 82{2,1} NULL 581{2,1} NULL 513{2,1} NULL 607{2,1} NULL 
+	N T S S 12 63{1,1} NULL 62{1,1} NULL 261{1,1} NULL 61{1,1} NULL 64{1,1} NULL 252{1,1} NULL 263{1,1} NULL 262{1,1} NULL 65{1,1} NULL 254{1,1} NULL 253{1,1} NULL 34{9,1} NULL 
+	S T S S 3 154 NULL 155 NULL 156 NULL 
+//  PROGRAMAS EXTERNOS
+//  FUNCIONES INTERNAS
+//  RELACIONES PADRE-HIJOS
+63{1,1}P[0.01 1.0], -1, -3, -5, -7, -574{2,1}, -575{2,1}, -50, -51, -153, -109, -110, -111, -112, -113;
+252{1,1}P[0.01 1.0], -10, -12, -56, -57, -153, -109, -110, -111, -112, -113;
+62{1,1}P[0.01 1.0], -14, -16, -18, -154, -20, -574{2,1}, -575{2,1}, -153, -109, -110, -111, -112, -113;
+61{1,1}P[0.01 1.0], -21, -23, -25, -27, -30, -52, -53, -153, -109, -110, -111, -112, -113;
+261{1,1}P[0.01 1.0], -31, -33, -35, -37, -40, -54, -55, -153, -109, -110, -111, -112, -113;
+262{1,1}P[0.01 1.0], -41, -43, -45, -108, -47, -574{2,1}, -575{2,1}, -153, -109, -110, -111, -112, -113;
+64{1,1}P[0.01 1.0], -59, -61, -63, -65, -68, -574{2,1}, -575{2,1}, -69, -70, -153, -109, -110, -111, -112, -113;
+263{1,1}P[0.01 1.0], -71, -73, -75, -86, -77, -80, -574{2,1}, -575{2,1}, -81, -85, -153, -109, -110, -111, -112, -113;
+35{9,1}P[0.01 1.0], -86, -88, -90, -94;
+65{1,1}P[0.01 1.0], -95, -97, -99, -101, -106, -574{2,1}, -575{2,1}, -153, -109, -110, -111, -112, -113;
+//  REGLAS DE CONCLUSIONES
+	=> RP 116 [0.001 1];
+	=> RP 117 [0.001 1];
+	=> RP 119 [0.001 1];
+	=> RP 121 [0.001 1];
+	=> RP 123 [0.001 1];
+	=> RP 125 [0.001 1];
+	=> RP 127 [0.001 1];
+	=> RP 128 [0.001 1];
+	=> RP 130 [0.001 1];
+	=> RP 131 [0.001 1];
+	=> RP 133 [0.001 1];
+	=> RP 135 [0.001 1];
+	=> RP 136 [0.001 1];
+	=> RP 137 [0.001 1];
+	=> RP 139 [0.001 1];
+	=> RP 140 [0.001 1];
+	=> RP 142 [0.001 1];
+	=> RP 144 [0.001 1];
+	=> RP 146 [0.001 1];
+	=> RP 148 [0.001 1];
+	=> RP 150 [0.001 1];
+	=> RP 152 [0.001 1];
+	=> RP 158 [0.001 1];
+//  RELACIONES PADRE - HIJOS EN CONCLUSIONES
+//  PROPOSICIONES QUE NO VAN AL SISTEMA EXPLICATORIO
+//  FIN

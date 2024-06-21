@@ -1,0 +1,35 @@
+<h1 mat-dialog-title>{{ data.type == 1 ? 'Alerta' : 'Confirmación' }}</h1>
+<mat-dialog-content class="d-flex align-items-center">
+  <div class="m-2">
+    <mat-icon class="w-auto h-auto fs-1"
+              [ngClass]="data.type == 1 ? 'text-warning' : 'text-forest'">{{ data.type == 1 ? 'warning' : 'info' }}
+    </mat-icon>
+  </div>
+  <div class="w-100">
+    <div class="p-2">
+      <ng-container *ngFor="let message of data.message.split('\n')">
+        <p class="ms-2 fs-5 text-center text-secondary">
+          {{ message }}
+        </p>
+      </ng-container>
+    </div>
+    <div *ngIf="data.radio" class="ms-4 bg-secondary-subtle rounded p-2">
+      <p class="fs-6">Seleccione un Sistema experto (Obligatorio)</p>
+      <mat-radio-group [(ngModel)]="seaaSelected">
+        <mat-radio-button *ngFor="let seaa of data.seaas" [value]="seaa">{{ seaa.name }}</mat-radio-button>
+      </mat-radio-group>
+    </div>
+  </div>
+</mat-dialog-content>
+<mat-dialog-actions [align]="'center'">
+  <button mat-stroked-button
+          [disabled]="data.radio && !seaaSelected"
+          [mat-dialog-close]="data.radio ? seaaSelected : true"
+          class="text-forest me-2">Confirmar
+  </button>
+  <button mat-stroked-button
+          *ngIf="!data.oneButton"
+          (click)="dialogRef.close()"
+          color="warn">Cancelar
+  </button>
+</mat-dialog-actions>

@@ -1,0 +1,1487 @@
+1,4,1 1
+	Diarrea de menos de 2 semanas ( Aguda )
+2,4,1 1
+	Diarrea de m&#225;s de 2 semanas ( Cr&#243;nica )
+3,4,1 1
+	La Apariencia de la Diarrea es normal
+4,4,1 1
+	La Apariencia de la Diarrea es l&#237;quida
+5,4,1 1
+	La Apariencia de la Diarrea es pastosa
+6,4,1 1
+	La Coloraci&#243;n de la Heces es Marr&#243;n
+7,4,1 1
+	La Coloraci&#243;n de la Heces es Blanca (acolia)
+8,4,1 1
+	La Coloraci&#243;n de la Heces es Negra (melena)
+9,4,1 1
+	La Coloraci&#243;n de la Heces es Verde
+10,4,1 1
+	La Coloraci&#243;n de la Heces es Roja (rectorragia)
+11,4,1 1
+	Comod&#237;n de S&#237;ntomas Acompa&#241;antes de Diarrea Cr&#243;nica
+12,4,1 1
+	Padre de no 4 de Distensi&#243;n Abdominal
+13,4,1 1
+	La Diarrea es Diurna
+14,4,1 2
+	La Diarrea aparece a lo largo de todo el d&#237;a aunque preferentemente
+	 nocturna
+15,4,1 1
+	La Diarrea es s&#243;lo nocturna
+16,4,1 1
+	Existen otras personas en su entorno que tengan Diarrea
+17,4,1 1
+	La Diarrea se relaciona con la ingesta de alimentos
+18,4,1 2
+	El Tiempo transcurrido desde la ingesta del alimento sospechoso es menos de 12
+	 horas
+19,4,1 2
+	El Tiempo transcurrido desde la ingesta del alimento sospechoso es m&#225;s o
+	 igual a 12 horas
+20,4,1 1
+	Comod&#237;n &#34;Ha tenido...&#34; de Ictericia
+21,4,1 1
+	El paciente presenta Diarrea como agua de arroz
+22,4,1 2
+	Existen evidencias de Hepatitis Aguda de Probable Origen T&#243;xico
+	 (F&#225;rmacos)
+23,4,1 1
+	La forma de la Diarrea es Intermitente
+24,4,1 1
+	El ritmo de la Diarrea es Practicamente cont&#237;nuo
+25,4,1 1
+	Tiene episodios Diarreicos Alternando con estre&#241;imiento
+26,4,1 1
+	Se alivia el Dolor tras la defecaci&#243;n
+27,4,1 1
+	Persisten ruidos intestinales tras la defecaci&#243;n
+28,4,1 1
+	Volumen  grandes heces Diarreicas
+29,4,1 1
+	Volumen  Normal
+30,4,1 1
+	Volumen  Heces peque&#241;as
+31,4,1 1
+	Padre de N&#225;useas y V&#243;mitos Agudos
+32,4,1 1
+	El paciente refiere Cambios en el H&#225;bito Intestinal
+33,4,1 1
+	Na&#250;seas y V&#243;mitos de horas o d&#237;as (Agudos)
+34,4,1 1
+	Na&#250;seas y V&#243;mitos de semanas o meses (Cr&#243;nicos)
+35,4,1 1
+	Contenido del V&#243;mito : Sangre y poso de caf&#233;
+36,4,1 1
+	Contenido del V&#243;mito : Bilis
+37,4,1 1
+	Contenido del V&#243;mito : Alimento
+38,4,1 1
+	Contenido del V&#243;mito : Fecaloideo
+39,4,1 1
+	Vomita m&#225;s cantidad de lo que come o restos de comidas anteriores
+40,4,1 1
+	El V&#243;mito no tiene relaci&#243;n con la ingesta
+41,4,1 1
+	El V&#243;mito es previo a la ingesta matutino
+42,4,1 1
+	El V&#243;mito es con la ingesta
+43,4,1 1
+	El V&#243;mito es postpandrial
+44,4,1 1
+	El V&#243;mito es despu&#233;s de 2 horas de haber ingerido los alimentos
+45,4,1 1
+	Comod&#237;n de la variable 83
+46,4,1 1
+	El V&#243;mito y/o Na&#250;seas se relaciona con la ingesta de T&#243;xicos
+47,4,1 1
+	El V&#243;mito y/o Na&#250;seas se relaciona con la ingesta de Setas
+48,4,1 2
+	El V&#243;mito se relaciona con la Ingesta de Alimentos S&#243;lidos o Cuerpos
+	 Extra&#241;os
+49,4,1 1
+	El V&#243;mito y/o las Na&#250;seas son Persistentes
+50,4,1 1
+	El Estre&#241;imiento se alterna con Diarreas
+51,4,1 1
+	Los V&#243;mitos son violentos en escopetazos
+52,4,1 1
+	Los V&#243;mitos se provocan con el ejercicio
+53,4,1 1
+	Los V&#243;mitos se presentan sin Na&#250;seas asociadas
+54,4,1 1
+	Hace m&#225;s de un mes que el paciente tiene Ictericia
+55,4,1 1
+	El paciente tiene Icteria hace menos de un mes
+56,4,1 1
+	La Ictericia empez&#243; : Brusco
+57,4,1 1
+	La Ictericia empez&#243; : Progresivo
+58,4,1 1
+	La Ictericia empez&#243; : Episodios
+59,4,1 1
+	Ha tenido casos similares de Ictericia en su ambiente habitual
+60,4,1 1
+	La Fiebre se present&#243; anterior a la Ictericia
+61,4,1 1
+	La Fiebre coincide con la Ictericia
+62,4,1 1
+	La Fiebre es posterior a la Ictericia
+63,4,1 1
+	La Distensi&#243;n Abdominal es de reciente aparici&#243;n menos de 3 meses
+64,4,1 1
+	La Distensi&#243;n Abdominal es de larga evoluci&#243;n m&#225;s de 3 meses
+65,4,1 1
+	La Distensi&#243;n Abdominal es Epis&#243;dica
+66,4,1 1
+	La Distensi&#243;n Abdominal es Constante
+67,4,1 1
+	La Distensi&#243;n Abdominal es Progresiva
+68,4,1 1
+	Intermedio Colon irritable.... 72 V 73
+69,4,1 1
+	El paciente tiene Eructos y/o Ventosidades
+70,4,1 2
+	La Distensi&#243;n Abdominal tiene relaci&#243;n con comidas flatulentas
+	 (bebidas gaseosas, legumbres, verduras)
+71,4,1 1
+	Los Eructos y o Ventosidades alivian la distensi&#243;n abdominal
+72,4,1 1
+	El paciente tiene Heces Caprinas
+73,4,1 1
+	Las Heces tienen moco
+74,4,1 1
+	El Estre&#241;imiento es de reciente instauraci&#243;n (Menos de 1 a&#241;o)
+75,4,1 1
+	El Estre&#241;imiento es de larga evoluci&#243;n (M&#225;s de 1 a&#241;o)
+76,4,1 1
+	Comod&#237;n &#34;Historia familiar&#34; de Ictericia
+77,4,1 1
+	El Estre&#241;imiento se alterna con deposiciones normales
+78,4,1 1
+	El Ardor en el Epigastrio aparece en relaci&#243;n con la ingesta
+79,4,1 1
+	El Ardor Aparece antes de 2 horas despu&#233;s de la ingesta
+80,4,1 1
+	El Ardor Aparece 2 horas despu&#233;s de la ingesta
+81,4,1 1
+	El Ardor en el Epigastrio despierta al paciente por las noches
+82,4,1 1
+	El Ardor en el Epigastrio aparece : Espont&#225;neamente
+83,4,1 1
+	El Ardor en el Epigastrio aparece : Ingesta de medicamentos
+84,4,1 1
+	El Ardor en el Epigastrio aparece : Ingesta de alcohol
+85,4,1 1
+	El Ardor en el Epigastrio aparece : Ingesta de irritantes g&#225;stricos
+86,4,1 1
+	El Ardor en el Epigastrio aparece : Exceso alimentario
+87,4,1 1
+	El Ardor en el Epigastrio se calma con alimentos
+88,4,1 1
+	El Ardor en el Epigastrio se calma con alcalinos
+89,4,1 1
+	El Ardor tiene ritmo estacional (oto&#241;o y primavera)
+90,4,1 1
+	La Regurgitaci&#243;n tiene restos de comida m&#225;s saliva
+91,4,1 1
+	La Regurgitaci&#243;n tiene contenido &#225;cido
+92,4,1 1
+	La Regurgitaci&#243;n se desencadena con aumento de presi&#243;n abdominal
+93,4,1 1
+	La Regurgitaci&#243;n se desencadena con el dec&#250;bito
+94,4,1 1
+	La Regurgitaci&#243;n se desencadena con la ingesta de f&#225;rmacos
+95,4,1 1
+	La Regurgitaci&#243;n se asocia con tabaco, caf&#233;, alcohol, comidas, etc
+96,4,1 1
+	La Regurgitaci&#243;n se alivia con la incorporaci&#243;n del tronco
+97,4,1 1
+	La Regurgitaci&#243;n se alivia con la toma de leches
+98,4,1 1
+	La Regurgitaci&#243;n se alivia con la toma de alcalinos
+99,4,1 1
+	La Pirosis se desencadena con aumento de presi&#243;n abdominal
+100,4,1 1
+	La Pirosis se desencadena con el dec&#250;bito
+101,4,1 2
+	La Pirosis se desencadena con la ingesta de f&#225;rmacos (salicilatos,
+	 teofilinas)
+102,4,1 1
+	La Pirosis se asocia con tabaco, caf&#233;, alcohol, comidas, etc
+103,4,1 1
+	La Pirosis se alivia con la toma de alcalinos
+104,4,1 1
+	La Pirosis se alivia con la toma de leches
+105,4,1 1
+	La Pirosis se alivia con la incorporaci&#243;n del tronco
+106,4,1 1
+	El paciente presenta episodios nocturnos de Pirosis
+107,4,1 1
+	La Sangre por V&#237;a Rectal mancha la deposici&#243;n
+108,4,1 1
+	La Sangre por V&#237;a Rectal no tiene que ver con la deposici&#243;n
+109,4,1 1
+	El paciente Sangra por V&#237;a Rectal hace menos de 48 horas
+110,4,1 1
+	El paciente Sangra por V&#237;a Rectal hace 48 horas o m&#225;s
+111,4,1 1
+	Ha tenido episodios anteriores de Rectorragia
+112,4,1 1
+	Relaciona la Diarrea con la ingesta de Agua
+113,4,1 1
+	Intermedio 70 V 69
+114,4,1 1
+	Dispepsia Secundaria de C&#225;ncer de P&#225;ncreas
+115,4,1 1
+	Intermedio de 170{2,1} V 171{2,1}
+116,4,1 1
+	El paciente tiene Alteraciones en el Ritmo Intestinal
+117,4,1 1
+	La Disfagia es reciente: Entre 24 horas y 1 a&#241;o
+118,4,1 1
+	La Disfagia es de larga evoluci&#243;n: Mayor de 1 a&#241;o
+119,4,1 1
+	La Disfagia es de menos de 24 horas
+120,4,1 1
+	Existen evidencias de Diarrea Secundaria a Resecci&#243;n del Intestino Delgado
+121,4,1 2
+	La Disfagia ocurre m&#225;s a menudo al estar cerca de la gente o cuando
+	 est&#225; nervioso
+122,4,1 1
+	La Disfagia se presenta con dificultad para tragar el bolo
+123,4,1 2
+	La Disfagia se presenta con una sensaci&#243;n de estancamiento del bolo a
+	 nivel tor&#225;cico
+124,4,1 2
+	La Disfagia se acompa&#241;a de Regurgitaci&#243;n instant&#225;nea a
+	 trav&#233;s de boca y nariz
+125,4,1 1
+	La Disfagia cuando comenz&#243; era s&#243;lo a alimentos s&#243;lidos
+126,4,1 1
+	La Disfagia cuando comenz&#243; era s&#243;lo a alimentos l&#237;quidos
+127,4,1 1
+	La evoluci&#243;n de la Disfagia es constante y progresiva
+128,4,1 1
+	La evoluci&#243;n de la Disfagia es intermitente y no progresiva
+129,4,1 1
+	La evoluci&#243;n de la Disfagia es intermitente y progresiva
+130,4,1 1
+	Intermedio del Hint de Diverticulosis del Colon
+131,4,1 1
+	El Dolor Abdominal es de hace 15 d&#237;as o menos (Agudo)
+132,4,1 1
+	El Dolor Abdominal se present&#243; hace 48 horas o menos
+133,4,1 1
+	El Dolor Abdominal se present&#243; hace m&#225;s de 48 horas
+134,4,1 1
+	El Dolor Abdominal es de hace m&#225;s de 15 d&#237;as (Cr&#243;nico)
+135,4,1 1
+	El Dolor Abdominal se present&#243; hace m&#225;s de 1 a&#241;o
+136,4,1 2
+	El Dolor Abdominal se present&#243; hace menos de 1 a&#241;o y m&#225;s de 15
+	 d&#237;as
+137,4,1 1
+	El Dolor Abdominal es Err&#225;tico
+138,4,1 1
+	El Dolor Abdominal es Profundo, Sordo y Mal Definido
+139,4,1 1
+	El Dolor Abdominal empeora con el movimiento y/o la tos
+140,4,1 1
+	El paciente presenta Dolor Abdominal C&#237;clico
+141,4,1 1
+	CMBD de Estenosis Pil&#243;rica por Dolor Abdominal
+142,4,1 1
+	CMBD de Estenosis Pil&#243;rica por V&#243;mitos
+143,4,1 1
+	El Dolor Abdominal se irradia
+144,4,1 2
+	Dolor Periumblical o Epig&#225;strico se irradia a Cuadrante Inferior Derecho
+	 (CID)
+145,4,1 1
+	Dolor en el Epigastrio se irradia a Cuadrante Superior Derecho (CSD)
+146,4,1 1
+	Dolor en el Epigastrio se irradia a la Espalda
+147,4,1 1
+	Dolor en el Hipogastrio se irradia al Cuadrante Inferior Izquierdo
+148,4,1 1
+	Dolor en el Cuadrante Superior Derecho se irradia a la Espalda
+149,4,1 2
+	Dolor en el Cuadrante Derecho o Izquierdo se irradia a los Genitales Externos
+	 Ipsolateral
+150,4,1 1
+	El comienzo del Dolor Abdominal fu&#233; Muy Brusco
+151,4,1 1
+	El Dolor Abdominal es cont&#237;nuo y persistente (tipo Cont&#237;nuo)
+152,4,1 1
+	El Dolor Abdominal aparece y desaparece (tipo C&#243;lico)
+153,4,1 1
+	El Dolor Abdominal se calma con la ingesta de alimentos
+154,4,1 1
+	El Dolor Abdominal se calma con V&#243;mito
+155,4,1 1
+	El Dolor Abdominal se calma con la defecaci&#243;n
+156,4,1 1
+	El Dolor Abdominal se calma con la postura encogida o Flexi&#243;n del Tronco
+157,4,1 1
+	El Dolor Abdominal se calma con la postura sentada
+158,4,1 1
+	El Dolor Abdominal es generalizado
+159,4,1 1
+	El Dolor Abdominal est&#225; localizado en el Cuadrante Superior Derecho
+160,4,1 1
+	El Dolor Abdominal est&#225; localizado en el Cuadrante Superior Izquierdo
+161,4,1 1
+	El Dolor Abdominal es localizado en el Epig&#225;strio
+162,4,1 1
+	El Dolor Abdominal est&#225; localizado en el Cuadrante Inferior Derecho
+163,4,1 1
+	El Dolor Abdominal est&#225; localizado en el Cuadrante Inferior Izquierdo
+164,4,1 1
+	El Dolor Abdominal es localizado en el Hipog&#225;strio
+165,4,1 1
+	El Dolor Abdominal es localizado en el Mesog&#225;strio
+166,4,1 1
+	Existen evidencias de Dolor de Pared
+167,4,1 1
+	La Hematemesis se produce al toser
+168,4,1 1
+	Ha tenido episodios similares anteriormente de Hematemesis o Melena
+169,4,1 1
+	La Hematemesis se desencaden&#243; tras una ingesta importante de alcohol
+170,4,1 1
+	La Disfagia cuando comenz&#243; era a alimentos s&#243;lidos
+171,4,1 1
+	Existen evidencias de Estre&#241;imiento Secundario a Embarazo
+172,4,1 1
+	La Aerofagia se alivia con la expulsi&#243;n de los gases
+173,4,1 2
+	La Dispepsia tiene relaci&#243;n con comidas flatulentas (Bebidas gaseosas,
+	 Legumbres, Verduras)
+174,4,1 1
+	La Dispepsia se alivia con la ingesta
+175,4,1 1
+	La Dispepsia se empeora con la ingesta de alimentos
+176,4,1 1
+	Comod&#237;n de Coloraci&#243;n de las Heces
+177,4,1 1
+	Comod&#237;n &#34;6.2 El paciente tiene...&#34; de Ictericia
+178,4,1 1
+	Existen evidencias de Estre&#241;imiento Secunadrio a Hipotiroidismo
+179,4,1 1
+	El V&#243;mito es normal
+180,4,1 1
+	La Hematemesis es con franca hemorragia
+181,4,1 1
+	La Hematemesis es s&#243;lo con restos de sangre
+182,4,1 1
+	Existen s&#237;ntomas Generales Asociados con Nausea y V&#243;mito
+183,4,1 1
+	Existen s&#237;ntomas Extradigestivos Asociados con Nausea y V&#243;mito
+184,4,1 1
+	Existen s&#237;ntomas Digestivos Asociados con Nausea y V&#243;mito
+185,4,1 2
+	Comod&#237;n de &#34;S&#237;ntomas Generales Asociados...&#34; en Nausea y
+	 V&#243;mito
+186,4,1 2
+	Comod&#237;n de &#34;S&#237;ntomas Extradigestivos Asociados...&#34; en Nausea
+	 y V&#243;mito
+187,4,1 1
+	Ha visto Par&#225;sitos en las Heces
+188,4,1 1
+	Los Eructos alivian la Aerofagia
+189,4,1 1
+	Existen evidencias de Esofagitis por Reflujo
+190,4,1 1
+	CMBD Esofagitis por Reflujo
+191,4,1 1
+	Intermedio Esofagitis por Reflujo
+192,4,1 1
+	Intermedio Esofagitis por Reflujo
+193,4,1 1
+	Replecci&#243;n Postpandrial de Cuello y Halitosis
+194,4,1 1
+	Intermedio de 4 V 5
+195,4,1 2
+	Comod&#237;n de &#34;Antecedentes de otras patolog&#237;as...&#34; en
+	 Distensi&#243;n Abdominal
+196,4,1 2
+	Comod&#237;n de &#34;S&#237;ntomas Asociados ...&#34; en Distensi&#243;n
+	 Abdominal
+197,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Reflujo Gastroesof&#225;gico
+198,4,1 2
+	Comod&#237;n de &#34;S&#237;ntomas Digestivos Asociados...&#34; en N&#225;usea
+	 y V&#243;mito
+199,4,1 1
+	Comod&#237;n de &#34;Existe Asociaci&#243;n con...&#34; en Regurgitaci&#243;n
+200,4,1 1
+	Intermedio de 65{5,1} &#38; 73{5,1} &#38; 89{5,1} &#38; 263{2,1}
+201,4,1 2
+	Existe asociaci&#243;n con otros episodios hemorr&#225;gicos (Ep&#237;staxis,
+	 Hemoptisis, Hematuria, Equ&#237;mosis sin traumatismo)
+202,4,1 1
+	Existe asociaci&#243;n con Molestias Faringeas
+203,4,1 2
+	Comod&#237;n de &#34;S&#237;ntomas Asociados ...Extradigestivos&#34; en
+	 Distensi&#243;n Abdominal
+204,4,1 1
+	Comod&#237;n de &#34;Existe Asociaci&#243;n con...&#34; en Pirosis
+205,4,1 1
+	No existen S&#237;ntomas Asociados
+206,4,1 1
+	CMBD 3 de Diarrea por Shigella
+207,4,1 1
+	Hipertensi&#243;n Portal
+208,4,1 1
+	CMBD de C&#225;ncer de Colon
+209,4,1 1
+	Existen evidencias de Estenosis P&#233;ptica
+210,4,1 1
+	CMBD 2 de Coledocolitiasis por Ictericia
+211,4,1 1
+	Existen evidencias de Diarrea Secundaria a Diabetes Mellitus
+212,4,1 1
+	CMBD de Enteropat&#237;a por Gluten
+213,4,1 1
+	Existen evidencias de Enteropat&#237;a por Gluten
+214,4,1 1
+	CMBD Diarrea por D&#233;ficit de Lactosa del Adulto
+215,4,1 1
+	Intermedio Esofagitis por Reflujo
+216,4,1 1
+	Existen evidencias de Esofagitis C&#225;ustica Aguda
+217,4,1 1
+	Existen evidencias de Esofagitis Infecciosa
+218,4,1 1
+	Intermedio Esofagitis Infecciosa
+219,4,1 1
+	Existen evidencias de Espasmo Esof&#225;gico Difuso
+220,4,1 1
+	Intermedio Espasmo Esof&#225;gico Difuso
+221,4,1 1
+	Existen evidencias de Perforaci&#243;n Esof&#225;gica
+222,4,1 1
+	Intermedio Perforaci&#243;n Esof&#225;gica
+223,4,1 1
+	Existen evidencias de Cuerpo Extra&#241;o Esof&#225;gico
+224,4,1 1
+	Existen evidencias de S&#237;ndrome de Mallory Weiss
+225,4,1 1
+	CMBD de Mallory-Weiss
+226,4,1 1
+	Existen evidencias de Acalasia
+227,4,1 1
+	Intermedio Acalasia
+228,4,1 1
+	Existen evidencias de Divert&#237;culo de Zenker
+229,4,1 1
+	Intermedio Divert&#237;culo de Zenker
+230,4,1 1
+	Intermedio Divert&#237;culo de Zenker
+231,4,1 2
+	Existen evidencias de Hepatopat&#237;a Cr&#243;nica por V&#225;rices
+	 Esof&#225;gicas
+232,4,1 1
+	Intermedio V&#225;rices Esof&#225;gicas
+233,4,1 1
+	Existen evidencias de Estenosis C&#225;ustica
+234,4,1 1
+	Intermedio Estenosis C&#225;ustica
+235,4,1 2
+	Existen evidencias de Estre&#241;imiento Secundario a Malos H&#225;bitos de
+	 Vida
+236,4,1 1
+	CMBD 2 de Divert&#237;culo de Zenker por Disfagia y Regurgitaci&#243;n
+237,4,1 1
+	Existen evidencias de Estre&#241;imiento Secundario a toma de F&#225;rmacos
+238,4,1 1
+	La Disfagia cuando comenz&#243; era a alimentos l&#237;quidos
+239,4,1 1
+	Intermedio Espasmo Esof&#225;gico Difuso
+240,4,1 1
+	Existen evidencias de Esofagitis Secundaria a Esclerodermia
+241,4,1 1
+	Intermedio Esofagitis Secundaria a Esclerodermia
+242,4,1 1
+	Intermedio Esofagitis Secundaria a Esclerodermia
+243,4,1 1
+	Intermedio Esofagitis Secundaria a Esclerodermia
+244,4,1 1
+	Intermedio Esofagitis Secundaria a Esclerodermia
+245,4,1 1
+	no se usa
+246,4,1 1
+	Intermedio C&#225;ncer Esof&#225;gico
+247,4,1 1
+	Intermedio C&#225;ncer Esof&#225;gico
+248,4,1 2
+	Comod&#237;n de &#34;Tiene S&#237;ntomas Asociados...&#34; en Ardor
+	 Epig&#225;strico
+249,4,1 1
+	Comod&#237;n de &#34;Se le realiz&#243; diag...&#34; en Hematemesis
+250,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Acalasia
+251,4,1 1
+	S&#237;ntomas Asociados de Trastornos Metab&#243;licos
+252,4,1 1
+	S&#237;ntomas Asociados de Afectaci&#243;n del Estado General
+253,4,1 1
+	Intermedio C&#225;ncer Esof&#225;gico
+254,4,1 1
+	Intermedio C&#225;ncer Esof&#225;gico
+255,4,1 1
+	Intermedio C&#225;ncer Esof&#225;gico
+256,4,1 1
+	Intermedio C&#225;ncer Esof&#225;gico
+257,4,1 1
+	Existen evidencias de Ulcus P&#233;ptico
+258,4,1 1
+	Intermedio Ulcus P&#233;ptico
+259,4,1 1
+	Intermedio Ulcus P&#233;ptico
+260,4,1 1
+	Existen evidencias de Estre&#241;imiento Funcional
+261,4,1 1
+	CMBD Estre&#241;imiento Funcional
+262,4,1 1
+	Intermedio de 45{2,1} V 46{2,1} V 47{2,1} V 48{2,1} V 49{2,1} V 57{2,1}
+263,4,1 2
+	Intermedio de 50{2,1} V 51{2,1} V 52{2,1} V 53{2,1} V 54{2,1} V 55{2,1} V
+	 56{2,1} V 57{2,1}
+264,4,1 1
+	Intermedio de 397{2,1} V 44{2,1} V 398{2,1}
+265,4,1 1
+	Existen evidencias de Encefalopat&#237;a Hep&#225;tica
+266,4,1 1
+	CMBD Hepatopat&#237;a Cr&#243;nica
+267,4,1 1
+	Existen evidencias de Hepatopat&#237;a Cr&#243;nica
+268,4,1 1
+	CMBD 5 Colon Irritable o S&#237;ndrome del Intestino Irritable
+269,4,1 1
+	CMBD 4 Colon Irritable o S&#237;ndrome del Intestino Irritable
+270,4,1 1
+	Intermedio: 137 V 42{1,1} =&#62; 270 1;
+271,4,1 1
+	CMBD 3 Colon Irritable o S&#237;ndrome del Intestino Irritable
+272,4,1 1
+	Existen evidencias de Estre&#241;imiento Secundario a Hiperparatiroidismo
+273,4,1 1
+	CMBD 2 Colon Irritable o S&#237;ndrome del Intestino Irritable
+274,4,1 1
+	Intermedio de 99{1,1} V 100{1,1} V 94{1,1}
+275,4,1 1
+	Existen evidencias de Estre&#241;imiento Secundario a Otras Hipercalcemias
+276,4,1 1
+	CMBD 1 Colon Irritable o S&#237;ndrome del Intestino Irritable
+277,4,1 1
+	Existen evidencias de Colon Irritable o S&#237;ndrome del Intestino Irritable
+278,4,1 1
+	CMBD 1 de Enfermedad de Crohn
+279,4,1 1
+	CMBD 2 de Enfermedad de Crohn
+280,4,1 1
+	CMBD 3 de Enfermedad de Crohn
+281,4,1 1
+	Intermedio de 330 V 307
+282,4,1 1
+	CMBD 4 de Enfermedad de Crohn
+283,4,1 1
+	Intermedio de Colitis Ulcerosa Inmunol&#243;gica
+284,4,1 1
+	Intermedio Ulcus P&#233;ptico
+285,4,1 1
+	Intermedio 17{1,1} V 9{1,1}
+286,4,1 1
+	Intermedio Ulcus P&#233;ptico
+287,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Obstrucci&#243;n Esof&#225;gica
+288,4,1 1
+	Intermedio 87 V 88
+289,4,1 1
+	Existen evidencias de Ulcus Duodenal
+290,4,1 1
+	Intermedio Ulcus P&#233;ptico
+291,4,1 1
+	Intermedio de 76{2,1} V 77{2,1}
+292,4,1 1
+	Existen evidencias de Enfermedad de Crohn o Enteritis Regional
+293,4,1 1
+	CMBD 3 de Colitis Ulcerosa Inmunol&#243;gica
+294,4,1 1
+	Intermedio Ulcus P&#233;ptico
+295,4,1 1
+	Intermedio Ulcus P&#233;ptico
+296,4,1 1
+	Existen evidencias de Dispepsia Funcional No Ulcerosa
+297,4,1 1
+	Gastritis-Duodenitis
+298,4,1 1
+	Comod&#237;n de S&#237;ntomas Acompa&#241;antes de Dolor Abdominal Agudo
+299,4,1 1
+	Intermedio Gastritis-Duodenitis
+300,4,1 1
+	Intermedio Gastritis-Duodenitis
+301,4,1 1
+	Intermedio Gastritis-Duodenitis
+302,4,1 1
+	Intermedio de 42{1,1} V 40{1,1}
+303,4,1 1
+	Existen evidencias de Hematemesis y/o Melena por probable Gastritis Erosiva
+304,4,1 1
+	Intermedio Gastritis-Duodenitis
+305,4,1 1
+	Existen evidencias de Estenosis Pil&#243;rica
+306,4,1 1
+	Existen evidencias de S&#237;ndrome de Zollinger-Ellison o Gastrinoma
+307,4,1 1
+	Intermedio de 93{1,1} &#38; 40{1,1} &#38; 115{1,1}
+308,4,1 1
+	CMBD 2 de Colitis Ulcerosa Inmunol&#243;gica
+309,4,1 1
+	Intermedio de 253{2,1} V 254{2,1} V 255{2,1} V 256{2,1}
+310,4,1 1
+	Intermedio de 285{2,1} V 247{2,1}
+311,4,1 1
+	Existen evidencias de Enfermedad de Wilson
+312,4,1 1
+	CMBD C&#225;ncer G&#225;strico
+313,4,1 1
+	Intermedio de 92{1,1} V 93{1,1}
+314,4,1 1
+	Intermedio de 14 V 20{1,1}
+315,4,1 1
+	Existen evidencias de Pancreatitis Aguda
+316,4,1 1
+	El Dolor Abdominal se desencadena con la ingesta alimenticia
+317,4,1 1
+	El Dolor Abdominal se desencadena con la ingesta de f&#225;rmacos
+318,4,1 1
+	El Dolor Abdominal se desencadena con la ingesta de alcohol
+319,4,1 1
+	Intermedio de 316 V 318
+320,4,1 1
+	Intermedio de 156 V 157
+321,4,1 1
+	Intermedio de 174{2,1} V 2{2,1}
+322,4,1 1
+	Intermedio Pancreatitis Aguda
+323,4,1 1
+	Las Nauseas y/o V&#243;mitos se relacionan con la ingesta de alcohol
+324,4,1 1
+	Existen evidencias de Pancreatitis Cr&#243;nica
+325,4,1 1
+	Intermedio Pancreatitis Cr&#243;nica
+326,4,1 1
+	Intermedio de 10{1,1} V 264{2,1}
+327,4,1 1
+	Existen evidencias de Estre&#241;imiento Secundario a Hipopotasemia
+328,4,1 1
+	Intermedio Pancreatitis Cr&#243;nica
+329,4,1 1
+	Comod&#237;n de Antecedentes Personales de Ictericia
+330,4,1 1
+	Intermedio de 335 V 337
+331,4,1 1
+	CMBD 1 de Enfermedad de Wilson
+332,4,1 1
+	CMBD 1 de C&#225;ncer de P&#225;ncreas
+333,4,1 1
+	Existen evidencias de Colelitiasis
+334,4,1 1
+	Intermedio de 145 V 148
+335,4,1 1
+	Intermedio de 93{1,1} &#38; 107{1,1}
+336,4,1 1
+	CMBD de Colelitiasis
+337,4,1 1
+	Intermedio de 93{1,1} &#38; -107{1,1}
+338,4,1 1
+	Existen evidencias de Fisura Anal
+339,4,1 1
+	Existen evidencias de Estre&#241;imiento Secundario a Diabetes Mellitus
+340,4,1 1
+	Intermedio de 57{1,1} V 358
+341,4,1 1
+	CMBD 1 de Colitis Ulcerosa Inmunol&#243;gica
+342,4,1 2
+	Existen evidencias de Coledocolitiasis o Estenosis Papilar o Carcinoma Ampular
+	 o Compresi&#243;n Extr&#237;nseca
+343,4,1 1
+	Existen evidencias de Estre&#241;imiento Secundario a Porfiria
+344,4,1 2
+	CMBD de Ulcus P&#233;ptico por Hematemesis y/o Melenas &#38; Antecedentes
+	 Patol&#243;gicos Personales de Ulceras
+345,4,1 1
+	Existen evidencias de Colitis Ulcerosa Inmunol&#243;gica
+346,4,1 1
+	Intermedio de 267{1,1} V 74{1,1} V 59{1,1}
+347,4,1 1
+	CMBD Coledocolitiasis
+348,4,1 1
+	Existen evidencias de Colecistitis Aguda
+349,4,1 1
+	CMBD Colecistitis Aguda
+350,4,1 1
+	Existen evidencias de Absceso Anal
+351,4,1 1
+	Existen evidencias de Colangitis Aguda
+352,4,1 1
+	CMBD Colangitis Aguda
+353,4,1 1
+	Intermedio de 6 V 7
+354,4,1 1
+	Existen evidencias de Neoplasia Biliar
+355,4,1 1
+	CMBD Neoplasia Biliar
+356,4,1 1
+	El paciente presenta Espondilitis
+357,4,1 1
+	El paciente presenta Conjuntivitis y/o Uve&#237;tis
+358,4,1 1
+	El paciente refiere tener Pioderma Gangrenoso
+359,4,1 1
+	CMBD 5 de C&#225;ncer de Colon por Dolor Abdominal
+360,4,1 1
+	Existen evidencias de Ictericia Funcional
+361,4,1 1
+	cmdb Ictericia Funcional
+362,4,1 1
+	Existen evidencias de Ictericia Secundaria a S&#237;ndrome Hemol&#237;tico
+363,4,1 1
+	CMBD Ictericia Secundaria a S&#237;ndrome Hemol&#237;tico
+364,4,1 1
+	no se usa
+365,4,1 1
+	Existen evidencias de Colestasis por Embarazo
+366,4,1 1
+	Existen evidencias de Obstrucci&#243;n Intestinal Aguda
+367,4,1 1
+	CMBD 2 de C&#225;ncer de P&#225;ncreas
+368,4,1 1
+	Intermedio Obstrucci&#243;n Intestinal Aguda
+369,4,1 1
+	Intermedio Obstrucci&#243;n Intestinal Aguda
+370,4,1 1
+	Existen evidencias de Diverticulitis Aguda
+371,4,1 1
+	Intermedio Diverticulitis Aguda
+372,4,1 1
+	CMBD 4 de C&#225;ncer de Colon por Dolor Abdominal
+373,4,1 1
+	Existen evidencias de Diverticulosis del Colon
+374,4,1 1
+	Intermedio Diverticulosis del Colon
+375,4,1 1
+	Intermedio Diverticulosis del Colon
+376,4,1 1
+	El Estrenimiento alterna con deposiciones normales o Diarr&#233;icas
+377,4,1 1
+	Existen evidencias de Absceso Hep&#225;tico
+378,4,1 1
+	CMBD Absceso Hep&#225;tico
+379,4,1 2
+	CMBD de Hepatopat&#237;a Cr&#243;nica por Antecedentes Patol&#243;gicos
+	 Personales de Hepatitis Aguda
+380,4,1 1
+	CMBD 1 de C&#225;ncer Hep&#225;tico
+381,4,1 1
+	CMBD 2 de Esofagitis por Reflujo
+382,4,1 1
+	Existen evidencias de Apendicitis Aguda
+383,4,1 1
+	CMBD Apendicitis Aguda
+384,4,1 1
+	Existen evidencias de Hepatitis Aguda
+385,4,1 2
+	Intermedio de 2{2,1} V 60{2,1} V 61{2,1} V 62{2,1} V 63{2,1} v 59 V 93{2,1} V
+	 64{2,1}
+386,4,1 1
+	CMBD de Hepatitis Aguda por Ictericia
+387,4,1 1
+	CMBD de Hepatitis Aguda por Astenia
+388,4,1 1
+	Existen evidencias de Hepatitis Aguda de Origen Alcoh&#243;lico
+389,4,1 1
+	Existen evidencias de Hepatitis Aguda de Origen Viral
+390,4,1 1
+	CMBD de Hepatitis Aguda por N&#225;useas y/o V&#243;mitos
+391,4,1 1
+	CMBD de Hepatitis Aguda por Diarrea Aguda
+392,4,1 1
+	Intermedio de 40{1,1} V 298
+393,4,1 1
+	Intermedio de 2{2,1} V 231{2,1}
+394,4,1 1
+	CMBD de Hepatitis Aguda por Dolor Abdominal
+395,4,1 1
+	CMBD de Hepatitis Aguda por Fiebre
+396,4,1 1
+	Existen evidencias de Abdomen Agudo
+397,4,1 1
+	CMBD Abdomen Agudo
+398,4,1 1
+	CMBD 3 de C&#225;ncer de Colon por Dolor Abdominal
+399,4,1 1
+	Intermedio de 116 V 10{1,1}
+400,4,1 1
+	CMBD 2 de C&#225;ncer de Colon por Dolor Abdominal
+401,4,1 1
+	CMBD 1 de C&#225;ncer de Colon por Dolor Abdominal
+402,4,1 2
+	El paciente ha padecido de Hepatitis Aguda recientemente que persiste por
+	 m&#225;s de 6 meses
+403,4,1 1
+	Existen evidencias de Angiodisplasia de Colon
+404,4,1 1
+	Existen evidencias de P&#243;lipos de Colon y/o Recto
+405,4,1 1
+	Existen evidencias de Hemorroides
+406,4,1 1
+	CMBD Diarrea Secundaria a Insuficiencia Pancre&#225;tica
+407,4,1 1
+	Existen evidencias de Diarrea Secundaria a Insuficiencia Pancre&#225;tica
+408,4,1 1
+	Intermedio de 249{2,1} V 250{2,1} V 252{2,1}
+409,4,1 1
+	Existen evidencias de Diarrea Secundaria a Abuso de Laxantes
+410,4,1 1
+	CMBD Diarrea Postgastrectomia
+411,4,1 1
+	Existen evidencias de Diarrea Postgastrectom&#237;a
+412,4,1 1
+	Existen evidencias de Diarrea Secundaria a Hipertiroidismo
+413,4,1 1
+	Existen evidencias de Enfermedad de Whipple
+414,4,1 1
+	CMBD Enfermedad de Whipple
+415,4,1 1
+	Existen evidencias de Linfoma Intestinal Primario
+416,4,1 1
+	Existen evidencias de Enteritis por Radioterapia
+417,4,1 1
+	Existen evidencias de Diarrea por D&#233;ficit de Lactosa del Adulto
+418,4,1 1
+	Comod&#237;n de Antecedentes de Cirug&#237;a para Dolor Abdominal Agudo
+419,4,1 1
+	Comod&#237;n de Hemorragias en Hematemesis
+420,4,1 1
+	Comod&#237;n de la relaci&#243;n de la Diarrea en Diarrea
+421,4,1 1
+	Comod&#237;n de &#34;Tumores Digestivos...&#34; en Hematemesis
+422,4,1 1
+	Comod&#237;n de &#34;Est&#225; tomando ...&#34; en Hematemesis
+423,4,1 1
+	Disminuy&#243; el Dolor Abdominal con el V&#243;mito
+424,4,1 1
+	Comod&#237;n de &#34;Existen antecedentes de ...&#34; en Hematemesis
+425,4,1 1
+	Comod&#237;n de &#34;El paciente ha ingerido...&#34; en Melena
+426,4,1 1
+	Comod&#237;n de &#34;Tiene dolor,....&#34; en Rectorragia
+427,4,1 1
+	Comod&#237;n de &#34;Se acompa&#241;a de ...&#34; en Rectorragia
+428,4,1 1
+	Comod&#237;n de &#34;Tiene historia previa...&#34; en Dispepsia
+429,4,1 1
+	Comod&#237;n de &#34;Hist. previa de Enf. es&#243;fago&#34; en Dispepsia
+430,4,1 2
+	Comod&#237;n de &#34;Hist. previa de Enf. est&#243;mago o duodeno&#34; en
+	 Dispepsia
+431,4,1 1
+	Comod&#237;n de &#34;Hist. previa de Enf. &#225;rbol biliar&#34; en Dispepsia
+432,4,1 1
+	Comod&#237;n de &#34;Hist. previa de Enf. del p&#225;ncreas&#34; en Dispepsia
+433,4,1 1
+	Comod&#237;n de &#34;Hist. previa de Enf. intestinales&#34; en Dispepsia
+434,4,1 1
+	Comod&#237;n de &#34;Hist. previa de Enf. sist&#233;micas&#34; en Dispepsia
+435,4,1 2
+	Proposici&#243;n para la selecci&#243;n de Enfermedades Sist&#233;micas previas
+	 en Dispepsia
+436,4,1 1
+	Comod&#237;n de &#34;S&#237;ntomas asociados...&#34; en Dispepsia
+437,4,1 1
+	El paciente refiere tener Hemorragia Digestiva
+438,4,1 1
+	Comod&#237;n de &#34;Se acompa&#241;a de...&#34; en Estre&#241;imiento
+439,4,1 2
+	Comod&#237;n de &#34;Antecedentes farmacol&#243;gicos...&#34; en
+	 Estre&#241;imiento
+440,4,1 2
+	Comod&#237;n de &#34;Antecedentes de( embarazo, etc.)...&#34; en
+	 Estre&#241;imiento
+441,4,1 2
+	Comod&#237;n de &#34;Otros aspectos (bebe poco, etc)...&#34; en
+	 Estre&#241;imiento
+442,4,1 1
+	Comod&#237;n de &#34;Si Disfagia menos de 24h preguntar...&#34; en Disfagia
+443,4,1 1
+	Comod&#237;n de &#34;Tiene antecedentes de...&#34; en Disfagia
+444,4,1 1
+	Comod&#237;n de &#34;Tiene otros s&#237;ntomas asociados...&#34; en Disfagia
+445,4,1 2
+	Comod&#237;n de &#34;Tiene otros s&#237;ntomas asociados...Generales&#34; en
+	 Disfagia
+446,4,1 2
+	Comod&#237;n de &#34;Tiene otros s&#237;ntomas asociados...Digestivos&#34; en
+	 Disfagia
+447,4,1 2
+	Comod&#237;n de &#34;Tiene otros s&#237;ntomas asociados...Respiratorios&#34;
+	 en Disfagia
+448,4,1 1
+	Tiene Otros S&#237;ntomas Asociados...Generales en Disfagia
+449,4,1 1
+	Tiene Otros S&#237;ntomas Asociados...Digestivos en Disfagia
+450,4,1 1
+	Tiene Otros S&#237;ntomas Asociados...Respiratorios en Disfagia
+451,4,1 1
+	Comod&#237;n de &#34;Tiene antecedentes de...&#34; en Dolor Abdominal
+452,4,1 1
+	Comod&#237;n de &#34;Padece usted?...&#34; en Dolor Abdominal
+453,4,1 1
+	CMBD de Ulcus P&#233;ptico por N&#225;useas y/o V&#243;mitos
+454,4,1 1
+	Dolor Abdominal localizado, despierta al incorporarse y peristaltismo normal
+455,4,1 1
+	El paciente presenta Polaquiuria y/o Disuria y/o Hematuria
+456,4,1 1
+	El paciente presenta Tos y/o Expectoraci&#243;n
+457,4,1 1
+	Comod&#237;n de &#34;Qu&#233; medicamento...&#34; en Diarrea Aguda
+458,4,1 1
+	Comod&#237;n de &#34;El alimento sospechoso fue...&#34; en Diarrea Aguda
+459,4,1 2
+	Comod&#237;n de &#34;El paciente presenta sintomatolog&#237;a asociada...&#34;
+	 Diarrea Aguda
+460,4,1 2
+	Comod&#237;n de &#34;El paciente presenta... Ap. Digestivo&#34; en Diarrea
+	 Aguda
+461,4,1 2
+	Comod&#237;n de &#34;El paciente presenta... Ap. Dermatol&#243;gico&#34; en
+	 Diarrea Aguda
+462,4,1 1
+	El paciente refiere tener Hepatitis
+463,4,1 1
+	El paciente presenta Sintomatolog&#237;a Digestiva asociada a Diarrea Aguda
+464,4,1 2
+	El paciente presenta Sintomatolog&#237;a Dermatol&#243;gica asociada a Diarrea
+	 Aguda
+465,4,1 1
+	El Dolor Abdominal empeora con el Stress o Alteraciones Emocionales
+466,4,1 1
+	Comod&#237;n de &#34;Refiere otras alteraciones...&#34; en Diarrea Cr&#243;nica
+467,4,1 1
+	Comod&#237;n de &#34;Tiene antecedentes de...&#34; en Diarrea Cr&#243;nica
+468,4,1 1
+	Comod&#237;n de &#34;12.- El dolor empez&#243;...&#34; de Dolor Abdominal
+469,4,1 1
+	Comod&#237;n de &#34;4.1.- V&#243;mitos...&#34; en Distenci&#243;n Abdominal
+470,4,1 2
+	Comod&#237;n de &#34;4.1.- Contenido del v&#243;mito...&#34; en
+	 Estre&#241;imiento
+471,4,1 1
+	CMBD de Dispepsia Funcional No Ulcerosa
+472,4,1 1
+	Ptr a Funci&#243;n Proposicional 2 positivos en Dispepsia Funcional
+473,4,1 1
+	Ptr a Funci&#243;n Proposicional 3 positivos en Dispepsia Funcional
+474,4,1 1
+	Intermedio de 86{5,1} V 88{5,1}
+475,4,1 1
+	El Dolor Abdominal empeora con la ingesta de alcohol
+476,4,1 1
+	Comodin de la variable 105
+477,4,1 1
+	Intermedio de 71{5,1} V 73{5,1} V 74{5,1}
+478,4,1 1
+	Intermedio de 18{2,1} V 188{2,1}
+479,4,1 1
+	Intermedio de 247{5,1} V 246{5,1}
+480,4,1 1
+	Intermedio de 170 &#38; 238
+481,4,1 1
+	Intermedio de 16{1,1} V 132{2,1}
+482,4,1 1
+	Intermedio de 25{1,1} V 505
+483,4,1 1
+	Intermedio de 9{1,1} V 17{1,1} V 20{1,1}
+484,4,1 1
+	CMBD 3 de C&#225;ncer de P&#225;ncreas
+485,4,1 1
+	Intermedio de 101 V 102
+486,4,1 1
+	Intermedio de 103 V 104
+487,4,1 1
+	Ptr a Funci&#243;n Proposicional 1 positivo en Dispepsia Funcional
+488,4,1 1
+	Intermedio de 53{1,1} V 158{1,1} V 13{1,1}
+489,4,1 1
+	Intermedio de 3 V 5
+490,4,1 1
+	El Dolor Abdominal empeora con la ingesta de f&#225;rmacos
+491,4,1 1
+	Intermedio de 521 V 64{2,1}
+492,4,1 1
+	Intermedio de 40{1,1} V 92{1,1}
+493,4,1 1
+	Intermedio de 11{1,1} V 20{1,1}
+494,4,1 1
+	Intermedio de 100{1,1} V 94{1,1}
+495,4,1 1
+	Intermedio de 10{1,1} V 9{1,1}
+496,4,1 1
+	Intermedio de 335 V 307
+497,4,1 1
+	Intermedio de 23 V 24
+498,4,1 1
+	El Dolor Abdominal es localizado
+499,4,1 1
+	Intermedio de 28 V 5
+500,4,1 1
+	Intermedio de 89{1,1} V 90{1,1} V 91{1,1} V 88{1,1}
+501,4,1 1
+	Intermedio de 164 V 160 V 162 V 163
+502,4,1 1
+	Intermedio de 18{1,1} V 14{1,1}
+503,4,1 1
+	Intermedio de 23 V 24 V 25
+504,4,1 1
+	Intermedio de 10 V 335
+505,4,1 1
+	Intermedio de 53{1,1} V 158{1,1}
+506,4,1 1
+	Intermedio de 20{1,1} V 12{1,1}
+507,4,1 1
+	Intermedio de 357 V 356 V 340
+508,4,1 1
+	Intermedio de 94{1,1} V 20{1,1}
+509,4,1 1
+	Intermedio de 17{1,1} V 172{2,1}
+510,4,1 1
+	Intermedio de 2{2,1} V 60{2,1} V 61{2,1} V 62{2,1} V 63{2,1}
+511,4,1 1
+	Padre de la lista asociada a Dolor Abdominal agudo (15 d&#237;as o menos)
+512,4,1 2
+	Padre de la lista asociada a Dolor Abdominal cr&#243;nico (M&#225;s de 15
+	 d&#237;as)
+513,4,1 1
+	Intermedio de 238{2,1} V 239{2,1}
+514,4,1 1
+	El Dolor Abdominal se calma con la ingesta de anti&#225;cidos
+515,4,1 1
+	Intermedio de 3{5,1} &#38; -104{1,1}
+516,4,1 1
+	Comod&#237;n de &#34;Antecedentes de Pancreatitis&#34;
+517,4,1 1
+	CMBD de &#34;Pirosis&#34; en Esofagitis secundaria a Esclerodermia
+518,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Pancreatitis Cr&#243;nica
+519,4,1 1
+	Intermedio de 109{1,1} V 392
+520,4,1 1
+	Intermedio de 14{1,1} &#38; (20{1,1} V 376) &#38; 275 &#38; 12{1,1}
+521,4,1 1
+	El paciente tiene Tratamiento Farmacol&#243;gico (Ictericia)
+522,4,1 1
+	Comod&#237;n de &#34;El paciente presenta... Otras&#34; en Diarrea Aguda
+523,4,1 1
+	El paciente presenta Otras Sintomatolog&#237;as Asociadas a Diarrea Aguda
+524,4,1 1
+	Intermedio de 60{2,1} V 61{2,1} V 62{2,1} V 63{2,1} V 59
+525,4,1 1
+	El Dolor Abdominal Cr&#243;nico se asocia con el ciclo menstrual
+526,4,1 1
+	La Diarrea se relaciona con la ingesta de gluten
+527,4,1 1
+	La Diarrea se relaciona con la ingesta de leche y derivados
+528,4,1 1
+	La Diarrea se relaciona con la toma cr&#243;nica de laxantes
+529,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Gastritis
+530,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Ulcera G&#225;strica
+531,4,1 1
+	Existen evidencias de Diarrea Aguda por Ingesta de Pescados y Mariscos
+532,4,1 1
+	Existen evidencias de Diarrea Aguda por Ingesta de Setas
+533,4,1 2
+	Existen evidencias de Diarrea Estafiloc&#243;cica Aguda o por Staphylococcus
+	 Aureus
+534,4,1 1
+	Existen evidencias de Diarrea Aguda por Salmonella o Salmonelosis no Tifoidica
+535,4,1 1
+	Existen evidencias de Diarrea Aguda por Clostridium Perfringes
+536,4,1 1
+	Existen evidencias de Diarrea Aguda por Bacilo Cereus
+537,4,1 1
+	Existen evidencias de Diarrea por Entoamebas
+538,4,1 1
+	Existen evidencias de Diarrea Aguda por Escherichia Coli Enterotox&#237;geno
+539,4,1 1
+	Existen evidencias de Diarrea Aguda por Shigella
+540,4,1 1
+	Existen evidencias de Diarrea Aguda por Escherichia Coli Invasivo
+541,4,1 1
+	Existen evidencias de Diarrea Aguda por Campilob&#225;cter
+542,4,1 1
+	Existen evidencias de Diarrea Aguda por Yersinia enterocol&#237;tica
+543,4,1 1
+	Existen evidencias de Diarrea Aguda por Vitrio Parahemol&#237;tico
+544,4,1 1
+	Existen evidencias de Diarrea Aguda por Clostridium Difficile
+545,4,1 1
+	Existen evidencias de Diarrea Aguda por Vibrio Cholerae
+546,4,1 1
+	Existen evidencias de Diarrea Aguda por Clostridium Botulinico
+547,4,1 1
+	Existen evidencias de Diarrea por Giardia Lamblia
+548,4,1 1
+	Existen evidencias de Diarrea Aguda por Rota Virus o Virus de Norwalk
+549,4,1 1
+	CMBD de Diarrea Aguda Secundaria a Ingesta de Pescados y Mariscos
+550,4,1 1
+	CMBD de Diarrea Aguda Secundaria a Ingesta de Setas
+551,4,1 1
+	CMBD 2 de Diarrea Aguda por Clostridium Botul&#237;nico
+552,4,1 1
+	CMBD 1 de Diarrea Aguda por Salmonella
+553,4,1 1
+	Comod&#237;n de S&#237;ntomas Acompanantes de Dolor Abdominal Cr&#243;nico
+554,4,1 1
+	CMBD de Diarrea Aguda por Shigella
+555,4,1 2
+	Comod&#237;n de S&#237;ntomas Acompa&#241;antes de N&#225;useas y V&#243;mitos
+	 Agudos
+556,4,1 2
+	Padre de lista para Sospecha Psic&#243;gena de N&#225;useas o V&#243;mitos
+	 Agudos
+557,4,1 1
+	Antecedentes personales de tratamiento con Anovulatorios
+558,4,1 1
+	CMBD de Diarrea Aguda por Clostridium Difficile
+559,4,1 2
+	Comod&#237;n de Relaci&#243;n con ingesta de: en N&#225;useas y V&#243;mitos
+	 Agudos
+560,4,1 1
+	Caracter&#237;sticas del Dolor Abdominal en el tiempo: Primer episodio
+561,4,1 1
+	El paciente presenta Ausencia de Deposici&#243;n
+562,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Ulcera Duodenal
+563,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Neoplasia G&#225;strica
+564,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Colecistitis
+565,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Colelitiasis
+566,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Coledocolitiasis
+567,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Pancreatitis
+568,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Neoplasia del P&#225;ncreas
+569,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Estados Malabsortivos
+570,4,1 2
+	Existen evidencias de Dispepsia Secundaria a Obstrucci&#243;n Intestinal
+	 Intermitente
+571,4,1 2
+	Existen evidencias de Dispepsia Secundaria a S&#237;ndrome de Col&#243;n
+	 Irritable
+572,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Angina Abdominal
+573,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Colitis Isqu&#233;mica
+574,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Tuberculosis
+575,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Cardiopat&#237;as
+576,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Insuficiencia Renal
+577,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Epatopatia Cr&#243;nica
+578,4,1 1
+	Existen evidencias de Dispepsia Secundaria a Diabetes Mellitus
+579,4,1 1
+	Existen evidencias de Dolor Abdominal por Pancreatitis Cr&#243;nica
+580,4,1 1
+	Intermedio de 194 V 10
+581,4,1 1
+	Intermedio de 1 &#38; 121{1,1}
+582,4,1 1
+	Intermedio de 1 &#38; 120{1,1}
+583,4,1 1
+	Padre de la lista de N&#225;useas y/o V&#243;mitos Cr&#243;nicos
+584,4,1 1
+	CMBD de Diarrea Secundaria a Abuso de Laxantes
+585,4,1 1
+	Existen evidencias de Estre&#241;imiento Secundario a Feocromacitoma
+586,4,1 1
+	Caracter&#237;sticas del Dolor Abdominal en el tiempo: Con caracter Estacional
+587,4,1 1
+	Caracter&#237;sticas del Dolor Abdominal en el tiempo: Recurrente
+588,4,1 1
+	El Ardor en el Epigastrio es de d&#237;as
+589,4,1 1
+	El Ardor en el Epigastrio es de semanas
+590,4,1 1
+	El Ardor en el Epigastrio es de meses o a&#241;os
+591,4,1 1
+	El Dolor Abdominal empeora con la ingesta de alimentos
+592,4,1 1
+	no se usa
+593,4,1 1
+	no se usa
+594,4,1 1
+	no se usa
+595,4,1 1
+	no se usa
+596,4,1 1
+	Desde cu&#225;ndo tiene Disfagia: M&#225;s de 24 horas y menos de un mes
+597,4,1 1
+	Desde cu&#225;ndo tiene Disfagia: Entre un mes y un a&#241;o
+598,4,1 1
+	D&#243;nde se localiza la Disfagia: A Nivel Orofar&#237;ngeo
+599,4,1 1
+	D&#243;nde se localiza la Disfagia: A Nivel Esof&#225;gico
+600,4,1 1
+	Desde cu&#225;ndo presenta Regurgitaci&#243;n: Semanas
+601,4,1 1
+	Desde cu&#225;ndo presenta Regurgitaci&#243;n: Meses
+602,4,1 1
+	Desde cu&#225;ndo presenta Regurgitaci&#243;n: A&#241;os
+603,4,1 1
+	CMBD 6 de C&#225;ncer Esof&#225;gico por Disfagia
+604,4,1 1
+	CMBD 7 de C&#225;ncer Esof&#225;gico por Disfagia
+605,4,1 1
+	CMBD 8 de C&#225;ncer Esof&#225;gico por Hematemesis
+606,4,1 1
+	CMBD 9 de C&#225;ncer Esof&#225;gico por Hematemesis
+607,4,1 1
+	CMBD 2 de Dispepsia Funcional No Ulcerosa por Dispepsia
+608,4,1 1
+	Desde cu&#225;ndo presenta Dispepsia: Semanas
+609,4,1 1
+	Desde cu&#225;ndo presenta Dispepsia: Meses
+610,4,1 1
+	Desde cu&#225;ndo presenta Dispepsia: A&#241;os
+611,4,1 1
+	La Dispepsia tiene relaci&#243;n con Ingesta de Comidas Flatulentas
+612,4,1 1
+	La Dispepsia tiene relaci&#243;n con Stress o Ansiedad
+613,4,1 1
+	La Dispepsia tiene relaci&#243;n con Ingesta de F&#225;rmacos
+614,4,1 1
+	CMBD 1 de Gastritis - Duodenitis por Hematemesis
+615,4,1 1
+	CMBD 2 de Gastritis - Duodenitis por Hematemesis
+616,4,1 1
+	CMBD 1 de Gastritis - Duodenitis por N&#225;useas y/o V&#243;mitos
+617,4,1 1
+	CMBD 2 de Ulcus Duodenal por Dolor Abdominal
+618,4,1 1
+	CMBD 2 de C&#225;ncer G&#225;strico por Dolor Abdominal
+619,4,1 1
+	CMBD 3 de C&#225;ncer G&#225;strico por Ardor Epigastrio
+620,4,1 1
+	CMBD 4 de C&#225;ncer G&#225;strico por Hematemesis y/o Melenas
+621,4,1 1
+	CMBD 5 de C&#225;ncer G&#225;strico por N&#225;useas y/o V&#243;mitos
+622,4,1 1
+	CMBD 6 de C&#225;ncer G&#225;strico por Dispepsia
+623,4,1 1
+	CMBD 1 de Hemorroides por Estre&#241;imiento
+624,4,1 1
+	CMBD 2 de Hemorroides por Rectorragia
+625,4,1 1
+	Comod&#237;n de APP de Homosex., Toxicoman&#237;a, pinchazos, etc.
+626,4,1 1
+	CMBD 2 de Ictericia Secundaria a S&#237;ndrome Hemol&#237;tico por Ictericia
+627,4,1 1
+	Existen evidencias de S&#237;ndrome Colest&#225;sico por F&#225;rmacos
+628,4,1 1
+	CMBD de S&#237;ndrome Colest&#225;sico por F&#225;rmacos
+629,4,1 1
+	CMBD de Absceso Hep&#225;tico por Fiebre
+630,4,1 1
+	La Coloraci&#243;n de la Heces es Gris y/o Turbia
+631,4,1 1
+	CMBD 1 de Diarrea Aguda por Vibrio Cholerae
+632,4,1 1
+	CMBD 2 de Diarrea Aguda por Vibrio Cholerae
+633,4,1 1
+	Intermedio de Abdomen Agudo
+634,4,1 1
+	CMBD 3 de Diarrea Aguda por Clostridium Botul&#237;nico
+635,4,1 1
+	CMBD 2 de Diarrea Aguda por Salmonella
+636,4,1 1
+	CMBD 2 de Diarrea Aguda por Ingesta de Pescado y Mariscos
+637,4,1 1
+	CMBD 2 de Diarrea Estafiloc&#243;cica Aguda
+638,4,1 1
+	CMBD 1 de Diarrea Aguda por Clostridium Perfrigens
+639,4,1 1
+	CMBD 2 de Diarrea Aguda por Clostridium Perfrigens
+640,4,1 1
+	CMBD 2 de Diarrea Aguda por Bacilo Cereus
+641,4,1 1
+	CMBD 1 de Diarrea por Entoamebas
+642,4,1 1
+	CMBD 2 de Diarrea por Entoamebas
+643,4,1 1
+	CMBD 1 de Diarrea Aguda por Escherichia Coli
+644,4,1 1
+	CMBD 2 de Diarrea Aguda por Escherichia Coli
+645,4,1 1
+	CMBD 1 de Diarrea Aguda por Escherichia Coli Invasivo
+646,4,1 1
+	CMBD 2 de Diarrea Aguda por escherichia Coli Invasivo
+647,4,1 1
+	CMBD 1 de Diarrea Aguda por Shigella
+648,4,1 1
+	CMBD 1 de Diarrea Aguda por Yersinia
+649,4,1 1
+	CMBD 1 de Diarrea Aguda por Clostridium Difficile
+650,4,1 1
+	CMBD 1 de Diarrea Aguda por Vitrio Parahemol&#237;tico
+651,4,1 1
+	CMBD 2 de Diarrea Aguda por Vitrio Parahemol&#237;tico
+652,4,1 1
+	El paciente refiere tener Flatulencia
+653,4,1 1
+	El paciente presenta Desnutrici&#243;n Proteicocal&#243;rica
+654,4,1 1
+	CMBD 1 de Diarrea por Giardia Lamblia
+655,4,1 1
+	CMBD 2 de Diarrea por Giardia Lamblia
+656,4,1 1
+	CMBD 1 de Diarrea por D&#233;ficit de Lactosa del Adulto
+657,4,1 1
+	CMBD 2 de Diarrea por D&#233;ficit de Lactosa del Adulto
+658,4,1 1
+	CMBD de Evidencias de Enteritis por Radioterapia
+659,4,1 1
+	CMBD de Diarrea Secundaria a Diabetes Mellitus
+660,4,1 1
+	CMBD de Diarrea Secundaria a Hipertiroidismo
+661,4,1 1
+	CMBD de Diarrea Secundaria a Insuficiencia Pancre&#225;tica
+662,4,1 1
+	CMBD de Linfoma Intestinal Primario
+663,4,1 1
+	CMBD 1 de Enteropat&#237;a por Gluten
+664,4,1 1
+	CMBD 2 de Enteropat&#237;a por Gluten
+665,4,1 1
+	CMBD de Colestasis por Embarazo
+666,4,1 2
+	Existen evidencias de Diarrea Cr&#243;nica Secundaria a Ingesta de
+	 F&#225;rmacos
+667,4,1 1
+	CMBD 3 de Coledocolitiasis por Ictericia
+668,4,1 1
+	CMBD 2 de Neoplasia Biliar por Ictericia
+669,4,1 1
+	El Estre&#241;imiento es de d&#237;as
+670,4,1 1
+	El Estre&#241;imiento es de meses y menos de un a&#241;o
+671,4,1 1
+	Comod&#237;n de: El paciente ha consumido alg&#250;n alimento sospechoso
+672,4,1 1
+	CMBD 6 de C&#225;ncer de Colon por Estre&#241;imiento
+673,4,1 1
+	CMBD 7 de C&#225;ncer de Colon por Estre&#241;imiento
+674,4,1 1
+	CMBD 8 de C&#225;ncer de Colon por Estre&#241;imiento
+675,4,1 1
+	CMBD 9 de C&#225;ncer de Colon por Estre&#241;imiento
+676,4,1 1
+	CMBD 13 de C&#225;ncer de Colon por Diarrea Cr&#243;nica
+677,4,1 1
+	CMBD 10 de C&#225;ncer de Colon por Rectorragia
+678,4,1 1
+	CMBD 11 de C&#225;ncer de Colon por Rectorragia
+679,4,1 1
+	CMBD 1 de Obstrucci&#243;n Intestinal por Dolor Abdominal
+680,4,1 1
+	CMBD 2 de Obstrucci&#243;n Intestinal por Dolor Abdominal
+681,4,1 1
+	CMBD 3 de Obstrucci&#243;n Intestinal por V&#243;mitos
+682,4,1 1
+	CMBD 4 de Obstrucci&#243;n Intestinal por V&#243;mitos
+683,4,1 1
+	CMBD 5 de Obstrucci&#243;n Intestinal por Distensi&#243;n Abdominal
+684,4,1 1
+	CMBD 4 de C&#225;ncer de P&#225;ncreas
+685,4,1 1
+	CMBD 5 de C&#225;ncer de P&#225;ncreas
+686,4,1 1
+	Embarazo mayor de 3 meses
+687,4,1 1
+	La paciente est&#225; Embarazada
+688,4,1 1
+	Antecedentes Personales de Enfermedad inflamatoria p&#233;lvica
+689,4,1 1
+	Tratamiento farmacol&#243;gico reciente con Anticonceptivos
+690,4,1 1
+	La Diarrea se acompa&#241;a de Restos de Alimentos
+691,4,1 1
+	La Diarrea se acompa&#241;a de Flemas o Mocos
+692,4,1 1
+	La Diarrea se acompa&#241;a de Sangre
+693,4,1 1
+	Las Heces tienden a flotar
+694,4,1 2
+	La frecuencia de la Diarrea es Abundante (M&#225;s de 3 deposiciones al
+	 d&#237;a)
+695,4,1 1
+	La frecuencia de la Diarrea es Escasa (3 o menos deposisiones al d&#237;a)
+696,4,1 1
+	Las Heces se acompa&#241;an de grasa
+697,4,1 1
+	El paciente ha tenido episodios recurrentes de Hepatitis Aguda
+698,4,1 1
+	Existen evidencias de Hepatitis Cr&#243;nica
+699,4,1 1
+	El paciente refiere tener Ictericia por m&#225;s de 6 meses
+700,4,1 1
+	El paciente refiere tener Anorexia por m&#225;s de 6 meses
+701,4,1 2
+	Al paciente se le han hecho Ex&#225;menes Complementarios del Ant&#237;geno de
+	 Superficie con resultados Positivos
+702,4,1 1
+	Existen evidencias de Cirrosis Hep&#225;tica
+703,4,1 1
+	CMBD 1 de Cirrosis Hep&#225;tica por Ictericia
+704,4,1 1
+	CMBD 2 de Cirrosis Hep&#225;tica por Distensi&#243;n Abdominal
+705,4,1 1
+	CMBD 3 de Cirrosis Hep&#225;tica por Hematemesis
+706,4,1 1
+	CMBD 4 de Cirrosis Hep&#225;tica por Hematemesis
+707,4,1 1
+	CMBD 5 de Cirrosis Hep&#225;tica por Hematemesis
+708,4,1 1
+	El paciente presenta Trastornos Neuropsiqui&#225;tricos
+709,4,1 1
+	Comod&#237;n de Trastornos Neuropsiqui&#225;tricos
+710,4,1 1
+	CMBD de Enfermedad de Wilson por Hepatpat&#237;a Cr&#243;nica
+711,4,1 1
+	El Dolor Abdominal es de hace m&#225;s de 15 d&#237;as y menor o igual a 1 mes
+712,4,1 1
+	El Dolor Abdominal es de hace m&#225;s de 1 mes y menor o igual a 1 a&#241;o
+713,4,1 1
+	CMBD 2 de C&#225;ncer Hep&#225;tico
+714,4,1 1
+	CMBD 3 de C&#225;ncer Hep&#225;tico
+715,4,1 1
+	CMBD 4 de C&#225;ncer Hep&#225;tico
+716,4,1 1
+	CMBD 5 de C&#225;ncer Hep&#225;tico
+717,4,1 1
+	CMBD 2 de Acalasia por Regurgitaci&#243;n

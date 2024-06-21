@@ -1,0 +1,82 @@
+<ng-container *ngIf="!regist">
+    <button mat-icon-button (click)="actionsSideMenuLeft(drawerLeft)" class="btn-float left">
+        <mat-icon [ngClass]="forestOrWhiteIconButtonSideMenu ? 'text-light' : 'text-forest'" class="fs-3">menu</mat-icon>
+    </button>
+    <button *ngIf="isAdmin" mat-mini-fab (click)="actionsSideMenuRight(drawerRight)" class="btn-float right bg-green">
+        <mat-icon [matBadge]="newNotification"
+                    matBadgeColor="warn"
+                    matBadgePosition="before"
+                    matBadgeSize="small"
+                    [matBadgeHidden]="newNotification == 0"
+                    aria-hidden="false"
+                    class="w-auto h-auto fs-3 text-forest ">
+                    notifications</mat-icon>
+        <span *ngIf="!hidden" class="position-absolute top-0 end-50 translate-middle p-1 bg-danger rounded-circle">
+            <span class="visually-hidden">alerts</span>
+        </span>
+    </button>
+    <mat-drawer-container autosize class="h-100">
+
+        <!-- Left Panel -->
+
+        <mat-drawer opened="false" #drawerLeft class="sidenav bg-forest" mode="side" position="start">
+            <div class="d-flex flex-column mt-5">
+
+                <ng-container *ngFor="let button of buttons;let i = index">
+                    <button class="flex-row-reverse p-4 my-2 justify-content-between"
+                            *ngIf="button.show"
+                            mat-button
+                            (click)="changePage(i)"
+                            (mouseenter)="changeColorIconMouseEnter(i)"
+                            (mouseleave)="changeColorIconMouseExit(i)"
+                            >
+
+                        <span class="fs-3 text-light font-calibri">{{button.name}}</span>
+                        <mat-icon [ngClass]="button.visibleIcon ?  'text-light' : button.hovered ? 'text-secondary text-opacity-50' : 'text-forest'" class="d-flex justify-content-center align-items-center fs-7 ms-2">circle</mat-icon>
+
+                    </button>
+
+                    <mat-divider class="divider" *ngIf="i == 4"></mat-divider>
+                </ng-container>
+
+            </div>
+        </mat-drawer>
+
+
+        <!-- Right Panel -->
+
+        <mat-drawer #drawerRight [opened]="false" [position]="'end'" [mode]="'over'"
+            class="bg-drawer-right w-25" [hidden]="!isAdmin">
+            <div *ngIf="load" class="d-flex justify-content-center m-1">
+                <mat-spinner
+                    style="width: 10%;height: 20px;--mdc-circular-progress-active-indicator-color: #006633!important;"></mat-spinner>
+            </div>
+
+            <div>
+                <div *ngFor="let notif of notifications, let j = index">
+                    <app-notification [title]="notif.title"
+                                        [content]="notif.content"
+                                        [dateTime]="notif.date"
+                                        [icon]="true"
+                                        [type]="notif.type"
+                                        [view]="notif.view"
+                                        (confirm)="confirmNotif(j)"
+                                        [idNotif]="notif.id"
+                                        [showAction]="notif.showBtn"></app-notification>
+                </div>
+            </div>
+            <p class="text-center mt-5" *ngIf="notifications.length == 0">No hay notificaciones</p>
+        </mat-drawer>
+
+        <!-- Content -->
+
+        <div class="container mxm-w px-4 py-2">
+            <div class="d-flex justify-content-between align-items-center">
+                <h1 class="mt-3 mx-2" [ngClass]="toggleSizeTextUp ? 'font-calibri':'fw-normal fs-5'">{{nameUser}} {{isAdmin ? '(Administrador)' : isExpert ? '(Especialista)' : ''}}</h1>
+                <a mat-button href="/login" (click)="clear()">Logout <mat-icon class="m-1">logout</mat-icon></a>
+            </div>
+            <router-outlet></router-outlet>
+        </div>
+
+    </mat-drawer-container>
+</ng-container>

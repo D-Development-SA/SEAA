@@ -1,0 +1,763 @@
+1,6,1 1
+	El Dolor Articular es de hace 1 mes o menos (Agudo)
+2,6,1 1
+	El Dolor Articular es de entre 1 y 3 meses
+3,6,1 1
+	El Dolor Articular es de m&#225;s de 3 meses
+4,6,1 1
+	El Dolor Muscular es de hace 1 mes o menos (Agudo)
+5,6,1 1
+	El Dolor Muscular es m&#225;s de 1 mes (Cr&#243;nico)
+6,6,1 1
+	El Dolor Articular se localiza en la Cabeza
+7,6,1 1
+	El Dolor Articular se localiza en el Cuello
+8,6,1 1
+	El Dolor Articular se localiza en el T&#243;rax
+9,6,1 1
+	El Dolor Articular se localiza en las Extremidades Superiores
+10,6,1 1
+	El Dolor Articular se localiza en las Extremidades Inferiores
+11,6,1 1
+	El Dolor Articular se localiza en la Columna
+12,6,1 1
+	El Dolor Articular se localiza en la Columna Cervical
+13,6,1 1
+	El Dolor Articular se localiza en la Columna Dorsal
+14,6,1 1
+	El Dolor Articular se localiza en la Columna Lumbar
+15,6,1 1
+	El Dolor Articular se localiza en la Columna Sacra
+16,6,1 1
+	Ha presentado Dolor Articular para la masticaci&#243;n
+17,6,1 1
+	Ha presentado Dolor Articular en los movimientos del cuello
+18,6,1 1
+	Ha presentado Dolor Articular para la flexi&#243;n del cuello
+19,6,1 1
+	Ha presentado Dolor Articular para la extensi&#243;n del cuello
+20,6,1 1
+	Ha presentado Dolor Articular para la rotaci&#243;n del cuello
+21,6,1 1
+	Ha presentado Dolor Articular para los movimientos laterales del cuello
+22,6,1 1
+	Ha presentado Dolor Articular para la marcha
+23,6,1 1
+	Ha presentado Dolor Articular en los movimientos del muslo sobre la pelvis
+24,6,1 2
+	La forma de comienzo del Dolor Muscular es progresiva (varias semanas &#243;
+	 meses)
+25,6,1 1
+	Ha presentado Dolor Articular en los movimientos de los hombros
+26,6,1 1
+	Ha presentado Dolor Articular en los movimientos de los codos
+27,6,1 1
+	Ha presentado Dolor Articular en los movimientos de las mu&#241;ecas
+28,6,1 2
+	Ha presentado Dolor Articular en los movimientos de las articulaciones
+	 metacarpofal&#225;ngicas
+29,6,1 1
+	La forma de comienzo del Dolor Muscular es aguda (horas o d&#237;as)
+30,6,1 2
+	Ha presentado Dolor Articular en los movimimientos de las articulaciones
+	 interfal&#225;ngicas distales
+31,6,1 2
+	Ha presentado Dolor Articular en los movimientos de las articulaciones
+	 interfal&#225;ngicas proximales
+32,6,1 2
+	Ha presentado Dolor Articular en los movimientos de las articulaciones
+	 esternoclaviculares
+33,6,1 1
+	El Dolor Muscular se acompa&#241;a de Calor
+34,6,1 1
+	Ha presentado Dolor Articular en los movimientos de la rodilla
+35,6,1 1
+	Ha presentado Dolor Articular en los movimientos de los tobillos
+36,6,1 2
+	Ha presentado Dolor Articular en los movimientos de las articulaciones
+	 metatarsofal&#225;ngicas
+37,6,1 2
+	Ha presentado Dolor Articular en los movimientos de las articulaciones
+	 tarsometatarsianas
+38,6,1 2
+	Ha presentado Dolor Articular en los movimientos de las articulaciones
+	 sacroil&#237;acas
+39,6,1 1
+	El paciente presenta Limitaci&#243;n en los movimientos de la cabeza y/o cuello
+40,6,1 2
+	El paciente presenta Limitaci&#243;n en los movimientos de las extremidades
+	 superiores
+41,6,1 2
+	La forma de comienzo del Dolor Articular es progresiva (varias semanas &#243;
+	 meses)
+42,6,1 1
+	La forma de comienzo del Dolor Articular es aguda (horas o d&#237;as)
+43,6,1 1
+	Ha sido la b&#243;veda craneal asiento de Dolor
+44,6,1 2
+	El paciente presenta Limitaci&#243;n en los movimientos de las Extremidades
+	 Inferiores
+45,6,1 1
+	El paciente presenta Limitaci&#243;n en los movimientos de la columna
+46,6,1 1
+	Existen evidencias de Fiebre Reum&#225;tica
+47,6,1 1
+	La Deformidad se localiza en la cabeza
+48,6,1 1
+	CMBD de Fiebre Reum&#225;tica
+49,6,1 1
+	Existen sospechas de Brote de Fiebre Reum&#225;tica
+50,6,1 1
+	El paciente tuvo infecci&#243;n reciente y tiene Poliartritis y Fiebre
+51,6,1 1
+	Proposici&#243;n Comod&#237;n Variable 29 - Infecciones...
+52,6,1 1
+	La Deformidad se localiza en la columna
+53,6,1 2
+	Proposici&#243;n Comod&#237;n Variable 30 - S&#237;ntomas Acompa&#241;antes de
+	 Artritis
+54,6,1 2
+	Proposici&#243;n Comod&#237;n Variable 31 - S&#237;ntomas Acompa&#241;antes de
+	 Gota...
+55,6,1 1
+	Intermedio en Gota
+56,6,1 1
+	Intermedio en Gota
+57,6,1 1
+	CMBD de Polimialgia Reum&#225;tica por Dolor Articular
+58,6,1 2
+	El Dolor en las Articulaciones afectadas se ha presentado de forma
+	 sim&#233;trica
+59,6,1 2
+	El Dolor en las Articulaciones afectadas se ha presentado de forma
+	 asim&#233;trica
+60,6,1 1
+	El Dolor es Poliarticular con compromiso de articulaciones medianas
+61,6,1 1
+	El Dolor es Poliarticular con compromiso de articulaciones peque&#241;as
+62,6,1 1
+	El Dolor es Monoarticular con compromiso de articulaciones peque&#241;as
+63,6,1 1
+	El Dolor es Monoarticular con compromiso de articulaciones medianas y grandes
+64,6,1 1
+	El Dolor Articular es migratiz
+65,6,1 1
+	El Dolor Articular es fugaz
+66,6,1 1
+	El Dolor Articular es en brotes (de varios d&#237;as a varias semanas)
+67,6,1 1
+	El Dolor en las Articulaciones afectadas deja secuelas
+68,6,1 1
+	El Dolor Articular se calma con el reposo
+69,6,1 1
+	El Dolor Articular se calma con analg&#233;sicos y/o antinflamatorio
+70,6,1 1
+	El Dolor Articular se calma con corticoides
+71,6,1 1
+	El Dolor Muscular se acompa&#241;a de Rubor
+72,6,1 1
+	El Dolor Articular se calma con cambios metereol&#243;gicos del calor
+73,6,1 1
+	El Dolor Articular se calma con cambios metereol&#243;gicos del humedad
+74,6,1 1
+	El Dolor Articular alivia con el ejercicio
+75,6,1 1
+	El Dolor Articular empeora con el ejercicio
+76,6,1 1
+	El Dolor Articular se acompa&#241;a de calor
+77,6,1 1
+	El Dolor Articular se acompa&#241;a de rubor
+78,6,1 1
+	El Dolor Articular se acompa&#241;a de aumento de volumen
+79,6,1 1
+	El Dolor Articular se acompa&#241;a de rigidez matinal
+80,6,1 1
+	El Dolor Muscular se acompa&#241;a de rigidez muscular localizada
+81,6,1 1
+	El Dolor Muscular se acompa&#241;a de endurecimiento muscular
+82,6,1 1
+	El Dolor Articular aparece con el reposo y mejora con la marcha
+83,6,1 2
+	El Dolor Articular se alivia con analg&#233;sicos al inicio luego no reacciona
+	 a estos
+84,6,1 1
+	El Dolor Articular se acompa&#241;a de sensaci&#243;n de crujido
+85,6,1 1
+	El Dolor Muscular compromete difusamente grandes zonas musculares
+86,6,1 1
+	El Dolor Muscular es circunscrito (Hematoma, Hernia Muscular)
+87,6,1 1
+	El Dolor Muscular es generalizado
+88,6,1 1
+	El Dolor Muscular se desarrolla con el movimiento
+89,6,1 1
+	El Dolor Muscular se desarrolla con la presi&#243;n
+90,6,1 1
+	La Deformidad es de hace menos de un mes
+91,6,1 1
+	La Deformidad es de hace m&#225;s de un mes
+92,6,1 1
+	La Deformidad comenz&#243; posterior a un trauma
+93,6,1 1
+	La Deformidad comenz&#243; espont&#225;neamente
+94,6,1 1
+	La Deformidad comenz&#243; progresivamente
+95,6,1 1
+	La Deformidad se localiza en la b&#243;veda craneal
+96,6,1 1
+	La Deformidad se localiza en la articulaci&#243;n temporomaxilar
+97,6,1 1
+	La Deformidad se localiza en la columna cervical
+98,6,1 1
+	La Deformidad se localiza en la articulaci&#243;n del hombro
+99,6,1 1
+	La Deformidad se localiza en la articulaci&#243;n del codo
+100,6,1 1
+	La Deformidad se localiza en la articulaci&#243;n de la mu&#241;eca
+101,6,1 1
+	La Deformidad se localiza en las articulaciones digitales de la mano
+102,6,1 1
+	La Deformidad se localiza en la columna dorsal
+103,6,1 1
+	La Deformidad se localiza en la columna lumbar
+104,6,1 1
+	La Deformidad se localiza en la articulaci&#243;n sacrococcigea
+105,6,1 1
+	La Deformidad se localiza en la articulaci&#243;n de la rodilla
+106,6,1 1
+	La Deformidad se localiza en la articulaci&#243;n del tobillo
+107,6,1 1
+	La Deformidad se localiza en la articulaci&#243;n del tarso
+108,6,1 1
+	La Deformidad se localiza en la articulaci&#243;n tarso-metastasiana
+109,6,1 1
+	La Deformidad se localiza en la articulaci&#243;n digital del pie
+110,6,1 1
+	La Deformidad se localiza en las extremidades superiores
+111,6,1 1
+	La Deformidad se localiza en las extremidades inferiores
+112,6,1 1
+	Existe Aumento de Volumen sin Deformidad
+113,6,1 1
+	Existe Deformidad con &#243; sin Aumento de Volumen
+114,6,1 1
+	La Deformidad es generalizada
+115,6,1 1
+	La Limitaci&#243;n Funcional comenz&#243; hace menos de un mes (Agudo)
+116,6,1 1
+	La Limitaci&#243;n Funcional comenz&#243; de entre uno y tres meses
+117,6,1 2
+	La Limitaci&#243;n Funcional comenz&#243; hace m&#225;s de tres meses
+	 (Cr&#243;nico)
+118,6,1 2
+	la Alteraci&#243;n o Limitaci&#243;n Funcional comenz&#243; posterior a un
+	 trauma
+119,6,1 1
+	la Alteraci&#243;n o Limitaci&#243;n Funcional comenz&#243; de forma progresiva
+120,6,1 2
+	la Alteraci&#243;n o Limitaci&#243;n Funcional comenz&#243; de forma
+	 espont&#225;nea
+121,6,1 1
+	La Limitaci&#243;n Funcional afecta la masticaci&#243;n
+122,6,1 1
+	La Limitaci&#243;n Funcional afecta la flexi&#243;n del cuello
+123,6,1 1
+	La Limitaci&#243;n Funcional afecta la extensi&#243;n del cuello
+124,6,1 1
+	La Limitaci&#243;n Funcional afecta la rotaci&#243;n del cuello
+125,6,1 1
+	La Limitaci&#243;n Funcional afecta los movimientos laterales del cuello
+126,6,1 1
+	La Limitaci&#243;n Funcional afecta la marcha
+127,6,1 1
+	La Limitaci&#243;n Funcional afecta los movimientos del muslo sobre la pelvis
+128,6,1 2
+	La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones de
+	 los hombros
+129,6,1 2
+	La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones de
+	 los codos
+130,6,1 2
+	La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones de
+	 las mu&#241;ecas
+131,6,1 2
+	La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones
+	 metacarpofar&#237;ngeas
+132,6,1 1
+	El Dolor Muscular se acompa&#241;a de aumento de volumen
+133,6,1 2
+	La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones
+	 interfal&#225;ngicas distales
+134,6,1 2
+	La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones
+	 interfal&#225;ngicas proximales
+135,6,1 2
+	La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones
+	 esternoclaviculares
+136,6,1 2
+	La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones de
+	 las rodillas
+137,6,1 2
+	La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones de
+	 los tobillos
+138,6,1 2
+	La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones
+	 metatarsofal&#225;ngicas
+139,6,1 2
+	La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones
+	 tarsometatarsianas
+140,6,1 2
+	La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones
+	 sacroil&#237;acas
+141,6,1 1
+	La Limitaci&#243;n Funcional afecta los movimientos de la columna dorsal
+142,6,1 1
+	La Limitaci&#243;n Funcional afecta los movimientos de la columna lumbar
+143,6,1 2
+	El Dolor Articular se calma con el reposo y/o con analg&#233;sicos y/o
+	 antinflamatorios
+144,6,1 1
+	Limitaci&#243;n Aguda de comienzo espont&#225;neo
+145,6,1 1
+	El paciente es de sexo Femenino y mayor de 40 a&#241;os
+146,6,1 1
+	CMBD de Espondilitis Anquilopoy&#233;tica por Dolor Articular
+147,6,1 1
+	Intermedio de Espondilitis Anquilopoy&#233;tica
+148,6,1 1
+	CMBD de Espondilitis Anquilosante por Dolor Muscular
+149,6,1 1
+	CMBD de Dolor Articular en Artritis S&#233;ptica
+150,6,1 1
+	CMBD de Limitaci&#243;n Funcional en Artritis S&#233;ptica
+151,6,1 1
+	CMBD de Deformidad en Artritis S&#233;ptica
+152,6,1 1
+	El paciente tiene Rash Cut&#225;neo y/o Urticaria
+153,6,1 1
+	Intermedio de Artritis Tuberculosa
+154,6,1 1
+	El paciente presenta Fiebre o S&#237;ndrome General o Mialgias
+155,6,1 1
+	Antecedentes personales de Enfermedades Osteomioarticulares
+156,6,1 2
+	El paciente presenta antecedentes de Lupus Eritematoso, Esclerodermia, Artritis
+	 o Carditis Reum&#225;tica (209{2,1} V 210{2,1} V 213{2,1} V 403{2,1})
+157,6,1 1
+	La zona afectada presenta Enrojecimiento
+158,6,1 1
+	CMBD de Arteritis Temporal por Dolor Articular
+159,6,1 1
+	El paciente presenta Disuria y/o Secreci&#243;n Uretral
+160,6,1 1
+	Intermedio de S&#237;ndrome de Reiter
+161,6,1 2
+	Puntero a funci&#243;n proposicional 3 o m&#225;s positivos en Lupus
+	 Eritematoso Sist&#233;mico (CMBD)
+162,6,1 1
+	El paciente presenta Fiebre y S&#237;ndrome General
+163,6,1 1
+	El Dolor Articular se calma con analg&#233;sicos y/o con corticoesteroides
+164,6,1 1
+	El paciente presenta exacerbaci&#243;n nocturna del Dolor Articular
+165,6,1 1
+	Existen evidencias de Gota
+166,6,1 1
+	Existen evidencias de Condrocalcinosis
+167,6,1 1
+	Existen evidencias de Artritis Reumatoidea
+168,6,1 1
+	Existen evidencias de Espondilitis Anquilosante
+169,6,1 1
+	Existen evidencias de Artritis S&#233;ptica No Gonoc&#243;cica
+170,6,1 1
+	Existen evidencias de Artritis Tuberculosa
+171,6,1 1
+	Existen evidencias de Artritis Psori&#225;sica
+172,6,1 1
+	Existen evidencias de Artritis Gonoc&#243;cica
+173,6,1 1
+	Existen evidencias de S&#237;ndrome de Behcet Completo
+174,6,1 1
+	Existen evidencias de Artrosis
+175,6,1 1
+	Existen evidencias de S&#237;ndrome de Reiter
+176,6,1 1
+	Existen evidencias de Lupus Eritematoso Sist&#233;mico
+177,6,1 1
+	Existen evidencias de Polimialgia Reum&#225;tica
+178,6,1 1
+	Existen s&#237;ntomas articulares locales acompa&#241;antes
+179,6,1 1
+	Antecedentes de Enfermedades del Tejido Conectivo
+180,6,1 1
+	La Limitaci&#243;n comenz&#243; al realizar un esfuerzo brusco o al levantarse
+181,6,1 2
+	El Dolor Articular se irradia de la regi&#243;n lumbar a los miembros
+	 inferiores
+182,6,1 1
+	Existen evidencias de Arteritis de la Temporal o Enfermedad de Horton
+183,6,1 1
+	Existen evidencias de Sacrolumbalgia
+184,6,1 1
+	Existen evidencias de Osteomelitis
+185,6,1 1
+	Existen evidencias de Hombro doloroso
+186,6,1 1
+	Existen evidencias de Tendinitis Calcificada
+187,6,1 1
+	Existen evidencias de Capsulitis Adhesiva u Hombro Congelado
+188,6,1 1
+	Existen evidencias de Subluxaci&#243;n de Hombro
+189,6,1 1
+	El Dolor Muscular se desarrolla con el movimiento y la presi&#243;n
+190,6,1 1
+	El Dolor Muscular se localiza en la cabeza
+191,6,1 1
+	El Dolor Muscular se localiza en el cuello
+192,6,1 1
+	El Dolor Muscular se localiza en el torax
+193,6,1 1
+	El Dolor Muscular se localiza en las extremidades superiores
+194,6,1 1
+	El Dolor Muscular se localiza en las extremidades inferiores
+195,6,1 1
+	El Dolor Muscular se localiza en la columna
+196,6,1 1
+	El Dolor Muscular se localiza en la columna cervical
+197,6,1 1
+	El Dolor Muscular se localiza en la columna dorsal
+198,6,1 1
+	El Dolor Muscular se localiza en la columna lumbar
+199,6,1 1
+	El Dolor Muscular se localiza en la columna sacra
+200,6,1 1
+	Ha presentado Dolor Muscular para la masticaci&#243;n
+201,6,1 1
+	CMBD de Polimiositis por Debilidad Muscular
+202,6,1 1
+	Ha presentado Dolor Muscular para la flexi&#243;n del cuello
+203,6,1 1
+	Ha presentado Dolor Muscular para la extensi&#243;n del cuello
+204,6,1 1
+	Ha presentado Dolor Muscular para la rotaci&#243;n del cuello
+205,6,1 1
+	Ha presentado Dolor Muscular para los movimientos laterales del cuello
+206,6,1 1
+	Ha presentado Dolor Muscular para la marcha
+207,6,1 1
+	Ha presentado Dolor Muscular en los movimientos del muslo sobre la pelvis
+208,6,1 1
+	Ha presentado Dolor Muscular en los movimientos de los hombros
+209,6,1 1
+	Ha presentado Dolor Muscular en los movimientos de los codos
+210,6,1 1
+	Ha presentado Dolor Muscular en los movimientos de las mu&#241;ecas
+211,6,1 2
+	Ha presentado Dolor Muscular en los movimientos de las articulaciones
+	 metacarpofal&#225;ngicas
+212,6,1 2
+	Ha presentado Dolor Muscular en los movimimientos de las articulaciones
+	 interfal&#225;ngicas distales
+213,6,1 2
+	Ha presentado Dolor Muscular en los movimientos de las articulaciones
+	 interfal&#225;ngicas proximales
+214,6,1 2
+	Ha presentado Dolor Muscular en los movimientos de las articulaciones
+	 esternoclaviculares
+215,6,1 2
+	Ha presentado Dolor Muscular en los movimientos de las articulaciones de la
+	 rodilla
+216,6,1 2
+	Ha presentado Dolor Muscular en los movimientos de las articulaciones de los
+	 tobillos
+217,6,1 2
+	Ha presentado Dolor Muscular en los movimientos de las articulaciones
+	 metatarsofal&#225;ngicas
+218,6,1 2
+	Ha presentado Dolor Muscular en los movimientos de las articulaciones
+	 tarsometatarsianas
+219,6,1 2
+	Ha presentado Dolor Muscular en los movimientos de las articulaciones
+	 sacroil&#237;acas
+220,6,1 1
+	Intermedio de antecedentes de Serositis
+221,6,1 2
+	Intermedio 2 Antecedentes Patol&#243;gicos Familiares en Lupus Eritematoso
+	 Sist&#233;mico por Dolor Articular
+222,6,1 1
+	El Dolor Muscular se calma con el reposo
+223,6,1 1
+	El Dolor Muscular se calma con analg&#233;sicos y/o antinflamatorio
+224,6,1 1
+	El Dolor Muscular se calma con corticoesteroides
+225,6,1 1
+	El Dolor Muscular se calma con cambios metereol&#243;gicos del calor
+226,6,1 1
+	El Dolor Muscular se calma con cambios metereol&#243;gicos de humedad
+227,6,1 1
+	El Dolor Muscular alivia con el ejercicio
+228,6,1 1
+	El Dolor Muscular empeora con el ejercicio
+229,6,1 1
+	Existen s&#237;ntomas locales musculares acompa&#241;antes
+230,6,1 1
+	El paciente tiene Artritis
+231,6,1 1
+	El paciente tiene Poliartritis
+232,6,1 1
+	Intermedio de (7 V 9 V 11)
+233,6,1 1
+	Intermedio de (18 V 19 V 20 V 21)
+234,6,1 2
+	Intermedio 2 Antecedentes Patol&#243;gicos Personales en Lupus Eritematoso
+	 Sist&#233;mico por Dolor Articular
+235,6,1 1
+	Intermedio de Dermatomiosistis
+236,6,1 1
+	El paciente presenta Estomatitis aptosa o Lesiones de piel
+237,6,1 1
+	El paciente es hombre de m&#225;s de 40 a&#241;os
+238,6,1 1
+	Intermedio de Gota
+239,6,1 1
+	Limitaci&#243;n en la columna al realizar un esfuerzo brusco
+240,6,1 1
+	Limitaci&#243;n posterior a un trauma o comienzo espont&#225;neo
+241,6,1 1
+	Dolor Poliarticular
+242,6,1 1
+	Intermedio 61{1,1} V 62{1,1} V 63{1,1} V 65{1,1} V 242{1,1} V 252{1,1}
+243,6,1 1
+	CMBD de Condrocalcinosis (166)
+244,6,1 1
+	Intermedio de Condrocalcinosis (166)
+245,6,1 1
+	Intermedio de Condrocalcinosis (166)
+246,6,1 1
+	CMBD de Artritis Reumatoidea
+247,6,1 1
+	El paciente presenta un Dolor Poliarticular o que deja secuelas progresivas
+248,6,1 1
+	El paciente es un Hombre de menos de 40 a&#241;os
+249,6,1 1
+	CMBD de Espondilitis Anquilosante por Limitaci&#243;n Funcional
+250,6,1 1
+	Antecedentes personales de Enfermedad del Tejido Conectivo
+251,6,1 2
+	La Deformidad se localiza en las articulaciones digitales de la mano o en la
+	 columna lumbar
+252,6,1 1
+	Antecedentes Personales de Enfermedades Cardiovasculares
+253,6,1 1
+	CMBD de Dermatomiositis por Debilidad Muscular (289)
+254,6,1 1
+	Intermedio de (14 V 15)
+255,6,1 1
+	Antecedentes personales de Enfermedades Respiratorias
+256,6,1 1
+	CMBD de Artritis Psori&#225;sica 171
+257,6,1 2
+	El paciente presenta dos de los siguientes s&#237;ntomas: Diarrea, Dificultad
+	 para la Visi&#243;n, S&#237;ndrome General o Pericarditis
+258,6,1 1
+	CMBD de S&#237;ndrome de Behcet Completo 173
+259,6,1 1
+	Intermedio de Artrosis 174
+260,6,1 1
+	Intermedio de Artrosis 174
+261,6,1 2
+	El paciente presenta tres de los siguientes s&#237;ntomas: Diarrea, Dificultad
+	 para la Visi&#243;n, S&#237;ndrome General o Pericarditis
+262,6,1 1
+	CMBD de S&#237;ndrome de Reiter 175
+263,6,1 1
+	Intermedio de S&#237;ndrome de Reiter 175
+264,6,1 2
+	El paciente presenta uno de los siguientes s&#237;ntomas: Diarrea, Dificultad
+	 para la Visi&#243;n, S&#237;ndrome General o Pericarditis
+265,6,1 1
+	Intermedio de S&#237;ndrome de Reiter 175
+266,6,1 1
+	Intermedio de 34 V 35 V 36 V 37
+267,6,1 1
+	Existen evidencias de Bursitis Subacromial
+268,6,1 1
+	Sintomas interesantes de Esclerodermia
+269,6,1 2
+	Poliartritis sim&#233;trica en dedos de las manos o rodilla CMBD de
+	 Esclerodermia
+270,6,1 1
+	CMBD de Polimialgia Reumatica (177) por Dolor Muscular
+271,6,1 1
+	CMBD - S&#237;ndrome de Sjogren
+272,6,1 1
+	El paciente presenta Cefalea o Antecedentes de Cefalea
+273,6,1 1
+	Antecedentes personales de Enfermedad Hematol&#243;gica
+274,6,1 1
+	Antecedentes personales de Enfermedad Genito-Urinario
+275,6,1 1
+	CMBD de Sacrolumbalgia (183) por Dolor Articular
+276,6,1 1
+	Antecedentes personales de Enfermedad Neurol&#243;gica
+277,6,1 1
+	Osteomelitis Secundaria a Focos Contiguos de Infecci&#243;n
+278,6,1 1
+	Proposici&#243;n Comod&#237;n Variable 49 -
+279,6,1 1
+	Proposici&#243;n Comod&#237;n Variable 50 -
+280,6,1 1
+	CMBD de OSTEOMELITIS (184)
+281,6,1 2
+	El paciente presenta Deformidad Aguda en Extremidades Inferiores, Columna
+	 Dorsal o Lumbar
+282,6,1 1
+	Proposici&#243;n Comod&#237;n Variable 51 -
+283,6,1 1
+	Proposici&#243;n Comod&#237;n Variable 52 -
+284,6,1 1
+	Proposici&#243;n Comod&#237;n Variable 53 -
+285,6,1 1
+	El paciente presenta Dolor Articular de m&#225;s de un mes
+286,6,1 1
+	Proposici&#243;n Comod&#237;n Variable 54 -
+287,6,1 1
+	Proposici&#243;n Comod&#237;n Variable 55 -
+288,6,1 1
+	Existen evidencias de Polimiositis
+289,6,1 1
+	Existen evidencias de Dermatomiositis
+290,6,1 1
+	Existen evidencias de Esclerodermia
+291,6,1 1
+	Existen evidencias de S&#237;ndrome de Sjogren o S&#237;ndrome Seco
+292,6,1 1
+	El Dolor Muscular se calma con colchicina
+293,6,1 1
+	El Dolor Articular se calma con colchicina
+294,6,1 2
+	Proposici&#243;n Comod&#237;n Variable 26 - S&#237;ntomas acompa&#241;antes de
+	 Locomotor
+295,6,1 1
+	El Dolor Articular deja secuelas o es de comienzo progresivo
+296,6,1 2
+	El paciente presenta un Dolor Articular de m&#225;s de 1 mes en articulaciones
+	 peque&#241;as con s&#237;ntomas locales
+297,6,1 1
+	Existen evidencias del S&#237;ndrome de Compresi&#243;n
+298,6,1 2
+	El paciente presenta el S&#237;ndrome General y Mialgias y/o Quebrantamiento
+	 General
+299,6,1 1
+	El Dolor Articular se localiza en las Extremidades
+300,6,1 1
+	El Dolor Muscular se exacerba por las noches
+301,6,1 1
+	La evoluci&#243;n de la Deformidad fue r&#225;pida, en horas
+302,6,1 2
+	El paciente es Hombre de menos 40 a&#241;os con Dolor Articular Cr&#243;nico en
+	 T&#243;rax o para la masticaci&#243;n o progresiva
+303,6,1 1
+	Las Columna Dorsal y/o Lumbar son asiento del Dolor
+304,6,1 2
+	El paciente presenta S&#237;ntomas Locales acompa&#241;antes y/o Rigidez
+	 Matinal
+305,6,1 1
+	El paciente presenta Dolor Monoarticular
+306,6,1 1
+	El paciente presenta Dolor Muscular y/o Dolor Articular
+307,6,1 1
+	El paciente presenta Limitaci&#243;n en la Columna Cervical
+308,6,1 1
+	El paciente presenta Enrojecimiento Ocular y/o Dificultad de la Visi&#243;n
+309,6,1 1
+	El paciente presenta Monoartritis
+310,6,1 1
+	CMBD de Arteritis Temporal por Limitaci&#243;n Funcional
+311,6,1 1
+	CMBD de Bursitis Subacromial
+312,6,1 1
+	Intermedio de 69{1,1} V 76{1,1}
+313,6,1 1
+	Existen evidencias de S&#237;ndrome de Behcet Incompleto
+314,6,1 1
+	CMBD S&#237;ndrome de Behcet Incompleto 314
+315,6,1 1
+	El paciente tiene los 4 grupos de s&#237;ntomas del CMBD de Behcet COMPLETO
+316,6,1 1
+	El paciente tiene los 3 grupos de s&#237;ntomas del CMBD de Behcet INCOMPLETO
+317,6,1 1
+	El paciente tiene los 2 grupos de sintomas del CMBD de Behcet INCOMPLETO
+318,6,1 1
+	Intermedio 317 &#38; 242
+319,6,1 1
+	Existen evidencias de S&#237;ndrome del Tunel del Carpo
+320,6,1 1
+	CMBD de S&#237;ndrome del Tunel del Carpo
+321,6,1 2
+	Forma de comienzo del Dolor en Extremidades Superiores: Meses o A&#241;os
+	 (Lenta)
+322,6,1 2
+	C&#243;mo se desencadena el Dolor en Extremidades Superiores: Presi&#243;n
+	 sobre la zona afectada
+323,6,1 1
+	El paciente refiere tener Hiperestesia en Extremidades Superiores
+324,6,1 1
+	El paciente refiere tener P&#233;rdida de Fuerza en Extremidades Superiores
+325,6,1 1
+	El paciente refiere tener Contractura Muscular
+326,6,1 1
+	Intermedio de Dolor poliarticular Sim&#233;trico (241 &#38; 58)
+327,6,1 2
+	Intermedio de Trastornos Neurol&#243;gicos para Lupus Eritematoso
+	 Sist&#233;mico
+328,6,1 2
+	Intermedio de Trastornos Hematol&#243;gicos para Lupus Eritematoso
+	 Sist&#233;mico
+329,6,1 1
+	Intermedio de antecedentes para Lupus Eritematoso Sist&#233;mico
+330,6,1 1
+	CMBD de Polimiositis por Dolor Muscular
+331,6,1 1
+	S&#237;ntomas acompa&#241;antes de Polimiositis
+332,6,1 1
+	CMBD de Dermatomiositis por Dolor Muscular
+333,6,1 1
+	Intermedio de Polimiositis, CMBD(Debilidad Muscular) V CMBD(Dolor Muscular)
+334,6,1 1
+	Intermedio de Dermatomiositis, CMBD(Debilidad Muscular) V CMBD(Dolor Muscular)
+335,6,1 1
+	Existen evidencias de Artritis Infecciosa
+336,6,1 1
+	Existen evidencias de Bursitis Trocant&#233;rica
+337,6,1 1
+	CMBD de Bursitis Trocant&#233;rica
+338,6,1 1
+	Existen evidencias de Bursitis del Ol&#233;cranon
+339,6,1 1
+	CMBD de Bursitis del Ol&#233;cranon
+340,6,1 1
+	Existen evidencias de Epicondilitis
+341,6,1 1
+	CMBD de Epicondilitis
+342,6,1 1
+	Existen evidencias de Neoplasia que Infiltra el Plexo Braquial
+343,6,1 2
+	El Dolor Articular en el hombro ha aumentado progresivamente desde su
+	 aparici&#243;n y no mejora con los tratamientos que se han indicado.
+344,6,1 1
+	CMBD de Artritis Reumatoidea por Deformidad
+345,6,1 1
+	Funci&#243;n Proposicional de Esclerodermia en Examen F&#237;sico
+346,6,1 1
+	CMBD de Arteritis de la temporal (aporte de Cefalea)
+347,6,1 1
+	CMBD 3 (Funci&#243;n Proposicional de al menos 2 s&#237;ntomas articulares)
+348,6,1 2
+	Funci&#243;n Proposicional para ver si se cumplen m&#225;s de 3 que influyen en
+	 Lupus Eritematoso Sist&#233;mico en Examen F&#237;sico
+349,6,1 1
+	APP de Pericarditis o Derrame Pleural
+350,6,1 1
+	Intermedio de Polimiosistis

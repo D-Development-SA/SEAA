@@ -1,0 +1,1043 @@
+otor131
+3
+//  Objetivos
+	31 143 144 145 152 154 160 162 163 170 176 177 178 186 189 191 194 201 202 210 213 214 215 221 227 228 229 231 233 236 237 238 
+//  Conclusiones Finales
+//  Proposiciones que van al BKB
+	59 26 81 82 90 91 92 95 98 100 103 104 105 143 144 145 152 154 160 162 163 170 176 177 178 186 189 191 194 201 202 210 213 214 215 221 227 228 229 231 233 236 237 238 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 
+//  Variables que van al BKB
+//  Proposiciones que se eliminan del BKB
+//  Variables que se eliminan del BKB
+//  PROPOSICIONES
+	1 /* Trastornos del Olfato de m&#225;s de un mes */
+		C & -1.0 1  222{1,1} [0.001 1.0]
+	2 /* Trastornos del Olfato de menos de un mes */
+		C & -1.0 1  222{1,1} [0.001 1.0]
+	3 /* Trastornos del Olfato que aparecen de forma brusca */
+		C & -1.0 1  222{1,1} [0.001 1.0]
+	4 /* Trastornos del Olfato que aparecen de forma progresiva */
+		C & -1.0 1  222{1,1} [0.001 1.0]
+	5 /* Trastornos del Olfato se presentan desde la infancia */
+		C & -1.0 1  222{1,1} [0.001 1.0]
+	6 /* Trastornos del Olfato se presentan en la vida adulta */
+		C & -1.0 1  222{1,1} [0.001 1.0]
+	7 /* Trastornos del Olfato se presentan como secuela de enfermedad o cirug&#237;a nas */
+		C & -1.0 1  222{1,1} [0.001 1.0]
+	8 /* Trastornos de la Degluci&#243;n de menos de 48 horas */
+		C & -1.0 1  221{1,1} [0.001 1.0]
+	9 /* Trastornos de la Degluci&#243;n de menos de un mes */
+		C & -1.0 1  221{1,1} [0.001 1.0]
+	10 /* Trastornos de la Degluci&#243;n de m&#225;s de un mes */
+		C & -1.0 1  221{1,1} [0.001 1.0]
+	11 /* Sordera o Hipoacusia de m&#225;s de un mes */
+		C & -1.0 1  216{1,1} [0.001 1.0]
+	12 /* Sordera o Hipoacusia de menos de un mes */
+		C & -1.0 1  216{1,1} [0.001 1.0]
+	13 /* Sordera o Hipoacusia bilateral */
+		C & -1.0 1  216{1,1} [0.001 1.0]
+	14 /* Sordera o Hipoacusia unilateral */
+		C & -1.0 1  216{1,1} [0.001 1.0]
+	15 /* Sordera o Hipoacusia se present&#243; desde el nacimiento */
+		C & -1.0 1  216{1,1} [0.001 1.0]
+	16 /* Sordera o Hipoacusia se present&#243; durante la infancia */
+		C & -1.0 1  216{1,1} [0.001 1.0]
+	17 /* Sordera o Hipoacusia se present&#243; siendo adulto */
+		C & -1.0 1  216{1,1} [0.001 1.0]
+	18 /* Sordera o Hipoacusia se present&#243; en relaci&#243;n con alg&#250;n traumatism */
+		C & -1.0 1  216{1,1} [0.001 1.0]
+	19 /* Sordera o Hipoacusia se present&#243; como secuela de enfermedades &#243;ticas */
+		C & -1.0 1  216{1,1} [0.001 1.0]
+	20 /* Rinorrea de menos de 48 horas */
+		C & -1.0 1  81{1,1} [0.001 1.0]
+	21 /* Rinorrea de menos de un mes */
+		C & -1.0 1  81{1,1} [0.001 1.0]
+	22 /* Rinorrea de m&#225;s de un mes */
+		C & -1.0 1  81{1,1} [0.001 1.0]
+	23 /* Rinorrea bilateral */
+		C & -1.0 1  81{1,1} [0.001 1.0]
+	24 /* Rinorrea unilateral */
+		C & -1.0 1  81{1,1} [0.001 1.0]
+	25 /* Rinorrea l&#237;quida clara y fluida */
+		C & -1.0 1  81{1,1} [0.001 1.0]
+	26 /* Rinorrea mucopurulenta */
+		C & -1.0 1  81{1,1} [0.001 1.0]
+	27 /* Rinorrea purulenta */
+		C & -1.0 1  81{1,1} [0.001 1.0]
+	28 /* La Rinorrea presenta estrias de sangre */
+		C & -1.0 1  81{1,1} [0.001 1.0]
+	29 /* La Rinorrea aparece y agudiza cuando se flexiona la cabeza */
+		C & -1.0 1  81{1,1} [0.001 1.0]
+	30 /* Ha sentido la sensaci&#243;n de Cavum ocupado (paso de flemas por naso y orofari */
+		C & -1.0 1  81{1,1} [0.001 1.0]
+	31 /* Ha notado que la Disnea se presenta o agudiza con la degluci&#243;n */
+		C & -1.0 1  221{1,1} [0.001 1.0]
+	32 /* Prurito Otico de m&#225;s de un mes */
+		C & -1.0 1  219{1,1} [0.001 1.0]
+	33 /* Prurito Otico de menos de un mes */
+		C & -1.0 1  219{1,1} [0.001 1.0]
+	34 /* Prurito Far&#237;ngeo de menos de 48 horas */
+		C & -1.0 1  122{1,1} [0.001 1.0]
+	35 /* Prurito Far&#237;ngeo de menos de un mes */
+		C & -1.0 1  122{1,1} [0.001 1.0]
+	36 /* Prurito Far&#237;ngeo de m&#225;s de un mes */
+		C & -1.0 1  122{1,1} [0.001 1.0]
+	37 /* Prurito Far&#237;ngeo que se presenta de forma brusca */
+		C & -1.0 1  122{1,1} [0.001 1.0]
+	38 /* Prurito Far&#237;ngeo que se presenta de forma continua */
+		C & -1.0 1  122{1,1} [0.001 1.0]
+	39 /* Prurito Far&#237;ngeo que se presenta de forma periodica */
+		C & -1.0 1  122{1,1} [0.001 1.0]
+	40 /* El Prurito Far&#237;ngeo guarda relaci&#243;n o aparece solamente con el uso de  */
+		C & -1.0 1  122{1,1} [0.001 1.0]
+	41 /* El paciente presenta expulsi&#243;n de Caseum */
+	42 /* Otorrea de m&#225;s de un mes */
+		C & -1.0 1  215{1,1} [0.001 1.0]
+	43 /* Otorrea de menos de un mes */
+		C & -1.0 1  215{1,1} [0.001 1.0]
+	44 /* Otorrea mucosa */
+		C & -1.0 1  215{1,1} [0.001 1.0]
+	45 /* Otorrea purulenta */
+		C & -1.0 1  215{1,1} [0.001 1.0]
+	46 /* Otorrea clara */
+		C & -1.0 1  215{1,1} [0.001 1.0]
+	47 /* La Otorrea es f&#233;tida */
+		C & -1.0 1  215{1,1} [0.001 1.0]
+	48 /* Otalgia de menos de 48 horas */
+		C & -1.0 1  217{1,1} [0.001 1.0]
+	49 /* Otalgia de menos de un mes */
+		C & -1.0 1  217{1,1} [0.001 1.0]
+	50 /* Otalgia de m&#225;s de un mes */
+		C & -1.0 1  217{1,1} [0.001 1.0]
+	51 /* Otalgia que se localiza en el interior del conducto auditivo */
+		C & -1.0 1  217{1,1} [0.001 1.0]
+	52 /* Otalgia que se localiza por delante del o&#237;do */
+		C & -1.0 1  217{1,1} [0.001 1.0]
+	53 /* Otalgia que se localiza por debajo del o&#237;do */
+		C & -1.0 1  217{1,1} [0.001 1.0]
+	54 /* Otalgia retroauricular */
+		C & -1.0 1  217{1,1} [0.001 1.0]
+	55 /* Otalgia que se presenta de forma brusca */
+		C & -1.0 1  217{1,1} [0.001 1.0]
+	56 /* Otalgia que se presenta de forma progresiva */
+		C & -1.0 1  217{1,1} [0.001 1.0]
+	57 /* Odinofagia de menos de 24 horas */
+		C & -1.0 1  104{1,1} [0.001 1.0]
+	58 /* Odinofagia de menos de un mes */
+		C & -1.0 1  104{1,1} [0.001 1.0]
+	59 /* Odinofagia de m&#225;s de un mes */
+		C & -1.0 1  104{1,1} [0.001 1.0]
+	60 /* Odinofagia de menos de 24 horas con antecedentes de ingesta de c&#225;usticos */
+		C & -1.0 1  104{1,1} [0.001 1.0]
+	61 /* Odinofagia de menos de 24 horas con antecedentes de ingesta de cuerpo extra&#241 */
+		C & -1.0 1  104{1,1} [0.001 1.0]
+	62 /* Odinofagia unilateral */
+		C & -1.0 1  104{1,1} [0.001 1.0]
+	63 /* Odinofagia bilateral */
+		C & -1.0 1  104{1,1} [0.001 1.0]
+	64 /* Odinofagia ante s&#243;lidos */
+		C & -1.0 1  104{1,1} [0.001 1.0]
+	65 /* Odinofagia ante l&#237;quidos */
+		C & -1.0 1  104{1,1} [0.001 1.0]
+	66 /* Odinofagia ante degluci&#243;n de saliva */
+		C & -1.0 1  104{1,1} [0.001 1.0]
+	67 /* La odinofagia mejora con el reposo far&#237;ngeo */
+		C & -1.0 1  104{1,1} [0.001 1.0]
+	68 /* La odinofagia se irradia a zonas vecinas */
+		C & -1.0 1  104{1,1} [0.001 1.0]
+	69 /* Los l&#237;quidos en el momento de la degluci&#243;n refluyen por las fosas nasa */
+		C & -1.0 1  104{1,1} [0.001 1.0]
+	70 /* Obstruci&#243;n Nasal de menos de 48 horas */
+		C & -1.0 1  84{1,1} [0.001 1.0]
+	71 /* Obstruci&#243;n Nasal de menos de un mes */
+		C & -1.0 1  84{1,1} [0.001 1.0]
+	72 /* Obstruci&#243;n Nasal de m&#225;s de un mes */
+		C & -1.0 1  84{1,1} [0.001 1.0]
+	73 /* Obstruci&#243;n Nasal unilateral */
+		C & -1.0 1  84{1,1} [0.001 1.0]
+	74 /* Obstruci&#243;n Nasal bilateral */
+		C & -1.0 1  84{1,1} [0.001 1.0]
+	75 /* Obstruci&#243;n Nasal completa */
+		C & -1.0 1  84{1,1} [0.001 1.0]
+	76 /* Obstruci&#243;n Nasal parcial */
+		C & -1.0 1  84{1,1} [0.001 1.0]
+	77 /* Obstruci&#243;n Nasal que aparece de forma continua */
+		C & -1.0 1  84{1,1} [0.001 1.0]
+	78 /* Obstruci&#243;n Nasal que aparece de forma intermitente con per&#237;odos de mej */
+		C & -1.0 1  84{1,1} [0.001 1.0]
+	79 /* Obstruci&#243;n Nasal que aparece con el uso o exposici&#243;n a inhalantes irri */
+		C & -1.0 1  84{1,1} [0.001 1.0]
+	80 /* Ep&#237;staxis de menos de 48 horas */
+		C & -1.0 1  82{1,1} [0.001 1.0]
+	81 /* Ep&#237;staxis de menos de un mes */
+		C & -1.0 1  82{1,1} [0.001 1.0]
+	82 /* Ep&#237;staxis de m&#225;s de un mes */
+		C & -1.0 1  82{1,1} [0.001 1.0]
+	83 /* Ep&#237;staxis unilateral */
+		C & -1.0 1  82{1,1} [0.001 1.0]
+	84 /* Ep&#237;staxis bilateral */
+		C & -1.0 1  82{1,1} [0.001 1.0]
+	85 /* Ep&#237;staxis que se relaciona con traumatismos nasales */
+		C & -1.0 1  82{1,1} [0.001 1.0]
+	86 /* Ep&#237;staxis que se relaciona con hurgarse la nariz */
+		C & -1.0 1  82{1,1} [0.001 1.0]
+	87 /* Ep&#237;staxis que se relaciona con cambios bruscos de temperatura */
+		C & -1.0 1  82{1,1} [0.001 1.0]
+	88 /* Ep&#237;staxis que se relaciona con cirug&#237;a nasal */
+		C & -1.0 1  82{1,1} [0.001 1.0]
+	89 /* Ep&#237;staxis que se relaciona con catarro nasal */
+		C & -1.0 1  82{1,1} [0.001 1.0]
+	90 /* Dolor Facial de Horas - d&#237;as */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	91 /* Dolor Facial de menos de un mes */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	92 /* Dolor Facial de m&#225;s de un mes */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	93 /* Dolor Facial localizado */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	94 /* Dolor Facial generalizado */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	95 /* Dolor Facial localizado en regi&#243;n frontal */
+		C & -1.0 1  93 [0.001 1.0]
+	96 /* Dolor Facial localizado en regiones genianas */
+		C & -1.0 1  93 [0.001 1.0]
+	97 /* Dolor Facial localizado en las &#243;rbitas */
+		C & -1.0 1  93 [0.001 1.0]
+	98 /* Dolor Facial con localizaci&#243;n: periorbitario */
+		C & -1.0 1  93 [0.001 1.0]
+	99 /* Dolor Facial localizado en region naso-orbitarias */
+		C & -1.0 1  93 [0.001 1.0]
+	100 /* Dolor Facial que aparece de forma brusca */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	101 /* Dolor Facial que aparece de forma progresiva */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	102 /* Presenta sensaci&#243;n de peso al flexionar la cabeza */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	103 /* Dolor Facial que se localiza unilateral */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	104 /* Dolor Facial que se localiza bilateral */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	105 /* Dolor Facial continuo y persistente */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	106 /* Disfon&#237;a de menos de un mes */
+		C & -1.0 1  186{1,1} [0.001 1.0]
+	107 /* Disfon&#237;a de m&#225;s de un mes */
+		C & -1.0 1  186{1,1} [0.001 1.0]
+	108 /* Disfon&#237;a que aparece despu&#233;s de hablar y/o gritar mucho */
+		C & -1.0 1  186{1,1} [0.001 1.0]
+	109 /* Disfon&#237;a que aparece despu&#233;s de una coriza */
+		C & -1.0 1  186{1,1} [0.001 1.0]
+	110 /* Disfon&#237;a que aparece despu&#233;s de una emoci&#243;n intensa */
+		C & -1.0 1  186{1,1} [0.001 1.0]
+	111 /* Disfon&#237;a que se present&#243; desde la infancia */
+		C & -1.0 1  186{1,1} [0.001 1.0]
+	112 /* Disfon&#237;a que se present&#243; en la pubertad */
+		C & -1.0 1  186{1,1} [0.001 1.0]
+	113 /* Disfon&#237;a que se present&#243; en la edad madura */
+		C & -1.0 1  186{1,1} [0.001 1.0]
+	114 /* La Disfon&#237;a mejora con el reposo vocal */
+		C & -1.0 1  186{1,1} [0.001 1.0]
+	115 /* Ac&#250;fenos de menos de un mes */
+		C & -1.0 1  163{1,1} [0.001 1.0]
+	116 /* Ac&#250;fenos de m&#225;s de un mes */
+		C & -1.0 1  163{1,1} [0.001 1.0]
+	117 /* Ac&#250;fenos que se present&#243; siendo adulto */
+		C & -1.0 1  163{1,1} [0.001 1.0]
+	118 /* Ac&#250;fenos que se present&#243; en relaci&#243;n con traumatismos */
+		C & -1.0 1  163{1,1} [0.001 1.0]
+	119 /* Ac&#250;fenos que se present&#243; en relaci&#243;n con instrumentaciones quir&# */
+		C & -1.0 1  163{1,1} [0.001 1.0]
+	120 /* Ac&#250;fenos que se present&#243; con secuelas de enfermedades &#243;ticas */
+		C & -1.0 1  163{1,1} [0.001 1.0]
+	121 /* El paciente presenta Hiposmia */
+	122 /* El paciente presenta Anosmia */
+	123 /* El paciente presenta Hiperosmia */
+	124 /* El paciente presenta Cacosmia */
+	125 /* El paciente refiere tener falsas rutas de degluci&#243;n */
+	126 /* Comod&#237;n de s&#237;ntomas acompa&#241;antes de Otorrino */
+		V 41 U
+	127 /* Comod&#237;n de S&#237;ntomas Acompa&#241;antes */
+		V 42 U
+	128 /* Comod&#237;n de Antecedentes Patol&#243;gicos Personales */
+		V 43 U
+	129 /* Comod&#237;n de Antecedentes Patol&#243;gicos Familiares */
+		V 44 U
+	130 /* Comod&#237;n de afecciones de la madre durante el embarazo */
+		C & 0.0 1  528{2,1} [0.001 1.0]
+		V 45 U
+	131 /* Comod&#237;n de Tratamiento Farmacol&#243;gico */
+		V 46 U
+	132 /* Comod&#237;n de actividad laboral en ambientes t&#243;xicos */
+		V 47 U
+	133 /* Comod&#237;n de la variable 48 de Prurito Otico */
+		V 48 U
+	134 /* Comod&#237;n de Tratamiento Farmacol&#243;gico 2 */
+		V 49 U
+	135 /* La Otalgia se irradia a zonas vecinas */
+		C & -1.0 1  217{1,1} [0.001 1.0]
+	136 /* La Otalgia se exacerba con la masticaci&#243;n */
+		C & -1.0 1  217{1,1} [0.001 1.0]
+	137 /* Halitosis de menos de un mes */
+		C & -1.0 1  223{1,1} [0.001 1.0]
+	138 /* Halitosis de m&#225;s de un mes */
+		C & -1.0 1  223{1,1} [0.001 1.0]
+	139 /* Serostomia de menos de un mes */
+		C & -1.0 1  243{1,1} [0.001 1.0]
+	140 /* Serostomia de m&#225;s de un mes */
+		C & -1.0 1  243{1,1} [0.001 1.0]
+	141 /* La Serostomia se acompa&#241;a de ausencia de lagrimas */
+		C & -1.0 1  243{1,1} [0.001 1.0]
+	142 /* CMBD de Amigdalitis Aguda */
+	143 /* Existen evidencias de Amigdalitis Aguda Eritematopult&#225;cea */
+	144 /* Existen evidencias de Amigdalitis Aguda Pseudomembranosa (Dift&#233;rica) */
+	145 /* Existen evidencias de Amigdalitis Aguda Ulcero-Membranosa o Angina de Vincent */
+	146 /* Intermedio de 65 V 66 */
+	147 /* Intermedio de 48 V 49 */
+	148 /* Intermedio de 34 V 35 */
+	149 /* Intermedio de 8 V 9 */
+	150 /* Intermedio de 452{2,1} V 453{2,1} */
+	151 /* Intermedio de 95{1,1} &#38; 1{7,1} &#38; 7{7,1} &#38; 13{7,1} */
+	152 /* Existen evidencias de Amigdalitis Cr&#243;nica */
+	153 /* CMBD de Faringitis Aguda */
+	154 /* Existen evidencias de Faringitis Aguda o Catarro Far&#237;ngeo Agudo */
+	155 /* Intermedio de 19{1,1} V 21{1,1} V 223{1,1} */
+	156 /* Intermedio de 1{2,1} V 2{2,1} */
+	157 /* Intermedio de 6{2,1} V 202{2,1} V 531{2,1} V 534{2,1} */
+	158 /* Intermedio de (57 V 58) &#38; (64 V 65 V 66) */
+	159 /* CMBD de Faringitis Cr&#243;nica */
+	160 /* Existen evidencias de Faringitis Cr&#243;nica */
+	161 /* CMBD de Otitis Externa */
+	162 /* Existen evidencias de Otitis Externa Circunscrita o For&#250;nculo del Conducto */
+	163 /* Existen evidencias de Otitis Externa Difusa */
+	164 /* Intermedio de 51 V 52 V 53 V 54 */
+	165 /* Intermedio de 97{2,1} V 533{2,1} V 244{2,1} V 200{2,1} */
+	166 /* Intermedio de 97{2,1} V 533{2,1} V 532{2,1} */
+	167 /* Intermedio de 40{1,1} V 73{1,1} V 33 V 151 V 224{1,1} */
+	168 /* Intermedio de 216{1,1} &#38; 12 &#38; 14 */
+	169 /* CMBD de Otitis Media Aguda */
+	170 /* Existen evidencias de Otitis Media Aguda */
+	171 /* Intermedio de 97{2,1} V 150 V 244{2,1} V 200{2,1} V 275{2,1} V 270{2,1} */
+	172 /* Intermedio de 215{1,1} &#38; 43 &#38; (44 V 45) */
+	173 /* Intermedio de 40{1,1} V 73{1,1} */
+	174 /* Intermedio de 81{1,1} V 84{1,1} V 151 */
+	175 /* CMBD de Otitis Media Cr&#243;nica */
+	176 /* Existen evidencias de Otitis Media Cr&#243;nica Serosa */
+	177 /* Existen evidencias de Otitis Media Cr&#243;nica Simple */
+	178 /* Existen evidencias de Otitis Media Cr&#243;nica Colesteatomatosa */
+	179 /* Intermedio de 51 V 52 */
+	180 /* Intermedio de 15 V 16 V 17 */
+	181 /* Intermedio de 215{1,1} &#38; 42 &#38; (44 V 45) */
+	182 /* Intermedio de 163{1,1} V 101{1,1} V 31{1,1} */
+	183 /* Intermedio de 163{1,1} V 215{1,1} */
+	184 /* Intermedio de 215{1,1} &#38; 42 &#38; 45 &#38; 47 */
+	185 /* CMBD de Enfermedad de Meniere */
+	186 /* Existen evidencias de Enfermedad de Meniere */
+	187 /* Intermedio de 128{11,1} V 129{11,1} */
+	188 /* CMBD de Neurinoma del Ac&#250;stico */
+	189 /* Existen evidencias de Neurinoma del Ac&#250;stico */
+	190 /* CMBD de Cuerpo Extra&#241;o en el O&#237;do */
+	191 /* Existen evidencias de Cuerpo Extra&#241;o en el O&#237;do */
+	192 /* Intermedio de 219{1,1} V 101{1,1} */
+	193 /* CMBD de Tap&#243;n de Cerumen */
+	194 /* Existen evidencias de Tap&#243;n de Cerumen */
+	195 /* Ac&#250;fenos unilaterales */
+		C & -1.0 1  163{1,1} [0.001 1.0]
+	196 /* Ac&#250;fenos bilaterales */
+		C & -1.0 1  163{1,1} [0.001 1.0]
+	197 /* FP # 1 de Enfermedad de Meniere */
+		C & -1.0 4  27{1,1} [-1.0 1.0] 43{1,1} [-1.0 1.0] 97{1,1} [-1.0 1.0] 109{1,1} [-1.0 1.0]
+		F 1 U
+	198 /* FP # 2 de Enfermedad de Meniere */
+		C & -1.0 4  27{1,1} [-1.0 1.0] 43{1,1} [-1.0 1.0] 97{1,1} [-1.0 1.0] 109{1,1} [-1.0 1.0]
+		F 2 U
+	199 /* Obstruci&#243;n Nasal que remite espontaneamente */
+		C & -1.0 1  84{1,1} [0.001 1.0]
+	200 /* CMBD de Rinitis Aguda */
+	201 /* Existen evidencias de Rinitis Viral Aguda o Resfriado Com&#250;n */
+	202 /* Existen evidencias de Rinitis Al&#233;rgica */
+	203 /* Intermedio de 25 V 26 */
+	204 /* Intermedio de 78 V 79 */
+	205 /* Intermedio de 222{1,1} V 218{1,1} V 83{1,1} V 220{1,1} */
+	206 /* Intermedio de 205 V 219{1,1} */
+	207 /* Intermedio de 40{1,1} V 224{1,1} */
+	208 /* Intermedio de 207 V 61{1,1} V 64{1,1} V 63{1,1} */
+	209 /* CMBD de Rinitis Cr&#243;nica */
+	210 /* Existen evidencias de Rinitis Cr&#243;nica */
+	211 /* Comod&#237;n de S&#237;ntomas Acompa&#241;antes de Rinorrea */
+		V 55 U
+	212 /* CMBD de Sinusitis Aguda */
+	213 /* Existen evidencias de Sinusitis Aguda Maxilar */
+	214 /* Existen evidencias de Sinusitis Aguda Etmoidal */
+	215 /* Existen evidencias de Sinusitis Aguda Frontal */
+	216 /* Intermedio de 97 V 99 */
+	217 /* Intermedio de 81{1,1} V 84{1,1} V 83{1,1} */
+	218 /* Intermedio de 217 V 222{1,1} */
+	219 /* Intermedio de 31{1,1} V 40{1,1} V 224{1,1} */
+	220 /* CMBD de Laringitis Aguda */
+	221 /* Existen evidencias de Laringitis Aguda */
+	222 /* Intermedio de 21{1,1} V 219 */
+	223 /* Intermedio de 108 V 109 */
+	224 /* Intermedio de 122{1,1} V 242{1,1} */
+	225 /* Intermedio de 530{2,1} V 531{2,1} */
+	226 /* CMBD de Laringitis Cr&#243;nica */
+	227 /* Existen evidencias de Laringitis Cr&#243;nica */
+	228 /* Existen evidencias de N&#243;dulo Vocal */
+	229 /* Existen evidencias de P&#243;lipo Lar&#237;ngeo */
+	230 /* CMBD de Par&#225;lisis Lar&#237;ngea */
+	231 /* Existen evidencias de Par&#225;lisis Lar&#237;ngea */
+	232 /* Intermedio de 112 V 113 */
+	233 /* Existen evidencias de C&#225;ncer de Laringe */
+	234 /* Intermedio de 19{1,1} V 22{1,1} V 95{1,1} */
+	235 /* CMBD de Sinusitis Cr&#243;nica */
+	236 /* Existen evidencias de Sinusitis Cr&#243;nica Maxilar */
+	237 /* Existen evidencias de Sinusitis Cr&#243;nica Etmoidal */
+	238 /* Existen evidencias de Sinusitis Cr&#243;nica Frontal */
+	239 /* Intermedio de 26 V 27 */
+	240 /* Intermedio de 216{1,1} V 222{1,1} */
+	241 /* Intermedio de 31{1,1} V 224{1,1} */
+	242 /* CMBD de Amigdalitis Cr&#243;nica */
+	243 /* Dolor Facial de m&#225;s de un a&#241;o */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	244 /* Dolor Facial localizado en regi&#243;n malar - nasal */
+		C & -1.0 1  93 [0.001 1.0]
+	245 /* Dolor Facial localizado en regi&#243;n mentoniana */
+		C & -1.0 1  93 [0.001 1.0]
+	246 /* Dolor Facial en Abscesos (Parox&#237;sticos) */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	247 /* Cu&#225;nto dura el Dolor Facial: Segundos - minutos */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	248 /* Cu&#225;nto dura el Dolor Facial: Horas */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	249 /* Cu&#225;nto dura el Dolor Facial: D&#237;as */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	250 /* El Dolor Facial se desencadena por: Puntos dolorosos faciales */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	251 /* El Dolor Facial se desencadena por: Movimientos faciales */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	252 /* El Dolor Facial se desencadena por: Lavarse los dientes */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	253 /* El Dolor Facial se desencadena por: Tomar alimentos o bebidas fr&#237;as */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	254 /* El Dolor Facial se desencadena por: Masticaci&#243;n */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	255 /* Dolor Facial se desencadena por: Cambios posturales cef&#225;licos */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	256 /* Dolor Facial se desencadena por: Hablar */
+		C & -1.0 1  85{1,1} [0.001 1.0]
+	257 /* Dolor Facial localizado en los labios */
+		C & -1.0 1  93 [0.001 1.0]
+	258 /* Dolor Facial localizado en las encias */
+		C & -1.0 1  93 [0.001 1.0]
+	259 /* Intermedio 1 de 2 &#243; m&#225;s S&#237;ntomas de Laringitis Aguda (p/Regla) */
+	260 /* Intermedio 2 de 2 &#243; m&#225;s S&#237;ntomas de Laringitis Aguda (p/Regla) */
+	261 /* Intermedio 3 de 2 &#243; m&#225;s S&#237;ntomas de Laringitis Aguda (p/Regla) */
+	262 /* Intermedio 4 de 2 &#243; m&#225;s S&#237;ntomas de Laringitis Aguda (p/Regla) */
+//  REGLAS
+	263{2,1}  => 60 1.0;
+		C & 0.0 1  57 [0.01 1.0]
+	18{2,1}  => 61 1.0;
+		C & 0.0 1  57 [0.01 1.0]
+	65 V 66  => 146 1.0;
+	48 V 49  => 147 1.0;
+	34 V 35  => 148 1.0;
+	8 V 9  => 149 1.0;
+	452{2,1} V 453{2,1}  => 150 1.0;
+	95{1,1} & 1{7,1} & 7{7,1} & 13{7,1}  => 151 1.0;
+	19{1,1} V 21{1,1} V 223{1,1}  => 155 1.0;
+	1{2,1} V 2{2,1}  => 156 1.0;
+	6{2,1} V 202{2,1} V 531{2,1} V 534{2,1}  => 157 1.0;
+	64 V 65 V 66  => 158 1.0;
+	51 V 52 V 53 V 54  => 164 1.0;
+	97{2,1} V 533{2,1} V 244{2,1} V 200{2,1}  => 165 1.0;
+	97{2,1} V 533{2,1} V 532{2,1}  => 166 1.0;
+	40{1,1} V 73{1,1} V 33 V 151 V 224{1,1}  => 167 1.0;
+	216{1,1} & 12 & 14  => 168 1.0;
+	97{2,1} V 150 V 244{2,1} V 200{2,1} V 275{2,1} V 270{2,1}  => 171 1.0;
+	215{1,1} & 43 & (44 V 45 ) => 172 1.0;
+	40{1,1} V 73{1,1}  => 173 1.0;
+	81{1,1} V 84{1,1} V 151  => 174 1.0;
+	51 V 52  => 179 1.0;
+	15 V 16 V 17  => 180 1.0;
+	215{1,1} & 42 & (44 V 45 ) => 181 1.0;
+	163{1,1} V 113{1,1} V 31{1,1}  => 182 1.0;
+	163{1,1} V 215{1,1}  => 183 1.0;
+	215{1,1} & 42 & 45 & 47  => 184 1.0;
+	128{11,1} V 129{11,1}  => 187 1.0;
+	219{1,1} V 113{1,1}  => 192 1.0;
+	25 V 26  => 203 1.0;
+	78 V 79  => 204 1.0;
+	222{1,1} V 218{1,1} V 83{1,1} V 220{1,1}  => 205 1.0;
+	205 V 219{1,1}  => 206 1.0;
+	40{1,1} V 224{1,1}  => 207 1.0;
+	207 V 61{1,1} V 64{1,1} V 63{1,1}  => 208 1.0;
+	97 V 99  => 216 1.0;
+	81{1,1} V 84{1,1} V 83{1,1}  => 217 1.0;
+	217 V 222{1,1}  => 218 1.0;
+	31{1,1} V 40{1,1} V 224{1,1}  => 219 1.0;
+	21{1,1} V 219  => 222 1.0;
+	108 V 109  => 223 1.0;
+	122{1,1} V 243{1,1}  => 224 1.0;
+	530{2,1} V 531{2,1}  => 225 1.0;
+	112 V 113  => 232 1.0;
+	19{1,1} V 22{1,1} V 18{7,1} V 21{1,1} V 87{1,1} V 24{1,1} V 221{1,1} V 104{1,1}  => 234 1.0;
+	26 V 27  => 239 1.0;
+	216{1,1} V 222{1,1}  => 240 1.0;
+	31{1,1} V 224{1,1}  => 241 1.0;
+	104{1,1} & (57 V 58 )& (224{1,1} V 40{1,1} V 73{1,1} ) => 142 1.0;
+	104{1,1}  => 143 0.001;
+	142  => 143 0.4;
+	142 & 63  => 143 0.45;
+	142 & 146  => 143 0.45;
+	142 & 67  => 143 0.45;
+	142 & 68  => 143 0.45;
+	142 & 147  => 143 0.45;
+	142 & 148  => 143 0.5;
+	142 & 149  => 143 0.45;
+	142 & 31{1,1}  => 143 0.45;
+	142 & 137  => 143 0.5;
+	142 & 151  => 143 0.5;
+	142 & 150  => 143 0.5;
+	142 & 50{1,1}  => 143 0.5;
+	142 & 139  => 143 0.5;
+	106{1,1} V 107{1,1}  => 143 0.05;
+	59  => 143 -0.3;
+	104{1,1}  => 144 0.001;
+	142  => 144 0.4;
+	142 & 63  => 144 0.45;
+	142 & 146  => 144 0.45;
+	142 & 67  => 144 0.45;
+	142 & 68  => 144 0.45;
+	142 & 147  => 144 0.45;
+	142 & 148  => 144 0.5;
+	142 & 149  => 144 0.45;
+	142 & 31{1,1}  => 144 0.5;
+	142 & 137  => 144 0.45;
+	142 & 151  => 144 0.5;
+	142 & 139  => 144 0.45;
+	142 & 97{1,1}  => 144 0.5;
+	106{1,1} V 107{1,1}  => 144 0.05;
+	59  => 144 -0.3;
+	104{1,1}  => 145 0.001;
+	142  => 145 0.4;
+	142 & 62  => 145 0.5;
+	142 & 146  => 145 0.45;
+	142 & 68  => 145 0.45;
+	142 & 148  => 145 0.5;
+	142 & 149  => 145 0.45;
+	142 & 31{1,1}  => 145 0.45;
+	142 & 137  => 145 0.55;
+	142 & 151  => 145 0.5;
+	142 & 150  => 145 0.5;
+	106{1,1} V 107{1,1}  => 145 0.05;
+	59  => 145 -0.3;
+	104{1,1}  => 152 0.001;
+	104{1,1} & 59 & (224{1,1} V 40{1,1} V 73{1,1} )& 150 & 223{1,1}  => 242 1.0;
+	242  => 152 0.4;
+	242 & 41  => 152 0.55;
+	106{1,1} V 107{1,1}  => 152 0.05;
+	104{1,1} V 122{1,1}  => 154 0.001;
+	(104{1,1} V 122{1,1} )& (34 V 35 V 57 V 58 )& (224{1,1} V 40{1,1} V 41{1,1} V 73{1,1} ) => 153 1.0;
+	153  => 154 0.4;
+	153 & 38  => 154 0.45;
+	153 & 40  => 154 0.45;
+	153 & 158  => 154 0.45;
+	153 & 147  => 154 0.45;
+	153 & 139  => 154 0.5;
+	153 & 149  => 154 0.45;
+	153 & 155  => 154 0.5;
+	153 & 156  => 154 0.55;
+	153 & 157  => 154 0.6;
+	153 & 151  => 154 0.5;
+	153 & 608{2,1}  => 154 0.45;
+	106{1,1} V 107{1,1}  => 154 0.05;
+	36 V 59  => 154 -0.2;
+	104{1,1} V 122{1,1}  => 160 0.001;
+	(104{1,1} V 122{1,1} )& (36 V 59 )& 150 & (224{1,1} V 40{1,1} V 73{1,1} ) => 159 1.0;
+	159  => 160 0.4;
+	159 & 608{2,1}  => 160 0.5;
+	159 & (1{2,1} V 2{2,1} V 202{2,1} V 531{2,1} V 534{2,1} ) => 160 0.5;
+	106{1,1} V 107{1,1}  => 160 0.05;
+	34 V 35 V 57 V 58  => 160 -0.2;
+	217{1,1} & (48 V 49 ) => 161 1.0;
+	217{1,1}  => 162 0.001;
+	161  => 162 0.4;
+	161 & 164  => 162 0.45;
+	161 & 55  => 162 0.5;
+	161 & 165  => 162 0.5;
+	161 & 135  => 162 0.45;
+	161 & 136  => 162 0.5;
+	161 & 168  => 162 0.5;
+	161 & 115  => 162 0.45;
+	217{1,1}  => 163 0.001;
+	161  => 163 0.4;
+	161 & 164  => 163 0.45;
+	161 & 55  => 163 0.5;
+	161 & 166  => 163 0.55;
+	161 & 524{2,1}  => 163 0.45;
+	161 & 135  => 163 0.45;
+	161 & 136  => 163 0.45;
+	161 & 167  => 163 0.5;
+	217{1,1} V 216{1,1}  => 170 0.001;
+	(217{1,1} & 216{1,1} & (48 V 49 )& 12 )V 43  => 169 1.0;
+	169  => 170 0.4;
+	169 & 51  => 170 0.45;
+	169 & 55  => 170 0.45;
+	169 & 14  => 170 0.45;
+	169 & 172  => 170 0.55;
+	169 & 171  => 170 0.5;
+	169 & 173  => 170 0.5;
+	169 & 174  => 170 0.5;
+	169 & 163{1,1}  => 170 0.5;
+	169 & 113{1,1}  => 170 0.5;
+	169 & 532{2,1}  => 170 0.6;
+	(217{1,1} & 216{1,1} & 50 & 11 )V 42  => 175 1.0;
+	217{1,1} V 216{1,1}  => 176 0.001;
+	175  => 176 0.4;
+	175 & 179  => 176 0.45;
+	175 & 19  => 176 0.5;
+	175 & 51  => 176 0.45;
+	175 & 56  => 176 0.45;
+	175 & 171  => 176 0.5;
+	175 & 183  => 176 0.5;
+	180  => 176 -0.2;
+	217{1,1} V 216{1,1}  => 177 0.001;
+	175  => 177 0.4;
+	175 & 179  => 177 0.45;
+	175 & 19  => 177 0.5;
+	175 & 51  => 177 0.45;
+	175 & 56  => 177 0.45;
+	175 & 171  => 177 0.5;
+	175 & 181  => 177 0.6;
+	175 & 163{1,1}  => 177 0.5;
+	180  => 177 -0.2;
+	217{1,1} V 216{1,1}  => 178 0.001;
+	175  => 178 0.4;
+	175 & 179  => 178 0.45;
+	175 & 19  => 178 0.5;
+	175 & 51  => 178 0.45;
+	175 & 56  => 178 0.45;
+	175 & 171  => 178 0.5;
+	175 & 184  => 178 0.55;
+	175 & 182  => 178 0.5;
+	175 & (224{1,1} V 40{1,1} V 73{1,1} ) => 178 0.45;
+	180  => 178 -0.2;
+	113{1,1} V 216{1,1}  => 186 0.001;
+	113{1,1} & (124{11,1} V 125{11,1} )& 216{1,1} & 11  => 185 1.0;
+	185  => 186 0.4;
+	185 & 187  => 186 0.55;
+	185 & 132{11,1}  => 186 0.5;
+	185 & 134{11,1}  => 186 0.55;
+	185 & 137{11,1}  => 186 0.5;
+	185 & 140{11,1}  => 186 0.5;
+	185 & 13  => 186 0.45;
+	185 & 14  => 186 0.5;
+	185 & 17  => 186 0.45;
+	185 & 163{1,1}  => 186 0.55;
+	197  => 186 0.05;
+		C & 0.0 1  185 [0.8 1.0]
+	198  => 186 0.15;
+		C & 0.0 1  185 [0.8 1.0]
+	163{1,1} & 115 & 117  => 186 0.05;
+		C & 0.0 1  185 [0.8 1.0]
+	-58{1,1}  => 186 0.2;
+		C & 0.0 1  185 [0.8 1.0]
+	345{2,1}  => 186 -0.1;
+	216{1,1}  => 189 0.001;
+	216{1,1} & 11 & 14  => 188 1.0;
+	188  => 189 0.4;
+	188 & 116 & 195  => 189 0.6;
+	31{1,1} V 109{1,1} V 85{1,1} V 114{1,1}  => 189 0.1;
+		C & 0.0 1  188 [0.8 1.0]
+	6{1,1}  => 189 0.15;
+		C & 0.0 1  188 [0.8 1.0]
+	-58{1,1}  => 189 0.2;
+		C & 0.0 1  188 [0.8 1.0]
+	58{1,1}  => 189 -0.3;
+	217{1,1} V 216{1,1} V 163{1,1}  => 191 0.001;
+	217{1,1} & 48 & 216{1,1} & 12 & 163{1,1} & 115  => 190 1.0;
+	190  => 191 0.4;
+	190 & 51  => 191 0.45;
+	190 & 55  => 191 0.45;
+	190 & 192  => 191 0.5;
+	190 & 14  => 191 0.5;
+	190 & 195  => 191 0.5;
+	190 & 551{2,1}  => 191 0.55;
+	216{1,1} V 163{1,1}  => 194 0.001;
+	216{1,1} & 12 & 163{1,1} & 115  => 193 1.0;
+	193  => 194 0.4;
+	81{1,1} V 84{1,1}  => 201 0.001;
+	20 V 21 V 70 V 71  => 200 1.0;
+	200  => 201 0.4;
+	200 & 24  => 201 0.45;
+	200 & 203  => 201 0.45;
+	200 & 74  => 201 0.45;
+	200 & 199  => 201 0.45;
+	200 & 205  => 201 0.5;
+	200 & 207  => 201 0.5;
+	31{1,1} & 96{11,1}  => 201 0.1;
+		C & 0.0 1  200 [0.8 1.0]
+	225 V 2{2,1} V 8{2,1} V 548{2,1}  => 201 0.1;
+		C & 0.0 1  200 [0.8 1.0]
+	81{1,1} V 84{1,1}  => 202 0.001;
+	200  => 202 0.4;
+	200 & 24  => 202 0.45;
+	200 & 203  => 202 0.45;
+	200 & 74  => 202 0.45;
+	200 & 204  => 202 0.5;
+	200 & 206  => 202 0.55;
+	200 & 208  => 202 0.6;
+	31{1,1} & 96{11,1}  => 202 0.1;
+		C & 0.0 1  200 [0.8 1.0]
+	105{2,1} V 115{2,1}  => 202 0.1;
+		C & 0.0 1  200 [0.8 1.0]
+	225  => 202 0.1;
+		C & 0.0 1  200 [0.8 1.0]
+	81{1,1} V 84{1,1}  => 210 0.001;
+	22 V 72  => 209 1.0;
+	209  => 210 0.4;
+	209 & 24  => 210 0.45;
+	209 & 203  => 210 0.45;
+	209 & 74  => 210 0.45;
+	209 & 199  => 210 0.45;
+	209 & 205  => 210 0.5;
+	209 & 207  => 210 0.5;
+	209 & 30  => 210 0.5;
+	209 & (225 V 2{2,1} V 8{2,1} V 548{2,1} ) => 210 0.5;
+	31{1,1} & 96{11,1}  => 210 0.1;
+		C & 0.0 1  209 [0.8 1.0]
+	69{4,1} V 13{1,1}  => 210 0.05;
+		C & 0.0 1  209 [0.8 1.0]
+	85{1,1} V 31{1,1}  => 213 0.001;
+	(85{1,1} & (90 V 91 )& 93 )V (89{11,1} & (81{1,1} V 84{1,1} )) => 212 1.0;
+	212  => 213 0.4;
+	212 & 96  => 213 0.55;
+	212 & 100  => 213 0.45;
+	212 & 102  => 213 0.45;
+	212 & 217  => 213 0.5;
+	212 & 219  => 213 0.55;
+	23  => 213 0.05;
+		C & 0.0 1  212 [0.001 1.0]
+	29  => 213 0.05;
+		C & 0.0 1  212 [0.001 1.0]
+	549{2,1}  => 213 0.05;
+		C & 0.0 1  212 [0.001 1.0]
+	98{11,1}  => 213 0.1;
+		C & 0.0 1  212 [0.001 1.0]
+	85{1,1} V 31{1,1}  => 214 0.001;
+	212  => 214 0.4;
+	212 & 216  => 214 0.55;
+	212 & 100  => 214 0.45;
+	212 & 102  => 214 0.45;
+	212 & 218  => 214 0.5;
+	212 & 219  => 214 0.5;
+	239  => 214 0.05;
+		C & 0.0 1  212 [0.001 1.0]
+	24  => 214 0.05;
+		C & 0.0 1  212 [0.001 1.0]
+	29  => 214 0.05;
+		C & 0.0 1  212 [0.001 1.0]
+	549{2,1}  => 214 0.05;
+		C & 0.0 1  212 [0.001 1.0]
+	85{1,1} V 31{1,1}  => 215 0.001;
+	212  => 215 0.4;
+	212 & 98  => 215 0.55;
+	212 & 100  => 215 0.45;
+	212 & 102  => 215 0.45;
+	212 & 218  => 215 0.5;
+	212 & 219  => 215 0.55;
+	239  => 215 0.05;
+		C & 0.0 1  212 [0.001 1.0]
+	24  => 215 0.05;
+		C & 0.0 1  212 [0.001 1.0]
+	29  => 215 0.05;
+		C & 0.0 1  212 [0.001 1.0]
+	549{2,1}  => 215 0.05;
+		C & 0.0 1  212 [0.001 1.0]
+	96{11,1}  => 215 0.1;
+		C & 0.0 1  212 [0.001 1.0]
+	106 & 17{5,1} & 1{5,1} & 6{5,1}  => 259 1.0;
+	106 & 1{5,1} & 6{5,1}  => 260 1.0;
+	106 & 17{5,1}  => 261 1.0;
+	17{5,1} & 1{5,1} & 6{5,1}  => 262 1.0;
+	259  => 221 0.2;
+	260 V 261 V 262  => 221 0.1;
+	186{1,1} V 22{1,1} V 21{1,1}  => 221 0.001;
+	(186{1,1} & 106 )V (22{1,1} & 17{5,1} & 87{1,1} )V (21{1,1} & 1{5,1} & 6{5,1} ) => 220 1.0;
+	220  => 221 0.4;
+	220 & 223  => 221 0.5;
+	220 & 114  => 221 0.5;
+	220 & 534{2,1}  => 221 0.55;
+	220 & 217  => 221 0.5;
+	220 & 224  => 221 0.55;
+	220 & 222  => 221 0.45;
+	220 & (19{5,1} V 20{5,1} ) => 221 0.45;
+	220 & 87{1,1}  => 221 0.55;
+	220 & 57  => 221 0.45;
+	220 & 63  => 221 0.45;
+	220 & (64 V 65 V 66 ) => 221 0.45;
+	220 & 67  => 221 0.45;
+	220 & 68  => 221 0.45;
+	220 & (452{2,1} V 453{2,1} ) => 221 0.45;
+	220 & (156 V 225 ) => 221 0.55;
+	220 & 44{1,1}  => 221 0.5;
+	21{5,1}  => 221 -0.4;
+		C & 0.0 1  220 [0.001 1.0]
+	30{5,1} V 31{5,1} V 32{5,1} V 33{5,1}  => 221 -0.2;
+		C & 0.0 1  220 [0.001 1.0]
+	53{5,1} V 54{5,1}  => 221 -0.2;
+		C & 0.0 1  220 [0.001 1.0]
+	107  => 221 -1.0;
+	186{1,1}  => 227 0.001;
+	186{1,1} & 107  => 226 1.0;
+	226  => 227 0.4;
+	226 & 223  => 227 0.5;
+	226 & 114  => 227 0.5;
+	226 & 534{2,1}  => 227 0.55;
+	226 & 217  => 227 0.5;
+	226 & 224  => 227 0.55;
+	226 & 222  => 227 0.45;
+	-6{1,1}  => 227 0.1;
+		C & 0.0 1  226 [0.001 1.0]
+	549{2,1}  => 227 0.15;
+		C & 0.0 1  226 [0.001 1.0]
+	156 V 225 V 4{2,1} V 5{2,1}  => 227 0.15;
+		C & 0.0 1  226 [0.001 1.0]
+	106  => 227 -0.2;
+		C & 0.0 1  226 [0.001 1.0]
+	186{1,1}  => 228 0.001;
+	226  => 228 0.4;
+	226 & 223  => 228 0.5;
+	226 & 114  => 228 0.5;
+	226 & 534{2,1}  => 228 0.6;
+	6{1,1}  => 228 0.1;
+		C & 0.0 1  226 [0.001 1.0]
+	186{1,1}  => 229 0.001;
+	226  => 229 0.4;
+	226 & 223  => 229 0.5;
+	226 & 114  => 229 0.5;
+	226 & 534{2,1}  => 229 0.55;
+	226 & 609{2,1}  => 229 0.45;
+	226 & 19{5,1}  => 229 0.45;
+	226 & (22{1,1} V 21{1,1} V 87{1,1} ) => 229 0.5;
+	-6{1,1}  => 229 0.1;
+		C & 0.0 1  226 [0.001 1.0]
+	150  => 229 0.1;
+		C & 0.0 1  226 [0.001 1.0]
+	30{5,1} V 31{5,1} V 32{5,1} V 33{5,1}  => 229 -0.3;
+		C & 0.0 1  226 [0.001 1.0]
+	20{5,1} V 21{5,1}  => 229 -0.1;
+		C & 0.0 1  226 [0.001 1.0]
+	186{1,1}  => 231 0.001;
+	186{1,1}  => 230 1.0;
+	230  => 231 0.4;
+	230 & 232  => 231 0.45;
+	230 & 110  => 231 0.5;
+	230 & (17 V 18 ) => 231 0.45;
+	230 & (17 V 18 )& (19 V 20 ) => 231 0.5;
+	230 & (22{1,1} V 21{1,1} V 87{1,1} ) => 231 0.5;
+	230 & 301{2,1}  => 231 0.5;
+	546{2,1} V 101{2,1} V 371{2,1} V 405{2,1} V 323{2,1} V 613{2,1} V 499{2,1} V 610{2,1} V 611{2,1} V 612{2,1} V 265{2,1}  => 231 0.15;
+		C & 0.0 1  230 [0.001 1.0]
+	30{5,1} V 31{5,1} V 32{5,1} V 33{5,1}  => 231 -0.3;
+		C & 0.0 1  230 [0.001 1.0]
+	186{1,1}  => 233 0.001;
+	226  => 233 0.4;
+	226 & 234  => 233 0.6;
+	226 & 113  => 233 0.5;
+	226 & 534{2,1}  => 233 0.55;
+	226 & (18{5,1} & 19{5,1} ) => 233 0.45;
+	226 & (22{1,1} V 21{1,1} V 87{1,1} V 24{1,1} ) => 233 0.5;
+	226 & (1{2,1} V 2{2,1} ) => 233 0.6;
+	226 & (521{2,1} V 609{2,1} ) => 233 0.45;
+	226 & 10  => 233 0.45;
+	226 & 42{1,1}  => 233 0.45;
+	226 & (59 & 63 ) => 233 0.45;
+	226 & (59 & 63 & (64 V 65 V 66 )) => 233 0.5;
+	226 & (59 & 63 & 68 ) => 233 0.5;
+	30{5,1} V 31{5,1} V 32{5,1} V 33{5,1}  => 233 -0.3;
+	-6{1,1}  => 233 0.1;
+		C & 0.0 1  226 [0.001 1.0]
+	-58{1,1}  => 233 0.15;
+		C & 0.0 1  226 [0.001 1.0]
+	150 V 225 V 4  => 233 0.1;
+		C & 0.0 1  226 [0.001 1.0]
+	85{1,1} V 31{1,1}  => 236 0.001;
+	(85{1,1} & 92 & 93 )V ((90{11,1} V 91{11,1} )& (81{1,1} V 84{1,1} )) => 235 1.0;
+	235  => 236 0.4;
+	235 & 332{2,1}  => 236 0.6;
+		C V 0.0 2  22 [0.001 1.0] 72 [0.001 1.0]
+	235 & 73  => 236 0.5;
+		C & 0.0 1  72 [0.001 1.0]
+	235 & 77  => 236 0.45;
+		C & 0.0 1  72 [0.001 1.0]
+	235 & 23  => 236 0.5;
+		C & 0.0 1  22 [0.001 1.0]
+	235 & 239  => 236 0.5;
+		C & 0.0 1  22 [0.001 1.0]
+	235 & 29  => 236 0.45;
+		C & 0.0 1  22 [0.001 1.0]
+	235 & 30  => 236 0.5;
+		C & 0.0 1  22 [0.001 1.0]
+	235 & 240  => 236 0.5;
+	235 & 241  => 236 0.45;
+	549{2,1}  => 236 0.05;
+		C & 0.0 1  235 [0.001 1.0]
+	98{11,1}  => 236 0.1;
+		C & 0.0 1  235 [0.001 1.0]
+	85{1,1} V 31{1,1}  => 237 0.001;
+	235  => 237 0.4;
+	235 & 332{2,1}  => 237 0.6;
+		C V 0.0 2  22 [0.001 1.0] 72 [0.001 1.0]
+	235 & 74  => 237 0.5;
+		C & 0.0 1  72 [0.001 1.0]
+	235 & 77  => 237 0.45;
+		C & 0.0 1  72 [0.001 1.0]
+	235 & 24  => 237 0.5;
+		C & 0.0 1  22 [0.001 1.0]
+	235 & 239  => 237 0.5;
+		C & 0.0 1  22 [0.001 1.0]
+	235 & 29  => 237 0.45;
+		C & 0.0 1  22 [0.001 1.0]
+	235 & 30  => 237 0.5;
+		C & 0.0 1  22 [0.001 1.0]
+	235 & 240  => 237 0.5;
+	235 & 241  => 237 0.45;
+	549{2,1}  => 237 0.05;
+		C & 0.0 1  235 [0.001 1.0]
+	85{1,1} V 31{1,1}  => 238 0.001;
+	235  => 238 0.4;
+	235 & 332{2,1}  => 238 0.6;
+		C V 0.0 2  22 [0.001 1.0] 72 [0.001 1.0]
+	235 & 74  => 238 0.5;
+		C & 0.0 1  72 [0.001 1.0]
+	235 & 77  => 238 0.45;
+		C & 0.0 1  72 [0.001 1.0]
+	235 & 24  => 238 0.5;
+		C & 0.0 1  22 [0.001 1.0]
+	235 & 239  => 238 0.5;
+		C & 0.0 1  22 [0.001 1.0]
+	235 & 29  => 238 0.45;
+		C & 0.0 1  22 [0.001 1.0]
+	235 & 30  => 238 0.5;
+		C & 0.0 1  22 [0.001 1.0]
+	235 & 240  => 238 0.5;
+	235 & 241  => 238 0.45;
+	549{2,1}  => 238 0.05;
+		C & 0.0 1  235 [0.001 1.0]
+	96{11,1}  => 238 0.1;
+		C & 0.0 1  235 [0.001 1.0]
+//  VARIABLES
+	S T S S 2 2 NULL 1 NULL 
+	S T S S 2 3 NULL 4 NULL 
+	S T S S 4 121 NULL 122 NULL 123 NULL 124 NULL 
+	S T S S 3 5 NULL 6 NULL 7 NULL 
+	S T S S 3 8 NULL 9 NULL 10 NULL 
+	S I G "No se usa" 
+	S T S S 2 12 NULL 11 NULL 
+	S T S S 2 14 NULL 13 NULL 
+	S T S S 5 15 NULL 16 NULL 17 NULL 18 NULL 19 NULL 
+		C & -1.0 1  11 [0.01 1.0] 
+	S T S S 3 20 NULL 21 NULL 22 NULL 
+	S T S S 2 23 NULL 24 NULL 
+	S T S S 3 25 NULL 26 NULL 27 NULL 
+	S T S S 2 33 NULL 32 NULL 
+	S T S S 3 34 NULL 35 NULL 36 NULL 
+	S T S S 3 37 NULL 38 NULL 39 NULL 
+	S T S S 2 43 NULL 42 NULL 
+	S T S S 3 44 NULL 45 NULL 46 NULL 
+	S T S S 3 48 NULL 49 NULL 50 NULL 
+	M T S S 4 51 NULL 52 NULL 53 NULL 54 NULL 
+	S T S S 2 55 NULL 56 NULL 
+	S T S S 3 57 NULL 58 NULL 59 NULL 
+	S T S S 2 62 NULL 63 NULL 
+	M T S S 3 64 NULL 65 NULL 66 NULL 
+	S T S S 3 70 NULL 71 NULL 72 NULL 
+	S T S S 2 73 NULL 74 NULL 
+	S T S S 2 75 NULL 76 NULL 
+	S T S S 4 77 NULL 78 NULL 79 NULL 199 NULL 
+	S T S S 3 80 NULL 81 NULL 82 NULL 
+	S T S S 2 83 NULL 84 NULL 
+	M T S S 5 85 NULL 86 NULL 87 NULL 88 NULL 89 NULL 
+	S T S S 4 90 NULL 91 NULL 92 NULL 243 NULL 
+	S T S S 2 93 NULL 94 NULL 
+	M T S S 9 95 NULL 96 NULL 97 NULL 98 NULL 99 NULL 244 NULL 245 NULL 257 NULL 258 NULL 
+	S T S S 2 100 NULL 101 NULL 
+	S T S S 2 103 NULL 104 NULL 
+	S T S S 2 106 NULL 107 NULL 
+	S T S S 3 108 NULL 109 NULL 110 NULL 
+	S T S S 3 111 NULL 112 NULL 113 NULL 
+	S T S S 2 115 NULL 116 NULL 
+	M T S S 4 117 NULL 118 NULL 119 NULL 120 NULL 
+	N T S S 20 215{1,1} NULL 102{1,1} NULL 216{1,1} NULL 113{1,1} NULL 81{1,1} NULL 84{1,1} NULL 163{1,1} NULL 186{1,1} NULL 217{1,1} NULL 104{1,1} NULL 218{1,1} NULL 219{1,1} NULL 83{1,1} NULL 82{1,1} NULL 220{1,1} NULL 122{1,1} NULL 221{1,1} NULL 85{1,1} NULL 222{1,1} NULL 243{1,1} NULL 
+	N T S S 11 31{1,1} NULL 19{1,1} NULL 22{1,1} NULL 21{1,1} NULL 40{1,1} NULL 73{1,1} NULL 108{1,1} NULL 109{1,1} NULL 95{1,1} NULL 223{1,1} NULL 224{1,1} NULL 
+	N T S S 22 453{2,1} NULL 452{2,1} NULL 609{2,1} NULL 194{2,1} NULL 196{2,1} NULL 197{2,1} NULL 199{2,1} NULL 275{2,1} NULL 200{2,1} NULL 244{2,1} NULL 270{2,1} NULL 345{2,1} NULL 320{2,1} NULL 321{2,1} NULL 97{2,1} NULL 301{2,1} NULL 311{2,1} NULL 212{2,1} NULL 547{2,1} NULL 548{2,1} NULL 152{2,1} NULL 551{2,1} NULL 
+	N T S S 3 334{2,1} NULL 339{2,1} NULL 528{2,1} NULL 
+	N T S S 4 369{2,1} NULL 401{2,1} NULL 402{2,1} NULL 427{2,1} NULL 
+	N T S S 5 509{2,1} NULL 524{2,1} NULL 525{2,1} NULL 526{2,1} NULL 527{2,1} NULL 
+	N T S S 2 530{2,1} NULL 531{2,1} NULL 
+	N T S S 2 532{2,1} NULL 533{2,1} NULL 
+	N T S S 6 509{2,1} NULL 524{2,1} NULL 525{2,1} NULL 526{2,1} NULL 527{2,1} NULL 11{2,1} NULL 
+	S T S S 2 137 NULL 138 NULL 
+	S T S S 2 139 NULL 140 NULL 
+	S I G "=,0,1,1,1,[,],0.01,1,4" 
+	S I G ">=,0,2,2,1,[,],0.01,1,4" 
+	S T S S 2 195 NULL 196 NULL 
+	N T S S 14 31{1,1} NULL 19{1,1} NULL 22{1,1} NULL 21{1,1} NULL 40{1,1} NULL 73{1,1} NULL 108{1,1} NULL 109{1,1} NULL 95{1,1} NULL 223{1,1} NULL 224{1,1} NULL 61{1,1} NULL 64{1,1} NULL 63{1,1} NULL 
+	S T S S 2 105 NULL 246 NULL 
+	S T S S 3 247 NULL 248 NULL 249 NULL 
+	M T S S 7 250 NULL 251 NULL 252 NULL 253 NULL 254 NULL 255 NULL 256 NULL 
+//  PROGRAMAS EXTERNOS
+//  FUNCIONES INTERNAS
+	FP 5 VI52 PI97{1,1} PI27{1,1} PI43{1,1} PI109{1,1} 
+	FP 5 VI53 PI97{1,1} PI27{1,1} PI43{1,1} PI109{1,1} 
+//  RELACIONES PADRE-HIJOS
+222{1,1}P[0.01 1.0], -1, -3, 121, -5, -126, -127, -128, -129, -130, -131;
+221{1,1}P[0.01 1.0], -8, -31, -41, -126, -127, -128, -129, -130, -131;
+216{1,1}P[0.01 1.0], -11, -13, -15, -529{2,1}, -126, -127, -128, -129, -130, -131;
+81{1,1}P[0.01 1.0], -20, -23, -25, -28, -29, -132, -30, -126, -211, -128, -129, -130, -131;
+219{1,1}P[0.01 1.0], -32, -133, -126, -127, -128, -129, -130, -131;
+122{1,1}P[0.01 1.0], -34, -37, -40, -41, -126, -127, -128, -129, -130, -131;
+215{1,1}P[0.01 1.0], -42, -44, -47, -126, -127, -128, -129, -130, -131;
+217{1,1}P[0.01 1.0], -48, -51, -55, -135, -136, -126, -127, -128, -129, -130, -131;
+104{1,1}P[0.01 1.0], -57, -60, -61, -62, -64, -67, -68, -69, -41, -126, -127, -128, -129, -130, -131;
+84{1,1}P[0.01 1.0], -70, -73, -75, -77, -126, -127, -128, -129, -130, -131;
+82{1,1}P[0.01 1.0], -80, -83, -85, -126, -127, -128, -129, -130, -134;
+85{1,1}P[0.01 1.0], -90, -93, -103, -95, -100, -105, -102, -247, -250, -126, -127, -128, -129, -130, -131;
+186{1,1}P[0.01 1.0], -106, -108, -111, -114, -534{2,1}, -126, -127, -128, -129, -130, -131;
+163{1,1}P[0.01 1.0], -115, -529{2,1}, -117, -195, -126, -127, -128, -129, -130, -131;
+223{1,1}P[0.01 1.0], -137, -126, -127, -128, -129, -130, -131;
+243{1,1}P[0.01 1.0], -139, -141, -126, -127, -128, -129, -130, -131;
+//  REGLAS DE CONCLUSIONES
+	=> RP 143 [0.001 1];
+	=> RP 144 [0.001 1];
+	=> RP 145 [0.001 1];
+	=> RP 152 [0.001 1];
+	=> RP 154 [0.001 1];
+	=> RP 160 [0.001 1];
+	=> RP 162 [0.001 1];
+	=> RP 163 [0.001 1];
+	=> RP 170 [0.001 1];
+	=> RP 176 [0.001 1];
+	=> RP 177 [0.001 1];
+	=> RP 178 [0.001 1];
+	=> RP 186 [0.001 1];
+	=> RP 189 [0.001 1];
+	=> RP 191 [0.001 1];
+	=> RP 194 [0.001 1];
+	=> RP 201 [0.001 1];
+	=> RP 202 [0.001 1];
+	=> RP 210 [0.001 1];
+	=> RP 213 [0.001 1];
+	=> RP 214 [0.001 1];
+	=> RP 215 [0.001 1];
+	=> RP 221 [0.001 1];
+	=> RP 227 [0.001 1];
+	=> RP 228 [0.001 1];
+	=> RP 229 [0.001 1];
+	=> RP 231 [0.001 1];
+	=> RP 233 [0.001 1];
+	=> RP 236 [0.001 1];
+	=> RP 237 [0.001 1];
+	=> RP 238 [0.001 1];
+//  RELACIONES PADRE - HIJOS EN CONCLUSIONES
+//  PROPOSICIONES QUE NO VAN AL SISTEMA EXPLICATORIO
+//  FIN

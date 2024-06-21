@@ -1,0 +1,98 @@
+otros22
+1
+//  Objetivos
+	14 1 2 3 4 5 6 7 8 10 11 12 13 9 24 
+//  Conclusiones Finales
+//  Proposiciones que van al BKB
+	1 22 
+//  Variables que van al BKB
+//  Proposiciones que se eliminan del BKB
+//  Variables que se eliminan del BKB
+//  PROPOSICIONES
+	1 /* Comod&#237;n de la pregunta de s&#237;ntomas de todos los aparatos */
+		V 1 U
+	2 /* Comod&#237;n de s&#237;ntomas del Sistema General */
+		C & -1.0 1  14 [0.001 1.0]
+		V 2 U
+	3 /* Comod&#237;n de s&#237;ntomas del Aparato Digestivo */
+		C & -1.0 1  15 [0.001 1.0]
+		V 3 U
+	4 /* Comod&#237;n de s&#237;ntomas del Aparato Respiratorio */
+		C & -1.0 1  16 [0.001 1.0]
+		V 4 U
+	5 /* Comod&#237;n de s&#237;ntomas del Aparato Osteomioarticular */
+		C & -1.0 1  17 [0.001 1.0]
+		V 5 U
+	6 /* Comod&#237;n de s&#237;ntomas del Aparato Cardiovascular */
+		C & -1.0 1  18 [0.001 1.0]
+		V 6 U
+	7 /* Comod&#237;n de s&#237;ntomas del Aparato Hematol&#243;gico */
+		C & -1.0 1  19 [0.001 1.0]
+		V 7 U
+	8 /* Comod&#237;n de s&#237;ntomas del Aparato Genito-Urinario */
+		C & -1.0 1  20 [0.001 1.0]
+		V 8 U
+	9 /* Comod&#237;n de s&#237;ntomas del Aparato ORL */
+		C & -1.0 1  21 [0.001 1.0]
+		V 9 U
+	10 /* Comod&#237;n de s&#237;ntomas del Aparato Neurol&#243;gico */
+		C & -1.0 1  22 [0.001 1.0]
+		V 10 U
+	11 /* Comod&#237;n de s&#237;ntomas del Aparato Oftalmol&#243;gico */
+		C & -1.0 1  23 [0.001 1.0]
+		V 11 U
+	12 /* Comod&#237;n de s&#237;ntomas del Aparato Dermatol&#243;gico */
+		C & -1.0 1  25 [0.001 1.0]
+		V 12 U
+	13 /* Comod&#237;n de s&#237;ntomas del Aparato Oftalmol&#243;gico */
+		C & -1.0 1  26 [0.001 1.0]
+		V 13 U
+	14 /* El paciente presenta s&#237;ntomas del Sistema General */
+	15 /* El paciente presenta s&#237;ntomas del Aparato Digestivo */
+	16 /* El paciente presenta s&#237;ntomas del Aparato Respiratorio */
+	17 /* El paciente presenta s&#237;ntomas del Aparato Osteomioarticular */
+	18 /* El paciente presenta s&#237;ntomas del Aparato Cardiovascular */
+	19 /* El paciente presenta s&#237;ntomas del Aparato Hematol&#243;gico */
+	20 /* El paciente presenta s&#237;ntomas del Aparato Genito-Urinario */
+	21 /* El paciente presenta s&#237;ntomas del Aparato Otorrino */
+	22 /* El paciente presenta s&#237;ntomas del Aparato Neurol&#243;gico */
+	23 /* El paciente presenta s&#237;ntomas del Aparato Endocrino */
+	24 /* Preguntar por la localizaci&#243;n del Prurito (si se selecciona) */
+	25 /* El paciente presenta s&#237;ntomas del Aparato Dermatol&#243;gico */
+	26 /* El paciente presenta s&#237;ntomas del Aparato Oftalmol&#243;gico */
+//  REGLAS
+	289{1,1} & 4{15,1}  => 24 1.0;
+		C & -1.0 1  14 [0.001 1.0]
+//  VARIABLES
+	N T S S 12 14 NULL 15 NULL 16 NULL 17 NULL 18 NULL 19 NULL 20 NULL 22 NULL 23 NULL 25 NULL 26 NULL 21 NULL 
+	N T S S 22 40{1,1} NULL 41{1,1} NULL 73{1,1} NULL 106{1,1} NULL 107{1,1} NULL 93{1,1} NULL 43{1,1} NULL 44{1,1} NULL 45{1,1} NULL 46{1,1} NULL 47{1,1} NULL 48{1,1} NULL 213{1,1} NULL 229{1,1} NULL 168{1,1} NULL 239{1,1} NULL 198{1,1} NULL 199{1,1} NULL 184{1,1} NULL 197{1,1} NULL 243{1,1} NULL 289{1,1} NULL 
+		C & -1.0 1  14 [0.001 1.0] 
+	N T S S 24 10{1,1} NULL 11{1,1} NULL 12{1,1} NULL 13{1,1} NULL 14{1,1} NULL 15{1,1} NULL 16{1,1} NULL 17{1,1} NULL 18{1,1} NULL 19{1,1} NULL 20{1,1} NULL 53{1,1} NULL 158{1,1} NULL 108{1,1} NULL 109{1,1} NULL 89{1,1} NULL 94{1,1} NULL 227{1,1} NULL 167{1,1} NULL 60{1,1} NULL 251{1,1} NULL 223{1,1} NULL 267{1,1} NULL 74{1,1} NULL 
+		C & -1.0 1  15 [0.001 1.0] 
+	N T S S 15 21{1,1} NULL 22{1,1} NULL 23{1,1} NULL 24{1,1} NULL 25{1,1} NULL 186{1,1} NULL 226{1,1} NULL 81{1,1} NULL 82{1,1} NULL 83{1,1} NULL 84{1,1} NULL 85{1,1} NULL 104{1,1} NULL 87{1,1} NULL 166{1,1} NULL 
+		C & -1.0 1  16 [0.001 1.0] 
+	N T S S 7 49{1,1} NULL 50{1,1} NULL 51{1,1} NULL 52{1,1} NULL 111{1,1} NULL 245{1,1} NULL 244{1,1} NULL 
+		C & -1.0 1  17 [0.001 1.0] 
+	N T S S 12 26{1,1} NULL 27{1,1} NULL 36{1,1} NULL 25{1,1} NULL 22{1,1} NULL 21{1,1} NULL 29{1,1} NULL 79{1,1} NULL 78{1,1} NULL 174{1,1} NULL 238{1,1} NULL 97{8,1} NULL 
+		C & -1.0 1  18 [0.001 1.0] 
+	N T S S 13 95{1,1} NULL 97{1,1} NULL 96{1,1} NULL 266{1,1} NULL 82{1,1} NULL 102{1,1} NULL 103{1,1} NULL 39{1,1} NULL 18{1,1} NULL 158{1,1} NULL 53{1,1} NULL 77{1,1} NULL 24{1,1} NULL 
+		C & -1.0 1  19 [0.001 1.0] 
+	N T S S 23 116{1,1} NULL 117{1,1} NULL 69{1,1} NULL 76{1,1} NULL 71{1,1} NULL 39{1,1} NULL 118{1,1} NULL 36{1,1} NULL 75{1,1} NULL 161{1,1} NULL 70{1,1} NULL 134{1,1} NULL 146{1,1} NULL 160{1,1} NULL 119{1,1} NULL 38{1,1} NULL 77{1,1} NULL 232{1,1} NULL 189{1,1} NULL 193{1,1} NULL 251{1,1} NULL 195{1,1} NULL 194{1,1} NULL 
+		C & -1.0 1  20 [0.001 1.0] 
+	N T S S 17 302{1,1} NULL 215{1,1} NULL 102{1,1} NULL 216{1,1} NULL 81{1,1} NULL 84{1,1} NULL 163{1,1} NULL 186{1,1} NULL 217{1,1} NULL 104{1,1} NULL 83{1,1} NULL 82{1,1} NULL 220{1,1} NULL 221{1,1} NULL 85{1,1} NULL 222{1,1} NULL 228{1,1} NULL 
+		C & -1.0 1  21 [0.001 1.0] 
+	N T S S 43 29{1,1} NULL 31{1,1} NULL 33{1,1} NULL 113{1,1} NULL 30{1,1} NULL 114{1,1} NULL 153{1,1} NULL 154{1,1} NULL 155{1,1} NULL 156{1,1} NULL 157{1,1} NULL 188{1,1} NULL 32{1,1} NULL 124{1,1} NULL 191{1,1} NULL 236{1,1} NULL 237{1,1} NULL 190{1,1} NULL 123{1,1} NULL 209{1,1} NULL 192{1,1} NULL 246{1,1} NULL 247{1,1} NULL 248{1,1} NULL 249{1,1} NULL 250{1,1} NULL 251{1,1} NULL 252{1,1} NULL 253{1,1} NULL 255{1,1} NULL 165{1,1} NULL 164{1,1} NULL 65{1,1} NULL 254{1,1} NULL 245{1,1} NULL 244{1,1} NULL 257{1,1} NULL 185{1,1} NULL 268{1,1} NULL 269{1,1} NULL 256{1,1} NULL 270{1,1} NULL 291{1,1} NULL 
+		C & -1.0 1  22 [0.001 1.0] 
+	N T S S 20 169{1,1} NULL 171{1,1} NULL 175{1,1} NULL 176{1,1} NULL 93{1,1} NULL 177{1,1} NULL 178{1,1} NULL 180{1,1} NULL 181{1,1} NULL 179{1,1} NULL 183{1,1} NULL 187{1,1} NULL 196{1,1} NULL 200{1,1} NULL 201{1,1} NULL 204{1,1} NULL 205{1,1} NULL 203{1,1} NULL 212{1,1} NULL 170{1,1} NULL 
+		C & -1.0 1  23 [0.001 1.0] 
+	N T S S 30 202{1,1} NULL 34{1,1} NULL 35{1,1} NULL 214{1,1} NULL 36{1,1} NULL 37{1,1} NULL 54{1,1} NULL 55{1,1} NULL 56{1,1} NULL 57{1,1} NULL 72{1,1} NULL 288{1,1} NULL 105{1,1} NULL 240{1,1} NULL 68{1,1} NULL 67{1,1} NULL 271{1,1} NULL 265{1,1} NULL 299{1,1} NULL 300{1,1} NULL 275{1,1} NULL 276{1,1} NULL 277{1,1} NULL 298{1,1} NULL 295{1,1} NULL 280{1,1} NULL 297{1,1} NULL 296{1,1} NULL 283{1,1} NULL 301{1,1} NULL 
+		C & -1.0 1  25 [0.001 1.0] 
+	N T S S 10 61{1,1} NULL 62{1,1} NULL 63{1,1} NULL 64{1,1} NULL 65{1,1} NULL 162{1,1} NULL 254{1,1} NULL 252{1,1} NULL 263{1,1} NULL 262{1,1} NULL 
+		C & -1.0 1  26 [0.001 1.0] 
+//  PROGRAMAS EXTERNOS
+//  FUNCIONES INTERNAS
+//  RELACIONES PADRE-HIJOS
+//  REGLAS DE CONCLUSIONES
+//  RELACIONES PADRE - HIJOS EN CONCLUSIONES
+//  PROPOSICIONES QUE NO VAN AL SISTEMA EXPLICATORIO
+//  FIN

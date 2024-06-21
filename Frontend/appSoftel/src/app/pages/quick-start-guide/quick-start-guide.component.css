@@ -1,0 +1,28 @@
+.text-family-segoe{
+    font-family: 'Segoe UI Light';
+    font-size: 3rem;
+}
+.fs-2rem{
+    font-size: 2rem;
+}
+.t-3{
+    top: 3%;
+}
+
+.t-40{
+    top: 40%;
+}
+
+.l-10{
+    left: 12.5%;
+}
+.img-presentation{
+    height: 30rem;
+    width: 35rem;
+}
+.line{
+    top: 8.5rem;
+    left: 37.5rem;
+    width: 0.5%;
+    height: 25%;
+}

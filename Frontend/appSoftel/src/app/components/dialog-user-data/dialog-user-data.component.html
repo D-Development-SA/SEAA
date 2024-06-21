@@ -1,0 +1,102 @@
+<h1 mat-dialog-title class="bg-green text-light rounded-0">{{user.intro ? 'Por favor introduzca sus datos de especialista' : 'Más detalles del usuario'}}</h1>
+<mat-dialog-content style="height: 26rem;">
+    <p *ngIf="!user.user.specialist">No hay más contenido acerca del usuario</p>
+    <mat-tab-group class="mt-2">
+        <mat-tab label="Datos como especialista">
+            <form  class="d-flex flex-wrap gap-4 my-4">
+                <mat-form-field class="flex-grow-1 w-35">
+                    <mat-label>Carnet de Identidad</mat-label>
+                    <input matInput type="number" 
+                                    placeholder="CI" 
+                                    [(ngModel)]="user.user.specialist!.ci" 
+                                    name="CI" 
+                                    #ci="ngModel"
+                                    (ngModelChange)="validCiWithPattern($event)"
+                                    required>
+                    <mat-hint [align]="'end'"><span [ngClass]="user.user.specialist?.ci?.toString()?.length != 11 ? 'text-danger' : 'text-forest'">{{user.user.specialist?.ci?.toString()?.length}}</span>/11</mat-hint>
+                    <mat-hint class="text-danger" *ngIf="ci.invalid && (ci.dirty || ci.touched)">Campo requerido</mat-hint>
+                    <mat-hint class="text-danger ms-2" *ngIf="!validCi && (ci.dirty || ci.touched)">Invalid</mat-hint>
+                </mat-form-field>
+                <mat-form-field class="flex-grow-1 w-35">
+                    <mat-label>Área de conocimiento</mat-label>
+                    <input matInput placeholder="Área de conocimiento" [(ngModel)]="user.user.specialist!.knowledgeArea" name="knowledgeArea">
+                </mat-form-field>
+                <mat-form-field class="flex-grow-1 w-35">
+                    <mat-label>Registro profesional</mat-label>
+                    <input matInput placeholder="Registro profesional" [(ngModel)]="user.user.specialist!.professionalRegister" name="professionalRegister">
+                </mat-form-field>
+                <mat-form-field class="flex-grow-1 w-35">
+                    <mat-label>Categoría científica</mat-label>
+                    <input matInput placeholder="Categoría científica" [(ngModel)]="user.user.specialist!.scientificCategory" name="scientificCategory">
+                </mat-form-field>
+                <mat-form-field class="flex-grow-1 w-100 h-auto padding-f">
+                    <mat-label>Biografía</mat-label>
+                    <textarea matInput rows="5" placeholder="Biografía" [(ngModel)]="user.user.specialist!.biography" name="biography"></textarea>
+                    <mat-hint [align]="'end'" class="d-flex align-items-center">Puede extender campo por el icono <mat-icon class="fs-6">arrow_upward</mat-icon></mat-hint>
+                </mat-form-field>
+            </form>
+        </mat-tab>
+        <mat-tab *ngIf="!user.intro" label="Consultas realizadas">
+            <div class="d-flex flex-wrap gap-4 my-4">
+                <div *ngFor="let query of user.user.queries;" class="flex-grow-1 col-4">
+                    <form>
+                        <mat-form-field class="w-100">
+                            <mat-label>UUID</mat-label>
+                            <input matInput [(ngModel)]="query.uuid" name="UUID" disabled>
+                            <mat-hint class="text-secondary">Se registró el : {{query.date | date: 'dd-MM-yyyy hh:mm:ss'}}</mat-hint>
+                        </mat-form-field>
+                    </form>
+                </div>
+            </div>
+            <p>Total de consultas: {{user.user.queries.length}}</p>
+            <p class="text-align-center" *ngIf="user.user.queries.length == 0">No ha realizado consultas a un sistema experto</p>
+        </mat-tab>
+        <mat-tab label="Sistemas expertos asociados">
+            <div *ngFor="let seaa of user.user.specialist!.seaaList" class="border-style">
+                <h6 class="m-2">{{seaa.name}}</h6>
+                <form class="d-flex flex-wrap gap-4">
+                    <mat-form-field class="flex-grow-1">
+                        <mat-label>Nombre</mat-label>
+                        <input matInput placeholder="Nombre" [(ngModel)]="seaa.name" name="name" #seaaName="ngModel" (ngModelChange)="valid(0,seaaName.invalid)" required>
+                        <mat-hint class="text-danger" *ngIf="seaaName.invalid && (seaaName.dirty || seaaName.touched)">Campo requerido</mat-hint>
+                    </mat-form-field>
+                    <mat-form-field class="flex-grow-1">
+                        <mat-label>Opción</mat-label>
+                        <input matInput placeholder="Opción" [(ngModel)]="seaa.option" name="option" #seaaOption="ngModel" (ngModelChange)="valid(1, seaaOption.invalid)" requerid>
+                        <mat-hint class="text-danger" *ngIf="seaaOption.invalid && (seaaOption.dirty || seaaOption.touched)">Campo requerido</mat-hint>
+                    </mat-form-field>
+                    <mat-form-field class="flex-grow-1">
+                        <mat-label>Problema</mat-label>
+                        <input matInput placeholder="Problema" [(ngModel)]="seaa.problem" #seaaProblem="ngModel" name="problem" (ngModelChange)="valid(2, seaaProblem.invalid)" requerid>
+                        <mat-hint class="text-danger" *ngIf="seaaProblem.invalid && (seaaProblem.dirty || seaaProblem.touched)">Campo requerido</mat-hint>
+                    </mat-form-field>
+                    <mat-form-field class="flex-grow-1">
+                        <mat-label>Version</mat-label>
+                        <input matInput placeholder="Version" [(ngModel)]="seaa.version" name="version">
+                    </mat-form-field>
+                    <mat-form-field class="flex-grow-1">
+                        <mat-label>Año</mat-label>
+                        <input matInput placeholder="Año" [(ngModel)]="seaa.year" name="year">
+                    </mat-form-field>
+                    <mat-form-field class="flex-grow-1 w-50 h-auto">
+                        <mat-label>Descripción</mat-label>
+                        <textarea matInput placeholder="Descripción" [(ngModel)]="seaa.description" name="description"></textarea>
+                        <mat-hint [align]="'end'" class="d-flex align-items-center">Puede extender campo por el icono <mat-icon class="fs-6">arrow_upward</mat-icon></mat-hint>
+                    </mat-form-field>
+                </form>
+                <div class="mb-3">
+                    <mat-label>Se registró el : {{seaa.date | date: 'dd/MM/yyyy hh:mm:ss'}}</mat-label>
+                </div>
+            </div>
+            <div>
+                <p class="text-align-center mt-3" *ngIf="user.user.specialist!.seaaList.length == 0">No tiene asociado niingun sitema experto</p>
+                <button mat-raised-button class="mt-3 mb-2" (click)="addSeaa()">Agregrar Sistema Experto</button>
+            </div>
+        </mat-tab>
+    </mat-tab-group>
+</mat-dialog-content>
+<mat-dialog-actions class="d-flex gap-2 bg-green rounded-0">
+    <button mat-raised-button class="ms-2" (click)="update()"
+            [disabled]="!(validCi || (validSeaaName && validSeaaOption && validSeaaProblem))">Guardar</button>
+    <button mat-raised-button color="warn" (click)="dialogRef.close()">Cancelar</button>
+</mat-dialog-actions>

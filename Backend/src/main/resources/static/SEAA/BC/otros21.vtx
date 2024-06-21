@@ -1,0 +1,925 @@
+1,2,1 1 4
+	El paciente tiene H&#225;bitos T&#243;xicos:
+		Tabaquismo
+		Alcoholismo
+		Toxicoman&#237;a
+		Caf&#233;
+2,2,1 2 13
+	Cu&#225;les de las siguientes enfermedades del Aparato Respiratorio ha padecido
+	 el paciente anteriormente:
+		Derrame Pleural
+		Neumon&#237;a
+		Tuberculosis
+		Bronquiectasia
+		Neoplasias Pulmonares
+		Enfermedades Pleurales
+		Asma Bronquial
+		Broncopat&#237;a Cr&#243;nica
+		Neumoconiosis
+		Neumot&#243;rax
+		Enfermedad Pulmonar Obstructiva Cr&#243;nica
+		Infecci&#243;n en las V&#237;as Respiratorias Altas
+		Neumon&#237;a por Pneumocystis Carinii
+3,2,1 1 13
+	El paciente tiene Antecedentes de:
+		Enfermedades Sist&#233;micas e Infecciosas
+		Enfermedades Respiratorias
+		Enfermedades Cardiovasculares
+		Enfermedades o S&#237;ntomas del Aparato Digestivo
+		Enfermedades del Sistema Hematol&#243;gico
+		Enfermedades del Sistema Osteomioarticular
+		Enfermedades del Sistema Endocrino
+		Enfermedades del Sistema Nervioso (Neurol&#243;gico)
+		Enfermedades del Sistema Genito-Urinario
+		Enfermedades de Otros Aparatos ( Dermat., Oftalm., ORL, etc.)
+		Neoplasias
+		Intoxicaciones
+		Otros Antecedentes
+4,2,1 2 4
+	Cu&#225;l(es) Antecedentes Familiares de Enfermedades Respiratorias tiene el
+	 paciente:
+		Tuberculosis Pulmonar
+		Asma Bronquial
+		D&#233;ficit de Alfa, Antitripsina
+		Fibrosis Qu&#237;stica
+5,2,1 2 20
+	Cu&#225;les Antecedentes de enfermedades del Aparato Hematol&#243;gico presenta
+	 el paciente:
+		Policitemia Vera
+		Coagulopat&#237;as (Hemofilia, P&#250;rpura)
+		Anemia Normoc&#237;tica
+		Anemia Microc&#237;tica
+		Anemia Macroc&#237;tica
+		Anemia Hemol&#237;tica
+		Anemia Ferrop&#233;nica
+		Anemia Megalobl&#225;stica
+		Linfomas
+		Leucemias
+		Hemorragia
+		Hemocromatosis
+		Mieloma M&#250;ltiple
+		Depranocitemia
+		S&#237;ndrome de Hiperviscosidad
+		Leucoplasia Pilosa
+		Sarcoma de Kaposi
+		Plaquetopenia
+		Granulocitopenia
+		Policitemia Verdadera
+6,2,1 2 10
+	Con qu&#233; Polvos o Sustancias Inorg&#225;nicas ha estado relacionado el
+	 paciente:
+		Carb&#243;n
+		S&#237;lice
+		Amianto (Asbesto)
+		Hierro
+		Esta&#241;o
+		Bario
+		Silicato de Magnesio
+		Arena, Mica, Silicato
+		Polvo Aluminio
+		Berilio
+7,2,1 2 55
+	El paciente sigue o ha seguido Tratamiento Farmacol&#243;gico con alguno de los
+	 siguientes grupos de medicamentos:
+		Eritroproyetina
+		Anfetamina
+		Anovulatorio
+		Ansiol&#237;ticos
+		Anti&#225;cidos
+		Antiarr&#237;tmicos
+		Antibi&#243;ticos
+		Anticoagulantes
+		Anticolin&#233;rgicos
+		Anticonvulsivantes
+		Antidepresivos
+		Antigotosos
+		Antihem&#233;ticos
+		Antihipertensivos
+		Anti-inflamatorio no esteroideos
+		Anti-inflamatorio esteroides o corticoides
+		Antimic&#243;ticos
+		Antipal&#250;dicos
+		Antiparkinsonianos
+		Antitiroideos
+		Bromuros
+		Cimetidina
+		Colin&#233;rgicos
+		Derivados de la Anilina
+		Descongestionantes nasales
+		Ergotamina
+		Antagonistas del Folato
+		Gotas &#243;ticas
+		Hierro
+		Imidazolina
+		Laxantes
+		Metisergida
+		Neurol&#233;pticos
+		Opi&#225;ceos
+		Paracetamol
+		Penicilamina
+		Quimioter&#225;picos e inmunosupresores
+		Sustitutos hormonales
+		Tetracloruro de Carbono
+		Vasocontrictores
+		Yoduros
+		Citost&#225;ticos
+		Pilocarpina
+		Colirios en general
+		Acetozolamida
+		Vitamina C
+		Sales de C&#225;lcio
+		Simpaticomim&#233;ticos
+		Vasodiltadores
+		Nitrofuranto&#237;na
+		Meprobamato
+		Mertiolato o Timerosal
+		Mercuro Cromo
+		Alcohol Salic&#237;lico
+		Picrato de Butesina
+8,2,1 1 3
+	La paciente est&#225; en alguna de las siguientes situaciones:
+		Tiene retraso de m&#225;s de 7 d&#237;as de la menstruaci&#243;n
+		Est&#225; en fecha premenstrual
+		Est&#225; en mitad del ciclo menstrual
+9,2,1 1 33
+	Otros Datos de Inter&#233;s acerca del paciente:
+		Ingesta de cuerpo extra&#241;o
+		Ingesta de c&#225;usticos
+		Encamamiento prolongado
+		Viaje recientemente a pa&#237;ses tropicales
+		Manipulaciones esof&#225;gicas recientes
+		Retiene de forma voluntaria el deseo de defecaci&#243;n
+		Abuso del uso de enemas
+		Inmunodeficiencia
+		Pinchazos o cortes
+		Es homosexual
+		Intolerancia al gluten
+		Usa o ha usado sonda vesical permanente
+		Esterilidad o fertiliad escasa
+		Mult&#237;para
+		Reside o ha residido en &#225;reas end&#233;micas boci&#243;genas
+		Es de raza negra
+		Padece malnutrici&#243;n
+		Cuerpo extra&#241;o en el oido
+		Usa lentes de contacto
+		Usa lentes intraoculares
+		Puerperio actual
+		Donaciones de sangre frecuentes
+		Tiene stress
+		Ingesta de venenos org&#225;nicos
+		Reciente vacunaci&#243;n
+		Vive en malas condiciones higi&#233;nicas
+		No cuidado en el transporte y purificaci&#243;n del agua potable
+		Convivente o familiar con fiebre tifoidea
+		Ha visitado o recidido en zonas end&#233;micas de paludismo
+		Mutilaciones m&#250;ltiples (nariz, oreja, dedos)
+		Contacto sexual con personas sero positivos al VIH y/o SIDA
+		Bisexual o heterosexual
+		Pr&#225;ctica de coito anal o por v&#237;a contranatura
+10,2,1 1 28
+	El paciente Trabaja en o Mantiene Contacto Habitual con :
+		Actividades intensivas en posiciones anormales
+		Actividad laboral que requiere hablar mucho
+		Actividad laboral que requiere esfuerzo visual
+		Ambiente ruidoso
+		Polvos inorg&#225;nicos
+		Polvos org&#225;nicos
+		Aves
+		Aire acondicionado o calefacci&#243;n
+		Veterinario y/o trabajador de mataderos
+		Radiaciones
+		Sustancias t&#243;xicas (Metales Pesados,Venenos Org&#225;nicos,...)
+		Perros
+		Detergente
+		Pulidores de muebles
+		Desengrasantes
+		Vapores t&#243;xicos
+		Irritantes inhalantes
+		Benzidina o Naftilamina (Petr&#243;leo, colorantes, curtidos)
+		Actividad laboral que requiere de esfuerzo con las manos
+		Agricultura
+		Campos de Arroz
+		Alcantarillados o con aguas residuales
+		Ganadero
+		Minero
+		Fot&#243;grafo o T&#233;cnico de Rayos X
+		T&#233;cnico del Yeso
+		Violinista o similar
+		Industria del Pl&#225;stico
+11,2,1 1 13
+	Informaci&#243;n General sobre el Paciente
+		Antecedentes Patol&#243;gicos Personales
+		Antecedentes Patol&#243;gicos Familiares
+		Antecedentes Laborales y H&#225;bitos de vida
+		Antecedentes Farmacol&#243;gicos
+		Intervenciones Quir&#250;rgicas
+		Antecedentes de Traumatismos
+		H&#225;bitos Diet&#233;ticos
+		H&#225;bitos T&#243;xicos
+		Radiaciones
+		Transfusiones Recientes
+		Antecedentes de Ex&#225;menes y Tratamiento Ginecol&#243;gico
+		Historia Sexual
+		Ingesta reciente de alimentos u otras sustancias
+12,2,1 1 11
+	El paciente tiene Antecedentes Familiares de:
+		Enfermedades Respiratorias
+		Enfermedades Cardiovasculares
+		Enfermedades Digestivas
+		Enfermedades del Sistema Hematol&#243;gicas
+		Enfermedades del Sistema Osteomioarticular
+		Enfermedades del Sistema Endocrino
+		Enfermedades del Sistema Genito-Urinario
+		Enfermedades del Sistema Neurol&#243;gico
+		Enfermedades Dermatol&#243;gicas
+		Neoplasias
+		Intervenciones Quir&#250;rgicas
+13,2,1 2 8
+	Cu&#225;les Antecedentes Familiares de Enfermedades del Sistema Genito-Urinario
+	 tiene el paciente:
+		Insuficiencia Renal Aguda
+		Insuficiencia Renal Cr&#243;nica
+		Ri&#241;ones Poliqu&#237;sticos
+		Glomerulonefritis
+		C&#225;lculos Renales
+		C&#225;ncer de Mama
+		C&#225;ncer Prost&#225;tico
+		C&#225;ncer Renal
+14,2,1 1 10
+	H&#225;bitos Diet&#233;ticos del paciente:
+		Dieta normal y equilibrada
+		Dieta pobre en fibras vegetales
+		Ingesta pobre de l&#237;quidos
+		Dieta hiperproteica
+		Dieta hipocal&#243;rica (R&#233;gimen Diet&#233;tico)
+		Excluye alimentos (Dietas Peculiares)
+		Malos h&#225;bitos alimenticios
+		Insuficiente (Dieta Estricta)
+		Carnes poco cocidas (cerdos, corderos, vacas)
+		Consumo de Sodio (incluye la sal com&#250;n)
+15,2,1 2 8
+	Cu&#225;les Antecedentes Familiares de Enfermedades del Sistema
+	 Hematol&#243;gico tiene el paciente:
+		Anemia Hemol&#237;tica o Hereditaria
+		Anemia Megalobl&#225;stica
+		Anemia Ferrop&#233;nica
+		Coagulopat&#237;as Hereditarias
+		Policitemias
+		Neoplasias Hematol&#243;gicas
+		Hemocromatosis
+		Porfiria
+16,2,1 1 5
+	Radiaciones recibidas por el paciente:
+		Con contraste
+		Regi&#243;n Tor&#225;cica
+		Regi&#243;n Abdominal
+		Cabeza o Regi&#243;n Cervical
+		Radiaciones externas del Cuello
+17,2,1 1 20
+	Cu&#225;les de los siguientes elementos ha Ingerido recientemente el paciente:
+		Agua
+		Arroz
+		Aves
+		Bebidas &#225;cidas y/o bicarbonatadas
+		Bismuto
+		Calamares en su tinta
+		Carnes
+		Conservas
+		Embutidos
+		Gluten
+		Huevos
+		Leche y derivados
+		Mariscos
+		Pescados
+		Pescados ahumados
+		Remolacha
+		Setas
+		Vino tinto
+		Legumbres
+		Vegetales
+18,2,1 2 10
+	Cu&#225;les Antecedentes Familiares de Enfermedades Digestivas tiene el
+	 paciente:
+		Ictericia Org&#225;nica
+		Ictericia Funcional
+		Ulcus Duodenal
+		Esprue NO Tropical
+		P&#243;lipos de Colon y/o Recto
+		Enfermedad Inflamatoria Intestinal
+		Enfermedad de Crohn
+		Colitis Ulcerosa
+		Enfermedad de Wilson
+		Criptosporidi&#225;sis
+19,2,1 2 2
+	Cu&#225;l(es) Antecedentes Familiares de Intervenciones Quir&#250;rgicas tiene
+	 el paciente:
+		Esplenectom&#237;a
+		Colecistectom&#237;a
+20,2,1 2 69
+	Cu&#225;les Antecedentes de Enfermedades o S&#237;ntomas del Aparato Digestivo
+	 tiene el paciente:
+		S&#237;ndrome Carcinoide
+		Ardor Epig&#225;strico
+		Cirrosis Hep&#225;tica
+		Colecistitis
+		Coledocolitiasis
+		Colelitiasis
+		Disfagia
+		Diverticulosis
+		Dolor Abdominal
+		Enfermedad Inflamatoria Intestinal
+		Esofagitis
+		Gastritis
+		Hepatopat&#237;a Cr&#243;nica
+		Ictericia Funcional
+		Ictericia Org&#225;nica
+		Intususpecci&#243;n
+		Hepatitis Viral Aguda
+		Hepatitis T&#243;xica por F&#225;rmacos
+		Hepatitis Aguda de otros tipos
+		Mallory-Weiss
+		Neoplasia G&#225;strica
+		Neoplasia P&#225;ncreas
+		Neoplasia Colon
+		Pancreatitis Aguda
+		Pancreatitis Cr&#243;nica
+		Pirosis
+		P&#243;lipos en el Colon
+		Ulcera Duodenal
+		Ulcera G&#225;strica
+		V&#225;rices Esof&#225;gicas
+		V&#243;lvulo
+		Reflujo Gastroesof&#225;gico
+		Acalasia
+		Obstrucci&#243;n Esof&#225;gica
+		Estados Malabsortivos
+		Obstrucci&#243;n Intestinal Intermitente
+		S&#237;ndrome de Colon Irritable
+		Angina Abdominal
+		Colitis Isqu&#233;mica
+		Sepsis Oral
+		Hernia Hiatal
+		Colitis Ulcerativa Idiop&#225;tica
+		Estomatitis
+		Diarrea Aguda
+		Diarrea Cr&#243;nica
+		Enfermedad de Wilson
+		Enfermedad Fibroqu&#237;stica del P&#225;ncreas
+		Esofagitis de Reflujo
+		Esofagitis por Radiaci&#243;n
+		Esofagitis C&#225;ustica
+		Ulcera Esof&#225;gica
+		Estenosis Esof&#225;gica por Sustancias C&#225;usticas
+		S&#237;ndrome de Plummer - Winson
+		Enfermedad Celiaca
+		Gastritis Cr&#243;nica Atr&#243;fica
+		Diarrea por Yersinia Enterocol&#237;tica
+		Colitis Granulomatosa
+		C&#225;ncer de H&#237;gado
+		Giardiasis
+		S&#237;ndrome de Mala Absorci&#243;n Intestinal
+		Espondilitis
+		Hepatitis Cr&#243;nica Activa
+		Hepatomegalia
+		Lesi&#243;n Hep&#225;tica
+		Colitis Ulcerosa Inmunol&#243;gica
+		Enfermedad Infecciosa Gastrointestinal
+		Ant&#237;geno para la Hepatitis B (+)
+		Ascitis
+		Tumores Digestivos Altos
+21,2,1 2 23
+	Cu&#225;les Antecedentes de Enfermedades del Sistema Osteo- mioarticular tiene
+	 el paciente:
+		Fracturas Oseas
+		Luxaciones
+		Bursitis
+		Osteoartrosis
+		Espondilopat&#237;as
+		Lupus Eritematoso Sist&#233;mico
+		Artritis
+		Fiebre Reum&#225;tica
+		Enfermedad Mixta
+		Esclerodermia
+		Miastenias Graves
+		Enfermedad de Behcet
+		Vasculitis
+		Hiperunicemia o Episodios de Gota
+		Dolor en el Hombro
+		Tejido Conectivo
+		Artritis Reumatoidea
+		Enfermedad de Reiter
+		Cirug&#237;a Articular Reciente
+		S&#237;ndrome del T&#250;nel del Carpo
+		Osteomelitis
+		Polimiositis
+		Miositis
+22,2,1 2 12
+	Cu&#225;l(es) Antecedente(s) Familiares de Enfermedad(es) del Sistema
+	 Osteomioarticular tiene el paciente:
+		Lupus Eritomatoso Sist&#233;mico
+		Artritis Reumatoidea
+		Fiebre Reum&#225;tica
+		Enfermedad Mixta
+		Esclerodermia
+		Miastenias Graves
+		Enfermedad de Behcet
+		Vasculitis
+		Espondilopat&#237;as
+		Gota
+		S&#237;ndrome del Tunel del Carpo
+		Condrocalcinosis
+23,2,1 2 24
+	Cu&#225;l(es) de las siguientes enfermedades del Aparato Endocrino ha padecido
+	 el paciente:
+		S&#237;ndrome de Cushing
+		Obesidad
+		Diabetes Mellitus
+		Hipertiroidismo
+		Hipotiroidismo
+		Adenopat&#237;as
+		Hiperlipemia
+		Hiperunicemia o Episodios de Gota
+		Tiroiditis
+		Hipoparatiroidismo
+		Panhipopitituarismo
+		Micro o Macroadenomas Hipofisarios Productores de ACTH
+		Lesiones de la Par&#243;tida
+		Tiroiditis de Hashimoto
+		Acromegalia
+		Insuficiencia Suprarrenal
+		Hipoestrogenismo
+		Macrofeto o Polidramnio
+		Aldosteronismo
+		Feocromocitoma
+		Enfermedad de Addison
+		Hipercolesterolemia
+		Hiperlipidemia
+		Dislipidemia
+24,2,1 2 18
+	Cu&#225;l(es) de las siguientes Intervenciones Quir&#250;rgicas se le ha(n)
+	 practicado al paciente:
+		Cardiovascular
+		G&#225;strica
+		Laparotom&#237;a
+		Resecci&#243;n del Intestino Delgado
+		Resecci&#243;n del P&#225;ncreas
+		Apendicectom&#237;a
+		Colecistectom&#237;a
+		Resecci&#243;n Intestinal
+		Paratiroidectom&#237;a
+		Tiroides
+		Hipofisiaria
+		Anexectom&#237;a y/o Histerectom&#237;a
+		Adherencias Intra-Abdominales
+		Ocular
+		Trasplante Renal
+		Trasplante de M&#233;dula Osea
+		Fosa Anterior del Craneo
+		Otros Trasplantes
+25,2,1 2 14
+	Cu&#225;l tipo de Neoplasia y/o Tumor se le detect&#243; con anterioridad al
+	 paciente:
+		Tumores en el Es&#243;fago
+		Tumores en el Est&#243;mago
+		Tumores Testiculares
+		Tumores Oculares
+		Tumor Cerebral
+		Neoplasias Pulmonares
+		Neoplasia G&#225;strica
+		Neoplasia P&#225;ncreas
+		Neoplasia Colon
+		C&#225;ncer de Pr&#243;stata
+		C&#225;ncer de Tiroides
+		C&#225;ncer de Laringe
+		Melanoma
+		Otras Neoplasias
+26,2,1 2 34
+	Cu&#225;l(es) de las siguientes enfermedades de los Aparatos
+	 Oftalmol&#243;gico, Dermatol&#243;gico, Otorrino ha padecido el paciente:
+		Catarata
+		Uve&#237;tis-Iritis
+		Eritema Nodoso
+		Pioderma Gangrenoso
+		Hiperpigmentaci&#243;n
+		Ulceras Cr&#243;nicas en las Piernas
+		Herpes Zoster
+		Infecci&#243;n Cut&#225;nea
+		Infecci&#243;n Cut&#225;nea a Repetici&#243;n
+		Neurinoma del Ac&#250;stico
+		Amigdalitis Pult&#225;cea
+		Faringitis
+		Laringitis Cr&#243;nica
+		Psoriasis
+		Infecci&#243;n Faringea
+		Cuerpo Extra&#241;o en el O&#237;do
+		Ulceras Genitales y/o Maleolares
+		Conjuntivitis
+		Iridociclitis
+		Obstrucci&#243;n de la Arteria o Vena Central de la Retina
+		Desprendimiento de la Retina
+		Luxaci&#243;n o Subluxaci&#243;n del Cristalino
+		Lepra
+		S&#237;filis
+		Lupus Discoide
+		Vitiligo
+		Mastoiditis
+		Neuritis Optica Reciente
+		Nevus Pigmentario
+		Otitis Aguda o Cr&#243;nica
+		Queratitis
+		Sinusitis Aguda
+		Epiescleritis
+		Dermatitis de Contacto
+27,2,1 2 22
+	Cu&#225;l(es) de las siguientes enfermedades del Aparato Neurol&#243;gico ha
+	 padecido el paciente:
+		Hipertensi&#243;n Endocraneana
+		Secci&#243;n Medular
+		Neuropat&#237;a
+		Cefalea
+		Demencia
+		Psicosis
+		Jaqueca
+		Enfermedad Cerebrovascular
+		Par&#225;lisis Facial
+		Esclerosis Lateral Amiotr&#243;fica
+		Par&#225;lisis de Pares Craneales
+		Tumores Medulares
+		Mielitis Transversa
+		Epilepsia
+		Meningitis o Encefalitis
+		Esclerosis M&#250;ltiple
+		Polineuropat&#237;a
+		Neuritis Perif&#233;rica
+		Poliradiculoneuritis Aguda
+		Leucoencefalopat&#237;a
+		Convulsiones
+		Retraso Mental
+28,2,1 2 32
+	Cu&#225;l(es) de las siguientes enfermedades del Aparato Cardiovascular ha
+	 padecido el paciente:
+		Encefalopat&#237;a Hipertensiva
+		Disecci&#243;n Aortica
+		Coartaci&#243;n de la Aorta
+		Flebitis a Repetici&#243;n
+		Angina de Pecho (Angor)
+		Infarto del Miocardio Previo
+		Valvulopat&#237;a
+		Insuficiencia Card&#237;aca
+		Patolog&#237;a Venosa
+		Claudicaci&#243;n Intermitente
+		Pericarditis
+		Fen&#243;meno de Raynaud
+		Hipertensi&#243;n Arterial
+		Derrame Peric&#225;rdico
+		Hipotensi&#243;n Arterial
+		Trombosis Venosa Profunda
+		Aneurisma de Aorta Tor&#225;cica
+		Carditis Reumatoidea
+		Endocarditis Bacteriana
+		Pr&#243;tesis Valvular
+		Miocardiopat&#237;a Dilatada
+		Prolapso de la V&#225;lvula Mitral
+		Ateroesclerosis
+		Mixoma Auricular
+		Miocarditis
+		Insuficiencia A&#243;rtica
+		Tromboflebitis Superficial
+		Isquemia Perif&#233;rica
+		Cardiopat&#237;a Isqu&#233;mica
+		Enfermedad Coronaria
+		Edema Agudo de Pulm&#243;n
+		Edema Agudo de Pulm&#243;n (Recurrente)
+29,2,1 1 4
+	Con qu&#233; Polvos Org&#225;nicos ha estado relacionado el paciente:
+		Heno
+		Ca&#241;a de az&#250;car
+		Abono
+		Corcho
+30,2,1 1 4
+	La Hemorragia referida como Antecedente est&#225; relacionado con:
+		Traumatismos
+		Accidentes
+		Extracci&#243;n dentaria
+		Cirug&#237;a menor
+31,2,1 2 50
+	Cu&#225;l(es) de las siguientes enfermedades del Aparato Genito-Urinario ha
+	 padecido el paciente:
+		Eclampsia
+		Hipernefroma
+		Neuroblastoma
+		Ri&#241;ones Poliqu&#237;sticos
+		Tumor Renal
+		Nefropat&#237;a Diab&#233;tica o S&#237;ndrome de Kimmelstiel-Wilson
+		Insuficiencia Renal Cr&#243;nica
+		Insuficiencia Renal Aguda
+		Traumatismo Testicular
+		Enfermedad de Transmisi&#243;n Sexual
+		Sepsis Urinaria
+		Prostatitis
+		Prostatismo
+		Criptorquidia
+		C&#225;lculos Renales y/o Expulsi&#243;n de Arenilla
+		Infecciones Urinarias a Repetici&#243;n
+		Enfermedad Prost&#225;tica
+		Hematuria
+		Tumores Testiculares
+		C&#225;ncer de Pr&#243;stata
+		Varicoceles
+		De la Mama
+		Litiasis Renal
+		Tuberculosis Renal
+		Enfermedad Inflamatoria P&#233;lvica
+		Pielonefritis Aguda
+		C&#243;lico Nefr&#237;tico
+		Mioma Uterino
+		Balanitis
+		Cervicitis
+		Estreches Uretral
+		Vejiga Neur&#243;gena
+		Uretritis
+		Glomerulopat&#237;as
+		Glomerulonefritis
+		Glomerulonefritis Aguda
+		Enfermedad de Wills
+		S&#237;ndrome Nefr&#243;tico
+		Pielonefritis Cr&#243;nica
+		Anomal&#237;as del Pez&#243;n
+		Vulvovaginitis Bacteriana
+		Vulvovaginitis Gonoc&#243;ccica
+		Vulvovaginitis por C&#225;ndida
+		F&#237;stulas Uretrovaginales
+		F&#237;stulas Vesicouterinas
+		F&#237;stulas Vesicovaginales
+		F&#237;stulas Uretrovaginales
+		Traumatismo por el Parto
+		Traumatismo por el Coito
+		Epididimitis
+32,2,1 2 48
+	Cu&#225;les Antecedentes de enfermedades Sist&#233;micas e Infecciosas presenta
+	 el paciente:
+		Mononucleosis Infecciosa
+		Inmunodeficiencia
+		SIDA
+		Candidiasis Orofaringea
+		Infecci&#243;n Amigdalina Reciente
+		Escarlatina Reciente
+		Infecciones Recurrentes
+		Infecciones Postoperatorias
+		Lupus Eritematoso Sist&#233;mico
+		Fiebre Reum&#225;tica
+		Enfermedad Mixta
+		Esclerodermia
+		Enfermedad de Behcet
+		Vasculitis
+		Tejido Conectivo
+		Artritis
+		Artritis Reumatoidea
+		Enfermedad de Transmisi&#243;n Sexual
+		Sepsis Urinaria
+		Prostatitis
+		Infecci&#243;n Urinaria a Repetici&#243;n
+		Pioderma Gangrenoso
+		Herpes Zoster
+		Infecci&#243;n Cut&#225;nea
+		Amigdalitis Pult&#225;cea
+		Faringitis
+		Infecci&#243;n Faringea
+		Infecci&#243;n Reciente por Sarampi&#243;n
+		Infecci&#243;n Reciente por Rubeola
+		Infecci&#243;n Reciente por Varicela
+		Infecci&#243;n Reciente por Herpes
+		Histoplasmosis
+		Toxoplasmosis
+		Sarcoidosis
+		Periarteritis Nodosa
+		Paludismo
+		Equistosomiasis
+		Candidiasis
+		Bacteriemia
+		Enfermedad del Suero
+		Amiloidosis
+		Fiebre Tifoidea
+		Citomegalovir&#243;sis
+		Brucelosis
+		Leptospirosis
+		Tularemia
+		Porfirias
+		Otras Infecciones Virales
+33,2,1 2 9
+	De qu&#233; tipo son los Traumatismos referidos como Antecedentes por el
+	 paciente:
+		Traumatismo Tor&#225;cico Previo
+		Traumatismo Oseo y/o Muscular Reciente
+		Traumatismo Reciente en Regi&#243;n Lumbar &#243; P&#233;lvica
+		Traumatismo Ocular Reciente
+		Traumatismo Ocular Pasado
+		Traumatismo Cervical
+		Traumatismo en Extremidades Superiores
+		Traumatismo Articular
+		Traumatismo Craneal
+34,2,1 2 9
+	Cu&#225;l(es) Antecedente(s) Familiares de Enfermedad(es) del Sistema Endocrino
+	 tiene el paciente:
+		Diabetes Mellitus
+		Diabetes Ins&#237;pida
+		Hiperlipemias
+		Hipertiroidismo
+		Hipotiroidismo
+		Tiroiditis
+		Hipogonadismo
+		Feocromocitoma
+		Esterilidad
+35,2,1 2 3
+	Cu&#225;l(es) Antecedente(s) Familiares de Enfermedad(es) del Sistema
+	 Cardiovascular tiene el paciente:
+		Cardiopatias
+		Muerte S&#250;bita
+		Hipertensi&#243;n Arterial
+36,2,1 1 3
+	Cu&#225;l(es) Antecedentes Familiares de Neoplasia y/o Tumor tiene el paciente:
+		Hematol&#243;gicas
+		C&#225;ncer de Mama
+		C&#225;ncer de Utero
+37,2,1 2 7
+	Cu&#225;les de los siguientes Anti-inflamatorios NO Esteroides ha tomado el
+	 paciente:
+		Arsenicales org&#225;nicos
+		Fenilbutazona
+		Indometacina
+		Sales de oro
+		Salicilatos
+		Ibuprofeno
+		Piroxican
+38,2,1 1 10
+	Cu&#225;les de los siguientes Antibi&#243;ticos ha tomado el paciente:
+		Aminogluc&#243;cidos
+		Cefalosporina
+		Cloranfenicol
+		Estreptomicina
+		Eritromicina
+		Isoniazida
+		Penicilina
+		Rifampicina
+		Sulfam&#237;dicos
+		Neomicina
+39,2,1 1 2
+	Cu&#225;les de los siguientes Antiparkinsoniano ha tomado el paciente:
+		Amantadina
+		Levadopa
+40,2,1 1 9
+	Cu&#225;les de los siguientes Antihipertensivos ha tomado el paciente:
+		Bloqueantes B-adren&#233;rgicos
+		Bloqueantes de canales de calcio
+		Clorotiazida
+		Diur&#233;ticos
+		Hidralazina
+		Inhibidores de enzima conv de angiotensina
+		Manitol
+		Metildopa
+		Reserpina
+41,2,1 1 5
+	Cu&#225;les de los siguientes Sustitutos Hormonales ha tomado el paciente:
+		Anab&#243;licos
+		Estr&#243;genos
+		Metiltestosterona
+		Testosterona
+		Hormona Tiroidea
+42,2,1 1 2
+	Qu&#233; Tratamiento ha seguido con el Yodo:
+		Medios de constraste yodado
+		Yodo radioactivo
+43,2,1 1 3
+	Cu&#225;les de los siguientes Antimic&#243;ticos ha tomado el paciente:
+		Anfotericina
+		Clotrimazol
+		Ketoconazol
+44,2,1 2 7
+	Cu&#225;les de los siguientes Quimioterap&#233;uticos e Inmunosupresores ha
+	 tomado el paciente:
+		Azatioprina
+		Ciclosporina
+		Cisplatino
+		5-fluorouracilo
+		6-mercaptopurina
+		Metotrexate
+		Vincristina
+45,2,1 1 5
+	Cu&#225;les de los siguientes Anticolvulsivantes ha tomado el paciente:
+		Carbamazepina
+		Barbit&#250;rico
+		Difenilhidanto&#237;na
+		Fenitoina
+		Hidanto&#237;nas
+46,2,1 1 5
+	Cu&#225;les de los siguientes Neurol&#233;pticos ha tomado el paciente:
+		Clorpromazina
+		Clorpropramida
+		Fenotiazinas
+		Litio
+		Tioridazina
+47,2,1 1 2
+	Cu&#225;les de los siguientes Antigotosos ha tomado el paciente:
+		Alopurinol
+		Colchicina
+48,2,1 1 3
+	Cu&#225;les de los siguientes Antiarr&#237;tmicos ha tomado el paciente:
+		Amiodarona
+		Digital
+		Quinidina
+49,2,1 1 2
+	Cu&#225;les de los siguientes Descongestionantes Nasales ha tomado el paciente:
+		Gotas nasales
+		Vasocontrictores nasales
+50,2,1 1 5
+	Antecedentes personales de Ex&#225;menes y/o Tratamientos Ginecol&#243;gicos:
+		Histerosalpingograf&#237;a
+		Conizaci&#243;n
+		Electrocoagulaci&#243;n del cuello
+		Colocaci&#243;n o retirada de Dispositivo Intrauterino
+		Exploraci&#243;n ginecol&#243;gica
+51,2,1 2 7
+	Cu&#225;les Antecedentes Familiares de Enfermedades del Sistema
+	 Neurol&#243;gico tiene el paciente:
+		Temblor Esencial Benigno
+		Convulsiones
+		Migra&#241;a Hemipl&#233;jica
+		Parkinson
+		Esclerosis M&#250;ltiple
+		Jaqueca o Migra&#241;a
+		Neurofibromatosis
+52,2,1 1 2
+	El paciente es de raza:
+		Negra
+		Blanca
+53,2,1 2 1
+	Cu&#225;l(es) Antecedentes Familiares de enfermedades Sist&#233;micas tiene el
+	 paciente:
+		Fiebre Mediterranea Familiar
+54,2,1 1 2
+	Antecedentes Personales de Intoxicaciones:
+		Por Plomo, Mercurio o Talio
+		Alimenticias
+55,2,1 1 0
+	No se usa
+56,2,1 1 5
+	Ha vivido o visitado recientemente estos pa&#237;ses:
+		Oriente Medio
+		India
+		Arabia
+		Armenia
+		China
+57,2,1 1 2
+	Ha vivido o visitado recientemente estos pa&#237;ses:
+		Estados Unidos
+		Canad&#225;
+58,2,1 1 1
+	Ha vivido o visitado recientemente estos pa&#237;ses:
+		M&#233;xico
+59,2,1 1 2
+	Ha vivido o visitado recientemente estos pa&#237;ses:
+		Brasil
+		Colombia
+60,2,1 1 2
+	Ha vivido o visitado recientemente estos pa&#237;ses:
+		Inglaterra
+		Italia
+61,2,1 1 2
+	Ha vivido o visitado recientemente estos pa&#237;ses:
+		Sud&#225;n
+		Etiop&#237;a
+62,2,1 1 10
+	Historia Sexual del Paciente:
+		Contacto Sexual con Sero Positivos al VIH o Enfermos de SIDA
+		Pr&#225;ctica Sexual de Riesgo
+		Promiscuidad
+		Pr&#225;ctica de Coito Anal o por V&#237;a Contranatura
+		Heterosexualidad o Bisexualidad
+		Homosexualidad
+		Prostituci&#243;n o Aberraci&#243;n Sexual
+		No Utilizaci&#243;n del Cond&#243;n
+		Relaciones Sexuales NO Habituales
+		Contacto sexual con enfermos de S&#237;filis Infecciosa
+63,2,1 2 9
+	El paciente ha recidido o visitado recientemente algunas de las siguientes
+	 Regiones:
+		Africa del Norte
+		Africa Central
+		Africa Oriental
+		Am&#233;rica del Norte
+		Am&#233;rica Central
+		Am&#233;rica del Sur
+		Asia
+		Australia
+		Europa
+64,2,1 1 9
+	Antecedentes Patol&#243;gicos Familiares de Afecciones Dermatol&#243;gicas:
+		Atopia
+		Dermatitis de Contacto
+		Dermatitis Medicamentosa
+		Dermatitis Piogena
+		Dermatitis At&#243;pica
+		Otras Dermatitis
+		Fiebre del Heno
+		Lepra
+		Psoriasis

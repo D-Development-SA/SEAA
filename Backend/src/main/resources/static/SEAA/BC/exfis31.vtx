@@ -1,0 +1,2151 @@
+1,3,1 1 9
+	E X P L O R A C I O N
+		GENERAL
+		CABEZA Y CUELLO
+		TORAX
+		ABDOMEN
+		GENITALES
+		EXTREMIDADES
+		COLUMNA
+		LESIONES DERMATOLOGICAS
+		NEUROLOGICA
+2,3,1 1 14
+	Dentro de la EXPLORACION GENERAL:
+		Peso
+		Talla
+		Temperatura
+		Pulso
+		Presi&#243;n Arterial
+		Aspecto General
+		Estado de Hidrataci&#243;n
+		Estado de Nutrici&#243;n
+		Coloraci&#243;n de Piel y Mucosa
+		Fascies
+		Edema Generalizado
+		Signo de Trousseau
+		Signo de Chvostek
+		Actitud en el Lecho: Ortopnea
+3,3,1 1 1
+	Variable desactivada
+		no se usa
+4,3,1 1 3
+	Temperatura del paciente (Exploraci&#243;n):
+		Normal
+		Febr&#237;cula
+		Fiebre
+5,3,1 1 8
+	Pulso del paciente (Exploraci&#243;n):
+		Bradicardia ( Menos de 60 )
+		Normal      ( Entre 60 y 100 )
+		Taquicardia ( Mayor de 100 )
+		Pulso Parad&#243;jico
+		R&#237;tmico
+		Arr&#237;tmico
+		Ausencia de Pulso en Extremidades Superiores
+		Alternante
+6,3,1 1 4
+	Presi&#243;n Arterial del paciente (Exploraci&#243;n):
+		Alta (Sist&#243;lica mayor de 139 y Diast&#243;lica mayor de 89)
+		Baja
+		Normal (Sist&#243;lica de 130 a 139; y Diast&#243;lica de 85 a 89)
+		Normal (Sist&#243;lica menor de 130 y Diast&#243;lica menor de 85)
+7,3,1 1 6
+	Estado de Consciencia del paciente (Exploraci&#243;n):
+		Consciente
+		Somnoliento
+		Obnubilado
+		Estuporoso
+		Comatoso
+		Agitado
+8,3,1 1 2
+	Orientaci&#243;n Temporal-Espacial del paciente (Exploraci&#243;n):
+		Orientado
+		Desorientado
+9,3,1 1 5
+	Aspecto General del paciente (Exploraci&#243;n):
+		Buen Estado General
+		Afectaci&#243;n del Estado General
+		Rubicundo
+		Plet&#243;rico
+		H&#225;bitos Ast&#233;nicos
+10,3,1 1 2
+	Estado de Hidrataci&#243;n del paciente (Exploraci&#243;n):
+		Bien Hidratado
+		Deshidratado
+11,3,1 1 2
+	Estado de Nutrici&#243;n del paciente (Exploraci&#243;n):
+		Bien Nutrido
+		Desnutrido
+12,3,1 1 4
+	Coloraci&#243;n de Piel y Mucosa del paciente (Exploraci&#243;n):
+		Palidez
+		Ictericia
+		Cianosis
+		Hiperpigmentaci&#243;n
+13,3,1 1 8
+	En la exploraci&#243;n de CABEZA Y CUELLO, se explor&#243;:
+		Ojos
+		Oido
+		Regi&#243;n Nasal y Paranasal
+		Boca y Orofaringe
+		Regiones Temporales
+		Cuello
+		Craneo
+		Cara
+14,3,1 1 16
+	Ojos (Exploraci&#243;n):
+		Conjuntiva
+		C&#243;rnea
+		Retina, Fondo de Ojo
+		Exoftalmos
+		Enoftalmos
+		P&#225;rpados
+		Pupilas
+		Uve&#237;tis
+		Epiescleritis
+		Iritis
+		Hipopion o Hiperemia
+		Diplopia
+		Adelgazamiento o P&#233;rdida de la Mitad Externa de las Cejas
+		Opacidad del Cristalino
+		Regi&#243;n de Sacos Lagrimales
+		Signo Argyll - Robertson
+15,3,1 1 3
+	O&#237;do (Exploraci&#243;n):
+		Conducto Auditivo Externo
+		T&#237;mpano
+		Pabell&#243;n Auricular
+16,3,1 1 4
+	Regi&#243;n Nasal y Paranasal (Exploraci&#243;n):
+		Rinoscop&#237;a Anterior
+		Rinoscop&#237;a Posterior
+		Dolor Palpaci&#243;n Senos Paranasales
+		Aumento de Volumen de la Raiz Nasal
+17,3,1 1 11
+	Boca y Orofaringe (Exploraci&#243;n):
+		Normal
+		Boca Seca
+		Maloclusi&#243;n Dentaria
+		Caries o Abscesos Dentales
+		Mucosa Gingival
+		Mucosa Yugal
+		Labios
+		Regi&#243;n Periamigdalar
+		Lengua
+		Faringe
+		Laringe
+18,3,1 1 10
+	Cuello (Exploraci&#243;n):
+		Adenopat&#237;as
+		Palpaci&#243;n Pulso Car&#243;tideo
+		Auscultaci&#243;n Cuello
+		Ingurgitaci&#243;n Yugular
+		Tiroides
+		Gl&#225;ndulas Salivares
+		Tumores
+		Crepitaci&#243;n Palpaci&#243;n Cuello
+		Edema en Esclavina
+		Rama Vertical u Horizontal del Maxilar
+19,3,1 1 6
+	Conjuntiva (Ojos) (Exploraci&#243;n):
+		Tumoraciones
+		Ictericia
+		Hiperemia
+		Exudado Purulento
+		Papilas
+		Normal
+20,3,1 1 7
+	C&#243;rnea (Ojos) (Exploraci&#243;n):
+		Normal
+		Anillo de Kaiser - Fleischer
+		Ulceraci&#243;n
+		Opacidades
+		Arco Corneal
+		Queratitis
+		Aumento del Di&#225;metro
+21,3,1 1 12
+	II Par: Optico: Fondo de Ojo (Exploraci&#243;n):
+		Papila Normal
+		Edema Papila
+		Hemorragias
+		Manchas de Roth
+		Exudados
+		Retinopat&#237;a Hipertensiva
+		Retinopat&#237;a Diab&#233;tica
+		Excavaci&#243;n Papilar Glaucomatosa
+		Ingurgitaci&#243;n de las Venas
+		Borramiento del Borde de la Papila
+		Elevaci&#243;n del Borde de la Papila
+		Estrechamiento Arterioral
+22,3,1 1 2
+	III, IV y VI Pares: Oculomotores: Pupilas (Exploraci&#243;n):
+		Midri&#225;ticas
+		Mi&#243;ticas
+23,3,1 1 6
+	Conducto Auditivo Externo (O&#237;do) (Exploraci&#243;n):
+		Normal
+		Tumoraciones
+		Edema y Exudados
+		Tapones
+		Cuerpo Extra&#241;o
+		Formaci&#243;n Acuminada
+24,3,1 1 6
+	T&#237;mpano (O&#237;do) (Exploraci&#243;n):
+		Normal
+		Hiper&#233;mico
+		Opaco y P&#233;rdida de Brillo
+		Perforaci&#243;n
+		L&#237;nea del Nivel Horizontal (Derrame del L&#237;quido de la Caja)
+		Modificaci&#243;n de la Orientaci&#243;n del T&#237;mpano
+25,3,1 1 7
+	Pabell&#243;n Auricular (O&#237;do) (Exploraci&#243;n):
+		Normal
+		Tofos
+		Condritis
+		Presi&#243;n del Trago Dolorosa
+		Movilizaci&#243;n Dolorosa
+		M&#225;culas, N&#243;dulos, Placas o P&#225;pulas
+		L&#243;bulos de las Orejas
+26,3,1 1 10
+	Rinoscop&#237;a Anterior (Regi&#243;n Nasal y Perinasal) (Exploraci&#243;n):
+		Normal
+		Hemorragias
+		P&#243;lipos Nasales
+		Secreci&#243;n Nasal Purulenta
+		Tumores
+		Desviaci&#243;n Tabique y Cuerpo Extra&#241;o
+		Mucosa Nasal Edematosa y Enrojecida
+		Mucosa Nasal P&#225;lida y Violacea
+		Mucosa Nasal Ulcerada
+		Tabique Nasal Perforado, Deformidad en Silla de Montar
+27,3,1 1 3
+	Rinoscop&#237;a Posterior (Regi&#243;n Nasal y Perinasal) (Exploraci&#243;n):
+		Tumores
+		Hemorragias
+		Secresi&#243;n Mucopurelenta
+28,3,1 1 5
+	Mucosa Gingival (Boca y Orofaringe) (Exploraci&#243;n):
+		Normal
+		Ulcera
+		Gingivitis
+		Gingivorragias
+		Tumores
+29,3,1 1 7
+	Mucosa Yugal (Boca y Orofaringe) (Exploraci&#243;n):
+		Normal
+		Tumoraciones
+		Leucoplasias
+		Ulceras
+		Lesiones Algodonosas
+		Hiperplasia Gingival
+		Lesiones Heperpigmentadas
+30,3,1 1 5
+	Labios (Boca y Orofaringe) (Exploraci&#243;n):
+		Normal
+		Quelititis Angular
+		Lesiones Mel&#225;nicas
+		Angiomas
+		Ves&#237;culas
+31,3,1 1 3
+	Am&#237;gdalas (Exploraci&#243;n):
+		Normales
+		Anormales
+		Ausentes
+32,3,1 1 4
+	Palpaci&#243;n de Arterias en Regiones Temporales (Boca y Orofaringe):
+		Engrosadas
+		Tortuosas
+		Endurecidas
+		Dolor
+33,3,1 1 3
+	Las Adenopat&#237;as Supraclaviculares Derechas del Cuello son:
+		Blandas y M&#243;viles
+		Duras y Adheridas
+		Duras y M&#243;viles
+34,3,1 1 2
+	Las Adenopat&#237;as Supraclaviculares del Cuello se localizan en el lado:
+		Izquierdo
+		Derecho
+35,3,1 1 4
+	Auscultaci&#243;n (Cuello):
+		Soplos Carot&#237;deos
+		Estridor Lar&#237;ngeo
+		Soplo Supraclavicular
+		Sonido de Gorgoteo
+36,3,1 1 5
+	Tiroides (Cuello) (Exploraci&#243;n):
+		Normal
+		Bocio Difuso
+		N&#243;dulo Tiroideo
+		Masas
+		Soplos
+37,3,1 1 6
+	Gl&#225;ndulas Salivares (Cuello) (Exploraci&#243;n):
+		Normal
+		Aumento Tama&#241;o Gl&#225;ndula Parot&#237;dea
+		Aumento Tama&#241;o Gl&#225;ndulas Submaxilares
+		N&#243;dulos Glandulares
+		Masas
+		Dolor a Palpaci&#243;n
+38,3,1 1 4
+	Dentro de la exploraci&#243;n del TORAX:
+		Inspecci&#243;n
+		Palpaci&#243;n
+		Percusi&#243;n
+		Auscultaci&#243;n
+39,3,1 1 10
+	Inspecci&#243;n (T&#243;rax):
+		T&#243;rax Aspecto Normal
+		Deformidad Tor&#225;cica
+		Movilidad Tor&#225;cica Normal
+		Movilidad Tor&#225;cica Asim&#233;trica
+		Frecuencia Respiratoria (Respiraciones/Minuto)
+		Ginecomastia (s&#243;lo var&#243;n)
+		Mamas (s&#243;lo mujer)
+		Lesiones Cut&#225;neas (Dermatol&#243;gico)
+		Utilizaci&#243;n Musculatura Accesoria Tor&#225;cica
+		Erosi&#243;n Pared Anterior del T&#243;rax
+40,3,1 1 6
+	Palpaci&#243;n (T&#243;rax):
+		Axilas (Adenopat&#237;as presentes)
+		Mamas
+		Crepitaci&#243;n Cut&#225;nea
+		Costillas - Cart&#237;lagos Costales-Estern&#243;n
+		N&#243;dulos Cut&#225;neos o Tumoraciones Cut&#225;neas
+		Latido de la Punta Cardiaca
+41,3,1 1 2
+	Percusi&#243;n (T&#243;rax):
+		Sonido Timp&#225;nico
+		Matidez
+42,3,1 1 2
+	Auscultaci&#243;n (T&#243;rax):
+		Card&#237;aca
+		Pulmonar
+43,3,1 1 9
+	Auscultaci&#243;n Card&#237;aca (T&#243;rax):
+		Normal
+		Soplos
+		Roce Peric&#225;rdico
+		Tonos Card&#237;acos
+		Ritmo Card&#237;aco
+		Primer Ruido Aumentado
+		Desdoblamiento Primer Tono
+		Desdoblamiento Segundo Tono
+		Chasquido de Apertura
+44,3,1 1 8
+	Auscultaci&#243;n Pulmonar (T&#243;rax):
+		Normal
+		Disminuci&#243;n Murmullo Vesicular
+		Crepitantes
+		Roncus
+		Sibilancias
+		Abolici&#243;n Murmullo Vesicular
+		Roce Pleural
+		Broncofon&#237;a
+45,3,1 1 2
+	Frecuencia Respiratoria (Inspecci&#243;n T&#243;rax):
+		Normal    ( 20 o menos )
+		Taquipnea ( M&#225;s de 20 )
+46,3,1 1 8
+	Mamas (Inspecci&#243;n T&#243;rax):
+		Sim&#233;tricas Tama&#241;o
+		Asim&#233;tricas Tama&#241;o
+		Tumores Visibles
+		Signos Inflamatorios Visibles
+		Retracci&#243;n Pez&#243;n
+		Piel Aspecto Naranja
+		Crecimiento Bilateral
+		Aumento de Pigmentaci&#243;n de ambas Areolas
+47,3,1 1 2
+	Axilas, Adenopat&#237;as presentes (Palpaci&#243;n T&#243;rax):
+		Blandas y M&#243;viles
+		Duras y Adheridas
+48,3,1 1 2
+	Mamas (Palpaci&#243;n T&#243;rax):
+		Tumoraciones
+		Exudado del Pez&#243;n a Palpaci&#243;n
+49,3,1 1 3
+	Costillas - Cart&#237;lagos Costales-Estern&#243;n (Palpaci&#243;n T&#243;rax):
+		Dolor Provocado
+		Crepitaci&#243;n
+		Tumoraciones
+50,3,1 1 4
+	Latido de la Punta Card&#237;aca (Palpaci&#243;n T&#243;rax):
+		Disminu&#237;do
+		Hipercin&#233;tico
+		Desplazado hacia la Izquierda
+		Desplazado hacia la Derecha
+51,3,1 1 7
+	Soplos (Auscultaci&#243;n Card&#237;aca, T&#243;rax):
+		Area
+		Tipo
+		Irradiaci&#243;n
+		Aumento Intensidad
+		Disminuci&#243;n Intensidad
+		&#34;PLOP&#34; o &#34;PLAF Tumoral&#34; (Soplo Propio del Mixoma Auricular)
+		Sonido
+52,3,1 1 5
+	Area, Soplos (Auscultaci&#243;n Card&#237;aca, T&#243;rax):
+		Apex Card&#237;aco
+		Borde Esternal Derecho
+		Borde Esternal Izquierdo
+		Segundo Espacio Intercostal Izquierdo
+		Segundo Espacio Intercostal Derecho
+53,3,1 1 2
+	Tipo, Soplo (Auscultaci&#243;n Card&#237;aca, T&#243;rax):
+		Sist&#243;lico
+		Diast&#243;lico
+54,3,1 1 2
+	Irradiaci&#243;n, Soplo (Auscultaci&#243;n Card&#237;aca, T&#243;rax):
+		Axila
+		Cuello
+55,3,1 1 4
+	Aumento Intensidad con (Soplo, Auscultaci&#243;n Card&#237;aca, T&#243;rax):
+		Inspiraci&#243;n
+		Espiraci&#243;n
+		Valsalva
+		Ejercicio Previo
+56,3,1 2 3
+	Disminuci&#243;n Intensidad con (Soplo, Auscultaci&#243;n Card&#237;aca,
+	 T&#243;rax):
+		Inspiraci&#243;n
+		Espiraci&#243;n
+		Valsalva
+57,3,1 1 2
+	Sonido, Soplo (Auscultaci&#243;n Card&#237;aca, T&#243;rax):
+		Sordo
+		Piante
+58,3,1 1 2
+	Tonos Card&#237;acos (Soplo, Auscultaci&#243;n Card&#237;aca, T&#243;rax):
+		Sobrea&#241;adidos
+		Apagados
+59,3,1 2 2
+	Tonos Card&#237;acos Sobrea&#241;adidos (Soplo, Auscultaci&#243;n
+	 Card&#237;aca, T&#243;rax):
+		Cuarto Tono
+		Tercer Tono
+60,3,1 2 3
+	Disminuci&#243;n Murmullo Vesicular localizado Hemitorax Derecho
+	 (Auscultaci&#243;n Pulmonar, T&#243;rax):
+		Campo Superior
+		Campo Medio
+		Campo Inferior
+61,3,1 2 3
+	Crepitantes localizados Hemitorax Derecho (Auscultaci&#243;n Pulmonar,
+	 T&#243;rax):
+		Campo Superior
+		Campo Medio
+		Campo Inferior
+62,3,1 2 3
+	Abolici&#243;n Murmullo Vesicular localizado Hemitorax Derecho
+	 (Auscultaci&#243;n Pulmonar, T&#243;rax):
+		Campo Superior
+		Campo Medio
+		Campo Inferior
+63,3,1 1 4
+	Exploraci&#243;n General de ABDOMEN:
+		Inspecci&#243;n
+		Percusi&#243;n
+		Palpaci&#243;n
+		Auscultaci&#243;n
+64,3,1 1 3
+	Exploraci&#243;n General de GENITAL (HOMBRE):
+		Inspecci&#243;n
+		Palpaci&#243;n
+		Transiluminaci&#243;n
+65,3,1 1 2
+	Exploraci&#243;n General de GENITAL (MUJER):
+		Inspecci&#243;n
+		Tacto Vaginal
+66,3,1 1 10
+	Inspecci&#243;n (Abdominal):
+		Cicatrices
+		Estr&#237;as Abdominales Purp&#250;reas
+		Masas o Asimetr&#237;a Abdomen
+		Masas en Orificios Herniarios
+		Distensi&#243;n Abdominal (Contorno)
+		Circulaci&#243;n Venosa Visible (Hipertensi&#243;n Portal)
+		Manchas Anormales
+		Inspecci&#243;n Perianal
+		Obesidad del Tronco
+		Vientre en Batea
+67,3,1 1 8
+	Manchas Anormales (Inspecci&#243;n Abdominal):
+		Telangiectasia
+		Spider
+		Equimosis
+		Petequias
+		Acantosis
+		Hiperpigmentaci&#243;n de la L&#237;nea Media
+		Signo de Cullen
+		Signo de Turner
+68,3,1 1 8
+	Inspecci&#243;n Perianal (Abdominal):
+		Hemorroides
+		Fisuras
+		Signos Inflamatorios
+		Masas
+		Absceso
+		F&#237;stula
+		Verrugas
+		Ulceras
+69,3,1 1 3
+	Percusi&#243;n (Abdominal):
+		Sonido Timp&#225;nico
+		Matidez
+		Pu&#241;opercusi&#243;n Renal Positivo
+70,3,1 1 3
+	Matidez (Percusi&#243;n Abdominal):
+		Matidez Cambiante (Ascitis)
+		Area Hep&#225;tica
+		Area Traube
+71,3,1 1 13
+	Palpaci&#243;n (Abdominal):
+		Visceromegalias
+		Masas
+		Dolor Abdominal a la Palpaci&#243;n
+		Defensa Muscular a la Palpaci&#243;n
+		Signo Blumberg (Dolor a Descompresi&#243;n Brusca)
+		Signo Psoas
+		Palpaci&#243;n Orificios Herniarios
+		Palpaci&#243;n Cicatrices Previas (Eventracciones)
+		Tacto Vaginal
+		Tacto Rectal
+		Oleada Asc&#237;tica
+		Adenopat&#237;as Inguinales
+		Reflujo Hepatoyugular
+72,3,1 1 5
+	Visceromegalias (Palpaci&#243;n Abdominal):
+		Hepatomegalia
+		Esplenomegalia
+		Embarazo
+		Adenopat&#237;as Abdomen
+		Ves&#237;cula Palpable (Signo de Courvoisier)
+73,3,1 1 5
+	Hepatomegalia (Visceromegalias, Palpaci&#243;n Abdominal):
+		Dolorosa
+		Blanda
+		Dura
+		Regular
+		Irregular
+74,3,1 1 7
+	Masas en (Palpaci&#243;n Abdominal):
+		Epigastrio
+		Mesogastrio
+		Hipogastrio
+		Cuadrante Superior Derecho
+		Cuadrante Superior Izquierdo
+		Cuadrante Inferior Derecho
+		Cuadrante Inferior Izquierdo
+75,3,1 1 5
+	Orificios Herniarios (Palpaci&#243;n Abdominal)
+		Inguinal Derecho
+		Inguinal Izquierdo
+		Crural Derecho
+		Crural Izquierdo
+		Umbilical
+76,3,1 1 2
+	Existe Hernia en Inguinal Derecho (Palpaci&#243;n Abdominal):
+		Reductible
+		NO Reductible
+77,3,1 1 2
+	Existe Hernia en Inguinal Izquierdo (Palpaci&#243;n Abdominal):
+		Reductible
+		NO Reductible
+78,3,1 1 2
+	Existe Hernia en Crural Derecho (Palpaci&#243;n Abdominal):
+		Reductible
+		NO Reductible
+79,3,1 1 2
+	Existe Hernia en Crural Izquierdo (Palpaci&#243;n Abdominal):
+		Reductible
+		NO Reductible
+80,3,1 1 2
+	Existe Hernia Umbilical (Palpaci&#243;n Abdominal):
+		Reductible
+		NO Reductible
+81,3,1 1 2
+	Eventracciones (Cicatrices Previas, Palpaci&#243;n Abdominal):
+		Reductible
+		NO Reductible
+82,3,1 1 6
+	Tacto Vaginal :
+		Normal
+		Masas
+		Dolor a la Movilizaci&#243;n del Cuello
+		Utero Aumnetado de Tama&#241;o (Signo de PISKACEC)
+		Signo de BUDIN Positivo
+		Signo de GAUSS Positivo
+83,3,1 1 7
+	Tacto Rectal (Palpaci&#243;n Abdominal):
+		Normal
+		Masas Duras
+		Masas Blandas
+		Sangre en heces
+		Sensibilidad Aumentada Perirectal
+		Pr&#243;stata
+		Ampolla Rectal
+84,3,1 1 7
+	Pr&#243;stata (Tacto Rectal, Palpaci&#243;n Abdominal):
+		Normal
+		Agrandada
+		Consistencia El&#225;stica
+		Consistencia Dura
+		N&#243;dulos o Irregular
+		Dolorosa
+		Masaje Prost&#225;tico Positivo
+85,3,1 1 6
+	Auscultaci&#243;n (Abdominal):
+		Ruidos Aumentados
+		Ausencia de Ruidos
+		Ruido Met&#225;lico: Obstrucci&#243;n Intestinal
+		Soplo Abdominal: Alteraci&#243;n Vascular
+		Soplos en Area Hep&#225;tica
+		Normal
+86,3,1 1 13
+	Inspecci&#243;n (Genital, HOMBRE):
+		Normal
+		Ulceras Unicas
+		Ulceras M&#250;ltiples
+		Ves&#237;culas
+		Tumoraciones
+		Uretrorrea
+		Posici&#243;n Anormal del Meato
+		Estenosis del Prepucio
+		Atrofia Testicular
+		Aumento del Volumen Testicular
+		Test&#237;culo Retra&#237;do y Horizontalizado
+		Pliegues Escrotales Borrados
+		Verrugas
+87,3,1 1 17
+	Inspecci&#243;n (Genital, MUJER):
+		Normal
+		Ulceras Unicas
+		Ulceras M&#250;ltiples
+		Ves&#237;culas
+		Tumoraciones
+		Quistes
+		Leucorrea
+		Clitoromegalia
+		Sangrado Vaginal
+		Cistocele
+		Rectocistocele
+		Uretrocele
+		Cuello Edematoso
+		Cuello Aumentado de Tama&#241;o
+		Endoc&#233;rvix Engrosado y Produce Pus
+		Endoc&#233;rvix con Huevos de Naboth
+		Verrugas
+88,3,1 1 2
+	Tumoraciones (Inspecci&#243;n Genital, HOMBRE):
+		Escrotales
+		Pene
+89,3,1 1 4
+	Quistes (Palpaci&#243;n Genital, HOMBRE):
+		Test&#237;culos
+		Epididimo
+		Pene
+		Conducto Deferente
+90,3,1 1 9
+	Palpaci&#243;n (Genital, HOMBRE):
+		Normal
+		Ausencia de Test&#237;culos
+		Asimetr&#237;a
+		Masas
+		Quistes
+		Induraci&#243;n Uretral
+		Dolor
+		Venas Testiculares Dilatadas
+		Verrugas
+91,3,1 1 4
+	Masas (Palpaci&#243;n Genital, HOMBRE):
+		Test&#237;culos
+		Epididimo
+		Pene
+		Conducto Deferente
+92,3,1 1 4
+	Dolor (Palpaci&#243;n Genital, HOMBRE):
+		Test&#237;culos
+		Epididimo
+		Pene
+		Conducto Deferente
+93,3,1 1 5
+	La Leucorrea es (Exploraci&#243;n):
+		Clara
+		Blanquecina
+		Purulenta
+		Maloliente y Espumosa
+		Amarilla
+94,3,1 1 2
+	Transiluminaci&#243;n (Exploraci&#243;n Genital, HOMBRE):
+		L&#237;quido
+		Masa
+95,3,1 1 2
+	Exploraci&#243;n General de EXTREMIDADES:
+		Inspecci&#243;n
+		Palpaci&#243;n
+96,3,1 1 19
+	Inspecci&#243;n (Extremidades):
+		Color
+		Necrosis
+		Deformidades Extremidades
+		Deformidades Dedos
+		Signos Inflamatorios Articulares
+		Signos Inflamatorios Extraarticulares
+		Edema
+		Atrofia Muscular
+		Acropaquias
+		V&#225;rices
+		Ulceraciones
+		Retracciones Palmares o Atrofia Interosea
+		Sinovitis
+		Esclerodactilia
+		Raynaud
+		Eritema Palmar
+		Calcinosis
+		Coiloniquias
+		Hemartrosis
+97,3,1 1 5
+	Color (Inspecci&#243;n, Extremidades):
+		Normal
+		Palidez
+		Hiperemia
+		Cianosis
+		Pigmentaci&#243;n Mel&#225;nica
+98,3,1 1 8
+	Deformidades Extremidades (Inspecci&#243;n, Extremidades):
+		Tofos
+		Desviaci&#243;n Cubital de Articulaciones
+		Articulaci&#243;n Subtalar
+		Subluxaci&#243;n de la Cabeza Metatarsiana
+		Desviaci&#243;n Lateral de los Dedos de los Pies
+		Ca&#237;da del Pie
+		Ca&#237;da de la Mu&#241;eca
+		Desviaci&#243;n Radial de la Mu&#241;eca
+99,3,1 1 17
+	Deformidades dedos (Inspecci&#243;n, Extremidades):
+		N&#243;dulos Heberden
+		N&#243;dulos Bouchard
+		N&#243;dulos Osler
+		En Bot&#243;n
+		En Cuello de Cisne
+		En Resorte
+		En Martillo
+		En Forma de Salchicha
+		Largos y Anchos en Manos y Pies
+		U&#241;as Delgadas y Fr&#225;giles
+		Hemorragias (en Astilla)
+		Reabsorci&#243;n y P&#233;rdida de Falanges
+		U&#241;as Descoloridas
+		U&#241;as Friables
+		U&#241;as sin Brillo
+		U&#241;as Rotas
+		U&#241;as Deformadas
+100,3,1 1 3
+	Signos Inflamatorios Extraarticulares (Inspecci&#243;n, Extremidades):
+		Venosos
+		Dermis
+		Estr&#237;a Ascendente
+101,3,1 1 3
+	Edema (Inspecci&#243;n, Extremidades):
+		Extremidades Inferiores
+		Extremidades Superiores
+		En Esclavina
+102,3,1 1 3
+	Ulceraciones (Inspecci&#243;n, Extremidades):
+		Dedos
+		Pies
+		Piernas
+103,3,1 1 12
+	Palpaci&#243;n (Extremidades):
+		Pulsos
+		Dolor Palpaci&#243;n
+		Maniobra de Homans (Positiva)
+		Maniobra de Braggard (Positiva)
+		Maniobra de Lasague (Positiva)
+		Cord&#243;n Venoso Duro
+		Edema con Fovea
+		Edema Duro
+		Crujidos
+		Movilidad Articular
+		Signo de TINEL (Positivo)
+		Signo de PHALEN (Positivo)
+104,3,1 1 3
+	Pulsos (Palpaci&#243;n, Extremidades):
+		Extremidades Inferiores
+		Extremidades Superiores
+		Pulso Parad&#243;jico
+105,3,1 1 3
+	Pulsos Extremidades Inferiores Presentes (Palpaci&#243;n, Extremidades):
+		Femorales
+		Popl&#237;teos
+		Pedios
+106,3,1 1 3
+	Pulsos Extremidades Superiores Presentes (Palpaci&#243;n, Extremidades):
+		Humeral
+		Radial
+		Cubital
+107,3,1 1 3
+	Dolor a la Palpaci&#243;n (Extremidades):
+		Masa Gemelar
+		Articulaciones Afectas
+		M&#250;sculos Afectados
+108,3,1 1 4
+	Exploraci&#243;n General de COLUMNA:
+		Normal
+		Deformidades
+		Rigidez
+		Palpaci&#243;n
+109,3,1 1 9
+	Deformidades (Exploraci&#243;n Columna):
+		Escoliosis Columna Cervical
+		Escoliosis Columna Dorsal
+		Escoliosis Columna Lumbar
+		Hipercifosis Columna Cervical
+		Hipercifosis Columna Dorsal
+		Hipercifosis Columna Lumbar
+		Hiperlordosis Columna Cervical
+		Hiperlordosis Columna Dorsal
+		Hiperlordosis Columna Lumbar
+110,3,1 1 3
+	Rigidez (Exploraci&#243;n Columna):
+		Columna Cervical
+		Columna Dorsal
+		Columna Lumbar
+111,3,1 1 2
+	Palpaci&#243;n (Columna):
+		Normal
+		Dolorosa
+112,3,1 1 3
+	Dolorosa (Palpaci&#243;n Columna):
+		Columna Cervical
+		Columna Dorsal
+		Columna Lumbar
+113,3,1 1 53
+	Exploraci&#243;n DERMATOLOGICA:
+		Manchas
+		Trastornos Fol&#237;culos Pilosos
+		Hab&#243;n
+		M&#225;cula
+		P&#225;pula
+		Ves&#237;culas
+		Ampolla
+		Tub&#233;rculo
+		N&#243;dulo
+		Tumor
+		P&#250;stula
+		Quiste
+		Escama
+		Costra
+		Abscesos
+		Erosi&#243;n
+		Escoriaci&#243;n
+		Ulceraci&#243;n
+		Fisura
+		Atrofia
+		Esclerosis
+		Cicatriz
+		Prurito
+		Eritema Nodoso
+		Pioderma Gangrenoso
+		Dermatitis Herpetiforme
+		Queratoderma Blenorr&#225;gico
+		Piel Engrosada
+		Desaparici&#243;n de Pliegues en la Piel
+		Tirantez
+		Piel Seca, Aspera, Fr&#237;a
+		Escarcha Ur&#233;mica
+		Rash Cut&#225;neo
+		Estr&#237;as Vinosas
+		Erupci&#243;n Discoide
+		Placas Eritematovesiculosas o Eritematocostrosas
+		Placas Eritematoescamosas
+		Placas Eritematoedematosas
+		Placas Hiperquerat&#243;sicas
+		For&#250;nculos
+		Soluci&#243;n de Continuidad
+		Dermografismo Blanco Presente
+		Areas Liquenificadas
+		Placas
+		Fen&#243;meno de Koebner
+		Signo de la Mancha de Esperma
+		Signo de Auspitz o del Roc&#237;o Sangriento
+		Eritrodermia
+		Grietas Interdigitales
+		Macerado Interdigital
+		Verrugas
+		Placas Papuloescamosas
+		Goma Sifil&#237;tico
+114,3,1 1 3
+	Manchas (Exploraci&#243;n Dermatolog&#237;a):
+		Vascular
+		Mel&#225;nicos
+		Otros Pigmentos
+115,3,1 1 10
+	Vascular (Manchas, Exploraci&#243;n Dermatolog&#237;a):
+		Eritema
+		Cianosis
+		Equimosis
+		Telangiectasias
+		Spiders o Ara&#241;as Vasculares
+		Petequias
+		Exantema
+		Lesiones de Janeway
+		P&#250;rpura
+		Malformaci&#243;n (Angioma Plano)
+116,3,1 1 2
+	Mel&#225;nicos (Manchas, Exploraci&#243;n Dermatolog&#237;a):
+		Hipopigmentados
+		Hiperpigmentados
+117,3,1 1 3
+	Hiperpigmentados (Mel&#225;nicos, Manchas, Exploraci&#243;n Dermatolog&#237;a):
+		Acantosis Nigricans
+		Melanodermia Generalizada
+		Color Caf&#233; con Leche
+118,3,1 1 4
+	Otros Pigmentos (Manchas, Exploraci&#243;n Dermatolog&#237;a):
+		Tatuajes
+		Xantelasmas y Xantomas
+		Cloasma
+		Hemat&#243;geno
+119,3,1 2 3
+	Disminuci&#243;n Murmullo Vesicular localizado Hemitorax Izquierdo
+	 (Auscultaci&#243;n Pulmonar, T&#243;rax):
+		Campo Superior
+		Campo Medio
+		Campo Inferior
+120,3,1 2 3
+	Crepitantes localizados Hemitorax Izquierdo (Auscultaci&#243;n Pulmonar,
+	 T&#243;rax):
+		Campo Superior
+		Campo Medio
+		Campo Inferior
+121,3,1 2 3
+	Abolici&#243;n Murmullo Vesicular localizado Hemitorax Izquierdo
+	 (Auscultaci&#243;n Pulmonar, T&#243;rax):
+		Campo Superior
+		Campo Medio
+		Campo Inferior
+122,3,1 1 2
+	Edema en Extremidades Inferiores (Inspecci&#243;n):
+		Unilateral
+		Bilateral
+123,3,1 1 7
+	Lengua ( Exploraci&#243;n Boca y Orofaringe):
+		Normal
+		Macroglosia
+		Depapilaci&#243;n
+		Tumores
+		Glositis
+		Saburral
+		Lesi&#243;n Blanca la Parte Lateral
+124,3,1 1 10
+	Dolor Abdominal a la Palpaci&#243;n:
+		Generalizado
+		Epigastrio
+		Periumbilical
+		Hipogastrio
+		Cuadrante Superior Derecho (Signo de Murphy)
+		Cuadrante Superior Izquierdo
+		Cuadrante Inferior Derecho
+		Cuadrante Inferior Izquierdo
+		Puntos Pielorenoureterales Superiores
+		Puntos Pielorenoureterales Medios
+125,3,1 1 7
+	Localizaci&#243;n de Petequias (Exploraci&#243;n Manchas, Vascular)
+		Extremidades Superiores
+		Extremidades Inferiores
+		Tronco
+		Gl&#250;teos
+		Paladar
+		Conjuntiva
+		Mucosa Bucal
+126,3,1 1 3
+	La Ictericia es (Exploraci&#243;n):
+		Rub&#237;nica
+		Mel&#225;nica
+		Verd&#237;nica
+127,3,1 1 5
+	El Eritema (Vascular, Manchas, Exploraci&#243;n Dermatolog&#237;a) es:
+		Malar
+		Heliotropo
+		Marginado
+		Localizado
+		En Placas
+128,3,1 1 2
+	Ampolla Rectal (Tacto, Palpaci&#243;n):
+		Llena
+		Vacia
+129,3,1 1 5
+	La Uretrorrea es (Exploraci&#243;n):
+		Clara
+		Blanquecina
+		Purulenta
+		Maloliente y Espumosa
+		Amarilla
+130,3,1 2 2
+	Disminuci&#243;n Murmullo Vesicular localizado en Hemitorax (Auscultaci&#243;n
+	 Pulmonar, T&#243;rax):
+		Derecho
+		Izquierdo
+131,3,1 1 2
+	Crepitantes localizadas en Hemitorax (Auscultaci&#243;n Pulmonar, T&#243;rax):
+		Derecho
+		Izquierdo
+132,3,1 2 2
+	Abolici&#243;n Murmullo Vesicular localizado en Hemitorax (Auscultaci&#243;n
+	 Pulmonar, T&#243;rax):
+		Derecho
+		Izquierdo
+133,3,1 1 4
+	Se realiz&#243; la Laringoscop&#237;a Indirecta de Mucosa Lar&#237;ngea:
+		Seca
+		Deslustrada
+		Enrojecida
+		Lesi&#243;n Infiltrante, Ulceroinfiltrante o Exof&#237;tica
+134,3,1 1 4
+	N&#243;dulo Tiroideo (Exploraci&#243;n):
+		Duro
+		Doloroso
+		Con Rubor
+		Con Calor
+135,3,1 1 4
+	Bocio Difuso (Exploraci&#243;n):
+		Duro
+		Doloroso
+		Con Rubor
+		Con Calor
+136,3,1 1 7
+	Fascies (Exploraci&#243;n):
+		Cara de Luna Llena
+		Acromeg&#225;lica
+		Hipotiroidea
+		Hipertiroidea
+		Parkisoniana (Inexpresiva o de Estatua)
+		Tet&#225;nica de la Risa Sard&#243;nica
+		Leonina
+137,3,1 1 11
+	Hiperpigmentaci&#243;n en (Exploraci&#243;n):
+		Puntos de Presi&#243;n y Pezones
+		Gluteos
+		Cicatrices Recientes
+		Codos
+		Surcos de la Mano
+		Parte Posterior del Cuello
+		Pies
+		Abdomen
+		Frente
+		Manos
+		Facial
+138,3,1 1 2
+	Tumores en el cuello (Exploraci&#243;n):
+		Tumor blando que desaparece con la presi&#243;n
+		Cuello de B&#250;falo
+139,3,1 1 4
+	Tumores en las mamas (Exploraci&#243;n):
+		Masa Redonda
+		Firme y Movible
+		NO Dolorosa
+		Dura y Fija
+140,3,1 1 12
+	Exploraci&#243;n General NEUROLOGICA:
+		Sin Focalidad Neurol&#243;gica
+		Estado de Conciencia
+		Orientaci&#243;n
+		Meningismo
+		Actitud
+		Pares Craneales
+		Motilidad
+		Sensibilidad
+		Marcha
+		Taxia (Coordinaci&#243;n)
+		Maniobras
+		Nervios Perif&#233;ricos
+141,3,1 1 2
+	Meningismo (Exploraci&#243;n):
+		Positivo
+		Negativo
+142,3,1 1 9
+	Pares craneales (Exploraci&#243;n):
+		I: Olfato
+		II: Optico
+		III, IV y VI: Oculomotores
+		V: Trig&#233;mino
+		VII: Facial
+		VIII: Ac&#250;stico
+		IX y X: Vago y Glosofar&#237;ngeo
+		XI: Espinal
+		XII: Hipogloso
+143,3,1 1 2
+	I Par: Olfato (Exploraci&#243;n):
+		Normal
+		Hiposmia
+144,3,1 1 2
+	II Par: Optico (Exploraci&#243;n):
+		Agudeza Visual
+		Campos Visuales
+145,3,1 1 2
+	II Par: Optico: Agudeza Visual (Exploraci&#243;n):
+		Normal
+		Disminu&#237;da
+146,3,1 1 2
+	II Par: Optico: Campos Visuales (Exploraci&#243;n):
+		Normal
+		Hemianopsia
+147,3,1 1 2
+	II Par: Optico: Campos Visuales: Hemianopsia (Exploraci&#243;n):
+		Temporal Ojo Derecho
+		Nasal Ojo Izquierdo
+148,3,1 1 2
+	Taxia (Coordinaci&#243;n): Tal&#243;n-Rodilla (Exploraci&#243;n):
+		Negativo
+		Positivo
+149,3,1 1 3
+	III, IV y VI Pares: Oculomotores (Exploraci&#243;n):
+		Movilidad Ocular
+		Conjugaci&#243;n Mirada
+		Acomodaci&#243;n
+150,3,1 1 4
+	III, IV y VI Pares: Oculomotores: Movilidad Ocular (Exploraci&#243;n):
+		Normal
+		Par&#225;lisis III
+		Par&#225;lisis IV
+		Par&#225;lisis VI
+151,3,1 1 2
+	III, IV y VI Pares: Oculomotores: Pupilas (Exploraci&#243;n):
+		Isoc&#243;ricas
+		Anisoc&#243;ricas
+152,3,1 1 3
+	III, IV y VI Pares: Oculomotores: Pupilas (Exploraci&#243;n):
+		Normorreactivas
+		Hiporreactivas
+		Arreactivas
+153,3,1 1 2
+	III, IV y VI Pares: Oculomotores: Conjugaci&#243;n Mirada (Exploraci&#243;n):
+		Normal
+		Anormal
+154,3,1 1 2
+	III, IV y VI Pares: Oculomotores: Acomodaci&#243;n (Exploraci&#243;n):
+		Normal
+		Anormal
+155,3,1 1 3
+	V Par: Trig&#233;mino (Exploraci&#243;n):
+		Sensibilidad 1ra, 2da y 3ra Rama
+		Reflejo Corneal
+		Fuerza Maseteros
+156,3,1 1 3
+	V Par: Trig&#233;mino: Sensibilidad 1ra, 2da y 3ra Rama (Exploraci&#243;n):
+		Normal
+		Hipoestesia
+		Anestesia
+157,3,1 1 3
+	V Par: Trig&#233;mino: Reflejo Corneal (Exploraci&#243;n):
+		Normal
+		Disminu&#237;do
+		Abolido
+158,3,1 1 2
+	V Par: Trig&#233;mino: Fuerza Maseteros (Exploraci&#243;n):
+		Normal
+		Anormal
+159,3,1 1 5
+	VII Par: Facial: Movilidad (Exploraci&#243;n):
+		Frente
+		Ojos
+		Bucal
+		Maniobra de Pierre-Marie-Foix (Positiva)
+		Par&#225;lisis Facial
+160,3,1 1 2
+	VII Par: Facial: Movilidad: Frente (Exploraci&#243;n):
+		Sim&#233;trica
+		Asim&#233;trica
+161,3,1 1 2
+	VII Par: Facial: Movilidad: Ojos (Exploraci&#243;n):
+		Sim&#233;trica
+		Asim&#233;trica
+162,3,1 1 2
+	VII Par: Facial: Movilidad: Bucal (Exploraci&#243;n):
+		Sim&#233;trica
+		Asim&#233;trica
+163,3,1 1 5
+	VIII Par: Ac&#250;stico (Exploraci&#243;n):
+		Agudeza Auditiva
+		Rinne
+		Weber
+		Nistagmo
+		Barany
+164,3,1 1 2
+	VIII Par: Ac&#250;stico: Agudeza Auditiva (Exploraci&#243;n):
+		Normal
+		Disminu&#237;da
+165,3,1 1 2
+	VIII Par: Ac&#250;stico: Agudeza Auditiva (Exploraci&#243;n):
+		Transmisi&#243;n
+		Percepci&#243;n
+166,3,1 1 2
+	VIII Par: Ac&#250;stico: Nistagmo (Exploraci&#243;n):
+		Horizontal
+		Vertical
+167,3,1 1 2
+	VIII Par: Ac&#250;stico: Nistagmo: Horizontal (Exploraci&#243;n):
+		Fatigable
+		NO Fatigable
+168,3,1 1 2
+	VIII Par: Ac&#250;stico: Nistagmo: Vertical (Exploraci&#243;n):
+		Fatigable
+		NO Fatigable
+169,3,1 1 2
+	VIII Par: Ac&#250;stico: Nistagmo: Inicio (Exploraci&#243;n):
+		Retardado
+		Inmediato
+170,3,1 1 2
+	VIII Par: Ac&#250;stico: Barany (Exploraci&#243;n):
+		Anormal
+		Normal
+171,3,1 1 2
+	IX y X Par: Vago y Glosofar&#237;ngeo (Exploraci&#243;n):
+		Elevaci&#243;n Uvula
+		Reflejo Nauseoso y Tus&#237;geno
+172,3,1 1 2
+	IX y X Par: Vago y Glosofar&#237;ngeo: Elevaci&#243;n Uvula (Exploraci&#243;n):
+		Sim&#233;trica
+		Asim&#233;trica
+173,3,1 2 2
+	IX y X Par: Vago y Glosofar&#237;ngeo: Reflejo Nauseoso y Tus&#237;geno
+	 (Exploraci&#243;n):
+		Presente
+		Ausente
+174,3,1 1 2
+	XI Par: Espinal (Exploraci&#243;n):
+		Girar Cabeza
+		Elevaci&#243;n Hombros
+175,3,1 1 2
+	XI Par: Espinal: Girar Cabeza (Exploraci&#243;n):
+		Normal
+		Alterado
+176,3,1 1 2
+	XI Par: Espinal: Elevaci&#243;n Hombros (Exploraci&#243;n):
+		Normal
+		Alterado
+177,3,1 1 3
+	XI Par: Hipogloso (Exploraci&#243;n):
+		Movilizaci&#243;n Lengua
+		Atrofias
+		Fasciculaci&#243;n
+178,3,1 1 2
+	XII Par: Hipogloso: Movilizaci&#243;n Lengua (Exploraci&#243;n):
+		Normal
+		Par&#225;lisis
+179,3,1 1 2
+	XII Par: Hipogloso: Atrofias (Exploraci&#243;n):
+		Ausentes
+		Presentes
+180,3,1 1 2
+	XII Par: Hipogloso: Fasciculaci&#243;n (Exploraci&#243;n):
+		Ausente
+		Presente
+181,3,1 1 6
+	Motilidad (Exploraci&#243;n):
+		Fuerza Inspecci&#243;n
+		Extremidad Superior
+		Extremidad Inferior
+		Reflejos
+		Tono Muscular
+		Movimientos Anormales
+182,3,1 1 3
+	Motilidad: Fuerza Inspecci&#243;n (Exploraci&#243;n):
+		Masa Muscular Normal
+		Atrofia Muscular Localizada
+		Contracturas Establecidas
+183,3,1 1 2
+	Motilidad: Extremidad Superior: Fuerza (Exploraci&#243;n):
+		Normal
+		Disminu&#237;da
+184,3,1 1 4
+	Motilidad: Extremidad Superior: Fuerza Disminu&#237;da (Exploraci&#243;n):
+		Distal
+		Proximal
+		Territorio Nervioso Delimitado
+		Toda la Extremidad
+185,3,1 1 2
+	Motilidad: Extremidad Inferior: Fuerza (Exploraci&#243;n):
+		Normal
+		Disminu&#237;da
+186,3,1 1 4
+	Motilidad: Extremidad Inferior: Fuerza Disminu&#237;da (Exploraci&#243;n):
+		Distal
+		Proximal
+		Territorio Nervioso Delimitado
+		Toda la Extremidad
+187,3,1 1 3
+	Reflejos Osteotendinosos a Nivel de Miembros Superiores (Exploraci&#243;n):
+		Bicipital
+		Tricipital
+		Estilo Radial
+188,3,1 1 2
+	Motilidad: Reflejos: Bicipital (Exploraci&#243;n):
+		Anormal
+		Normal
+189,3,1 1 2
+	Motilidad: Reflejos: Tricipital (Exploraci&#243;n):
+		Anormal
+		Normal
+190,3,1 1 2
+	Motilidad: Reflejos: Estilo Radial (Exploraci&#243;n):
+		Anormal
+		Normal
+191,3,1 1 2
+	Motilidad: Reflejos: Rotuliano o Patelar (Exploraci&#243;n):
+		Anormal
+		Normal
+192,3,1 1 2
+	Motilidad: Reflejos: Aqu&#237;leo (Exploraci&#243;n):
+		Anormal
+		Normal
+193,3,1 1 2
+	Reflejo: Cut&#225;neo-Plantar (Signo de Babinski) (Exploraci&#243;n):
+		Presente
+		Ausente
+194,3,1 1 3
+	Motilidad: Tono Muscular (Exploraci&#243;n):
+		Normal
+		Atonia o Hipotonia
+		Hipertonia
+195,3,1 1 6
+	Motilidad: Movimientos Anormales (Exploraci&#243;n):
+		Tic
+		Temblor
+		Distonia
+		Corea
+		Convulsi&#243;n T&#243;nica
+		Convulsi&#243;n T&#243;nica Cl&#243;nica
+196,3,1 1 2
+	Motilidad: Movimientos Anormales: Temblor (Exploraci&#243;n):
+		Focalizado
+		Generalizado
+197,3,1 1 2
+	Sensibilidad (Exploraci&#243;n):
+		Superficial
+		Profunda
+198,3,1 1 3
+	Sensibilidad: Superficial (Exploraci&#243;n):
+		T&#225;ctil
+		Dolorosa
+		T&#233;rmica
+199,3,1 1 2
+	Sensibilidad: Superficial: T&#225;ctil (Exploraci&#243;n):
+		Anormal
+		Normal
+200,3,1 1 2
+	Sensibilidad: Superficial: Dolorosa (Exploraci&#243;n):
+		Anormal
+		Normal
+201,3,1 1 2
+	Sensibilidad: Superficial: T&#233;rmica (Exploraci&#243;n):
+		Anormal
+		Normal
+202,3,1 1 5
+	Sensibilidad: Profunda (Exploraci&#243;n):
+		Vibratoria (Parestesia)
+		Posicional (Batiestesia)
+		A la Presi&#243;n (Barestesia)
+		Apreciaci&#243;n de Pesos (Barognosia)
+		Esterognosia
+203,3,1 1 2
+	Sensibilidad: Profunda: Vibratoria (Exploraci&#243;n):
+		Anormal
+		Normal
+204,3,1 1 2
+	Sensibilidad: Profunda: Posicional (Exploraci&#243;n):
+		Anormal
+		Normal
+205,3,1 1 9
+	Marcha (Exploraci&#243;n):
+		Normal
+		Hemipl&#233;jica
+		Cerebelosa
+		Parkinsoniana
+		Vestibular
+		De Afectaci&#243;n de Nervios Perif&#233;ricos
+		Inestable
+		De Pato
+		Taloneante
+206,3,1 1 2
+	Taxia (Coordinaci&#243;n) (Exploraci&#243;n):
+		Est&#225;tica
+		Din&#225;mica
+207,3,1 1 2
+	Taxia (Coordinaci&#243;n): Romberg (Exploraci&#243;n):
+		Negativo
+		Positivo
+208,3,1 1 2
+	Coordinaci&#243;n: Dedo-Nariz (Exploraci&#243;n):
+		Negativo
+		Positivo
+209,3,1 1 2
+	III, IV y VI Pares: Oculomotores: Pupilas: Midriasis (Exploraci&#243;n):
+		Unilateral
+		Bilateral
+210,3,1 1 2
+	III, IV y VI Pares: Oculomotores: Pupilas: Miosis (Exploraci&#243;n):
+		Unilateral
+		Bilateral
+211,3,1 1 5
+	Trastornos Fol&#237;culos Pilosos (Exploraci&#243;n):
+		Distribuci&#243;n Feminoide del Vello
+		Ausencia de Vello Axilar y P&#250;bico
+		Incremento del Vello Sexual (Barbilla, Labio Sup., Pecho )
+		Vello Seco, Escaso
+		Placas Alop&#233;cicas
+212,3,1 1 3
+	Las Adenopat&#237;as del Cuello se localizan en (Exploraci&#243;n):
+		Cadenas Laterales
+		Sub-Mandibulares
+		Supraclaviculares
+213,3,1 2 2
+	Las Adenopat&#237;as en las Cadenas Laterales del Cuello se localizan en el
+	 lado (Exploraci&#243;n):
+		Izquierdo
+		Derecho
+214,3,1 2 2
+	Las Adenopat&#237;as Sub-Mandibulares del Cuello se localizan en el lado
+	 (Exploraci&#243;n):
+		Izquierdo
+		Derecho
+215,3,1 2 3
+	Las Adenopat&#237;as en las Cadenas Laterales Izquierdas del Cuello son
+	 (Exploraci&#243;n):
+		Blandas y M&#243;viles
+		Duras y Adheridas
+		Duras y M&#243;viles
+216,3,1 2 3
+	Las Adenopat&#237;as en las Cadenas Laterales Derechas del Cuello son
+	 (Exploraci&#243;n):
+		Blandas y M&#243;viles
+		Duras y Adheridas
+		Duras y M&#243;viles
+217,3,1 2 3
+	Las Adenopat&#237;as Sub-Mandibulares Izquierdas del Cuello son
+	 (Exploraci&#243;n):
+		Blandas y M&#243;viles
+		Duras y Adheridas
+		Duras y M&#243;viles
+218,3,1 2 3
+	Las Adenopat&#237;as Sub-Mandibulares Derechas del Cuello son
+	 (Exploraci&#243;n):
+		Blandas y M&#243;viles
+		Duras y Adheridas
+		Duras y M&#243;viles
+219,3,1 2 4
+	Las Adenopat&#237;as Supraclaviculares Izquierdas del Cuello son
+	 (Exploraci&#243;n):
+		Blandas y M&#243;viles
+		Duras y Adheridas
+		Duras y M&#243;viles
+		Signo de Troisier
+220,3,1 1 2
+	La Cianosis en las Extremidades es (Exploraci&#243;n):
+		En Malla
+		Generalizada
+221,3,1 1 2
+	Edema en Extremidades superiores (Inspecci&#243;n):
+		Unilateral
+		Bilateral
+222,3,1 1 7
+	El Exantema se localiza en (Exploraci&#243;n):
+		Cara
+		Cuello
+		Torax
+		Espalda Alta
+		Abdomen
+		Extremidades
+		Gl&#250;teos
+223,3,1 1 2
+	Ritmo Card&#237;aco (Exploraci&#243;n):
+		Regular
+		Irregular
+224,3,1 1 7
+	Regi&#243;n Periamigdalar (Exploraci&#243;n Boca y Orofaringe):
+		Exudados Amigdalares
+		Tumoraciones Amigdalares
+		Ulceras Amigdalares
+		Hiperemia Amigdalar
+		Lesiones Algodonosas
+		Desplazamiento del Pilar Amigdalar Anterior
+		Pseudomembrana Adherente Blanca
+225,3,1 1 2
+	Matidez localizada en Hemitorax (Percusi&#243;n, T&#243;rax):
+		Derecho
+		Izquierdo
+226,3,1 1 3
+	Matidez localizada Hemitorax Derecho (Percusi&#243;n, T&#243;rax):
+		Campo Superior
+		Campo Medio
+		Campo Inferior
+227,3,1 1 3
+	Matidez localizada Hemitorax Izquierdo (Percusi&#243;n, T&#243;rax):
+		Campo Superior
+		Campo Medio
+		Campo Inferior
+228,3,1 1 2
+	Los Exudados Amigdalares se localizan de forma (Exploraci&#243;n):
+		Unilateral
+		Bilateral
+229,3,1 1 3
+	Se realiz&#243; la exploraci&#243;n en la Faringe de (Exploraci&#243;n):
+		Rinofaringe o Cavum
+		Orofaringe
+		Hipofaringe
+230,3,1 1 4
+	Se detect&#243; en la exploraci&#243;n de la Orofaringe (Exploraci&#243;n):
+		Enrojecimiento
+		Edema
+		Exudado
+		Prominencia de Fol&#237;culos Linf&#225;ticos
+231,3,1 2 2
+	Los Pulsos Carot&#237;deo est&#225;n presentes en la Car&#243;tida
+	 (Exploraci&#243;n):
+		Izquierda
+		Derecha
+232,3,1 2 7
+	Se realiz&#243; la Laringoscop&#237;a Indirecta de Cuerdas Vocales
+	 (Exploraci&#243;n):
+		Tumefactas
+		Cilindroides
+		Pseudomixomatosa
+		Inmovilidad de una o ambas
+		Lesi&#243;n Infiltrante, Ulceroinfiltrante o Exof&#237;tica
+		P&#243;lipos
+		N&#243;dulos
+233,3,1 1 4
+	Se realiz&#243; la Laringoscop&#237;a Indirecta de (Exploraci&#243;n):
+		Normal
+		Mucosa Laringea
+		Cuerdas Vocales
+		Epiglotis
+234,3,1 1 3
+	Reflejo Rotuliano (Exploraci&#243;n):
+		Exaltado (Hiperrreflexia)
+		Disminu&#237;do (Hiporreflexia)
+		Abolido (Arreflexia)
+235,3,1 1 3
+	Ulceraciones en la C&#243;rnea (Exploraci&#243;n Ojos):
+		Centrales, Blancas o Amarillas
+		Superficial con Multiples Abscesos
+		Dendr&#237;tica con Ramificaciones Colaterales
+236,3,1 1 6
+	P&#225;rpados (Exploraci&#243;n Ojos):
+		Edema
+		Enrojecimiento
+		N&#243;dulo
+		Ptosis
+		Punto de Supuraci&#243;n
+		Escases de Pesta&#241;eo (Signo de Stellwag)
+237,3,1 1 2
+	Edema Parpebral (Exploraci&#243;n Ojos):
+		Localizado
+		Generalizado
+238,3,1 1 2
+	Enrojecimiento Parpebral (Exploraci&#243;n Ojos):
+		Localizado en el Borde
+		Generalizado
+239,3,1 1 3
+	N&#243;dulo parpebral (Exploraci&#243;n Ojos):
+		Indoloro
+		Adherido
+		Localizado en el Tarso
+240,3,1 1 4
+	Regi&#243;n de Sacos Lagrimales (Exploraci&#243;n Ojos):
+		Aumentada de Volumen
+		Enrojecida
+		Consistencia Dura
+		Secresi&#243;n Ante Presi&#243;n
+241,3,1 1 2
+	Deformidad de la Cara (Exploraci&#243;n):
+		Puente de la Nariz Deprimido
+		Prominencia de Huesos Molares
+242,3,1 1 3
+	Movilidad Articular (Exploraci&#243;n):
+		Ausente
+		Presente
+		Disminu&#237;da
+243,3,1 1 3
+	Hiperemia en Borde Parpebral con (Exploraci&#243;n):
+		Vasodilataci&#243;n
+		Escamas
+		Costras
+244,3,1 1 2
+	Hiperemia en la Conjuntiva (Exploraci&#243;n):
+		Localizada
+		Generalizada
+245,3,1 1 2
+	Hiperemia en la Conjuntiva localizada (Exploraci&#243;n):
+		Con N&#243;dulo
+		Sin N&#243;dulo
+246,3,1 1 9
+	Ves&#237;culas localizadas en (Exploraci&#243;n):
+		Cara
+		Torax ( Distribuci&#243;n Metam&#233;rica)
+		Palmas de las Manos
+		Plantas de los Pies
+		Cuero Cabelludo
+		Tronco (Distribuci&#243;n Centr&#237;peta o Metam&#233;rica)
+		Genitales
+		Conducto Auditivo o Pabell&#243;n Auricular
+		Lengua
+247,3,1 1 2
+	Las Petequias son (Exploraci&#243;n):
+		Generalizadas
+		Localizadas
+248,3,1 1 2
+	La localizaci&#243;n de los Tumores en las Mamas es (Exploraci&#243;n):
+		Unilateral
+		Bilateral
+249,3,1 1 2
+	El paciente presenta Exoftalmos (Exploraci&#243;n):
+		Unilateral
+		Bilateral
+250,3,1 2 2
+	Presenta Fuerza Disminu&#237;da en las Extremidades Inferiores
+	 (Exploraci&#243;n):
+		Unilateral
+		Bilateral
+251,3,1 1 3
+	Motilidad: Reflejos: Aqu&#237;leo (Exploraci&#243;n):
+		Exaltados (Hiperreflexia)
+		Disminu&#237;dos (Hiporreflexia)
+		Abolidos (Arreflexia)
+252,3,1 1 2
+	Exploraci&#243;n en Regiones Temporales:
+		Palpaci&#243;n de Arterias Temporales
+		Atrofia Bitemporal
+253,3,1 1 3
+	Motilidad: Movimientos Anormales: Temblor: Focalizado (Exploraci&#243;n):
+		Cabeza
+		Extremidades Superiores
+		Extremidades Inferiores
+254,3,1 2 3
+	Motilidad: Movimientos Anormales: Temblor: Focalizado: Extremidades Superiores
+	 (Exploraci&#243;n):
+		Unilateral
+		Bilateral
+		Cuenta Monedas
+255,3,1 2 2
+	Motilidad: Movimientos Anormales: Temblor: Focalizado: Extremidades Inferiores
+	 (Exploraci&#243;n):
+		Unilateral
+		Bilateral
+256,3,1 1 5
+	Maniobras (Exploraci&#243;n):
+		Moviliza los Miembros Superiores de Forma Pasiva
+		Signo de Meyerson
+		Signo de Kerning
+		Signo de Brudzinski
+		Reflejo Contralateral de Brudzinski
+257,3,1 1 3
+	Maniobras: Moviliza los Miembros Superiores de Forma Pasiva (Exploraci&#243;n):
+		Resistencia desde el comienzo
+		Signo de la Rueda Dentada
+		No hay resistencia
+258,3,1 1 2
+	Reflejos Osteotendinosos a Nivel de Miembros Inferiores (Exploraci&#243;n):
+		Rotuliano o Patelar
+		Aqu&#237;leo
+259,3,1 2 2
+	Reflejos Osteotendinosos a Nivel de la Porci&#243;n Cef&#225;lica
+	 (Exploraci&#243;n):
+		Orbicular de los P&#225;rpados
+		Mandibular
+260,3,1 1 3
+	Reflejos Cut&#225;neo-Mucosos o Superficiales (Exploraci&#243;n):
+		Cut&#225;neo Plantar (Signo de Babinski)
+		Suced&#225;neos del Babinski
+		Cut&#225;neos Abdominales
+261,3,1 1 2
+	Motilidad: Reflejos (Exploraci&#243;n):
+		Osteotendinosos
+		Cut&#225;neo-Mucosos o Superficiales
+262,3,1 1 3
+	Reflejos Osteotendinosos (Exploraci&#243;n):
+		Porci&#243;n Cef&#225;lica
+		Miembros Superiores
+		Miembros Inferiores
+263,3,1 1 2
+	Reflejo del Orbicular de los P&#225;rpados (Exploraci&#243;n):
+		Normal
+		Anormal
+264,3,1 1 3
+	Reflejo del Orbicular de los P&#225;rpados (Exploraci&#243;n):
+		Disminu&#237;do (Hiporreflexia)
+		Abolido (Arreflexia)
+		Exaltado (Hiperreflexia)
+265,3,1 1 2
+	Reflejo Mandibular (Exploraci&#243;n):
+		Normal
+		Anormal
+266,3,1 1 3
+	Reflejo Mandibular (Exploraci&#243;n):
+		Disminu&#237;do (Hiporreflexia)
+		Abolido (Arreflexia)
+		Exaltado (Hiperreflexia)
+267,3,1 1 3
+	Reflejo Bicipital (Exploraci&#243;n):
+		Disminu&#237;do (Hiporreflexia)
+		Abolido (Arreflexia)
+		Exaltado (Hiperreflexia)
+268,3,1 1 3
+	Reflejo Tricipital (Exploraci&#243;n):
+		Disminu&#237;do (Hiporreflexia)
+		Abolido (Arreflexia)
+		Exaltado (Hiperreflexia)
+269,3,1 1 3
+	Reflejo Estilo-Radial (Exploraci&#243;n):
+		Disminu&#237;do (Hiporreflexia)
+		Abolido (Arreflexia)
+		Exaltado (Hiperreflexia)
+270,3,1 1 3
+	Reflejo: Suced&#225;neos del Babinski (Exploraci&#243;n):
+		Maniobra de Oppenheim
+		Maniobra de Schaeffer
+		Maniobra de Gordon
+271,3,1 1 2
+	Maniobra de Oppenheim (Exploraci&#243;n):
+		Positiva
+		Negativa
+272,3,1 1 2
+	Maniobra de Schaeffer (Exploraci&#243;n):
+		Positiva
+		Negativa
+273,3,1 1 2
+	Maniobra de Gordon (Exploraci&#243;n):
+		Positiva
+		Negativa
+274,3,1 1 3
+	Reflejos: Cut&#225;neos Abdominales (Exploraci&#243;n):
+		Superior
+		Medio
+		Inferior
+275,3,1 1 2
+	Motilidad: Reflejos: Cut&#225;neo Abdominal Superior (Exploraci&#243;n):
+		Normal
+		Anormal
+276,3,1 1 3
+	Motilidad: Reflejos: Cut&#225;neo Abdominal Superior (Exploraci&#243;n):
+		Exaltados (Hiperreflexia)
+		Disminu&#237;dos (Hiporreflexia)
+		Abolidos (Arreflexia)
+277,3,1 1 2
+	Motilidad: Reflejos: Cut&#225;neo Abdominal Medio (Exploraci&#243;n):
+		Normal
+		Anormal
+278,3,1 1 3
+	Motilidad: Reflejos: Cut&#225;neo Abdominal Medio (Exploraci&#243;n):
+		Exaltados (Hiperreflexia)
+		Disminu&#237;dos (Hiporreflexia)
+		Abolidos (Arreflexia)
+279,3,1 1 2
+	Motilidad: Reflejos: Cut&#225;neo Abdominal Inferior (Exploraci&#243;n):
+		Normal
+		Anormal
+280,3,1 1 3
+	Motilidad: Reflejos: Cut&#225;neo Abdominal Inferior (Exploraci&#243;n):
+		Exaltados (Hiperreflexia)
+		Disminu&#237;dos (Hiporreflexia)
+		Abolidos (Arreflexia)
+281,3,1 1 2
+	Taxia (Coordinaci&#243;n): Est&#225;tica (Exploraci&#243;n):
+		Romberg
+		Romberg Sensibilizado
+282,3,1 1 2
+	Taxia (Coordinaci&#243;n): Din&#225;mica (Exploraci&#243;n):
+		Dedo - Nariz
+		Tal&#243;n - Rodilla
+283,3,1 2 2
+	Taxia (Coordinaci&#243;n): Est&#225;tica: Romberg Sensibilizado
+	 (Exploraci&#243;n):
+		Positivo
+		Negativo
+284,3,1 1 2
+	Actitud (Exploraci&#243;n):
+		Actitud de Pie
+		Actitud en el Lecho
+285,3,1 1 2
+	Sensibilidad Superficial T&#225;ctil (Exploraci&#243;n):
+		Hipoestesia o Anestesia
+		Hiperestesia
+286,3,1 1 2
+	Sensibilidad Superficial Dolorosa (Exploraci&#243;n):
+		Hipoestesia o Anestesia
+		Hiperestesia
+287,3,1 1 2
+	Sensibilidad Superficial T&#233;rmica (Exploraci&#243;n):
+		Hipoestesia o Anestesia
+		Hiperestesia
+288,3,1 1 2
+	Signo de Kerning (Exploraci&#243;n):
+		Presente
+		Ausente
+289,3,1 1 2
+	Signo de Brudzinski (Exploraci&#243;n):
+		Presente
+		Ausente
+290,3,1 1 2
+	Reflejo Contralateral de Brudzinski (Exploraci&#243;n):
+		Presente
+		Ausente
+291,3,1 1 2
+	Motilidad: Extremidad Superior (Exploraci&#243;n):
+		Fuerza
+		Maniobra de Mingazzini
+292,3,1 1 2
+	Motilidad: Extremidad Inferior (Exploraci&#243;n):
+		Fuerza
+		Maniobra de Barr&#233;
+293,3,1 1 2
+	Maniobra de Barr&#233; (Exploraci&#243;n):
+		Normal
+		Paresia
+294,3,1 1 2
+	Maniobra de Mingazzini (Exploraci&#243;n):
+		Normal
+		Paresia
+295,3,1 1 2
+	Maniobra de Mingazzini: Paresia (Exploraci&#243;n):
+		Miembro Superior Derecho
+		Miembro Superior Izquierdo
+296,3,1 1 2
+	Maniobra de Barr&#233;: Paresia (Exploraci&#243;n):
+		Miembro Inferior Derecho
+		Miembro Inferior Izquierdo
+297,3,1 1 2
+	Sensibilidad: Profunda: Vibratoria (Parestesia) (Exploraci&#243;n):
+		Aumentada
+		Disminu&#237;da
+298,3,1 1 2
+	Sensibilidad: Profunda: Posicional (Batiestesia) (Exploraci&#243;n):
+		Aumentada
+		Disminu&#237;da
+299,3,1 1 2
+	Sensibilidad: Profunda: A la presi&#243;n (Barestesia) (Exploraci&#243;n):
+		Normal
+		Anormal
+300,3,1 2 2
+	Sensibilidad: Profunda: Apreciaci&#243;n de Pesos (Barognosia)
+	 (Exploraci&#243;n):
+		Normal
+		Anormal
+301,3,1 1 2
+	Sensibilidad: Profunda: A la Presi&#243;n (Barestesia) (Exploraci&#243;n):
+		Aumentada
+		Disminu&#237;da
+302,3,1 2 2
+	Presenta Fuerza Disminu&#237;da en las Extremidades Superiores
+	 (Exploraci&#243;n):
+		Unilateral
+		Bilateral
+303,3,1 1 2
+	V Par: Trig&#233;mino: Reflejo Corneal Disminu&#237;do (Exploraci&#243;n):
+		Unilateral
+		Bilateral
+304,3,1 1 2
+	V Par: Trig&#233;mino: Reflejo Corneal Abolido (Exploraci&#243;n):
+		Unilateral
+		Bilateral
+305,3,1 2 2
+	XII Par: Hipogloso: Movilizaci&#243;n Lengua: Par&#225;lisis
+	 (Exploraci&#243;n):
+		Mitad
+		Completa
+306,3,1 1 2
+	XII Par: Hipogloso: Atrofias: Presente (Exploraci&#243;n):
+		Mitad
+		Completa
+307,3,1 2 2
+	Sensibilidad Superficial T&#225;ctil Hipoestesia o Anestesia
+	 (Exploraci&#243;n):
+		Unilateral
+		Bilateral
+308,3,1 1 2
+	Sensibilidad Superficial Dolorosa Hipoestesia o Anestesia (Exploraci&#243;n):
+		Unilateral
+		Bilateral
+309,3,1 2 2
+	Sensibilidad Superficial T&#233;rmica Hipoestesia o Anestesia
+	 (Exploraci&#243;n):
+		Unilateral
+		Bilateral
+310,3,1 1 2
+	Actitud de Pie (Exploraci&#243;n):
+		Actitud Parkisoniana
+		Actitud Hemipl&#233;jica
+311,3,1 1 3
+	Actitud en el Lecho (Exploraci&#243;n):
+		Actitud en Gatillo de Escopeta o Fusil
+		Actitud Hemipl&#233;jica
+		Opist&#243;tonos o Emprost&#243;tonos o Pleurost&#243;tonos
+312,3,1 1 2
+	IX y X Par: Vago y Glosofar&#237;ngeo: Cuerdas Vocales (Exploraci&#243;n):
+		Normal
+		Par&#225;lisis
+313,3,1 1 2
+	Sensibilidad: Profunda: Esterognosia (Exploraci&#243;n):
+		Normal
+		Anormal
+314,3,1 1 2
+	M&#225;culas (Exploraci&#243;n):
+		Localizadas
+		Generalizadas
+315,3,1 1 13
+	M&#225;culas: Localizadas (Exploraci&#243;n):
+		Alrededor de los Ojos
+		Alrededor de la Nariz
+		En la espalda
+		Extremidad Inferior
+		Extremiadd Superior
+		Tronco
+		Manos
+		Cara
+		Cuello
+		Genitales
+		Gl&#250;teos
+		Orejas
+		Palmas de las Manos y Plantas de los Pies
+316,3,1 1 1
+	V Par: Trig&#233;mino: Fuerza maseteros: Anormal (Exploraci&#243;n):
+		Trismos
+317,3,1 1 2
+	P&#225;pulas (Exploraci&#243;n):
+		Localizadas
+		Generalizadas
+318,3,1 1 13
+	P&#225;pulas: Localizadas (Exploraci&#243;n):
+		Alrededor de los Ojos
+		Alrededor de la Nariz
+		En la Espalda
+		Extremidad Inferior
+		Extremidad Superior
+		Tronco
+		Pliegues de Codos y/o Rodillas
+		Cuero Cabelludo
+		Pliegues Intergl&#250;teos
+		Lecho Subangueal
+		Palmas de las Manos y Plantas de los Pies
+		Genitales
+		Cara
+319,3,1 1 3
+	Equimosis: Localizadas (Exploraci&#243;n):
+		Extremidad Superior
+		Extremidad Inferior
+		Tronco
+320,3,1 1 2
+	N&#243;dulos: Subcut&#225;neos (Exploraci&#243;n):
+		Bilaterales
+		Unilaterales
+321,3,1 1 3
+	N&#243;dulos: Subcut&#225;neos: Localizados en (Exploraci&#243;n):
+		Superficie Anterior de la Pierna
+		Superficie Posterior de la Pierna
+		Localizado a otras zonas
+322,3,1 1 7
+	N&#243;dulos: Subcut&#225;neos: Localizados en otras zonas (Exploraci&#243;n):
+		Tronco
+		Extremidades Superiores
+		Trayecto Arterial
+		Cara ( Mejillas, Nariz, Cejas)
+		Orejas
+		Gluteos
+		Codos y/o Rodillas
+323,3,1 1 2
+	VII Par: Facial: Movilidad: Bucal: Asim&#233;trica (Exploraci&#243;n):
+		Desviaci&#243;n de la Comisura Labial
+		Salida de la saliva por un lado de la boca
+324,3,1 1 2
+	VII Par: Facial: Movilidad: Par&#225;lisis Facial (Exploraci&#243;n):
+		Central
+		Perif&#233;rica
+325,3,1 1 2
+	Exantema (Exploraci&#243;n):
+		Localizado
+		Generalizado
+326,3,1 1 5
+	El Exantema se localiza en Extremidades (Exploraci&#243;n):
+		Antebrazos
+		Mu&#241;ecas
+		Palmas
+		Plantas
+		Tobillos
+327,3,1 1 3
+	En la Cara se presentan (Exploraci&#243;n):
+		Deformidades
+		F&#237;stulas
+		Periastitis u Osteomelitis
+328,3,1 1 2
+	Cuello: Rama Vertical u Horizontal del Maxilar (Exploraci&#243;n):
+		Normal
+		N&#243;dulos
+329,3,1 2 3
+	Cuello: Rama Vertical u Horizontal del Maxilar: N&#243;dulos
+	 (Exploraci&#243;n):
+		Duros
+		Blandos
+		Supuran
+330,3,1 1 2
+	Las Manchas de tipo Mel&#225;nicos, Hipopigmentadas son (Exploraci&#243;n):
+		Localizadas
+		Generalizadas
+331,3,1 1 2
+	Manchas de tipo Mel&#225;nicos, Hipopigmentadas con Bordes (Exploraci&#243;n):
+		Bien Definidos
+		Mal Definidos
+332,3,1 2 12
+	Las Manchas de tipo Mel&#225;nicos, Hipopigmentadas Localizadas en
+	 (Exploraci&#243;n):
+		Alrededor de la Boca
+		Alrededor de la Nariz
+		Alrededor de los Ojos
+		Alrededor del Ombligo
+		Alrededor de los Pezones
+		Alrededor del Ano
+		Superficie de Flexi&#243;n de Mu&#241;ecas
+		Superficie de Extensi&#243;n de Estremidades Distales
+		Cara
+		Orejas
+		Gl&#250;teos
+		Rodillas o Codos
+333,3,1 1 2
+	El paciente presenta Atrofia Muscular Localizada en (Exploraci&#243;n):
+		Manos
+		Cara
+334,3,1 1 3
+	Exploraci&#243;n de L&#243;bulos de las Orejas:
+		Infiltrados
+		Colgando
+		Ausentes o P&#233;rdida
+335,3,1 1 2
+	Nervios Perif&#233;ricos (Exploraci&#243;n):
+		Inspecci&#243;n
+		Palpaci&#243;n
+336,3,1 1 2
+	Nervios Perif&#233;ricos: Inspecci&#243;n:
+		Normal
+		Aumento de Volumen
+337,3,1 1 2
+	Nervios Perif&#233;ricos: Palpaci&#243;n:
+		Engrosados
+		Dolor Neur&#237;tico
+338,3,1 1 6
+	Palpaci&#243;n Nervios Perif&#233;ricos: Engrosados:
+		Mediano
+		Cubital
+		Facial
+		Ci&#225;tico Popl&#237;teo Externo
+		Peroneo
+		Auricular Mayor
+339,3,1 1 2
+	Las Placas Eritematoescamosas son (Exploraci&#243;n):
+		Localizadas
+		Generalizadas
+340,3,1 1 5
+	Las Placas Eritematoescamosas se localizan en (Exploraci&#243;n):
+		Pliegues de Codos y/o Rodillas
+		Cuero Cabelludo
+		Palmas de las Manos y Plantas de los Pies
+		Pliegue Intergl&#250;teos
+		Lecho Subungueal
+341,3,1 1 2
+	Las Placas Eritematovesiculosas o Eritematocostrosas son (Exploraci&#243;n):
+		Localizadas
+		Generalizadas
+342,3,1 1 2
+	Exploraci&#243;n Dermatol&#243;gica: N&#243;dulos Subcut&#225;neoas:
+		Inspecci&#243;n
+		Palpaci&#243;n
+343,3,1 1 3
+	N&#243;dulos Subcut&#225;neoas: Inspecci&#243;n:
+		Localizaci&#243;n
+		Coloraci&#243;n
+		Superficie
+344,3,1 1 3
+	N&#243;dulos Subcut&#225;neoas: Inspecci&#243;n: Coloraci&#243;n:
+		Rojo o Violeta
+		Rosado de Jam&#243;n
+		Amarillo Acaramelado
+345,3,1 1 2
+	N&#243;dulos Subcut&#225;neoas: Palpaci&#243;n:
+		Dolorosos
+		Consistencia Dura
+346,3,1 1 3
+	N&#243;dulos Subcut&#225;neoas: Inspecci&#243;n: Superficie:
+		Ulcerada
+		Escamosa
+		Deprimida
+347,3,1 2 2
+	El Eritema (Vascular Localizado, Manchas, Exploraci&#243;n Dermatolog&#237;a)
+	 en:
+		Maleolo Interior
+		Dorso del Pie
+348,3,1 1 3
+	Ves&#237;culas en la Planta de los Pies localizadas en (Exploraci&#243;n):
+		Borde Interno
+		Regi&#243;n Metatarsiana
+		Espacios Interdigitales
+349,3,1 1 2
+	Las Escamas son (Exploraci&#243;n):
+		Localizadas
+		Generalizadas
+350,3,1 1 3
+	Las Escamas, en las Plantas de los Pies, se localizan en (Exploraci&#243;n):
+		Bordes
+		Dorso
+		Dedos
+351,3,1 1 2
+	Las Grietas Interdigitales se localizan en (Exploraci&#243;n):
+		Dedos de las Manos
+		Dedos de los Pies
+352,3,1 1 2
+	El Macerado Interdigital se localiza en (Exploraci&#243;n):
+		Dedos de las Manos
+		Dedos de los Pies
+353,3,1 1 2
+	Las Verrugas son (Exploraci&#243;n):
+		Localizadas
+		Generalizadas
+354,3,1 1 5
+	Las Verrugas se localizan en (Exploraci&#243;n):
+		Perin&#233;
+		Borde del Ano
+		Pene
+		Escroto
+		Vagina, Cl&#237;toris o Labios Mayores
+355,3,1 1 3
+	Las Adenopat&#237;as Inguinales son (Exploraci&#243;n):
+		Firmes
+		Blandas
+		Dolorosas
+356,3,1 1 2
+	Las Placas Papuloescamosas son (Exploraci&#243;n):
+		Localizadas
+		Generalizadas
+357,3,1 1 6
+	Las Placas Papuloescamosas se localizan en (Exploraci&#243;n):
+		Palmas de las Manos y Plantas de los Pies
+		Tronco
+		Cara
+		Cuero Cabelludo
+		Genitales
+		Regi&#243;n Perianal
+358,3,1 1 4
+	Presi&#243;n Arterial Alta es (Exploraci&#243;n):
+		Ligera (Sist&#243;lica de 140 a 159; y Diast&#243;lica de 90 a 99)
+		Moderada (Sist&#243;lica de 160 a 179; y Diast&#243;lica de 100 a 109)
+		Severa (Sist&#243;lica de 180 a 209; y Diast&#243;lica de 110 a 119)
+		Muy Severa (Sist&#243;lica mayor de 209; y Diast&#243;lica mayor de 119)
+359,3,1 1 4
+	Retinopat&#237;a Hipertensiva (Exploraci&#243;n):
+		Grado I: Estrechamiento Arteriolar Ligero y Generalizado
+		Grado II: Estrechamiento Arteriolar Evidente y Vasoconstricci&#243;n
+		Grado III: Grado II m&#225;s Edema Retiniano, Hemorragia o Exudados
+		Grado IV: Grado III m&#225;s Papiledema
+360,3,1 1 0
+	Peso del paciente en Kilogramos:
+361,3,1 1 0
+	Talla del paciente en Metros:

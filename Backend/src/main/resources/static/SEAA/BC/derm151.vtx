@@ -1,0 +1,221 @@
+1,15,1 1 2
+	El Prurito es:
+		Localizado
+		Generalizado
+2,15,1 1 7
+	Localizaci&#243;n del Prurito
+		Anal
+		Far&#237;ngeo
+		Genital
+		Nasal
+		Ocular
+		Otico
+		Pies
+3,15,1 1 3
+	Desde cu&#225;ndo presenta Prurito:
+		Menos de 1 semana
+		De 1 a 3 semanas
+		3 semanas o m&#225;s
+4,15,1 1 2
+	El Prurito se manifiesta en:
+		Puntos de contacto con alguna sustancia o producto
+		Lesiones de piel
+5,15,1 1 2
+	Forma de comienzo del Prurito:
+		Brusco
+		Progresivamente/lentamente
+6,15,1 1 3
+	C&#243;mo se manifiesta el Prurito:
+		Continuo
+		Intermitente
+		Recurrente
+7,15,1 1 2
+	S&#237;ntomas Acompa&#241;antes del Prurito:
+		Fiebre
+		Erupci&#243;n en la Piel
+8,15,1 1 3
+	Desde cu&#225;ndo presenta Manchas en la Piel:
+		Menos de 1 semana
+		De 1 a 1 mes
+		M&#225;s de 1 mes
+9,15,1 1 2
+	C&#243;mo son las Manchas en la Piel:
+		Localizadas
+		Generalizadas
+10,15,1 1 12
+	Las Manchas en la Piel se localizan en:
+		Periorificial (boca, nariz, ojos, pezones, ombligo, ano)
+		Dorso de las mamas
+		Cara anterior de las mu&#241;ecas
+		Antebrazos
+		Genitales/perigenitales
+		Pliegues de codos/rodillas
+		Pliegue intergl&#250;teos
+		Cuero cabelludo
+		Lecho subungueal
+		Palmas de las manos y plantas de los pies
+		Tronco
+		Raiz de los miembros
+11,15,1 1 2
+	Forma de comienzo de las Manchas en la Piel:
+		Brusco
+		Lentamente/progresivamente
+12,15,1 1 3
+	Distribuci&#243;n de las Manchas en la Piel:
+		Sim&#233;trica
+		Asim&#233;trica
+		Bilaterales
+13,15,1 1 5
+	S&#237;ntomas Acoma&#241;antes de las Manchas en la Piel:
+		Alteraciones de la sensibilidad (hipoestesia/anestesia)
+		Lesiones de la piel
+		Dolor neur&#237;tico
+		Alteraciones del trofismo muscular
+		Contracturas musculares
+14,15,1 1 2
+	Alteraci&#243;n del Trofismo Muscular:
+		Atrofia
+		Hipertrofia
+15,15,1 1 3
+	Desde cu&#225;ndo presenta Erupci&#243;n en la Piel:
+		Menos de 1 semana
+		De 1 a 3 semanas
+		3 semanas o m&#225;s
+16,15,1 1 2
+	C&#243;mo es la Erupci&#243;n en la Piel:
+		Localizada
+		Generalizada
+17,15,1 1 16
+	La Erupci&#243;n en la piel se localiza en:
+		Manos
+		Cuello
+		Cara
+		Piernas
+		Genitales
+		Parte superior del tronco
+		Pliegues de codos/rodillas
+		Pliegue intergl&#250;teos
+		Cuero cabelludo
+		Lecho subungueal
+		Palmas de las manos y plantas de los pies
+		Un Dermatoma
+		Pliegues de flexi&#243;n
+		Surco submamario
+		Pliegues inguinales
+		Pies
+18,15,1 1 2
+	Forma de comienzo de la Erupci&#243;n en la Piel:
+		Brusco
+		Progresivamente/lentamente
+19,15,1 1 3
+	C&#243;mo se manifiesta la Erupci&#243;n en la Piel:
+		Continua
+		Intermitente
+		Recurrente
+20,15,1 1 3
+	La Erupci&#243;n en la Piel tiene ritmo estacional:
+		Empeora en invierno
+		Mejora en verano
+		Cualquier &#233;poca del a&#241;o
+21,15,1 1 3
+	Evoluci&#243;n de la Erupci&#243;n en la Piel:
+		Aguda
+		Cr&#243;nica
+		Cr&#243;nica en brote de agudizaci&#243;n
+22,15,1 1 2
+	Los Bultos en la Piel son:
+		Localizados
+		Generalizados
+23,15,1 1 7
+	Los Bultos en la Piel se localizan en:
+		Esternoclavicular
+		Cara posterior de la pierna
+		Cara anterior de la pierna
+		Brazos
+		Muslos
+		Genitales
+		Regi&#243;n perianal
+24,15,1 1 3
+	La forma de los Bultos en la Piel es:
+		Redondeada CON relieve cut&#225;neo
+		Redondeada SIN relieve cut&#225;neo
+		Verrugas o excrecencias papilares
+25,15,1 1 4
+	La coloraci&#243;n de los Bultos en la Piel es:
+		El propio de la piel (Normal)
+		Rojo/Violeta
+		Amarillo Acaramelado
+		Rosado de Jam&#243;n
+26,15,1 1 7
+	S&#237;ntomas Acompa&#241;antes de los Bultos en la Piel:
+		Fiebre
+		Febr&#237;cola
+		Dolor Articular
+		Dolor Muscular
+		Astenia
+		Anorexia
+		P&#233;rdida de peso
+27,15,1 1 3
+	La evoluci&#243;n de los Bultos en la Piel es:
+		Aguda
+		Subaguda
+		Cr&#243;nica
+28,15,1 1 3
+	Las Manchas en la Piel son de color:
+		Rojo
+		Oscuro
+		Blanco
+29,15,1 1 11
+	Antecedentes Personales de Uso y/o Contacto con:
+		Tinte de Pelo
+		Esmalte de U&#241;as
+		Cremas para la cara, polvos, creyones de labios, etc.
+		Piretrum &#243; DDT (Insecticida)
+		Niquel - Cromo
+		Acero - Cromo
+		Cromo
+		Desodorantes y/o Antiperspirantes
+		Cloruro de Benzolconio
+		Ropas hechas con materiales sint&#233;ticos
+		Zapatos, pieles, tintes de zapatos, etc.
+30,15,1 1 3
+	Desde cu&#225;ndo presenta Alteraci&#243;n de las U&#241;as:
+		Menos de una semana
+		Entre una semana y un mes
+		M&#225;s de un mes
+31,15,1 1 2
+	La distribuci&#243;n de la Alteraci&#243;n de las U&#241;as es:
+		Localizada
+		Generalizada
+32,15,1 1 2
+	La Alteraci&#243;n de las U&#241;as es Localizada a:
+		Algunas u&#241;as de las manos
+		Algunas u&#241;as de los pies
+33,15,1 1 2
+	La Alteraci&#243;n de las U&#241;as es Generalizada a:
+		Todas las u&#241;as de las manos
+		Todas las u&#241;as de los pies
+34,15,1 1 2
+	El comienzo de la Alteraci&#243;n de las U&#241;as fue:
+		Brusco
+		Lentamente progresivo
+35,15,1 1 4
+	La Alteraci&#243;n de las U&#241;as es del tipo:
+		P&#233;rdida del lustre normal
+		Friables, secas, con estr&#237;as longitudinales
+		Rotas o quebradizas
+		Reborde ungueal inflamado
+36,15,1 1 5
+	El paciente tiene antecedentes de:
+		Higiene no practicada diariamente
+		No secado adecuado de los pies
+		Antecedentes de Epidermofitosis de los pies
+		Uso en com&#250;n de zapatos o deambular descalzo
+		Uso de calzado h&#250;medo o muy cerrado
+37,15,1 1 5
+	S&#237;ntomas Acompa&#241;antes de Erupci&#243;n en la piel:
+		Fiebre
+		Febr&#237;cula
+		Dolor articular
+		Dolor neur&#237;tico
+		Prurito

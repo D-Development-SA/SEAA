@@ -1,0 +1,253 @@
+1,5,1 1 2
+	Desde cu&#225;ndo Tose:
+		Menos de un mes
+		M&#225;s de un mes
+2,5,1 1 22
+	El Dolor Tor&#225;cico se acompa&#241;a de:
+		Tos
+		Expectoraci&#243;n
+		Disnea
+		Estridor
+		Sibilancias
+		Hemoptisis
+		Disfon&#237;a
+		Palpitaciones
+		Rinorrea
+		Ep&#237;staxis
+		Estornudo
+		Obstrucci&#243;n Nasal
+		Dolor Facial
+		Odinofagia
+		Prurito Far&#237;ngeo
+		Paresia
+		Parestesia
+		Hipo o Anestesia
+		Incontinencia Esfinteriana Anal
+		Incontinencia Esfinteriana Vesical
+		Atrofia Muscular
+		Fiebre
+3,5,1 1 6
+	La Tos tiene relaci&#243;n con :
+		Ejercicio y/o fr&#237;o
+		Inhalaci&#243;n sustancias irritantes
+		Cambios posturales
+		El dec&#250;bito
+		Ingesta de aspirina o AINE
+		Ingesta-Aspiraci&#243;n de cuerpo extra&#241;o
+4,5,1 1 3
+	En qu&#233; momento del d&#237;a Tose m&#225;s:
+		Indiferente
+		Ma&#241;ana (tras levantarse)
+		Nocturna
+5,5,1 1 3
+	Desde cu&#225;ndo tiene Disnea:
+		Menos de 48 horas
+		Entre 48 horas y 4 semanas
+		M&#225;s de un mes o a&#241;os
+6,5,1 1 3
+	Modo de presentaci&#243;n de la Disnea:
+		Lentamente progresiva
+		Brusca
+		Recurrente
+7,5,1 1 5
+	Grado de Disnea:
+		Al subir una cuesta o 2 pisos
+		Al subir 1 piso
+		Al andar en terreno llano
+		Al realizar actividades habituales
+		En reposo
+8,5,1 1 8
+	La Disnea se relaciona con:
+		Ejercicio
+		Inhalaci&#243;n sustancias irritantes
+		Cambios posturales
+		Dec&#250;bito
+		Ingesta de aspirina o AINESs
+		Estado emocional
+		Frio
+		Ingesta-Aspiraci&#243;n de cuerpo extra&#241;o
+9,5,1 1 3
+	La Disnea se relaciona con el momento del d&#237;a:
+		Indiferente
+		Por la ma&#241;ana (asearse, vestirse)
+		Nocturna
+10,5,1 1 2
+	Desde cu&#225;ndo tiene Expectoraci&#243;n:
+		Menos de un mes
+		M&#225;s de un mes
+11,5,1 1 4
+	C&#243;mo es lo que Expectora:
+		Mucoso
+		Purulento
+		F&#233;tido
+		Espeso y adherente
+12,5,1 1 3
+	Cu&#225;nto Expectora:
+		Escaso
+		Muy abundante
+		Moderado
+13,5,1 1 2
+	Relaci&#243;n de la Expectoraci&#243;n con el momento del d&#237;a:
+		Indiferente
+		Matutina
+14,5,1 1 2
+	Desde cu&#225;ndo presenta Hemoptisis:
+		Menos de dos semanas
+		M&#225;s de dos semanas
+15,5,1 1 2
+	Cantidad de sangre en la Hemoptisis:
+		Escaso (estr&#237;as)
+		Franca
+16,5,1 1 2
+	Modo de presentaci&#243;n de la Hemoptisis:
+		Persistente
+		Intermitente
+17,5,1 1 7
+	Existen Hemorragias Extrapulmonares:
+		Ep&#237;staxis
+		Rectorragia
+		Melena
+		Hematemesis
+		Hematuria
+		Superficial (Piel)
+		Tejido Subcut&#225;neo
+18,5,1 1 3
+	Desde cu&#225;ndo presenta Dolor Tor&#225;cico:
+		Menos de 48 horas
+		Entre 2 d&#237;as y 1 mes
+		M&#225;s de 1 mes
+19,5,1 1 3
+	D&#243;nde es el Dolor Tor&#225;cico:
+		Retroesternal
+		Hemitorax Derecho y/o Izquierdo
+		Dorsal
+20,5,1 1 3
+	Modo de presentaci&#243;n del Dolor Tor&#225;cico:
+		Brusco
+		Lentamente progresivo
+		Recurrente
+21,5,1 1 4
+	Caracter&#237;sticas del Dolor Tor&#225;cico:
+		Opresivo
+		Punzante
+		Quemante
+		Profundo
+22,5,1 1 5
+	Tiempo de duraci&#243;n del Dolor Tor&#225;cico en cada episodio:
+		Segundos
+		Minutos
+		Horas
+		D&#237;as
+		Semanas - Meses
+23,5,1 1 3
+	El Dolor Tor&#225;cico se irradia:
+		A hombro, brazos, cuello
+		Metam&#233;rica
+		De base pulmonar hacia hombro
+24,5,1 1 9
+	El Dolor Tor&#225;cico se desencadena o agudiza con:
+		Movimientos respiratorios (Inspiraci&#243;n/Espiraci&#243;n)
+		Tos
+		Movimientos del tronco
+		Presi&#243;n sobre pared tor&#225;cica
+		Degluci&#243;n
+		Ejercicio
+		El dec&#250;bito
+		Traumatismos
+		Se desencadena espont&#225;neamente
+25,5,1 1 5
+	El Dolor Tor&#225;cico se alivia con:
+		Ingesta de leche y/o alcalinos
+		Nitroglicerina sublingual
+		Flexi&#243;n del tronco
+		Reposo
+		Ejercicio F&#237;sico
+26,5,1 1 13
+	La Expectoraci&#243;n se acompa&#241;a de:
+		Tos
+		Disnea
+		Dolor Tor&#225;cico
+		Estridor
+		Sibilancias
+		Disfon&#237;a
+		Rinorrea
+		Ep&#237;staxis
+		Estornudo
+		Obstrucci&#243;n Nasal
+		Dolor Facial
+		Odinofagia
+		Prurito Far&#237;ngeo
+27,5,1 1 2
+	La Tos se acompa&#241;a de Hemoptisis:
+		Escaso (estr&#237;as)
+		Franca
+28,5,1 1 13
+	La Tos se acompa&#241;a de:
+		Disnea
+		Dolor Tor&#225;cico
+		Estridor
+		Sibilancias
+		Disfon&#237;a
+		Rinorrea
+		Ep&#237;staxis
+		Estornudo
+		Obstrucci&#243;n Nasal
+		Dolor Facial
+		Odinofagia
+		Prurito Far&#237;ngeo
+		Rubefacci&#243;n Cut&#225;nea
+29,5,1 1 18
+	La Disnea se acompa&#241;a de:
+		Tos
+		Dolor Tor&#225;cico
+		Distensi&#243;n Abdominal
+		Estridor
+		Sibilancias
+		Disfon&#237;a
+		Expectoraci&#243;n
+		Hemoptisis
+		Palpitaciones
+		Rinorrea
+		Ep&#237;staxis
+		Estornudo
+		Obstrucci&#243;n Nasal
+		Dolor Facial
+		Odinofagia
+		Prurito Far&#237;ngeo
+		Somnolencia
+		Rubefacci&#243;n Cut&#225;nea
+30,5,1 1 13
+	La Hemoptisis se acompa&#241;a de:
+		Tos
+		Disnea
+		Dolor Tor&#225;cico
+		Estridor
+		Sibilancias
+		Disfon&#237;a
+		Rinorrea
+		Ep&#237;staxis
+		Estornudo
+		Obstrucci&#243;n Nasal
+		Dolor Facial
+		Odinofagia
+		Prurito Far&#237;ngeo
+31,5,1 1 4
+	C&#243;mo es lo que Expectora:
+		Mucoso
+		Purulento
+		F&#233;tido
+		Espeso y adherente
+32,5,1 1 4
+	La Expectoraci&#243;n que acompa&#241;a a la Hemoptisis es:
+		Mucoso
+		Purulento
+		F&#233;tido
+		Espeso y adherente
+33,5,1 1 2
+	La Expectoraci&#243;n se acompa&#241;a de Hemoptisis:
+		Escaso (estr&#237;as)
+		Franca
+34,5,1 1 2
+	El Dolor Tor&#225;cico Dorsal se localiza en:
+		Regi&#243;n central dorsal
+		Hemit&#243;rax

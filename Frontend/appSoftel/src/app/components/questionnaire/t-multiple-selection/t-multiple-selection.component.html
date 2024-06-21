@@ -1,0 +1,28 @@
+<div class="ms-3">
+    <div>
+        <span *ngIf="subtasks.length != 0">
+            <mat-checkbox class="mx-1"
+                          [checked]="allComplete"
+                          color="primary"
+                          [indeterminate]="someComplete()"
+                          (change)="setAll($event.checked)"
+                          [disabled]="disabled || disabledAll">
+              <strong class="fs-6">{{task.name}}</strong>
+            </mat-checkbox>
+          </span>
+          <span>
+            <ul>
+              <li *ngFor="let subtask of subtasks">
+                <mat-checkbox [(ngModel)]="subtask.completed"
+                              (ngModelChange)="updateAllComplete()"
+                              [disabled]="disabled || disabledAll">
+                  {{subtask.name}}
+                </mat-checkbox>
+              </li>
+            </ul>
+          </span>
+          <app-actions-buttons *ngIf="!disabledAll && !isUsers" [disabled]="btnDisabled" (clickCancel)="sendCancel()" (clickNeither)="sendAnswerAny()" (clickAcept)="sendAnswer()" [anotherButton]="true"></app-actions-buttons>
+          
+          <p *ngIf="isUsers && users.length == 0">No hay usuarios para compartir</p>
+      </div>
+</div>

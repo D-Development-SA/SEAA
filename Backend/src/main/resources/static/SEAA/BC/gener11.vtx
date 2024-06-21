@@ -1,0 +1,483 @@
+1,1,1 1 0
+	Cu&#225;l es la edad del paciente. (Debe ser mayor o igual que 14 a&#241;os).
+2,1,1 1 182
+	El paciente refiere tener alguno de los s&#237;ntomas siguientes:
+		Absceso en la Piel
+		Acolia
+		Acropaquias
+		Ac&#250;feno o Sumbido en los O&#237;dos
+		Adenopat&#237;as
+		Aftas o Ulceras Orales
+		Alopec&#237;a o Ca&#237;da del Pelo
+		Alteraci&#243;n de la Sensibilidad
+		Alteraci&#243;n de las Funciones Mentales Superiores
+		Alteraci&#243;n de las U&#241;as
+		Alteraci&#243;n del Nivel de Conciencia
+		Alteraci&#243;n del Tono Muscular
+		Alteraci&#243;n del Trofismo Muscular
+		Alteraciones de la Marcha
+		Alteraciones de la Memoria
+		Alteraciones del Color de Extremidades
+		Alteraciones del Lenguaje (Disartria)
+		Alteraciones Vasomotoras
+		Amenorrea
+		Anhidrosis
+		Anorexia
+		Ansiedad o S&#237;ntomas Depresivos
+		Ardor en el Epigastrio o Epigastralgia
+		Astenia
+		Ataxia - Dismetr&#237;as
+		Aumento de Peso
+		Aumento de peso mayor que el ideal (Obesidad)
+		Aumento de Tama&#241;o de Manos y Pies
+		Aumento del Volumen de las Mamas
+		Aumento del Volumen en los Test&#237;culos
+		Bocio y/o N&#243;dulo Tiroideo
+		Bradicinesia
+		Bradipsiquia
+		Bultos en la Piel (N&#243;dulos, Tub&#233;rculos, otros)
+		Bultos en las Mamas
+		Cefalea
+		Convulsiones
+		Debilidad Muscular
+		Debilidad, Fatigabilidad
+		Deformidad y/o Aumento de Volumen Articular
+		Desfeminizaci&#243;n
+		Desorientaci&#243;n Temporoespacial
+		Diarrea
+		Disfagia
+		Disfon&#237;a
+		Disgeusias
+		Dismenorrea
+		Disminuci&#243;n de la Agudeza Visual
+		Disminuci&#243;n de la L&#237;bido
+		Disnea
+		Dispepsia
+		Distensi&#243;n Abdominal
+		Disuria
+		Dolor Abdominal
+		Dolor anal
+		Dolor Articular o Artralgia
+		Dolor Cervical
+		Dolor en Extremidades Inferiores
+		Dolor en Extremidades Superiores
+		Dolor en Globo Ocular
+		Dolor en la Regi&#243;n Tiroidea
+		Dolor Facial
+		Dolor Lumbar
+		Dolor Muscular o Mialgias
+		Dolor Neur&#237;tico
+		Dolor Oseo
+		Dolor Testicular
+		Dolor Tor&#225;cico
+		Dropp - Attacks
+		Edema
+		Enrojecimiento Ocular
+		Eritema Discoide
+		Eritema Malar (Erupci&#243;n Cut&#225;nea)
+		Erupci&#243;n Cut&#225;nea (Otros tipos)
+		Escotomas o Visi&#243;n de Candelillas
+		Esterilidad
+		Estornudos
+		Estrabismo
+		Estre&#241;imiento o Constipaci&#243;n
+		Estridor
+		Estupor
+		Exantema
+		Expectoraci&#243;n
+		Febr&#237;cula
+		Fen&#243;meno de Fotosensibilidad
+		Fiebre
+		Flapping Tremor
+		Focalidad Par Craneal
+		For&#250;nculos
+		Fotofobia
+		Galactorrea (Secreci&#243;n de leche por los pezones)
+		Ginecomastia
+		Halitosis
+		Hemorragia Profunda
+		Hemorragia Superficial
+		Hiperpigmentaci&#243;n Cut&#225;neo - Mucosa
+		Hipertricosis
+		Hipo
+		Hirsutismo
+		Ictericia
+		Impotencia
+		Incontinencia Esfinteriana Anal
+		Incontinencia Esfinteriana Vesical
+		Lagrimeo
+		Leucorrea o Flujo
+		Limitaci&#243;n Funcional Articular
+		Manchas en la Piel o M&#225;cula (Otras)
+		Mareo - V&#233;rtigo
+		Mastodinia o Dolor en las Mamas
+		Metrorragia
+		Mialgias y/o Quebrantamiento General
+		Modificaciones del Chorro Urinario
+		Movimientos Involuntarios
+		N&#225;useas
+		Nervioso, Irritable o Ansioso
+		Obstrucci&#243;n Nasal
+		Odinofagia
+		Oligomenorrea
+		Oliguria
+		Otalgia o Dolor de O&#237;do
+		Otorrea
+		Otros tipos de Lesiones de la Piel
+		Palidez
+		Palpitaciones (Taquicardia)
+		Paresia
+		P&#233;rdida de Peso
+		P&#233;rdida del Vello Corporal
+		Petequias
+		Piel H&#250;meda y/o Caliente
+		Pirosis
+		Polaquiuria
+		Polidipsia
+		Polifagia
+		Poliuria
+		Prominencia de los Globos Oculares
+		Prurito
+		Ptosis Parpebral
+		Pujos
+		P&#250;rpura en Extremidades Inferiores
+		P&#250;rpura en Extremidades Superiores
+		P&#250;rpura en Tronco
+		P&#250;rpura Generalizado
+		P&#250;stulas
+		Rash Cut&#225;neo
+		Regurgitaci&#243;n
+		Retenci&#243;n de Orina
+		Retraso Psico - Motor
+		Rinorrea
+		Ritmos Respiratorios Anormales
+		Ronchas o Hab&#243;n (Urticaria)
+		Ronquidos Nocturnos
+		Rubefacci&#243;n Cut&#225;nea
+		Secreci&#243;n Conjuntival
+		Sed Intensa
+		Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos
+		Sequedad de la Piel
+		Sialorrea
+		Sibilancias
+		S&#237;ncope
+		S&#237;ntomas Vegetativos
+		Somnolencia
+		Sordera
+		Sudoraci&#243;n
+		Talla Baja
+		Temblor
+		Tenesmo Rectal
+		Tenesmo Vesical
+		Tetania
+		Tinnitus
+		Tos
+		Trastornos de la Degluci&#243;n
+		Otros Trastornos de la Menstruaci&#243;n
+		Trastornos del Olfato
+		Trismos
+		Ulceras en Dedos
+		Ulceras en los Genitales
+		Ulceras Maleolares
+		Uretrorrea
+		Ves&#237;culas Cut&#225;neas
+		Virilismo
+		V&#243;mitos
+		Xerostom&#237;a
+3,1,1 1 2
+	Cu&#225;l es el sexo del paciente:
+		Femenino
+		Masculino
+4,1,1 1 3
+	Temperatura que refiere el paciente:
+		Normal
+		Febr&#237;cula
+		Fiebre
+5,1,1 1 13
+	El paciente presenta s&#237;ntomas:
+		Sist&#233;micos
+		Digestivos
+		Respiratorios
+		Osteomioarticulares
+		Cardiovasculares
+		Hematol&#243;gicos
+		Genito-Urinarios
+		Neurol&#243;gicos
+		Endocrinos
+		Otorrinolaringol&#243;gicos
+		Dermatol&#243;gicos
+		Oftalmol&#243;gicos
+		TODOS
+6,1,1 1 19
+	Cu&#225;l(es) de los siguientes s&#237;ntomas Generales presenta el paciente:
+		Anhidrosis
+		Anorexia
+		Ansiedad o S&#237;ntomas Depresivos
+		Astenia
+		Aumenta de Peso
+		Debilidad. Fatigabilidad
+		Disminuci&#243;n de la L&#237;bido
+		Escalofr&#237;os
+		Febr&#237;cula
+		Fiebre
+		Halitosis
+		Hipo
+		Mialgias y/o Quebrantamiento General
+		P&#233;rdida de Peso
+		Prurito
+		Sed Intensa
+		S&#237;ntomas Vegetativos
+		Sudoraci&#243;n
+		Xerostom&#237;a
+7,1,1 1 26
+	Cu&#225;l(es) de los siguientes s&#237;ntomas Digestivos presenta el paciente:
+		Diarrea
+		Ictericia
+		Distensi&#243;n Abdominal
+		Dispepsia
+		Estre&#241;imiento o Constipaci&#243;n
+		Ardor en el Epigastrio o Epigastralgia
+		Regurgitaci&#243;n
+		Pirosis
+		Rectorragia
+		Melena
+		Disfagia
+		Dolor Abdominal
+		Hematemesis
+		N&#225;useas
+		V&#243;mitos
+		Dolor Anal
+		Tenesmo Rectal
+		Sialorrea
+		Incontinencia Esfinteriana Anal
+		Halitosis
+		Xerostom&#237;a
+		Aftas o Ulceras Orales
+		Acolia
+		Coluria u Orina Oscura
+		Pujos
+		Esteatorrea
+8,1,1 2 15
+	Cu&#225;l(es) de los siguientes s&#237;ntomas Respiratorios presenta el
+	 paciente:
+		Tos
+		Disnea
+		Expectoraci&#243;n
+		Hemoptisis
+		Dolor Tor&#225;cico
+		Rinorrea
+		Ep&#237;staxis
+		Estornudos
+		Obstrucci&#243;n Nasal
+		Dolor Facial
+		Odinofagia
+		Estridor
+		Ritmos Respiratorios Anormales
+		Ronquidos Nocturnos
+		Sibilancias
+9,1,1 2 7
+	Cu&#225;l(es) de los siguientes s&#237;ntomas del aparato Osteo- mioarticular
+	 presenta el paciente:
+		Dolor Muscular o Mialgias
+		Dolor Articular o Artralgia
+		Dolor Oseo
+		Deformidad y/o Aumento de Volumen Articular
+		Limitaci&#243;n Funcional
+		Alteraci&#243;n del Tono Muscular
+		Alteraci&#243;n del Trofismo Muscular
+10,1,1 2 9
+	Cu&#225;l(es) de los siguientes s&#237;ntomas Cardiovasculares presenta el
+	 paciente:
+		Palpitaciones (Taquicardia)
+		Edema
+		Tos
+		Dolor Tor&#225;cico
+		Disnea
+		S&#237;ncope
+		Alteraci&#243;n de la Coloraci&#243;n de las Extremidades
+		Dolor en Extremidades Inferiores
+		Dolor en Extremidades Superiores
+11,1,1 2 13
+	Cu&#225;l(es) de los siguientes s&#237;ntomas Hematol&#243;gicos presenta el
+	 paciente:
+		Adenopat&#237;as
+		Palidez
+		Hemorragia Superficial
+		Hemorragia Profunda
+		Ep&#237;staxis
+		Otorragia
+		Gingivorragia
+		Hematuria
+		Rectorragia
+		Melena
+		Hematemesis
+		Metrorragia
+		Hemoptisis
+12,1,1 2 26
+	Cu&#225;l(es) de los siguientes s&#237;ntomas Genito-Urinarios presenta el
+	 paciente:
+		Dolor Testicular
+		Aumento de Volumen de los Test&#237;culos
+		Uretrorrea
+		Leucorrea o Flujo
+		Disuria
+		Hematuria
+		Dolor Lumbar
+		Edema
+		Polaquiuria
+		Poliuria
+		Oliguria
+		Modificaciones del Chorro
+		Retenci&#243;n de Orina
+		Incontinencia Esfinteriana Vesical
+		Mastodinia o Dolor en las Mamas
+		Amenorrea
+		Metrorragia
+		Bultos en las Mamas
+		Oligomenorrea
+		Otros Trastornos de la Menstruaci&#243;n
+		Dismenorrea
+		Aumento del Volumen de las Mamas
+		Incontinencia Esfinteriana Anal
+		Impotencia
+		Tenesmo Vesical
+		Pujos
+13,1,1 2 11
+	Cu&#225;l(es) de los siguientes s&#237;ntomas Oftalmol&#243;gico presenta el
+	 paciente:
+		Dolor Ocular
+		Enrojecimiento Ocular
+		Lagrimeo
+		Disminuci&#243;n de la Agudeza Visual
+		Estrabismo
+		Fotofobia
+		Ardor Ocular
+		Secreci&#243;n Ocular
+		Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos
+		Edema
+		Escotomas o Visi&#243;n de Candelillas
+14,1,1 2 43
+	Cu&#225;l(es) de los siguientes s&#237;ntomas Neurol&#243;gicos presenta el
+	 paciente:
+		S&#237;ncope
+		Cefalea
+		Convulsiones
+		Mareo - V&#233;rtigo
+		Alteraci&#243;n del Nivel de Conciencia
+		Alteraciones de la Marcha
+		Temblor
+		Movimientos Involuntarios
+		Paresia
+		Debilidad Muscular
+		Desorientaci&#243;n Temporo-Espacial
+		Alteraciones de la Memoria
+		Nervioso, Irritable o Ansioso
+		Focalidad par Craneal
+		Alteraciones Vasomotoras
+		Bradicinesia
+		Bradipsiquia
+		Alteraci&#243;n del Lenguaje
+		Ataxia - Dismetr&#237;as
+		Dropp - Attacks
+		Estupor
+		Retraso Psico-Motor
+		Somnolencia
+		Incontinencia Esfinteriana Anal
+		Incontinencia Esfinteriana Vesical
+		Fotofobia
+		Ptosis Parpebral
+		Alteraci&#243;n de Funciones Mentales Superiores
+		Estrabismo
+		Disminuci&#243;n de la Agudeza Visual
+		Alteraci&#243;n del Tono Muscular
+		Alteraci&#243;n del Trofismo Muscular
+		Alteraci&#243;n de la Sensibilidad
+		Tenesmo Vesical
+		Tetania
+		Dolor Cervical
+		Diplopia
+		Flapping Tremor
+		Agitaci&#243;n, Exitaci&#243;n o Alucinaciones
+		Hidrofobia
+		Dolor Tor&#225;cico (incluye Dorsalgia)
+		Dolor Neur&#237;tico
+		Escotomas o Visi&#243;n de Candelillas
+15,1,1 2 33
+	Cu&#225;l(es) de los siguientes s&#237;ntomas Dermatol&#243;gicos refiere el
+	 paciente:
+		Absceso en la Piel
+		Acropaquias
+		Alopec&#237;a o Ca&#237;da del Pelo
+		Bultos en la Piel (N&#243;dulos, Tub&#233;rculos, otros)
+		Rash Cut&#225;neo
+		Rubefacci&#243;n Cut&#225;nea
+		P&#250;rpura en Extremidades Inferiores
+		Edema
+		Exantema
+		Eritema Malar
+		Eritema Discoide
+		Erupci&#243;n Cut&#225;nea (Otros tipos)
+		Manchas en la Piel o M&#225;cula (Otras)
+		Ronchas o Hab&#243;n (Urticaria)
+		Ulceras en los Dedos
+		Ulceras en los Genitales
+		Ulceras Maleolares
+		Fen&#243;meno de Fotosensibilidad
+		Ves&#237;culas Cut&#225;neas
+		Prurito
+		P&#250;stulas
+		P&#250;rpura de Extremidades Superiores
+		P&#250;rpura de Tronco
+		P&#250;rpura Generalizada
+		Hemorragias Lineales en U&#241;as
+		P&#225;pulas Dolorosas en Dedos
+		Flictenas D&#233;rmicas (Ampollas o Bula)
+		For&#250;nculos
+		Abrasiones D&#233;rmicas
+		Otros tipos de Lesiones de la Piel
+		Alteraci&#243;n de las U&#241;as
+		Hiperpigmentaci&#243;n Cut&#225;neo - Mucosa
+		Otras Lesiones de Piel localizadas en los Genitales
+16,1,1 1 21
+	Cu&#225;l(es) de los siguientes s&#237;ntomas Endocrinos presenta el paciente:
+		Polidipsia
+		Ginecomastia
+		Aumento de peso mayor que el ideal (Obesidad)
+		Hirsutismo
+		Galactorrea
+		Esterilidad
+		P&#233;rdida de Peso
+		Prominencia de los Globos Oculares
+		Virilismo
+		Dolor en la Regi&#243;n Tiroidea
+		Bocio y/o N&#243;dulo Tiroideo
+		La Piel H&#250;meda y/o Caliente
+		Hipertricosis
+		P&#233;rdida del Vello Corporal
+		Hiperpigmentaci&#243;n Cut&#225;neo - Mucosa
+		Talla Baja
+		Desfeminizaci&#243;n
+		Aumento de Tama&#241;o de Manos y Pies
+		Sequedad de la Piel
+		Polifagia
+		Aumento de Peso
+17,1,1 2 17
+	Cu&#225;l(es) de los siguientes s&#237;ntomas Otorrinolaringol&#243;gicos
+	 presenta el paciente:
+		Tinnitus
+		Otorrea
+		Otorragia
+		Sordera
+		Mareo - V&#233;rtigo
+		Rinorrea
+		Obstrucci&#243;n Nasal
+		Ac&#250;feno o Sumbido en los O&#237;dos
+		Disfon&#237;a
+		Otalgia o Dolor de O&#237;do
+		Odinofagia
+		Estornudo
+		Ep&#237;staxis
+		Disgeusias
+		Trastornos de la Degluci&#243;n
+		Dolor Facial
+		Trastornos del Olfato

@@ -1,0 +1,345 @@
+<section class="mt-4">
+  <div>
+    <p class="m-2 fs-5">EL objetivo de esta sección es guíar a través de pasos, con los correspondientes argumentos, las principales
+      acciones a realizar en la aplicación. Para más información puede comunicarse con los especialistas a través del
+      siguiente correo
+      <a href="mailto:comercial@softel.cu?Subject=AppSoftel"
+         class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">
+        comercial&#64;softel.cu
+      </a>
+    </p>
+  </div>
+  <section #element id="realizeQuestionnaire" class="m-5">
+    <h3>Realizar cuestionario</h3>
+
+    <ol class="fs-5">
+
+      <li class="py-2">
+        <span class="d-flex align-items-center gap-2">
+          Ir al menú desplegable
+          <mat-icon>menu</mat-icon>.
+        </span>
+      </li>
+
+      <li class="py-2">
+        <span class="d-flex align-items-center">
+          Seleccionar la opción Cuestionario
+          <div
+            class="d-flex justify-content-around align-items-center mx-2 p-2 bg-forest opacity-50 rounded w-25 text-light">
+            Cuestionario
+            <mat-icon class="text-light fs-6 h-auto">circle</mat-icon>
+          </div>.
+        </span>
+      </li>
+
+      <app-note text="A continuación se le mostrará una tarjeta con información guíada, los sistemas expertos existentes y el
+        botón comenzar"></app-note>
+
+      <li class="py-2">Seleccione el sistema experto que desea utilizar para ejecutar las consultas.</li>
+
+      <li class="py-2">Presione el botón <strong>Continuar</strong>.</li>
+
+      <app-note text="Después de realizar la acción anterior observará su primera pregunta"></app-note>
+
+      <li class="py-2">Complete la respuesta actual. Para continuar con la próxima pregunta presione <strong>Siguiente</strong>.</li>
+
+      <app-note text="El sistema esta basado sobre la IA de Softel para solución de problemas, por tanto, mientras más
+        cercana a la realidad la respuesta proporcionada, mayor la certeza sobre el resultado final"></app-note>
+
+      <li class="py-2">Al terminar el cuestionario presione <strong>Guardar</strong> en caso que lo desee. En cualquier
+        momento del cuestionario puede realizar el salvado (La opción se encuentra en la barra de herramientas posicionada
+        en la parte inferior derecha)</li>
+    </ol>
+  </section>
+
+  <div #element id="savedQuery"></div>
+  <mat-divider></mat-divider>
+
+  <section class="m-5">
+    <h3>Ver consultas guardadas</h3>
+
+    <ol class="fs-5">
+
+      <li class="py-2">
+        <span class="d-flex align-items-center gap-2">
+          Ir al menú desplegable
+          <mat-icon>menu</mat-icon>.
+        </span>
+      </li>
+
+      <li class="py-2">
+        <span class="d-flex align-items-center">
+          Seleccionar la opción Registro
+          <div
+            class="d-flex justify-content-around align-items-center mx-2 p-2 bg-forest opacity-50 rounded w-25 text-light">
+            Registro
+            <mat-icon class="text-light fs-6 h-auto">circle</mat-icon>
+          </div>.
+        </span>
+      </li>
+
+      <li class="py-2">En la sección mostrada, escoja la consulta. Para observar toda la información presione
+        <strong>Ver más detalles</strong>
+      </li>
+    </ol>
+  </section>
+
+  <div #element id="continueSavedQuery"></div>
+  <mat-divider></mat-divider>
+
+  <section class="m-5">
+    <h3>Continuar consulta guardada</h3>
+
+    <ol class="fs-5">
+
+      <li class="py-2">
+        <span class="d-flex align-items-center gap-2">
+          Ir al menú desplegable
+          <mat-icon>menu</mat-icon>.
+        </span>
+      </li>
+
+      <li class="py-2">
+        <span class="d-flex align-items-center">
+          Seleccionar la opción Registro
+          <div
+            class="d-flex justify-content-around align-items-center mx-2 p-2 bg-forest opacity-50 rounded w-25 text-light">
+            Registro
+            <mat-icon class="text-light fs-6 h-auto">circle</mat-icon>
+          </div>.
+        </span>
+      </li>
+
+      <li class="py-2">En la sección mostrada, escoja la consulta.</li>
+
+      <li class="py-2">Presione el botón <strong>Continuar</strong>. Esto lo enviará a cuestionario y desde allí cuantinuará
+        la consulta seleccionada.</li>
+    </ol>
+  </section>
+
+  <div #element id="applySpecialist"></div>
+  <mat-divider></mat-divider>
+
+  <section class="m-5">
+    <h3>Solicitar ser especialista</h3>
+
+    <ol class="fs-5">
+
+      <li class="py-2">
+        <span class="d-flex align-items-center gap-2">
+          Ir al menú desplegable
+          <mat-icon>menu</mat-icon>.
+        </span>
+      </li>
+
+      <li class="py-2">
+        <span class="d-flex align-items-center">
+          Seleccionar la opción Opciones
+          <div
+            class="d-flex justify-content-around align-items-center mx-2 p-2 bg-forest opacity-50 rounded w-25 text-light">
+            Opciones
+            <mat-icon class="text-light fs-6 h-auto">circle</mat-icon>
+          </div>.
+        </span>
+      </li>
+
+      <li class="py-2">Si es usuario, encontrará al inicio
+        <strong>Solicitar ser especialista</strong> <mat-icon class="ms-2 text-forest">back_hand</mat-icon>.
+      </li>
+
+      <app-note text="Las solicitudes son enviadas al Administrador. Que usted sea o no especialista en el sistema depende
+        del Administrador del mismo. Cuando es aceptado observará el cambio en el icono rojo en forma de cruz, por una
+        palomilla verde. Además en su nombre debe aparcer entre paréntesis (Especialista) en caso de ser aceptado."></app-note>
+    </ol>
+  </section>
+
+  <div #element id="editData"></div>
+  <mat-divider></mat-divider>
+
+  <section class="m-5">
+    <h3>Editar mis datos de perfil</h3>
+
+    <ol class="fs-5">
+
+      <li class="py-2">
+        <span class="d-flex align-items-center gap-2">
+          Ir al menú desplegable
+          <mat-icon>menu</mat-icon>.
+        </span>
+      </li>
+
+      <li class="py-2">
+        <span class="d-flex align-items-center">
+          Seleccionar la opción Opciones
+          <div
+            class="d-flex justify-content-around align-items-center mx-2 p-2 bg-forest opacity-50 rounded w-25 text-light">
+            Opciones
+            <mat-icon class="text-light fs-6 h-auto">circle</mat-icon>
+          </div>.
+        </span>
+      </li>
+
+      <li class="py-2">Viajar a la penúltima sección <strong>Editar información de perfil</strong>.</li>
+
+      <li class="py-2">En la sección <strong>Editar información de perfil</strong>, presione el botón
+        <strong>Editar</strong>.
+      </li>
+
+      <li class="py-2">En la nueva sección actualice los campos.</li>
+
+      <li class="py-2">Concluido presione el botón <strong>Enviar</strong>.</li>
+
+      <app-note text="Si desea ver la información de perfil puede dirigirse hasta la última sección. Allí encontrará
+      el título 'Tú información'"></app-note>
+
+    </ol>
+  </section>
+
+  <div #element id="createSE"></div>
+  <mat-divider></mat-divider>
+
+  <section class="m-5">
+    <h3>Crear Sistema Experto</h3>
+
+    <ol class="fs-5">
+
+      <li class="py-2">
+        <span class="d-flex align-items-center gap-2">
+          Ir al menú desplegable
+          <mat-icon>menu</mat-icon>.
+        </span>
+      </li>
+
+      <li class="py-2">
+        <span class="d-flex align-items-center">
+          Seleccionar la opción Opciones
+          <div
+            class="d-flex justify-content-around align-items-center mx-2 p-2 bg-forest opacity-50 rounded w-25 text-light">
+            Opciones
+            <mat-icon class="text-light fs-6 h-auto">circle</mat-icon>
+          </div>.
+        </span>
+      </li>
+
+      <li class="py-2">Viajar a la primera sección <strong>Crear y asociar un sistema experto</strong>.</li>
+
+      <li class="py-2">Complete los campos.</li>
+
+      <li class="py-2">Presione el botón <strong>Seleccionar archivo</strong> para subir el archivo rar o zip que contiene
+        el Sistema Experto.</li>
+
+      <li class="py-2">Cargado el archivo presione el botón <strong>Crear y asociar</strong>.</li>
+
+      <app-note text="En esta última acción se creará el sistema experto, será descomprimido y se le realizarán las
+        acciones necesarias para su correcto funcionamiemto. Se le asociará a su perfil después de concluidas las acciones"></app-note>
+
+      <li class="py-2">Si todo se realizó correctamente debe aparecer su sistema experto en la sección
+        <strong>Cuestionario</strong>.
+      </li>
+
+
+    </ol>
+  </section>
+
+  <div #element id="shareSE"></div>
+  <mat-divider></mat-divider>
+
+  <section class="m-5">
+    <h3>Compartir Sistema Experto</h3>
+
+    <ol class="fs-5">
+
+      <li class="py-2">
+        <span class="d-flex align-items-center gap-2">
+          Ir al menú desplegable
+          <mat-icon>menu</mat-icon>.
+        </span>
+      </li>
+
+      <li class="py-2">
+        <span class="d-flex align-items-center">
+          Seleccionar la opción Opciones
+          <div
+            class="d-flex justify-content-around align-items-center mx-2 p-2 bg-forest opacity-50 rounded w-25 text-light">
+            Opciones
+            <mat-icon class="text-light fs-6 h-auto">circle</mat-icon>
+          </div>.
+        </span>
+      </li>
+
+      <li class="py-2">Viajar a la sección <strong>Compartir  sistema experto</strong>.</li>
+
+      <li class="py-2">Complete los pasos.</li>
+
+      <li class="py-2">Concluya presionando el botón <strong>Compartir</strong>.</li>
+
+    </ol>
+  </section>
+
+  <div #element id="behavior"></div>
+  <mat-divider></mat-divider>
+
+  <section class="m-5">
+    <h3>Ver comportamiento de mi Sistema Experto y los compartidos</h3>
+
+    <ol class="fs-5">
+
+      <li class="py-2">
+        <span class="d-flex align-items-center gap-2">
+          Ir al menú desplegable
+          <mat-icon>menu</mat-icon>.
+        </span>
+      </li>
+
+      <li class="py-2">
+        <span class="d-flex align-items-center">
+          Seleccionar la opción Comportamiento
+          <div
+            class="d-flex justify-content-around align-items-center mx-2 p-2 bg-forest opacity-50 rounded w-25 text-light">
+            Comportamiento
+            <mat-icon class="text-light fs-6 h-auto">circle</mat-icon>
+          </div>.
+        </span>
+      </li>
+
+      <li class="py-2">En la parte superior, en los paneles observará los nombres de todos los sistemas expertos asociados
+        y compartidos. Dé click en el que desee.</li>
+
+    </ol>
+  </section>
+
+  <div #element id="usersSE"></div>
+  <mat-divider></mat-divider>
+
+  <section class="m-5">
+    <h3>Ver usuarios que han utilizado mi Sistema Experto</h3>
+
+    <ol class="fs-5">
+
+      <li class="py-2">
+        <span class="d-flex align-items-center gap-2">
+          Ir al menú desplegable
+          <mat-icon>menu</mat-icon>.
+        </span>
+      </li>
+
+      <li class="py-2">
+        <span class="d-flex align-items-center">
+          Seleccionar la opción Comportamiento
+          <div
+            class="d-flex justify-content-around align-items-center mx-2 p-2 bg-forest opacity-50 rounded w-25 text-light">
+            Comportamiento
+            <mat-icon class="text-light fs-6 h-auto">circle</mat-icon>
+          </div>.
+        </span>
+      </li>
+
+      <li class="py-2">Seleccione el sistema experto en la parte superior, en los paneles.</li>
+
+      <li class="py-2">Después del gráfico pued observar los resultados y junto a ellos la opción de mostrar los
+        resultados del mismo.</li>
+
+    </ol>
+  </section>
+
+</section>

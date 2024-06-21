@@ -1,0 +1,131 @@
+1,3,4 1
+	Gota
+2,3,4 1
+	Condrocalcinosis
+3,3,4 1
+	Artritis Reumatoidea
+4,3,4 1
+	Espondilitis Anquilosante
+5,3,4 1
+	Artritis S&#233;ptica NO Gonoc&#243;cica
+6,3,4 1
+	Artritis Tuberculosa
+7,3,4 1
+	Artritis Psori&#225;sica
+8,3,4 1
+	Artritis Gonoc&#243;cica
+9,3,4 1
+	S&#237;ndrome de Behcet Completo
+10,3,4 1
+	Artrosis
+11,3,4 1
+	S&#237;ndrome de Reiter
+12,3,4 1
+	Lupus Eritematoso Sist&#233;mico
+13,3,4 1
+	Polimialgia Reum&#225;tica
+14,3,4 1
+	Arteritis de la Temporal o Enfermedad de Horton (DESARROLLO)
+15,3,4 1
+	Sacrolumbalgia
+16,3,4 1
+	Osteomelitis
+17,3,4 1
+	Hombro Doloroso
+18,3,4 1
+	Tendinitis Calcificada
+19,3,4 1
+	Capsulitis Adhesiva u Hombro Congelado
+20,3,4 1
+	Subluxaci&#243;n de Hombro
+21,3,4 1
+	Intermedio
+22,3,4 1
+	S&#237;ndrome de Compresi&#243;n
+23,3,4 1
+	S&#237;ndrome de Crest
+24,3,4 1
+	S&#237;ndrome de Sjogren o S&#237;ndrome seco
+25,3,4 1
+	Esclerodermia
+26,3,4 1
+	Dermatomiositis
+27,3,4 1
+	Polimiositis
+28,3,4 1
+	Fiebre Reum&#225;tica
+29,3,4 1
+	El paciente presenta n&#243;dulos de Heberden o de Bouchard
+30,3,4 1
+	El paciente presenta Uretorrea o Leucorrea
+31,3,4 1
+	El paciente presenta &#250;lceras en los genitales
+32,3,4 1
+	S&#237;ndrome de Behcet Incompleto
+33,3,4 1
+	S&#237;ndrome del Tunel del Carpo
+34,3,4 1
+	Insuficiencia Mitral (Trampa)
+35,3,4 1
+	Estenosis Mitral (Trampa)
+36,3,4 1
+	Insuficiencia A&#243;rtica (Trampa)
+37,3,4 1
+	Estenosis A&#243;rtica (Trampa)
+38,3,4 1
+	Enfermedad de Pott
+39,3,4 1
+	Bursitis Subacromial
+40,3,4 1
+	Bursitis Trocant&#233;rica
+41,3,4 1
+	Bursitis del Ol&#233;cranon
+42,3,4 1
+	Epicondilitis
+43,3,4 1
+	Neoplasia que Infiltra el Plexo Braquial
+44,3,4 1
+	Intermedio
+45,3,4 1
+	S&#237;ndrome de Felty
+46,3,4 1
+	Intermedio (Eritema Malar y/o Discoide)
+47,3,4 1
+	Intermedio (S&#237;ndrome Gral y/o Fiebre)
+48,3,4 1
+	Intermedio (Anemia y/o Plaquetopenia y/o Granulocitopenia)
+49,3,4 1
+	Intermedio (Pericarditis y/o Derrame Pleural y/o Enfermedad de la Pleura)
+50,3,4 1
+	Intermedio (Ascitis y/o Hepatitis y/o Cirrosis)
+51,3,4 1
+	Intermedio (Glomerulonefritis y/o Insuficiencia Renal Cr&#243;nica)
+52,3,4 2
+	Intermedio (Trombosis Venosa Profunda y/o Tromboflebitis y/o Tromboangeitis
+	 Obliterante)
+53,3,4 1
+	Intermedio (Conjuntivitis y/o Epiescleritis y/o Uve&#237;tis)
+54,3,4 1
+	Funci&#243;n Proposicional de 3 de las proposiciones de la 46 a la 53
+55,3,4 1
+	Funci&#243;n Proposicional de 4 de las proposiciones de la 46 a la 53
+56,3,4 1
+	Funci&#243;n Proposicional de 5 de las proposiciones de la 46 a la 53
+57,3,4 1
+	Funci&#243;n Proposicional de 6 de las proposiciones de la 46 a la 53
+58,3,4 1
+	Funci&#243;n Proposicional de 7 de las proposiciones de la 46 a la 53
+59,3,4 1
+	Funci&#243;n Proposicional de 8 de las proposiciones de la 46 a la 53
+60,3,4 1
+	Funci&#243;n Proposicional de 9 o mas de las proposiciones de la 46 a la 53
+61,3,4 1
+	Examen f&#237;sico de Glomerulonefritis Aguda
+62,3,4 1
+	Examen f&#237;sico de Insuficiencia Renal Cr&#243;nica y/o Aguda
+63,3,4 1
+	Examen f&#237;sico de Pericarditis
+64,3,4 1
+	Copia de 8{3,5}
+65,3,4 1
+	Funci&#243;n Proposicional de Esclerodermia

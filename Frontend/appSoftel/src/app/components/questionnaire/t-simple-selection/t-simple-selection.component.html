@@ -1,0 +1,12 @@
+<div class="d-flex flex-column col-6 ms-3">
+    <mat-chip-listbox [disabled]="disabled || disabledAll"  class="mat-mdc-chip-set-stacked">
+        <mat-chip-option  *ngFor="let ch of chip" 
+                        [selected]="ch.selected"
+                        (selectionChange)="slnchange(ch)"
+                        [ngClass]="ch.selected ? 'bg-green' : ''"
+                        >
+            {{ch.name}}
+        </mat-chip-option>
+    </mat-chip-listbox>
+    <app-actions-buttons *ngIf="!disabledAll" [disabled]="btnDisabled" (clickCancel)="sendCancel()" (clickAcept)="sendAnswer()"></app-actions-buttons>
+</div>

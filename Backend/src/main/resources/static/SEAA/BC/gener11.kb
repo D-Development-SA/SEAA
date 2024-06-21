@@ -1,0 +1,431 @@
+gener11
+3
+//  Objetivos
+	3 1 6 139 
+//  Conclusiones Finales
+//  Proposiciones que van al BKB
+	279 1 2 3 4 5 6 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 133 134 146 147 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 
+//  Variables que van al BKB
+//  Proposiciones que se eliminan del BKB
+//  Variables que se eliminan del BKB
+//  PROPOSICIONES
+	1 /* El paciente tiene m&#225;s de 14 a&#241;os */
+	2 /* Edad entre 14 y 30 */
+	3 /* Edad entre 30 y 40 */
+	4 /* Edad entre 40 y 55 */
+	5 /* Edad mayor de 55 */
+	6 /* El paciente es de sexo Femenino */
+	7 /* Selecci&#243;n de los s&#237;ntomas */
+		C & -1.0 1  152 [0.01 1.0]
+		V 2 U
+	8 /* El paciente presenta Dolor */
+	9 /* El paciente presenta Na&#250;seas y/o V&#243;mitos */
+	10 /* El paciente tiene s&#237;ntomas de Diarrea */
+	11 /* El paciente presenta Ictericia en la Piel y de la Mucosa */
+	12 /* El paciente refiere tener Distensi&#243;n Abdominal */
+	13 /* El paciente presenta s&#237;ntomas de Dispepsia */
+	14 /* El paciente refiere tener Estre&#241;imiento o Constipaci&#243;n */
+	15 /* El paciente presenta s&#237;ntoma de Ardor en el Epigastrio o Epigastralgia */
+	16 /* El paciente presenta Regurgitaci&#243;n */
+	17 /* El paciente presenta s&#237;ntomas de Pirosis */
+	18 /* El paciente Sangra por V&#237;a Rectal (Rectorragia) */
+	19 /* El paciente refiere tener Disfagia */
+	20 /* El paciente refiere tener Dolor Abdominal */
+	21 /* El paciente presenta Tos */
+	22 /* El paciente presenta Disnea */
+	23 /* El paciente presenta Expectoraci&#243;n */
+	24 /* El paciente presenta Hemoptisis */
+	25 /* El paciente presenta Dolor Tor&#225;cico */
+	26 /* El paciente refiere tener Flebitis Extremidades Inferiores */
+	27 /* El paciente refiere tener Palpitaciones (Taquicardia) */
+	28 /* El paciente presenta Edema en Extremidades Inferiores */
+		C & -1.0 1  36 [0.01 1.0]
+	29 /* El paciente refiere tener un S&#237;ncope */
+	30 /* El paciente presenta Alteraci&#243;n del Nivel de Conciencia */
+	31 /* El paciente refiere tener Cefalea */
+	32 /* El paciente presenta el S&#237;ndrome de Horner */
+	33 /* El paciente presenta Convulsiones */
+	34 /* El paciente presenta Rubefacci&#243;n Cut&#225;nea */
+	35 /* El paciente presenta Rash Cut&#225;neo, Urticaria */
+	36 /* El paciente presenta Edema */
+	37 /* El paciente presenta Acropaquias */
+	38 /* El paciente refiere tener Amenorrea */
+		C & -1.0 2  6 [0.01 1.0] 241 [-1.0 -0.001]
+	39 /* El paciente refiere tener Hematuria */
+	40 /* El paciente refiere tener Fiebre */
+	41 /* El paciente refiere tener Febr&#237;cula */
+	42 /* El paciente presenta S&#237;ndrome General (Astenia, Anorexia, P&#233;rdida de P */
+	43 /* El paciente refiere tener Sudoraci&#243;n */
+	44 /* El paciente presenta Mialgias y/o Quebrantamiento General */
+	45 /* El paciente presenta S&#237;ntomas Vegetativos */
+	46 /* El paciente presenta S&#237;ntomas Depresivos o Ansiedad */
+	47 /* El paciente presenta Debilidad, Fatigabilidad */
+	48 /* El paciente refiere tener Apnea de Sue&#241;o (Ronquidos Nocturnos) */
+	49 /* El paciente presenta Dolor Muscular o Mialgias */
+	50 /* El paciente presenta Dolor Articular o Artralgia */
+	51 /* El paciente presenta Deformidad y/o Aumento de Volumen Articular */
+	52 /* El paciente refiere tener Limitaci&#243;n Funcional Articular */
+	53 /* El paciente presenta Hematemesis */
+	54 /* El paciente presenta Herpes Labial */
+	55 /* El paciente presenta Exantema */
+	56 /* El paciente presenta Eritema Multiforme */
+	57 /* El paciente presenta Eritema Nodoso */
+	58 /* El paciente tiene menos de 40 a&#241;os */
+	59 /* El paciente presenta Prurito Generalizado */
+	60 /* El paciente presenta Aftas o Ulceras Orales */
+	61 /* El paciente presenta Ardor Ocular */
+	62 /* El paciente presenta Dolor en Globo Ocular */
+	63 /* El paciente presenta Enrojecimiento Ocular */
+	64 /* El paciente presenta Lagrimeo */
+	65 /* El paciente presenta Disminuci&#243;n de la Agudeza Visual */
+	66 /* El paciente presenta Lesiones de la Piel */
+	67 /* El paciente presenta Fen&#243;meno de Fotosensibilidad */
+	68 /* El paciente presenta Ulceras Maleolares */
+	69 /* El paciente presenta Uretrorrea */
+		C & -1.0 1  6 [-1.0 -0.01]
+	70 /* El paciente presenta Oliguria */
+	71 /* El paciente presenta Disuria */
+	72 /* El paciente presenta Eritema Malar (Erucci&#243;n Cut&#225;nea) */
+	73 /* El paciente presenta Escalofr&#237;os */
+	74 /* El paciente presenta Coluria u Orina Oscura */
+	75 /* El paciente presenta Polaquiuria */
+	76 /* El paciente presenta Leucorrea o Flujo */
+		C & -1.0 1  6 [0.01 1.0]
+	77 /* El paciente presenta Metrorragia */
+		C & -1.0 1  6 [0.01 1.0]
+	78 /* El paciente refiere tener Dolor en Extremidades Inferiores */
+	79 /* El paciente refiere tener Alteraciones del Color de Extremidades */
+	80 /* El sexo del paciente es Masculino */
+	81 /* El paciente refiere tener Rinorrea o Secreci&#243;n Nasal */
+	82 /* El paciente refiere tener Ep&#237;staxis */
+	83 /* El paciente refiere tener Estornudos */
+	84 /* El paciente refiere tener Obstrucci&#243;n Nasal */
+	85 /* El paciente refiere tener Dolor Facial */
+	86 /* El paciente refiere tener Odinofagia y/o Prurito Far&#237;ngeo */
+	87 /* El paciente refiere tener Estridor */
+	88 /* El paciente tiene Hemorroides */
+	89 /* El paciente tiene Dolor Anal */
+	90 /* El paciente tiene Prurito Anal */
+		C & -1.0 1  290 [0.001 1.0]
+	91 /* El paciente ha notado Bultos */
+	92 /* El paciente refiere tener Astenia y Anorexia */
+	93 /* El paciente refiere tener P&#233;rdida de Peso */
+	94 /* El paciente refiere tener Tenesmo Rectal */
+	95 /* El paciente refiere tener Adenopat&#237;as */
+	96 /* El paciente refiere tener Hemorragia Superficial (Membranas Mucosas y/o Piel) */
+	97 /* El paciente refiere tener Palidez */
+	98 /* El paciente refiere tener Aerofagia */
+	99 /* El paciente refiere dolor Rectal */
+	100 /* El paciente presenta Urgencia Rectal */
+	101 /* El paciente refiere tener Respiraci&#243;n Bucal */
+	102 /* El paciente presenta Otorragia */
+	103 /* El paciente refiere tener Gingivorragia */
+	104 /* El paciente refiere tener Odinofagia */
+	105 /* El paciente presenta Ronchas o Hab&#243;n (Urticaria) */
+	106 /* El paciente refiere tener Astenia */
+	107 /* El paciente refiere tener Anorexia */
+	108 /* El paciente refiere tener N&#225;useas */
+	109 /* El paciente refiere tener V&#243;mitos */
+	110 /* El paciente presenta Neuropat&#237;a */
+	111 /* El paciente refiere tener Dolor Oseo */
+	112 /* El paciente presenta Esteatorrea */
+	113 /* El paciente refiere tener Mareo - V&#233;rtigo */
+	114 /* El paciente presenta Alteraciones de la Marcha */
+	115 /* El paciente presenta Sintomatolog&#237;a Sist&#233;mica */
+	116 /* El paciente refiere tener Dolor Testicular */
+		C & -1.0 1  6 [-1.0 -0.01]
+	117 /* El paciente refiere tener Aumento de Volumen en los Test&#237;culos */
+		C & -1.0 1  6 [-1.0 -0.01]
+	118 /* El paciente refiere tener Dolor Lumbar */
+	119 /* El paciente refiere tener Mastodinia o Dolor en las Mamas */
+	120 /* El paciente refiere tener Temperatura Normal */
+	121 /* El paciente refiere tener Fiebre y/o Febr&#237;cula */
+	122 /* El paciente refiere tener Prurito Far&#237;ngeo */
+		C & -1.0 1  290 [0.001 1.0]
+	123 /* El paciente refiere tener Somnolencia */
+	124 /* El paciente presenta Disminuci&#243;n de la Agudeza Mental */
+	125 /* El paciente presenta Mononucleosis Infecciosa */
+	126 /* Comod&#237;n de la pregunta de S&#237;ntomas de Todos los Aparatos */
+	127 /* Comod&#237;n de s&#237;ntomas del Sistema General */
+		C & -1.0 1  139 [0.01 1.0]
+		V 6 U
+	128 /* Comod&#237;n de s&#237;ntomas del Aparato Digestivo */
+		C & -1.0 1  140 [0.01 1.0]
+		V 7 U
+	129 /* Comod&#237;n de s&#237;ntomas del Aparato Respiratorio */
+		C & -1.0 1  141 [0.01 1.0]
+		V 8 U
+	130 /* Comod&#237;n de s&#237;ntomas del Aparato Osteomioarticular */
+		C & -1.0 1  142 [0.01 1.0]
+		V 9 U
+	131 /* Comod&#237;n de s&#237;ntomas del Aparato Cardiovascular */
+		C & -1.0 1  143 [0.01 1.0]
+		V 10 U
+	132 /* Comod&#237;n de s&#237;ntomas del Aparato Hematol&#243;gico */
+		C & -1.0 1  144 [0.01 1.0]
+		V 11 U
+	133 /* Comod&#237;n de s&#237;ntomas del Aparato Genito-Urinario */
+		C & -1.0 1  145 [0.01 1.0]
+		V 12 U
+	134 /* El paciente refiere tener Modificaciones del Chorro Urinario */
+		C & -1.0 1  6 [-1.0 -0.01]
+	135 /* Comod&#237;n de s&#237;ntomas del Aparato Nervioso (Neurol&#243;gico) */
+		C & -1.0 1  147 [0.01 1.0]
+		V 14 U
+	136 /* Comod&#237;n de s&#237;ntomas del Aparato Otorrinolaringol&#243;gico */
+		C & -1.0 1  149 [0.01 1.0]
+		V 17 U
+	137 /* Comod&#237;n de s&#237;ntomas del Aparato Dermatol&#243;gico */
+		C & -1.0 1  150 [0.01 1.0]
+		V 15 U
+	138 /* Comod&#237;n de s&#237;ntomas del Aparato Oftalmol&#243;gico */
+		C & -1.0 1  151 [0.01 1.0]
+		V 13 U
+	139 /* El paciente presenta s&#237;ntomas del Sistema General */
+	140 /* El paciente presenta s&#237;ntomas Digestivos */
+	141 /* El paciente presenta s&#237;ntomas Respiratorios */
+	142 /* El paciente presenta s&#237;ntomas Osteomioarticulares */
+	143 /* El paciente presenta s&#237;ntomas Cardiovasculares */
+	144 /* El paciente presenta s&#237;ntomas Hematol&#243;gicos */
+	145 /* El paciente presenta s&#237;ntomas Genito-Urinarios */
+	146 /* El paciente refiere tener Retenci&#243;n de la Orina */
+	147 /* El paciente presenta s&#237;ntomas Neurol&#243;gicos */
+	148 /* El paciente presenta s&#237;ntomas Endocrinos */
+	149 /* El paciente presenta s&#237;ntomas Aparato Otorrinolaringol&#243;gico */
+	150 /* El paciente presenta s&#237;ntomas Dermatol&#243;gicos */
+	151 /* El paciente presenta s&#237;ntomas Oftalmol&#243;gicos */
+	152 /* Todos los S&#237;ntomas */
+	153 /* El paciente presenta Temblor */
+	154 /* El paciente presenta Movimientos Involuntarios */
+	155 /* El paciente presenta Paresia */
+	156 /* El paciente presenta Debilidad Muscular */
+	157 /* El paciente presenta Desorientaci&#243;n Temporoespacial */
+	158 /* El paciente presenta Melena */
+	159 /* El paciente presenta Deformidad Osea */
+	160 /* El paciente presenta Incontinencia Esfinteriana Vesical */
+	161 /* El paciente presenta Poliuria */
+	162 /* El paciente presenta Escotomas o Visi&#243;n de Candelillas */
+	163 /* El paciente presenta Ac&#250;fenos o Sumbido en los O&#237;dos */
+	164 /* El paciente est&#225; en Coma */
+	165 /* El paciente presenta Embotamiento */
+	166 /* El paciente presenta Ritmos Respiratorios Anormales */
+	167 /* El paciente presenta Ascitis */
+	168 /* El paciente presenta Sed Intensa */
+	169 /* El paciente presenta Polidipsia */
+	170 /* El paciente presenta Polifagia */
+	171 /* El paciente presenta Ginecomastia */
+		C & -1.0 1  6 [-1.0 -0.01]
+	172 /* El paciente presenta Dispareunia */
+		C & -1.0 1  6 [0.01 1.0]
+	173 /* El paciente presenta Ardor y/o Dolor Vaginal */
+		C & -1.0 1  6 [0.01 1.0]
+	174 /* El paciente presenta Dolor en Extremidades Superiores */
+	175 /* El paciente presenta Aumento de Peso Mayor que el Ideal (Obesidad) */
+	176 /* El paciente presenta Hirsutismo */
+	177 /* El paciente presenta Galactorrea o Secreci&#243;n de Leche por los Pezones */
+	178 /* El paciente presenta Esterilidad */
+	179 /* El paciente presenta Dolor en la Regi&#243;n Tiroidea */
+	180 /* El paciente presenta Prominencia de los Globos Oculares */
+	181 /* El paciente presenta Virilismo */
+	182 /* Comod&#237;n de s&#237;ntomas del Aparato Endocrino */
+		C & -1.0 1  148 [0.01 1.0]
+		V 16 U
+	183 /* Bocio y/o N&#243;dulo Tiroideo */
+	184 /* El paciente Aumenta de Peso */
+	185 /* El paciente presenta Alteraci&#243;n de la Sensibilidad */
+	186 /* El paciente presenta Disfon&#237;a */
+	187 /* El paciente presenta la Piel H&#250;meda y/o Caliente */
+	188 /* El paciente presenta Alteraciones de la Memoria */
+	189 /* El paciente presenta Bultos en las Mamas */
+	190 /* El paciente presenta Bradicinesia */
+	191 /* El paciente presenta Confusi&#243;n Mental */
+	192 /* El paciente presenta Bradisiquia */
+	193 /* El paciente presenta Oligomenorrea */
+		C & -1.0 1  6 [0.01 1.0]
+	194 /* El paciente presenta Trastornos de la Menstruaci&#243;n */
+		C & -1.0 1  6 [0.01 1.0]
+	195 /* El paciente presenta Impotencia */
+		C & -1.0 1  6 [-1.0 -0.01]
+	196 /* El paciente presenta Hipertricosis */
+	197 /* El paciente presenta Disminuci&#243;n de la L&#237;bido */
+	198 /* El paciente presenta Intolerancia al Fr&#237;o */
+	199 /* El paciente presenta Intolerancia al Calor */
+	200 /* El paciente presenta P&#233;rdida del Vello Corporal */
+	201 /* El paciente presenta Hiperpigmentaci&#243;n Cut&#225;neo - Mucosa */
+	202 /* El paciente presenta Alopecia o Ca&#237;da del Pelo */
+	203 /* El paciente presenta Aumento de Tama&#241;o de Manos y Pies */
+	204 /* El paciente tiene Baja Talla */
+	205 /* El paciente presenta Desfeminizaci&#243;n */
+	206 /* Edad mayor de 50 */
+	207 /* Edad mayor de 35 */
+	208 /* Edad entre de 14 y 20 */
+	209 /* El paciente est&#225; Nervioso, Irritable o Ansioso */
+	210 /* Edad entre 30 y 50 */
+	211 /* El paciente presenta Fragilidad Capilar */
+	212 /* El paciente presenta Sequedad de la Piel */
+	213 /* El paciente presenta Anhidrosis */
+	214 /* El paciente presenta P&#250;rpura en Extremidades Inferiores */
+	215 /* El paciente presenta Otorrea */
+	216 /* El paciente presenta Sordera o Hipoacusia */
+	217 /* El paciente presenta Otalgia o Dolor de O&#237;do */
+	218 /* El paciente presenta Prurito Nasal */
+		C & -1.0 1  290 [0.001 1.0]
+	219 /* El paciente presenta Prurito Otico */
+		C & -1.0 1  290 [0.001 1.0]
+	220 /* El paciente presenta Disgeusias */
+	221 /* El paciente presenta Trastornos de la Degluci&#243;n */
+	222 /* El paciente presenta Trastornos del Olfato */
+	223 /* El paciente presenta Halitosis */
+	224 /* El paciente presenta Afectaci&#243;n del Estado General */
+	225 /* El paciente presenta Dismenorrea */
+		C & -1.0 2  6 [0.01 1.0] 241 [-1.0 -0.001]
+	226 /* El paciente presenta Sibilancias */
+	227 /* El paciente presenta Sialorrea */
+	228 /* El paciente presenta Voz Cavernosa */
+	229 /* El paciente presenta Aumento de Tama&#241;o de Maxilar Inferior */
+	230 /* El paciente presenta Rubor y/o Calor en las Mamas */
+	231 /* Intermedio de S&#237;ntomas Inflamatorios en las Mamas */
+	232 /* El paciente presenta Aumento en las Mamas ( Mujer ) */
+		C & -1.0 1  6 [0.01 1.0]
+	233 /* Intermedio Fiebre o Escalofrio */
+	234 /* Mujer en edad F&#233;rtil */
+	235 /* El paciente presenta Prurito Genital */
+		C & -1.0 1  290 [0.001 1.0]
+	236 /* El paciente presenta Focalidad par Craneal */
+	237 /* El paciente presenta Alteraciones Vasomotoras (Palidez Facial, Rubicundez) */
+	238 /* El paciente presenta Hipotensi&#243;n Ortost&#225;tica */
+	239 /* El paciente presenta Hipo */
+	240 /* El paciente presenta Ulcera en los Genitales */
+	241 /* Edad entre 60 y 100 a&#241;os */
+	242 /* Edad menor de 45 a&#241;os */
+	243 /* El paciente refiere Xerostomia */
+	244 /* El paciente presenta Alteraci&#243;n del Trofismo Muscular */
+	245 /* El paciente presenta Alteraci&#243;n del Tono Muscular */
+	246 /* El paciente presenta Alteraci&#243;n del Lenguaje (Disartria o Afasia) */
+	247 /* El paciente presenta Ataxia - Dismetr&#237;as */
+	248 /* El paciente presenta Dropp - Attacks */
+	249 /* El paciente est&#225; en Estado de Estupor */
+	250 /* El paciente presenta Retraso Psico - Motor */
+	251 /* El paciente presenta Incontinencia Esfinteriana Anal */
+	252 /* El paciente presenta Fotofobia */
+	253 /* El paciente presenta Ptosis Parpebral */
+	254 /* El paciente presenta Estrabismo */
+	255 /* El paciente presenta Alteraci&#243;n de Funciones Mentales Superiores */
+	256 /* El paciente presenta Diplopia */
+	257 /* El paciente presenta Anosognosia */
+	258 /* Edad menor de 25 a&#241;os */
+	259 /* Alternando con la Hemoptisis presenta Expectoraci&#243;n */
+	260 /* El paciente presenta Tenesmo Vesical */
+	261 /* El paciente presenta Prurito Ocular */
+		C & -1.0 1  290 [0.001 1.0]
+	262 /* El paciente presenta Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos */
+	263 /* El paciente presenta Secreci&#243;n Conjuntival */
+	264 /* El paciente refiere tener Pujos */
+	265 /* El paciente refiere tener P&#250;stulas */
+	266 /* El paciente presenta Hemorragia Profunda (Tejidos Subcut&#225;neos, M&#250;sculo */
+	267 /* El paciente presenta Acolia */
+	268 /* El paciente presenta Tetania */
+	269 /* El paciente presenta Dolor Cervical */
+	270 /* El paciente presenta Flapping Tremor */
+	271 /* El paciente presenta Ves&#237;culas Cut&#225;neas */
+	272 /* El paciente presenta Agitacia, Excitaci&#243;n o Alucinaciones */
+	273 /* El paciente presenta Hidrofobia */
+	274 /* El paciente presenta Trismos */
+	275 /* El paciente presenta P&#250;rpura en Extremidades Superiores */
+	276 /* El paciente presenta P&#250;rpura en Tronco */
+	277 /* El paciente presenta P&#250;rpura Generalizadas */
+	278 /* El paciente presenta Petequias */
+	279 /* El paciente presenta Hemorragias Lineales en U&#241;as */
+	280 /* El paciente presenta P&#225;pulas Dolorosas en Dedos */
+	281 /* El paciente presenta Flictenas D&#233;rmicas (Ampollas o Bula) */
+	282 /* El paciente presenta Abrasiones D&#233;rmicas */
+	283 /* El paciente presenta Alteraci&#243;n en las U&#241;as */
+	284 /* El paciente presenta Ulceraci&#243;n en Dedos */
+	285 /* El paciente presenta Lesiones Purp&#250;ricas */
+	286 /* El paciente presenta Bultos en la Piel (N&#243;dulos Subcut&#225;neos) */
+	287 /* El paciente presenta Queratitis */
+	288 /* El paciente presenta Eritema Discoide */
+	289 /* El paciente presenta Prurito */
+	290 /* El paciente presenta Prurito Localizado */
+	291 /* El paciente presenta Dolor Neur&#237;tico */
+	292 /* El paciente presenta Manchas en la Piel o M&#225;cula */
+	293 /* El paciente presenta Erupci&#243;n en la Piel */
+	294 /* El paciente presenta Bultos en la Piel (N&#243;dulos, Tub&#233;rculos) */
+	295 /* El paciente presenta otros tipos de Lesiones de la Piel */
+	296 /* El paciente presenta For&#250;nculos */
+	297 /* El paciente presenta Abscesos en la Piel */
+	298 /* El paciente presenta Bultos en la piel (N&#243;dulos, Tub&#233;rculos, otros) */
+	299 /* El paciente presenta otro tipo de Erupci&#243;n en la Piel */
+	300 /* El paciente presenta Manchas en la piel o M&#225;cula (Otros) */
+	301 /* El paciente presenta otras Lesiones de Piel localizadas en los Genitales */
+	302 /* El paciente presenta Tinnitus */
+	303 /* El paciente presenta Hipermenorrea */
+		C & -1.0 1  6 [0.01 1.0]
+	304 /* El paciente presenta Hipomenorrea */
+		C & -1.0 1  6 [0.01 1.0]
+	305 /* La paciente presenta Otros Trastornos de la Menstruaci&#243;n */
+		C & -1.0 1  6 [0.01 1.0]
+//  REGLAS
+	2 V 3 V 4 V 5 V 58 V 206 V 207 V 208 V 210 V 241 V 242 V 258  => 1 1.0;
+	-2 & -3 & -4 & -5 & -58 & -206 & -207 & -208 & -210 & -241 & -242 & -258  => 1 -1.0;
+	38 V 193 V 225 V 303 V 304 V 305  => 194 1.0;
+	-38 & -193 & -225 & -303 & -304 & -305  => 194 -1.0;
+	214 V 55 V 72 V 288 V 275 V 276 V 277 V 201 V 300  => 292 1.0;
+	-214 & -55 & -72 & -288 & -275 & -276 & -277 & -201 & -300  => 292 -1.0;
+	35 V 34 V 55 V 72 V 288 V 299  => 293 1.0;
+	-35 & -34 & -55 & -72 & -288 & -299  => 293 -1.0;
+	298  => 294 1.0;
+	-298  => 294 -1.0;
+	298  => 286 1.0;
+	-298  => 286 -1.0;
+	294  => 57 1.0;
+	-294  => 57 -1.0;
+	281 V 293 V 60  => 56 1.0;
+	-281 & -293 & -60  => 56 -1.0;
+	62 & 252 & 64  => 287 1.0;
+	-62 V -252 V -64  => 287 -1.0;
+	214 V 275 V 276 V 277  => 285 1.0;
+	-214 & -275 & -276 & -277  => 285 -1.0;
+	106 & 107  => 92 1.0;
+	-106 V -107  => 92 -1.0;
+	92 & 93  => 42 1.0;
+	-92 V -93  => 42 -1.0;
+	108 V 109  => 9 1.0;
+	-108 & -109  => 9 -1.0;
+	40 V 41  => 121 1.0;
+	-40 & -41  => 121 -1.0;
+	104 V 122  => 86 1.0;
+	-104 & -122  => 86 -1.0;
+	232 & 230  => 231 1.0;
+	40 V 73  => 233 1.0;
+	6 & (58 V 4 ) => 234 1.0;
+	297 V 37 V 202 V 298 V 35 V 34 V 214 V 36 V 55 V 72 V 288 V 299 V 300 V 105 V 284 V 240 V 68 V 67 V 271 V 289 V 265 V 283 V 275 V 276 V 277 V 279 V 280 V 281 V 296 V 282 V 295 V 56 V 301  => 66 1.0;
+	2{15,1}  => 290 1.0;
+	-2{15,1}  => 290 -1.0;
+	3{15,1}  => 59 1.0;
+	-3{15,1}  => 59 -1.0;
+//  VARIABLES
+	I T N N 12 [14 100] 2 [15 29] 3 [30 39] 4 [40 54] 5 [55 100] 58 [15 39] 206 [50 100] 207 [35 100] 208 [15 20] 210 [30 50] 241 [60 100] 242 [15 45] 258 [15 25] 
+	C T S S 182 297 NULL 267 NULL 37 NULL 163 NULL 95 NULL 60 NULL 202 NULL 185 NULL 255 NULL 283 NULL 30 NULL 245 NULL 244 NULL 114 NULL 188 NULL 79 NULL 246 NULL 237 NULL 38 NULL 213 NULL 107 NULL 46 NULL 15 NULL 106 NULL 247 NULL 184 NULL 175 NULL 203 NULL 232 NULL 117 NULL 183 NULL 190 NULL 192 NULL 298 NULL 189 NULL 31 NULL 33 NULL 156 NULL 47 NULL 51 NULL 205 NULL 157 NULL 10 NULL 19 NULL 186 NULL 220 NULL 225 NULL 65 NULL 197 NULL 22 NULL 13 NULL 12 NULL 71 NULL 20 NULL 89 NULL 50 NULL 269 NULL 78 NULL 174 NULL 62 NULL 179 NULL 85 NULL 118 NULL 49 NULL 291 NULL 111 NULL 116 NULL 25 NULL 248 NULL 36 NULL 63 NULL 288 NULL 72 NULL 299 NULL 162 NULL 178 NULL 83 NULL 254 NULL 14 NULL 87 NULL 249 NULL 55 NULL 23 NULL 41 NULL 67 NULL 40 NULL 270 NULL 236 NULL 296 NULL 252 NULL 177 NULL 171 NULL 223 NULL 266 NULL 96 NULL 201 NULL 196 NULL 239 NULL 176 NULL 11 NULL 195 NULL 251 NULL 160 NULL 64 NULL 76 NULL 52 NULL 300 NULL 113 NULL 119 NULL 77 NULL 44 NULL 134 NULL 154 NULL 108 NULL 209 NULL 84 NULL 104 NULL 193 NULL 70 NULL 217 NULL 215 NULL 295 NULL 97 NULL 27 NULL 155 NULL 93 NULL 200 NULL 278 NULL 187 NULL 17 NULL 75 NULL 169 NULL 170 NULL 161 NULL 180 NULL 289 NULL 253 NULL 264 NULL 214 NULL 275 NULL 276 NULL 277 NULL 265 NULL 35 NULL 16 NULL 146 NULL 250 NULL 81 NULL 166 NULL 105 NULL 48 NULL 34 NULL 263 NULL 168 NULL 262 NULL 212 NULL 227 NULL 226 NULL 29 NULL 45 NULL 123 NULL 216 NULL 43 NULL 204 NULL 153 NULL 94 NULL 260 NULL 268 NULL 302 NULL 21 NULL 221 NULL 305 NULL 222 NULL 274 NULL 284 NULL 240 NULL 68 NULL 69 NULL 271 NULL 181 NULL 109 NULL 243 NULL 
+	S T N N 2 6 NULL 80 NULL 
+	S T S N 3 120 NULL 41 NULL 40 NULL 
+	M T S S 13 139 [0.001 1.0] V6 140 [0.001 1.0] V7 141 [0.001 1.0] V8 142 [0.001 1.0] V9 143 [0.001 1.0] V10 144 [0.001 1.0] V11 145 [0.001 1.0] V12 147 [0.001 1.0] V14 148 [0.001 1.0] V16 149 [0.001 1.0] V17 150 [0.001 1.0] V15 151 [0.001 1.0] V13 152 [0.001 1.0] V2 
+	C T S S 19 213 NULL 107 NULL 46 NULL 106 NULL 184 NULL 47 NULL 197 NULL 73 NULL 41 NULL 40 NULL 223 NULL 239 NULL 44 NULL 93 NULL 289 NULL 168 NULL 45 NULL 43 NULL 243 NULL 
+	C T S S 26 10 NULL 11 NULL 12 NULL 13 NULL 14 NULL 15 NULL 16 NULL 17 NULL 18 NULL 158 NULL 19 NULL 20 NULL 53 NULL 108 NULL 109 NULL 89 NULL 94 NULL 227 NULL 251 NULL 223 NULL 243 NULL 60 NULL 267 NULL 74 NULL 264 NULL 112 NULL 
+	C T S S 15 21 NULL 22 NULL 23 NULL 24 NULL 25 NULL 81 NULL 82 NULL 83 NULL 84 NULL 85 NULL 104 NULL 87 NULL 166 NULL 48 NULL 226 NULL 
+	C T S S 7 49 NULL 50 NULL 111 NULL 51 NULL 52 NULL 245 NULL 244 NULL 
+	C T S S 9 27 NULL 36 NULL 21 NULL 25 NULL 22 NULL 29 NULL 79 NULL 78 NULL 174 NULL 
+	C T S S 13 95 NULL 97 NULL 96 NULL 266 NULL 82 NULL 102 NULL 103 NULL 39 NULL 18 NULL 158 NULL 53 NULL 77 NULL 24 NULL 
+	C T S S 26 116 NULL 117 NULL 69 NULL 76 NULL 71 NULL 39 NULL 118 NULL 36 NULL 75 NULL 161 NULL 70 NULL 134 NULL 146 NULL 160 NULL 119 NULL 38 NULL 77 NULL 189 NULL 193 NULL 305 NULL 225 NULL 232 NULL 251 NULL 195 NULL 260 NULL 264 NULL 
+	C T S S 11 62 NULL 63 NULL 64 NULL 65 NULL 254 NULL 252 NULL 61 NULL 263 NULL 262 NULL 36 NULL 162 NULL 
+	C T S S 43 29 NULL 31 NULL 33 NULL 113 NULL 30 NULL 114 NULL 153 NULL 154 NULL 155 NULL 156 NULL 157 NULL 188 NULL 209 NULL 236 NULL 237 NULL 190 NULL 192 NULL 246 NULL 247 NULL 248 NULL 249 NULL 250 NULL 123 NULL 251 NULL 160 NULL 252 NULL 253 NULL 255 NULL 254 NULL 65 NULL 245 NULL 244 NULL 185 NULL 260 NULL 268 NULL 269 NULL 256 NULL 270 NULL 272 NULL 273 NULL 25 NULL 291 NULL 162 NULL 
+	C T S S 33 297 NULL 37 NULL 202 NULL 298 NULL 35 NULL 34 NULL 214 NULL 36 NULL 55 NULL 72 NULL 288 NULL 299 NULL 300 NULL 105 NULL 284 NULL 240 NULL 68 NULL 67 NULL 271 NULL 289 NULL 265 NULL 275 NULL 276 NULL 277 NULL 279 NULL 280 NULL 281 NULL 296 NULL 282 NULL 295 NULL 283 NULL 201 NULL 301 NULL 
+	C T S S 21 169 NULL 171 NULL 175 NULL 176 NULL 177 NULL 178 NULL 93 NULL 180 NULL 181 NULL 179 NULL 183 NULL 187 NULL 196 NULL 200 NULL 201 NULL 204 NULL 205 NULL 203 NULL 212 NULL 170 NULL 184 NULL 
+	C T S S 17 302 NULL 215 NULL 102 NULL 216 NULL 113 NULL 81 NULL 84 NULL 163 NULL 186 NULL 217 NULL 104 NULL 83 NULL 82 NULL 220 NULL 221 NULL 85 NULL 222 NULL 
+//  PROGRAMAS EXTERNOS
+//  FUNCIONES INTERNAS
+//  RELACIONES PADRE-HIJOS
+//  REGLAS DE CONCLUSIONES
+//  RELACIONES PADRE - HIJOS EN CONCLUSIONES
+//  PROPOSICIONES QUE NO VAN AL SISTEMA EXPLICATORIO
+//  FIN

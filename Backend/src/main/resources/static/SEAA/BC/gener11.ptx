@@ -1,0 +1,612 @@
+1,1,1 1
+	El paciente tiene m&#225;s de 14 a&#241;os
+2,1,1 1
+	Edad entre 14 y 30
+3,1,1 1
+	Edad entre 30 y 40
+4,1,1 1
+	Edad entre 40 y 55
+5,1,1 1
+	Edad mayor de 55
+6,1,1 1
+	El paciente es de sexo Femenino
+7,1,1 1
+	Selecci&#243;n de los s&#237;ntomas
+8,1,1 1
+	El paciente presenta Dolor
+9,1,1 1
+	El paciente presenta Na&#250;seas y/o V&#243;mitos
+10,1,1 1
+	El paciente tiene s&#237;ntomas de Diarrea
+11,1,1 1
+	El paciente presenta Ictericia en la Piel y de la Mucosa
+12,1,1 1
+	El paciente refiere tener Distensi&#243;n Abdominal
+13,1,1 1
+	El paciente presenta s&#237;ntomas de Dispepsia
+14,1,1 1
+	El paciente refiere tener Estre&#241;imiento o Constipaci&#243;n
+15,1,1 1
+	El paciente presenta s&#237;ntoma de Ardor en el Epigastrio o Epigastralgia
+16,1,1 1
+	El paciente presenta Regurgitaci&#243;n
+17,1,1 1
+	El paciente presenta s&#237;ntomas de Pirosis
+18,1,1 1
+	El paciente Sangra por V&#237;a Rectal (Rectorragia)
+19,1,1 1
+	El paciente refiere tener Disfagia
+20,1,1 1
+	El paciente refiere tener Dolor Abdominal
+21,1,1 1
+	El paciente presenta Tos
+22,1,1 1
+	El paciente presenta Disnea
+23,1,1 1
+	El paciente presenta Expectoraci&#243;n
+24,1,1 1
+	El paciente presenta Hemoptisis
+25,1,1 1
+	El paciente presenta Dolor Tor&#225;cico
+26,1,1 1
+	El paciente refiere tener Flebitis Extremidades Inferiores
+27,1,1 1
+	El paciente refiere tener Palpitaciones (Taquicardia)
+28,1,1 1
+	El paciente presenta Edema en Extremidades Inferiores
+29,1,1 1
+	El paciente refiere tener un S&#237;ncope
+30,1,1 1
+	El paciente presenta Alteraci&#243;n del Nivel de Conciencia
+31,1,1 1
+	El paciente refiere tener Cefalea
+32,1,1 1
+	El paciente presenta el S&#237;ndrome de Horner
+33,1,1 1
+	El paciente presenta Convulsiones
+34,1,1 1
+	El paciente presenta Rubefacci&#243;n Cut&#225;nea
+35,1,1 1
+	El paciente presenta Rash Cut&#225;neo, Urticaria
+36,1,1 1
+	El paciente presenta Edema
+37,1,1 1
+	El paciente presenta Acropaquias
+38,1,1 1
+	El paciente refiere tener Amenorrea
+39,1,1 1
+	El paciente refiere tener Hematuria
+40,1,1 1
+	El paciente refiere tener Fiebre
+41,1,1 1
+	El paciente refiere tener Febr&#237;cula
+42,1,1 2
+	El paciente presenta S&#237;ndrome General (Astenia, Anorexia, P&#233;rdida de
+	 Peso)
+43,1,1 1
+	El paciente refiere tener Sudoraci&#243;n
+44,1,1 1
+	El paciente presenta Mialgias y/o Quebrantamiento General
+45,1,1 1
+	El paciente presenta S&#237;ntomas Vegetativos
+46,1,1 1
+	El paciente presenta S&#237;ntomas Depresivos o Ansiedad
+47,1,1 1
+	El paciente presenta Debilidad, Fatigabilidad
+48,1,1 1
+	El paciente refiere tener Apnea de Sue&#241;o (Ronquidos Nocturnos)
+49,1,1 1
+	El paciente presenta Dolor Muscular o Mialgias
+50,1,1 1
+	El paciente presenta Dolor Articular o Artralgia
+51,1,1 1
+	El paciente presenta Deformidad y/o Aumento de Volumen Articular
+52,1,1 1
+	El paciente refiere tener Limitaci&#243;n Funcional Articular
+53,1,1 1
+	El paciente presenta Hematemesis
+54,1,1 1
+	El paciente presenta Herpes Labial
+55,1,1 1
+	El paciente presenta Exantema
+56,1,1 1
+	El paciente presenta Eritema Multiforme
+57,1,1 1
+	El paciente presenta Eritema Nodoso
+58,1,1 1
+	El paciente tiene menos de 40 a&#241;os
+59,1,1 1
+	El paciente presenta Prurito Generalizado
+60,1,1 1
+	El paciente presenta Aftas o Ulceras Orales
+61,1,1 1
+	El paciente presenta Ardor Ocular
+62,1,1 1
+	El paciente presenta Dolor en Globo Ocular
+63,1,1 1
+	El paciente presenta Enrojecimiento Ocular
+64,1,1 1
+	El paciente presenta Lagrimeo
+65,1,1 1
+	El paciente presenta Disminuci&#243;n de la Agudeza Visual
+66,1,1 1
+	El paciente presenta Lesiones de la Piel
+67,1,1 1
+	El paciente presenta Fen&#243;meno de Fotosensibilidad
+68,1,1 1
+	El paciente presenta Ulceras Maleolares
+69,1,1 1
+	El paciente presenta Uretrorrea
+70,1,1 1
+	El paciente presenta Oliguria
+71,1,1 1
+	El paciente presenta Disuria
+72,1,1 1
+	El paciente presenta Eritema Malar (Erucci&#243;n Cut&#225;nea)
+73,1,1 1
+	El paciente presenta Escalofr&#237;os
+74,1,1 1
+	El paciente presenta Coluria u Orina Oscura
+75,1,1 1
+	El paciente presenta Polaquiuria
+76,1,1 1
+	El paciente presenta Leucorrea o Flujo
+77,1,1 1
+	El paciente presenta Metrorragia
+78,1,1 1
+	El paciente refiere tener Dolor en Extremidades Inferiores
+79,1,1 1
+	El paciente refiere tener Alteraciones del Color de Extremidades
+80,1,1 1
+	El sexo del paciente es Masculino
+81,1,1 1
+	El paciente refiere tener Rinorrea o Secreci&#243;n Nasal
+82,1,1 1
+	El paciente refiere tener Ep&#237;staxis
+83,1,1 1
+	El paciente refiere tener Estornudos
+84,1,1 1
+	El paciente refiere tener Obstrucci&#243;n Nasal
+85,1,1 1
+	El paciente refiere tener Dolor Facial
+86,1,1 1
+	El paciente refiere tener Odinofagia y/o Prurito Far&#237;ngeo
+87,1,1 1
+	El paciente refiere tener Estridor
+88,1,1 1
+	El paciente tiene Hemorroides
+89,1,1 1
+	El paciente tiene Dolor Anal
+90,1,1 1
+	El paciente tiene Prurito Anal
+91,1,1 1
+	El paciente ha notado Bultos
+92,1,1 1
+	El paciente refiere tener Astenia y Anorexia
+93,1,1 1
+	El paciente refiere tener P&#233;rdida de Peso
+94,1,1 1
+	El paciente refiere tener Tenesmo Rectal
+95,1,1 1
+	El paciente refiere tener Adenopat&#237;as
+96,1,1 1
+	El paciente refiere tener Hemorragia Superficial (Membranas Mucosas y/o Piel)
+97,1,1 1
+	El paciente refiere tener Palidez
+98,1,1 1
+	El paciente refiere tener Aerofagia
+99,1,1 1
+	El paciente refiere dolor Rectal
+100,1,1 1
+	El paciente presenta Urgencia Rectal
+101,1,1 1
+	El paciente refiere tener Respiraci&#243;n Bucal
+102,1,1 1
+	El paciente presenta Otorragia
+103,1,1 1
+	El paciente refiere tener Gingivorragia
+104,1,1 1
+	El paciente refiere tener Odinofagia
+105,1,1 1
+	El paciente presenta Ronchas o Hab&#243;n (Urticaria)
+106,1,1 1
+	El paciente refiere tener Astenia
+107,1,1 1
+	El paciente refiere tener Anorexia
+108,1,1 1
+	El paciente refiere tener N&#225;useas
+109,1,1 1
+	El paciente refiere tener V&#243;mitos
+110,1,1 1
+	El paciente presenta Neuropat&#237;a
+111,1,1 1
+	El paciente refiere tener Dolor Oseo
+112,1,1 1
+	El paciente presenta Esteatorrea
+113,1,1 1
+	El paciente refiere tener Mareo - V&#233;rtigo
+114,1,1 1
+	El paciente presenta Alteraciones de la Marcha
+115,1,1 1
+	El paciente presenta Sintomatolog&#237;a Sist&#233;mica
+116,1,1 1
+	El paciente refiere tener Dolor Testicular
+117,1,1 1
+	El paciente refiere tener Aumento de Volumen en los Test&#237;culos
+118,1,1 1
+	El paciente refiere tener Dolor Lumbar
+119,1,1 1
+	El paciente refiere tener Mastodinia o Dolor en las Mamas
+120,1,1 1
+	El paciente refiere tener Temperatura Normal
+121,1,1 1
+	El paciente refiere tener Fiebre y/o Febr&#237;cula
+122,1,1 1
+	El paciente refiere tener Prurito Far&#237;ngeo
+123,1,1 1
+	El paciente refiere tener Somnolencia
+124,1,1 1
+	El paciente presenta Disminuci&#243;n de la Agudeza Mental
+125,1,1 1
+	El paciente presenta Mononucleosis Infecciosa
+126,1,1 1
+	Comod&#237;n de la pregunta de S&#237;ntomas de Todos los Aparatos
+127,1,1 1
+	Comod&#237;n de s&#237;ntomas del Sistema General
+128,1,1 1
+	Comod&#237;n de s&#237;ntomas del Aparato Digestivo
+129,1,1 1
+	Comod&#237;n de s&#237;ntomas del Aparato Respiratorio
+130,1,1 1
+	Comod&#237;n de s&#237;ntomas del Aparato Osteomioarticular
+131,1,1 1
+	Comod&#237;n de s&#237;ntomas del Aparato Cardiovascular
+132,1,1 1
+	Comod&#237;n de s&#237;ntomas del Aparato Hematol&#243;gico
+133,1,1 1
+	Comod&#237;n de s&#237;ntomas del Aparato Genito-Urinario
+134,1,1 1
+	El paciente refiere tener Modificaciones del Chorro Urinario
+135,1,1 1
+	Comod&#237;n de s&#237;ntomas del Aparato Nervioso (Neurol&#243;gico)
+136,1,1 1
+	Comod&#237;n de s&#237;ntomas del Aparato Otorrinolaringol&#243;gico
+137,1,1 1
+	Comod&#237;n de s&#237;ntomas del Aparato Dermatol&#243;gico
+138,1,1 1
+	Comod&#237;n de s&#237;ntomas del Aparato Oftalmol&#243;gico
+139,1,1 1
+	El paciente presenta s&#237;ntomas del Sistema General
+140,1,1 1
+	El paciente presenta s&#237;ntomas Digestivos
+141,1,1 1
+	El paciente presenta s&#237;ntomas Respiratorios
+142,1,1 1
+	El paciente presenta s&#237;ntomas Osteomioarticulares
+143,1,1 1
+	El paciente presenta s&#237;ntomas Cardiovasculares
+144,1,1 1
+	El paciente presenta s&#237;ntomas Hematol&#243;gicos
+145,1,1 1
+	El paciente presenta s&#237;ntomas Genito-Urinarios
+146,1,1 1
+	El paciente refiere tener Retenci&#243;n de la Orina
+147,1,1 1
+	El paciente presenta s&#237;ntomas Neurol&#243;gicos
+148,1,1 1
+	El paciente presenta s&#237;ntomas Endocrinos
+149,1,1 1
+	El paciente presenta s&#237;ntomas Aparato Otorrinolaringol&#243;gico
+150,1,1 1
+	El paciente presenta s&#237;ntomas Dermatol&#243;gicos
+151,1,1 1
+	El paciente presenta s&#237;ntomas Oftalmol&#243;gicos
+152,1,1 1
+	Todos los S&#237;ntomas
+153,1,1 1
+	El paciente presenta Temblor
+154,1,1 1
+	El paciente presenta Movimientos Involuntarios
+155,1,1 1
+	El paciente presenta Paresia
+156,1,1 1
+	El paciente presenta Debilidad Muscular
+157,1,1 1
+	El paciente presenta Desorientaci&#243;n Temporoespacial
+158,1,1 1
+	El paciente presenta Melena
+159,1,1 1
+	El paciente presenta Deformidad Osea
+160,1,1 1
+	El paciente presenta Incontinencia Esfinteriana Vesical
+161,1,1 1
+	El paciente presenta Poliuria
+162,1,1 1
+	El paciente presenta Escotomas o Visi&#243;n de Candelillas
+163,1,1 1
+	El paciente presenta Ac&#250;fenos o Sumbido en los O&#237;dos
+164,1,1 1
+	El paciente est&#225; en Coma
+165,1,1 1
+	El paciente presenta Embotamiento
+166,1,1 1
+	El paciente presenta Ritmos Respiratorios Anormales
+167,1,1 1
+	El paciente presenta Ascitis
+168,1,1 1
+	El paciente presenta Sed Intensa
+169,1,1 1
+	El paciente presenta Polidipsia
+170,1,1 1
+	El paciente presenta Polifagia
+171,1,1 1
+	El paciente presenta Ginecomastia
+172,1,1 1
+	El paciente presenta Dispareunia
+173,1,1 1
+	El paciente presenta Ardor y/o Dolor Vaginal
+174,1,1 1
+	El paciente presenta Dolor en Extremidades Superiores
+175,1,1 1
+	El paciente presenta Aumento de Peso Mayor que el Ideal (Obesidad)
+176,1,1 1
+	El paciente presenta Hirsutismo
+177,1,1 1
+	El paciente presenta Galactorrea o Secreci&#243;n de Leche por los Pezones
+178,1,1 1
+	El paciente presenta Esterilidad
+179,1,1 1
+	El paciente presenta Dolor en la Regi&#243;n Tiroidea
+180,1,1 1
+	El paciente presenta Prominencia de los Globos Oculares
+181,1,1 1
+	El paciente presenta Virilismo
+182,1,1 1
+	Comod&#237;n de s&#237;ntomas del Aparato Endocrino
+183,1,1 1
+	Bocio y/o N&#243;dulo Tiroideo
+184,1,1 1
+	El paciente Aumenta de Peso
+185,1,1 1
+	El paciente presenta Alteraci&#243;n de la Sensibilidad
+186,1,1 1
+	El paciente presenta Disfon&#237;a
+187,1,1 1
+	El paciente presenta la Piel H&#250;meda y/o Caliente
+188,1,1 1
+	El paciente presenta Alteraciones de la Memoria
+189,1,1 1
+	El paciente presenta Bultos en las Mamas
+190,1,1 1
+	El paciente presenta Bradicinesia
+191,1,1 1
+	El paciente presenta Confusi&#243;n Mental
+192,1,1 1
+	El paciente presenta Bradisiquia
+193,1,1 1
+	El paciente presenta Oligomenorrea
+194,1,1 1
+	El paciente presenta Trastornos de la Menstruaci&#243;n
+195,1,1 1
+	El paciente presenta Impotencia
+196,1,1 1
+	El paciente presenta Hipertricosis
+197,1,1 1
+	El paciente presenta Disminuci&#243;n de la L&#237;bido
+198,1,1 1
+	El paciente presenta Intolerancia al Fr&#237;o
+199,1,1 1
+	El paciente presenta Intolerancia al Calor
+200,1,1 1
+	El paciente presenta P&#233;rdida del Vello Corporal
+201,1,1 1
+	El paciente presenta Hiperpigmentaci&#243;n Cut&#225;neo - Mucosa
+202,1,1 1
+	El paciente presenta Alopecia o Ca&#237;da del Pelo
+203,1,1 1
+	El paciente presenta Aumento de Tama&#241;o de Manos y Pies
+204,1,1 1
+	El paciente tiene Baja Talla
+205,1,1 1
+	El paciente presenta Desfeminizaci&#243;n
+206,1,1 1
+	Edad mayor de 50
+207,1,1 1
+	Edad mayor de 35
+208,1,1 1
+	Edad entre de 14 y 20
+209,1,1 1
+	El paciente est&#225; Nervioso, Irritable o Ansioso
+210,1,1 1
+	Edad entre 30 y 50
+211,1,1 1
+	El paciente presenta Fragilidad Capilar
+212,1,1 1
+	El paciente presenta Sequedad de la Piel
+213,1,1 1
+	El paciente presenta Anhidrosis
+214,1,1 1
+	El paciente presenta P&#250;rpura en Extremidades Inferiores
+215,1,1 1
+	El paciente presenta Otorrea
+216,1,1 1
+	El paciente presenta Sordera o Hipoacusia
+217,1,1 1
+	El paciente presenta Otalgia o Dolor de O&#237;do
+218,1,1 1
+	El paciente presenta Prurito Nasal
+219,1,1 1
+	El paciente presenta Prurito Otico
+220,1,1 1
+	El paciente presenta Disgeusias
+221,1,1 1
+	El paciente presenta Trastornos de la Degluci&#243;n
+222,1,1 1
+	El paciente presenta Trastornos del Olfato
+223,1,1 1
+	El paciente presenta Halitosis
+224,1,1 1
+	El paciente presenta Afectaci&#243;n del Estado General
+225,1,1 1
+	El paciente presenta Dismenorrea
+226,1,1 1
+	El paciente presenta Sibilancias
+227,1,1 1
+	El paciente presenta Sialorrea
+228,1,1 1
+	El paciente presenta Voz Cavernosa
+229,1,1 1
+	El paciente presenta Aumento de Tama&#241;o de Maxilar Inferior
+230,1,1 1
+	El paciente presenta Rubor y/o Calor en las Mamas
+231,1,1 1
+	Intermedio de S&#237;ntomas Inflamatorios en las Mamas
+232,1,1 1
+	El paciente presenta Aumento en las Mamas ( Mujer )
+233,1,1 1
+	Intermedio Fiebre o Escalofrio
+234,1,1 1
+	Mujer en edad F&#233;rtil
+235,1,1 1
+	El paciente presenta Prurito Genital
+236,1,1 1
+	El paciente presenta Focalidad par Craneal
+237,1,1 1
+	El paciente presenta Alteraciones Vasomotoras (Palidez Facial, Rubicundez)
+238,1,1 1
+	El paciente presenta Hipotensi&#243;n Ortost&#225;tica
+239,1,1 1
+	El paciente presenta Hipo
+240,1,1 1
+	El paciente presenta Ulcera en los Genitales
+241,1,1 1
+	Edad entre 60 y 100 a&#241;os
+242,1,1 1
+	Edad menor de 45 a&#241;os
+243,1,1 1
+	El paciente refiere Xerostomia
+244,1,1 1
+	El paciente presenta Alteraci&#243;n del Trofismo Muscular
+245,1,1 1
+	El paciente presenta Alteraci&#243;n del Tono Muscular
+246,1,1 1
+	El paciente presenta Alteraci&#243;n del Lenguaje (Disartria o Afasia)
+247,1,1 1
+	El paciente presenta Ataxia - Dismetr&#237;as
+248,1,1 1
+	El paciente presenta Dropp - Attacks
+249,1,1 1
+	El paciente est&#225; en Estado de Estupor
+250,1,1 1
+	El paciente presenta Retraso Psico - Motor
+251,1,1 1
+	El paciente presenta Incontinencia Esfinteriana Anal
+252,1,1 1
+	El paciente presenta Fotofobia
+253,1,1 1
+	El paciente presenta Ptosis Parpebral
+254,1,1 1
+	El paciente presenta Estrabismo
+255,1,1 1
+	El paciente presenta Alteraci&#243;n de Funciones Mentales Superiores
+256,1,1 1
+	El paciente presenta Diplopia
+257,1,1 1
+	El paciente presenta Anosognosia
+258,1,1 1
+	Edad menor de 25 a&#241;os
+259,1,1 1
+	Alternando con la Hemoptisis presenta Expectoraci&#243;n
+260,1,1 1
+	El paciente presenta Tenesmo Vesical
+261,1,1 1
+	El paciente presenta Prurito Ocular
+262,1,1 1
+	El paciente presenta Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos
+263,1,1 1
+	El paciente presenta Secreci&#243;n Conjuntival
+264,1,1 1
+	El paciente refiere tener Pujos
+265,1,1 1
+	El paciente refiere tener P&#250;stulas
+266,1,1 2
+	El paciente presenta Hemorragia Profunda (Tejidos Subcut&#225;neos,
+	 M&#250;sculos, Articulaciones)
+267,1,1 1
+	El paciente presenta Acolia
+268,1,1 1
+	El paciente presenta Tetania
+269,1,1 1
+	El paciente presenta Dolor Cervical
+270,1,1 1
+	El paciente presenta Flapping Tremor
+271,1,1 1
+	El paciente presenta Ves&#237;culas Cut&#225;neas
+272,1,1 1
+	El paciente presenta Agitacia, Excitaci&#243;n o Alucinaciones
+273,1,1 1
+	El paciente presenta Hidrofobia
+274,1,1 1
+	El paciente presenta Trismos
+275,1,1 1
+	El paciente presenta P&#250;rpura en Extremidades Superiores
+276,1,1 1
+	El paciente presenta P&#250;rpura en Tronco
+277,1,1 1
+	El paciente presenta P&#250;rpura Generalizadas
+278,1,1 1
+	El paciente presenta Petequias
+279,1,1 1
+	El paciente presenta Hemorragias Lineales en U&#241;as
+280,1,1 1
+	El paciente presenta P&#225;pulas Dolorosas en Dedos
+281,1,1 1
+	El paciente presenta Flictenas D&#233;rmicas (Ampollas o Bula)
+282,1,1 1
+	El paciente presenta Abrasiones D&#233;rmicas
+283,1,1 1
+	El paciente presenta Alteraci&#243;n en las U&#241;as
+284,1,1 1
+	El paciente presenta Ulceraci&#243;n en Dedos
+285,1,1 1
+	El paciente presenta Lesiones Purp&#250;ricas
+286,1,1 1
+	El paciente presenta Bultos en la Piel (N&#243;dulos Subcut&#225;neos)
+287,1,1 1
+	El paciente presenta Queratitis
+288,1,1 1
+	El paciente presenta Eritema Discoide
+289,1,1 1
+	El paciente presenta Prurito
+290,1,1 1
+	El paciente presenta Prurito Localizado
+291,1,1 1
+	El paciente presenta Dolor Neur&#237;tico
+292,1,1 1
+	El paciente presenta Manchas en la Piel o M&#225;cula
+293,1,1 1
+	El paciente presenta Erupci&#243;n en la Piel
+294,1,1 1
+	El paciente presenta Bultos en la Piel (N&#243;dulos, Tub&#233;rculos)
+295,1,1 1
+	El paciente presenta otros tipos de Lesiones de la Piel
+296,1,1 1
+	El paciente presenta For&#250;nculos
+297,1,1 1
+	El paciente presenta Abscesos en la Piel
+298,1,1 1
+	El paciente presenta Bultos en la piel (N&#243;dulos, Tub&#233;rculos, otros)
+299,1,1 1
+	El paciente presenta otro tipo de Erupci&#243;n en la Piel
+300,1,1 1
+	El paciente presenta Manchas en la piel o M&#225;cula (Otros)
+301,1,1 1
+	El paciente presenta otras Lesiones de Piel localizadas en los Genitales
+302,1,1 1
+	El paciente presenta Tinnitus
+303,1,1 1
+	El paciente presenta Hipermenorrea
+304,1,1 1
+	El paciente presenta Hipomenorrea
+305,1,1 1
+	La paciente presenta Otros Trastornos de la Menstruaci&#243;n

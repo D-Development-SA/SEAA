@@ -1,0 +1,1419 @@
+locom61
+3
+//  Objetivos
+	34 46 165 166 167 168 169 170 171 172 173 174 175 176 177 182 183 184 185 186 187 188 267 288 289 290 291 297 313 319 335 336 338 340 342 
+//  Conclusiones Finales
+//  Proposiciones que van al BKB
+	69 2 3 9 10 13 14 16 46 49 58 60 61 62 63 64 67 76 77 78 80 164 165 166 167 168 169 170 171 172 173 174 175 176 177 182 183 184 185 186 187 188 191 192 193 194 200 202 203 204 208 213 230 241 267 288 289 290 291 297 313 319 325 335 336 338 340 342 345 348 
+//  Variables que van al BKB
+//  Proposiciones que se eliminan del BKB
+//  Variables que se eliminan del BKB
+//  PROPOSICIONES
+	1 /* El Dolor Articular es de hace 1 mes o menos (Agudo) */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	2 /* El Dolor Articular es de entre 1 y 3 meses */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	3 /* El Dolor Articular es de m&#225;s de 3 meses */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	4 /* El Dolor Muscular es de hace 1 mes o menos (Agudo) */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	5 /* El Dolor Muscular es m&#225;s de 1 mes (Cr&#243;nico) */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	6 /* El Dolor Articular se localiza en la Cabeza */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	7 /* El Dolor Articular se localiza en el Cuello */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	8 /* El Dolor Articular se localiza en el T&#243;rax */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	9 /* El Dolor Articular se localiza en las Extremidades Superiores */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	10 /* El Dolor Articular se localiza en las Extremidades Inferiores */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	11 /* El Dolor Articular se localiza en la Columna */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	12 /* El Dolor Articular se localiza en la Columna Cervical */
+		C & -1.0 1  11 [0.001 1.0]
+	13 /* El Dolor Articular se localiza en la Columna Dorsal */
+		C & -1.0 1  11 [0.001 1.0]
+	14 /* El Dolor Articular se localiza en la Columna Lumbar */
+		C & -1.0 1  11 [0.001 1.0]
+	15 /* El Dolor Articular se localiza en la Columna Sacra */
+		C & -1.0 1  11 [0.001 1.0]
+	16 /* Ha presentado Dolor Articular para la masticaci&#243;n */
+		C & -1.0 1  6 [0.001 1.0]
+	17 /* Ha presentado Dolor Articular en los movimientos del cuello */
+		C V -1.0 2  7 [0.001 1.0] 12 [0.001 1.0]
+	18 /* Ha presentado Dolor Articular para la flexi&#243;n del cuello */
+		C V -1.0 2  7 [0.001 1.0] 12 [0.001 1.0]
+	19 /* Ha presentado Dolor Articular para la extensi&#243;n del cuello */
+		C V -1.0 2  7 [0.001 1.0] 12 [0.001 1.0]
+	20 /* Ha presentado Dolor Articular para la rotaci&#243;n del cuello */
+		C V -1.0 2  7 [0.001 1.0] 12 [0.001 1.0]
+	21 /* Ha presentado Dolor Articular para los movimientos laterales del cuello */
+		C V -1.0 2  7 [0.001 1.0] 12 [0.001 1.0]
+	22 /* Ha presentado Dolor Articular para la marcha */
+		C & -1.0 1  10 [0.001 1.0]
+	23 /* Ha presentado Dolor Articular en los movimientos del muslo sobre la pelvis */
+		C & -1.0 1  10 [0.001 1.0]
+	24 /* La forma de comienzo del Dolor Muscular es progresiva (varias semanas &#243; mes */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	25 /* Ha presentado Dolor Articular en los movimientos de los hombros */
+		C & -1.0 1  9 [0.001 1.0]
+	26 /* Ha presentado Dolor Articular en los movimientos de los codos */
+		C & -1.0 1  9 [0.001 1.0]
+	27 /* Ha presentado Dolor Articular en los movimientos de las mu&#241;ecas */
+		C & -1.0 1  9 [0.001 1.0]
+	28 /* Ha presentado Dolor Articular en los movimientos de las articulaciones metacarpo */
+		C & -1.0 1  9 [0.001 1.0]
+	29 /* La forma de comienzo del Dolor Muscular es aguda (horas o d&#237;as) */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	30 /* Ha presentado Dolor Articular en los movimimientos de las articulaciones interfa */
+		C V -1.0 2  9 [0.001 1.0] 10 [0.001 1.0]
+	31 /* Ha presentado Dolor Articular en los movimientos de las articulaciones interfal& */
+		C V -1.0 2  9 [0.001 1.0] 10 [0.001 1.0]
+	32 /* Ha presentado Dolor Articular en los movimientos de las articulaciones esternocl */
+		C & -1.0 1  8 [0.001 1.0]
+	33 /* El Dolor Muscular se acompa&#241;a de Calor */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	34 /* Ha presentado Dolor Articular en los movimientos de la rodilla */
+		C & -1.0 1  10 [0.001 1.0]
+	35 /* Ha presentado Dolor Articular en los movimientos de los tobillos */
+		C & -1.0 1  10 [0.001 1.0]
+	36 /* Ha presentado Dolor Articular en los movimientos de las articulaciones metatarso */
+		C & -1.0 1  10 [0.001 1.0]
+	37 /* Ha presentado Dolor Articular en los movimientos de las articulaciones tarsometa */
+		C & -1.0 1  10 [0.001 1.0]
+	38 /* Ha presentado Dolor Articular en los movimientos de las articulaciones sacroil&# */
+		C & -1.0 1  11 [0.001 1.0]
+	39 /* El paciente presenta Limitaci&#243;n en los movimientos de la cabeza y/o cuello */
+	40 /* El paciente presenta Limitaci&#243;n en los movimientos de las extremidades supe */
+	41 /* La forma de comienzo del Dolor Articular es progresiva (varias semanas &#243; me */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	42 /* La forma de comienzo del Dolor Articular es aguda (horas o d&#237;as) */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	43 /* Ha sido la b&#243;veda craneal asiento de Dolor */
+	44 /* El paciente presenta Limitaci&#243;n en los movimientos de las Extremidades Infe */
+	45 /* El paciente presenta Limitaci&#243;n en los movimientos de la columna */
+	46 /* Existen evidencias de Fiebre Reum&#225;tica */
+	47 /* La Deformidad se localiza en la cabeza */
+	48 /* CMBD de Fiebre Reum&#225;tica */
+	49 /* Existen sospechas de Brote de Fiebre Reum&#225;tica */
+	50 /* El paciente tuvo infecci&#243;n reciente y tiene Poliartritis y Fiebre */
+	51 /* Proposici&#243;n Comod&#237;n Variable 29 - Infecciones... */
+		C & -1.0 1  241 [0.001 1.0]
+		V 27 U
+	52 /* La Deformidad se localiza en la columna */
+	53 /* Proposici&#243;n Comod&#237;n Variable 30 - S&#237;ntomas Acompa&#241;antes de A */
+		V 28 U
+	54 /* Proposici&#243;n Comod&#237;n Variable 31 - S&#237;ntomas Acompa&#241;antes de G */
+		C & 0.0 2  1 [0.001 1.0] 309 [0.001 1.0]
+		V 29 U
+	55 /* Intermedio en Gota */
+	56 /* Intermedio en Gota */
+	57 /* CMBD de Polimialgia Reum&#225;tica por Dolor Articular */
+	58 /* El Dolor en las Articulaciones afectadas se ha presentado de forma sim&#233;tric */
+		C V -1.0 3  8 [0.001 1.0] 9 [0.001 1.0] 10 [0.001 1.0]
+	59 /* El Dolor en las Articulaciones afectadas se ha presentado de forma asim&#233;tri */
+		C V -1.0 3  8 [0.001 1.0] 9 [0.001 1.0] 10 [0.001 1.0]
+	60 /* El Dolor es Poliarticular con compromiso de articulaciones medianas */
+		C & -1.0 1  241 [0.001 1.0]
+	61 /* El Dolor es Poliarticular con compromiso de articulaciones peque&#241;as */
+		C & -1.0 1  241 [0.001 1.0]
+	62 /* El Dolor es Monoarticular con compromiso de articulaciones peque&#241;as */
+		C & -1.0 1  305 [0.001 1.0]
+	63 /* El Dolor es Monoarticular con compromiso de articulaciones medianas y grandes */
+		C & -1.0 1  305 [0.001 1.0]
+	64 /* El Dolor Articular es migratiz */
+	65 /* El Dolor Articular es fugaz */
+	66 /* El Dolor Articular es en brotes (de varios d&#237;as a varias semanas) */
+	67 /* El Dolor en las Articulaciones afectadas deja secuelas */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	68 /* El Dolor Articular se calma con el reposo */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	69 /* El Dolor Articular se calma con analg&#233;sicos y/o antinflamatorio */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	70 /* El Dolor Articular se calma con corticoides */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	71 /* El Dolor Muscular se acompa&#241;a de Rubor */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	72 /* El Dolor Articular se calma con cambios metereol&#243;gicos del calor */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	73 /* El Dolor Articular se calma con cambios metereol&#243;gicos del humedad */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	74 /* El Dolor Articular alivia con el ejercicio */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	75 /* El Dolor Articular empeora con el ejercicio */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	76 /* El Dolor Articular se acompa&#241;a de calor */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	77 /* El Dolor Articular se acompa&#241;a de rubor */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	78 /* El Dolor Articular se acompa&#241;a de aumento de volumen */
+		C & -1.0 2  50{1,1} [0.001 1.0] 51{1,1} [0.001 1.0]
+	79 /* El Dolor Articular se acompa&#241;a de rigidez matinal */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	80 /* El Dolor Muscular se acompa&#241;a de rigidez muscular localizada */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	81 /* El Dolor Muscular se acompa&#241;a de endurecimiento muscular */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	82 /* El Dolor Articular aparece con el reposo y mejora con la marcha */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	83 /* El Dolor Articular se alivia con analg&#233;sicos al inicio luego no reacciona a */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	84 /* El Dolor Articular se acompa&#241;a de sensaci&#243;n de crujido */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	85 /* El Dolor Muscular compromete difusamente grandes zonas musculares */
+	86 /* El Dolor Muscular es circunscrito (Hematoma, Hernia Muscular) */
+	87 /* El Dolor Muscular es generalizado */
+	88 /* El Dolor Muscular se desarrolla con el movimiento */
+	89 /* El Dolor Muscular se desarrolla con la presi&#243;n */
+	90 /* La Deformidad es de hace menos de un mes */
+	91 /* La Deformidad es de hace m&#225;s de un mes */
+	92 /* La Deformidad comenz&#243; posterior a un trauma */
+	93 /* La Deformidad comenz&#243; espont&#225;neamente */
+	94 /* La Deformidad comenz&#243; progresivamente */
+	95 /* La Deformidad se localiza en la b&#243;veda craneal */
+	96 /* La Deformidad se localiza en la articulaci&#243;n temporomaxilar */
+	97 /* La Deformidad se localiza en la columna cervical */
+	98 /* La Deformidad se localiza en la articulaci&#243;n del hombro */
+	99 /* La Deformidad se localiza en la articulaci&#243;n del codo */
+	100 /* La Deformidad se localiza en la articulaci&#243;n de la mu&#241;eca */
+	101 /* La Deformidad se localiza en las articulaciones digitales de la mano */
+	102 /* La Deformidad se localiza en la columna dorsal */
+	103 /* La Deformidad se localiza en la columna lumbar */
+	104 /* La Deformidad se localiza en la articulaci&#243;n sacrococcigea */
+	105 /* La Deformidad se localiza en la articulaci&#243;n de la rodilla */
+	106 /* La Deformidad se localiza en la articulaci&#243;n del tobillo */
+	107 /* La Deformidad se localiza en la articulaci&#243;n del tarso */
+	108 /* La Deformidad se localiza en la articulaci&#243;n tarso-metastasiana */
+	109 /* La Deformidad se localiza en la articulaci&#243;n digital del pie */
+	110 /* La Deformidad se localiza en las extremidades superiores */
+	111 /* La Deformidad se localiza en las extremidades inferiores */
+	112 /* Existe Aumento de Volumen sin Deformidad */
+		C & -1.0 1  51{1,1} [0.001 1.0]
+	113 /* Existe Deformidad con &#243; sin Aumento de Volumen */
+		C & -1.0 1  51{1,1} [0.001 1.0]
+	114 /* La Deformidad es generalizada */
+		C & -1.0 1  51{1,1} [0.001 1.0]
+	115 /* La Limitaci&#243;n Funcional comenz&#243; hace menos de un mes (Agudo) */
+	116 /* La Limitaci&#243;n Funcional comenz&#243; de entre uno y tres meses */
+	117 /* La Limitaci&#243;n Funcional comenz&#243; hace m&#225;s de tres meses (Cr&#243;n */
+	118 /* la Alteraci&#243;n o Limitaci&#243;n Funcional comenz&#243; posterior a un traum */
+	119 /* la Alteraci&#243;n o Limitaci&#243;n Funcional comenz&#243; de forma progresiva */
+	120 /* la Alteraci&#243;n o Limitaci&#243;n Funcional comenz&#243; de forma espont&#225 */
+	121 /* La Limitaci&#243;n Funcional afecta la masticaci&#243;n */
+	122 /* La Limitaci&#243;n Funcional afecta la flexi&#243;n del cuello */
+	123 /* La Limitaci&#243;n Funcional afecta la extensi&#243;n del cuello */
+	124 /* La Limitaci&#243;n Funcional afecta la rotaci&#243;n del cuello */
+	125 /* La Limitaci&#243;n Funcional afecta los movimientos laterales del cuello */
+	126 /* La Limitaci&#243;n Funcional afecta la marcha */
+	127 /* La Limitaci&#243;n Funcional afecta los movimientos del muslo sobre la pelvis */
+	128 /* La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones de los */
+	129 /* La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones de los */
+	130 /* La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones de las */
+	131 /* La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones metaca */
+	132 /* El Dolor Muscular se acompa&#241;a de aumento de volumen */
+		C & -1.0 2  49{1,1} [0.001 1.0] 51{1,1} [0.001 1.0]
+	133 /* La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones interf */
+	134 /* La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones interf */
+	135 /* La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones estern */
+	136 /* La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones de las */
+	137 /* La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones de los */
+	138 /* La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones metata */
+	139 /* La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones tarsom */
+	140 /* La Limitaci&#243;n Funcional afecta los movimientos de las articulaciones sacroi */
+	141 /* La Limitaci&#243;n Funcional afecta los movimientos de la columna dorsal */
+	142 /* La Limitaci&#243;n Funcional afecta los movimientos de la columna lumbar */
+	143 /* El Dolor Articular se calma con el reposo y/o con analg&#233;sicos y/o antinflam */
+	144 /* Limitaci&#243;n Aguda de comienzo espont&#225;neo */
+	145 /* El paciente es de sexo Femenino y mayor de 40 a&#241;os */
+	146 /* CMBD de Espondilitis Anquilopoy&#233;tica por Dolor Articular */
+	147 /* Intermedio de Espondilitis Anquilopoy&#233;tica */
+	148 /* CMBD de Espondilitis Anquilosante por Dolor Muscular */
+	149 /* CMBD de Dolor Articular en Artritis S&#233;ptica */
+	150 /* CMBD de Limitaci&#243;n Funcional en Artritis S&#233;ptica */
+	151 /* CMBD de Deformidad en Artritis S&#233;ptica */
+	152 /* El paciente tiene Rash Cut&#225;neo y/o Urticaria */
+	153 /* Intermedio de Artritis Tuberculosa */
+	154 /* El paciente presenta Fiebre o S&#237;ndrome General o Mialgias */
+	155 /* Antecedentes personales de Enfermedades Osteomioarticulares */
+	156 /* El paciente presenta antecedentes de Lupus Eritematoso, Esclerodermia, Artritis  */
+	157 /* La zona afectada presenta Enrojecimiento */
+	158 /* CMBD de Arteritis Temporal por Dolor Articular */
+	159 /* El paciente presenta Disuria y/o Secreci&#243;n Uretral */
+	160 /* Intermedio de S&#237;ndrome de Reiter */
+	161 /* Puntero a funci&#243;n proposicional 3 o m&#225;s positivos en Lupus Eritematoso */
+		C & -1.0 8  60{1,1} [-1.0 1.0] 67{1,1} [-1.0 1.0] 72{1,1} [-1.0 1.0] 220 [-1.0 1.0] 326 [-1.0 1.0] 327 [-1.0 1.0] 328 [-1.0 1.0] 628{2,1} [-1.0 1.0]
+	162 /* El paciente presenta Fiebre y S&#237;ndrome General */
+	163 /* El Dolor Articular se calma con analg&#233;sicos y/o con corticoesteroides */
+	164 /* El paciente presenta exacerbaci&#243;n nocturna del Dolor Articular */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	165 /* Existen evidencias de Gota */
+	166 /* Existen evidencias de Condrocalcinosis */
+	167 /* Existen evidencias de Artritis Reumatoidea */
+	168 /* Existen evidencias de Espondilitis Anquilosante */
+	169 /* Existen evidencias de Artritis S&#233;ptica No Gonoc&#243;cica */
+	170 /* Existen evidencias de Artritis Tuberculosa */
+	171 /* Existen evidencias de Artritis Psori&#225;sica */
+	172 /* Existen evidencias de Artritis Gonoc&#243;cica */
+	173 /* Existen evidencias de S&#237;ndrome de Behcet Completo */
+	174 /* Existen evidencias de Artrosis */
+	175 /* Existen evidencias de S&#237;ndrome de Reiter */
+	176 /* Existen evidencias de Lupus Eritematoso Sist&#233;mico */
+	177 /* Existen evidencias de Polimialgia Reum&#225;tica */
+	178 /* Existen s&#237;ntomas articulares locales acompa&#241;antes */
+		C V -1.0 3  76 [0.001 1.0] 77 [0.001 1.0] 78 [0.001 1.0]
+	179 /* Antecedentes de Enfermedades del Tejido Conectivo */
+	180 /* La Limitaci&#243;n comenz&#243; al realizar un esfuerzo brusco o al levantarse */
+	181 /* El Dolor Articular se irradia de la regi&#243;n lumbar a los miembros inferiores */
+		C & -1.0 2  14 [0.001 1.0] 50{1,1} [0.001 1.0]
+	182 /* Existen evidencias de Arteritis de la Temporal o Enfermedad de Horton */
+	183 /* Existen evidencias de Sacrolumbalgia */
+	184 /* Existen evidencias de Osteomelitis */
+	185 /* Existen evidencias de Hombro doloroso */
+	186 /* Existen evidencias de Tendinitis Calcificada */
+		C & -1.0 1  185 [0.001 1.0]
+	187 /* Existen evidencias de Capsulitis Adhesiva u Hombro Congelado */
+		C & -1.0 1  185 [0.001 1.0]
+	188 /* Existen evidencias de Subluxaci&#243;n de Hombro */
+		C & -1.0 1  185 [0.001 1.0]
+	189 /* El Dolor Muscular se desarrolla con el movimiento y la presi&#243;n */
+	190 /* El Dolor Muscular se localiza en la cabeza */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	191 /* El Dolor Muscular se localiza en el cuello */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	192 /* El Dolor Muscular se localiza en el torax */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	193 /* El Dolor Muscular se localiza en las extremidades superiores */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	194 /* El Dolor Muscular se localiza en las extremidades inferiores */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	195 /* El Dolor Muscular se localiza en la columna */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	196 /* El Dolor Muscular se localiza en la columna cervical */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	197 /* El Dolor Muscular se localiza en la columna dorsal */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	198 /* El Dolor Muscular se localiza en la columna lumbar */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	199 /* El Dolor Muscular se localiza en la columna sacra */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	200 /* Ha presentado Dolor Muscular para la masticaci&#243;n */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	201 /* CMBD de Polimiositis por Debilidad Muscular */
+	202 /* Ha presentado Dolor Muscular para la flexi&#243;n del cuello */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	203 /* Ha presentado Dolor Muscular para la extensi&#243;n del cuello */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	204 /* Ha presentado Dolor Muscular para la rotaci&#243;n del cuello */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	205 /* Ha presentado Dolor Muscular para los movimientos laterales del cuello */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	206 /* Ha presentado Dolor Muscular para la marcha */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	207 /* Ha presentado Dolor Muscular en los movimientos del muslo sobre la pelvis */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	208 /* Ha presentado Dolor Muscular en los movimientos de los hombros */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	209 /* Ha presentado Dolor Muscular en los movimientos de los codos */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	210 /* Ha presentado Dolor Muscular en los movimientos de las mu&#241;ecas */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	211 /* Ha presentado Dolor Muscular en los movimientos de las articulaciones metacarpof */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	212 /* Ha presentado Dolor Muscular en los movimimientos de las articulaciones interfal */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	213 /* Ha presentado Dolor Muscular en los movimientos de las articulaciones interfal&# */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	214 /* Ha presentado Dolor Muscular en los movimientos de las articulaciones esternocla */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	215 /* Ha presentado Dolor Muscular en los movimientos de las articulaciones de la rodi */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	216 /* Ha presentado Dolor Muscular en los movimientos de las articulaciones de los tob */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	217 /* Ha presentado Dolor Muscular en los movimientos de las articulaciones metatarsof */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	218 /* Ha presentado Dolor Muscular en los movimientos de las articulaciones tarsometat */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	219 /* Ha presentado Dolor Muscular en los movimientos de las articulaciones sacroil&#2 */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	220 /* Intermedio de antecedentes de Serositis */
+	221 /* Intermedio 2 Antecedentes Patol&#243;gicos Familiares en Lupus Eritematoso Sist& */
+	222 /* El Dolor Muscular se calma con el reposo */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	223 /* El Dolor Muscular se calma con analg&#233;sicos y/o antinflamatorio */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	224 /* El Dolor Muscular se calma con corticoesteroides */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	225 /* El Dolor Muscular se calma con cambios metereol&#243;gicos del calor */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	226 /* El Dolor Muscular se calma con cambios metereol&#243;gicos de humedad */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	227 /* El Dolor Muscular alivia con el ejercicio */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	228 /* El Dolor Muscular empeora con el ejercicio */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	229 /* Existen s&#237;ntomas locales musculares acompa&#241;antes */
+		C V -1.0 3  33 [0.001 1.0] 71 [0.001 1.0] 132 [0.001 1.0]
+	230 /* El paciente tiene Artritis */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	231 /* El paciente tiene Poliartritis */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	232 /* Intermedio de (7 V 9 V 11) */
+	233 /* Intermedio de (18 V 19 V 20 V 21) */
+	234 /* Intermedio 2 Antecedentes Patol&#243;gicos Personales en Lupus Eritematoso Sist& */
+	235 /* Intermedio de Dermatomiosistis */
+	236 /* El paciente presenta Estomatitis aptosa o Lesiones de piel */
+	237 /* El paciente es hombre de m&#225;s de 40 a&#241;os */
+	238 /* Intermedio de Gota */
+	239 /* Limitaci&#243;n en la columna al realizar un esfuerzo brusco */
+	240 /* Limitaci&#243;n posterior a un trauma o comienzo espont&#225;neo */
+	241 /* Dolor Poliarticular */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	242 /* Intermedio 61{1,1} V 62{1,1} V 63{1,1} V 65{1,1} V 242{1,1} V 252{1,1} */
+	243 /* CMBD de Condrocalcinosis (166) */
+	244 /* Intermedio de Condrocalcinosis (166) */
+	245 /* Intermedio de Condrocalcinosis (166) */
+	246 /* CMBD de Artritis Reumatoidea */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	247 /* El paciente presenta un Dolor Poliarticular o que deja secuelas progresivas */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	248 /* El paciente es un Hombre de menos de 40 a&#241;os */
+	249 /* CMBD de Espondilitis Anquilosante por Limitaci&#243;n Funcional */
+	250 /* Antecedentes personales de Enfermedad del Tejido Conectivo */
+	251 /* La Deformidad se localiza en las articulaciones digitales de la mano o en la col */
+	252 /* Antecedentes Personales de Enfermedades Cardiovasculares */
+	253 /* CMBD de Dermatomiositis por Debilidad Muscular (289) */
+	254 /* Intermedio de (14 V 15) */
+	255 /* Antecedentes personales de Enfermedades Respiratorias */
+	256 /* CMBD de Artritis Psori&#225;sica 171 */
+	257 /* El paciente presenta dos de los siguientes s&#237;ntomas: Diarrea, Dificultad pa */
+		C & -1.0 4  10{1,1} [-1.0 1.0] 42{1,1} [-1.0 1.0] 65{1,1} [-1.0 1.0] 372{2,1} [-1.0 1.0]
+		F 2 U
+	258 /* CMBD de S&#237;ndrome de Behcet Completo 173 */
+	259 /* Intermedio de Artrosis 174 */
+	260 /* Intermedio de Artrosis 174 */
+	261 /* El paciente presenta tres de los siguientes s&#237;ntomas: Diarrea, Dificultad p */
+		C & -1.0 4  10{1,1} [-1.0 1.0] 42{1,1} [-1.0 1.0] 65{1,1} [-1.0 1.0] 372{2,1} [-1.0 1.0]
+		F 3 U
+	262 /* CMBD de S&#237;ndrome de Reiter 175 */
+	263 /* Intermedio de S&#237;ndrome de Reiter 175 */
+	264 /* El paciente presenta uno de los siguientes s&#237;ntomas: Diarrea, Dificultad pa */
+		C & -1.0 4  10{1,1} [-1.0 1.0] 42{1,1} [-1.0 1.0] 65{1,1} [-1.0 1.0] 372{2,1} [-1.0 1.0]
+		F 1 U
+	265 /* Intermedio de S&#237;ndrome de Reiter 175 */
+	266 /* Intermedio de 34 V 35 V 36 V 37 */
+	267 /* Existen evidencias de Bursitis Subacromial */
+	268 /* Sintomas interesantes de Esclerodermia */
+	269 /* Poliartritis sim&#233;trica en dedos de las manos o rodilla CMBD de Esclerodermi */
+	270 /* CMBD de Polimialgia Reumatica (177) por Dolor Muscular */
+	271 /* CMBD - S&#237;ndrome de Sjogren */
+	272 /* El paciente presenta Cefalea o Antecedentes de Cefalea */
+	273 /* Antecedentes personales de Enfermedad Hematol&#243;gica */
+	274 /* Antecedentes personales de Enfermedad Genito-Urinario */
+	275 /* CMBD de Sacrolumbalgia (183) por Dolor Articular */
+	276 /* Antecedentes personales de Enfermedad Neurol&#243;gica */
+	277 /* Osteomelitis Secundaria a Focos Contiguos de Infecci&#243;n */
+	278 /* Proposici&#243;n Comod&#237;n Variable 49 - */
+		V 49 U
+	279 /* Proposici&#243;n Comod&#237;n Variable 50 - */
+		V 50 U
+	280 /* CMBD de OSTEOMELITIS (184) */
+	281 /* El paciente presenta Deformidad Aguda en Extremidades Inferiores, Columna Dorsal */
+	282 /* Proposici&#243;n Comod&#237;n Variable 51 - */
+		V 51 U
+	283 /* Proposici&#243;n Comod&#237;n Variable 52 - */
+		V 52 U
+	284 /* Proposici&#243;n Comod&#237;n Variable 53 - */
+		V 53 U
+	285 /* El paciente presenta Dolor Articular de m&#225;s de un mes */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	286 /* Proposici&#243;n Comod&#237;n Variable 54 - */
+		V 54 U
+	287 /* Proposici&#243;n Comod&#237;n Variable 55 - */
+		V 55 U
+	288 /* Existen evidencias de Polimiositis */
+	289 /* Existen evidencias de Dermatomiositis */
+	290 /* Existen evidencias de Esclerodermia */
+	291 /* Existen evidencias de S&#237;ndrome de Sjogren o S&#237;ndrome Seco */
+	292 /* El Dolor Muscular se calma con colchicina */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	293 /* El Dolor Articular se calma con colchicina */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	294 /* Proposici&#243;n Comod&#237;n Variable 26 - S&#237;ntomas acompa&#241;antes de L */
+		V 26 U
+	295 /* El Dolor Articular deja secuelas o es de comienzo progresivo */
+	296 /* El paciente presenta un Dolor Articular de m&#225;s de 1 mes en articulaciones p */
+	297 /* Existen evidencias del S&#237;ndrome de Compresi&#243;n */
+	298 /* El paciente presenta el S&#237;ndrome General y Mialgias y/o Quebrantamiento Gen */
+	299 /* El Dolor Articular se localiza en las Extremidades */
+		C V -1.0 2  9 [0.001 1.0] 10 [0.001 1.0]
+	300 /* El Dolor Muscular se exacerba por las noches */
+		C & -1.0 1  49{1,1} [0.001 1.0]
+	301 /* La evoluci&#243;n de la Deformidad fue r&#225;pida, en horas */
+	302 /* El paciente es Hombre de menos 40 a&#241;os con Dolor Articular Cr&#243;nico en  */
+	303 /* Las Columna Dorsal y/o Lumbar son asiento del Dolor */
+	304 /* El paciente presenta S&#237;ntomas Locales acompa&#241;antes y/o Rigidez Matinal */
+	305 /* El paciente presenta Dolor Monoarticular */
+		C & -1.0 14  23 [-1.0 1.0] 25 [-1.0 1.0] 26 [-1.0 1.0] 27 [-1.0 1.0] 28 [-1.0 1.0] 30 [-1.0 1.0] 31 [-1.0 1.0] 32 [-1.0 1.0] 34 [-1.0 1.0] 35 [-1.0 1.0] 36 [-1.0 1.0] 37 [-1.0 1.0] 38 [-1.0 1.0] 50{1,1} [0.001 1.0]
+	306 /* El paciente presenta Dolor Muscular y/o Dolor Articular */
+	307 /* El paciente presenta Limitaci&#243;n en la Columna Cervical */
+	308 /* El paciente presenta Enrojecimiento Ocular y/o Dificultad de la Visi&#243;n */
+	309 /* El paciente presenta Monoartritis */
+		C & -1.0 1  50{1,1} [0.001 1.0]
+	310 /* CMBD de Arteritis Temporal por Limitaci&#243;n Funcional */
+	311 /* CMBD de Bursitis Subacromial */
+	312 /* Intermedio de 69{1,1} V 76{1,1} */
+	313 /* Existen evidencias de S&#237;ndrome de Behcet Incompleto */
+	314 /* CMBD S&#237;ndrome de Behcet Incompleto 314 */
+	315 /* El paciente tiene los 4 grupos de s&#237;ntomas del CMBD de Behcet COMPLETO */
+		C & -1.0 4  60{1,1} [-1.0 1.0] 66{1,1} [-1.0 1.0] 240{1,1} [-1.0 1.0] 242 [-1.0 1.0]
+		F 5 U
+	316 /* El paciente tiene los 3 grupos de s&#237;ntomas del CMBD de Behcet INCOMPLETO */
+		C & -1.0 4  60{1,1} [-1.0 1.0] 66{1,1} [-1.0 1.0] 240{1,1} [-1.0 1.0] 242 [-1.0 1.0]
+		F 6 U
+	317 /* El paciente tiene los 2 grupos de sintomas del CMBD de Behcet INCOMPLETO */
+		C & -1.0 4  60{1,1} [-1.0 1.0] 66{1,1} [-1.0 1.0] 240{1,1} [-1.0 1.0] 242 [-1.0 1.0]
+		F 7 U
+	318 /* Intermedio 317 &#38; 242 */
+	319 /* Existen evidencias de S&#237;ndrome del Tunel del Carpo */
+	320 /* CMBD de S&#237;ndrome del Tunel del Carpo */
+	321 /* Forma de comienzo del Dolor en Extremidades Superiores: Meses o A&#241;os (Lenta */
+	322 /* C&#243;mo se desencadena el Dolor en Extremidades Superiores: Presi&#243;n sobre */
+	323 /* El paciente refiere tener Hiperestesia en Extremidades Superiores */
+	324 /* El paciente refiere tener P&#233;rdida de Fuerza en Extremidades Superiores */
+	325 /* El paciente refiere tener Contractura Muscular */
+	326 /* Intermedio de Dolor poliarticular Sim&#233;trico (241 &#38; 58) */
+	327 /* Intermedio de Trastornos Neurol&#243;gicos para Lupus Eritematoso Sist&#233;mico */
+	328 /* Intermedio de Trastornos Hematol&#243;gicos para Lupus Eritematoso Sist&#233;mic */
+	329 /* Intermedio de antecedentes para Lupus Eritematoso Sist&#233;mico */
+	330 /* CMBD de Polimiositis por Dolor Muscular */
+	331 /* S&#237;ntomas acompa&#241;antes de Polimiositis */
+	332 /* CMBD de Dermatomiositis por Dolor Muscular */
+	333 /* Intermedio de Polimiositis, CMBD(Debilidad Muscular) V CMBD(Dolor Muscular) */
+	334 /* Intermedio de Dermatomiositis, CMBD(Debilidad Muscular) V CMBD(Dolor Muscular) */
+	335 /* Existen evidencias de Artritis Infecciosa */
+	336 /* Existen evidencias de Bursitis Trocant&#233;rica */
+	337 /* CMBD de Bursitis Trocant&#233;rica */
+	338 /* Existen evidencias de Bursitis del Ol&#233;cranon */
+	339 /* CMBD de Bursitis del Ol&#233;cranon */
+	340 /* Existen evidencias de Epicondilitis */
+	341 /* CMBD de Epicondilitis */
+	342 /* Existen evidencias de Neoplasia que Infiltra el Plexo Braquial */
+	343 /* El Dolor Articular en el hombro ha aumentado progresivamente desde su aparici&#2 */
+		C & -1.0 1  25 [0.001 1.0]
+	344 /* CMBD de Artritis Reumatoidea por Deformidad */
+	345 /* Funci&#243;n Proposicional de Esclerodermia en Examen F&#237;sico */
+		C & -1.0 8  411{3,1} [-1.0 1.0] 428{3,1} [-1.0 1.0] 429{3,1} [-1.0 1.0] 506{3,1} [-1.0 1.0] 512{3,1} [-1.0 1.0] 513{3,1} [-1.0 1.0] 514{3,1} [-1.0 1.0] 593{3,1} [-1.0 1.0]
+		F 9 U
+	346 /* CMBD de Arteritis de la temporal (aporte de Cefalea) */
+	347 /* CMBD 3 (Funci&#243;n Proposicional de al menos 2 s&#237;ntomas articulares) */
+		C & -1.0 4  50{1,1} [-1.0 1.0] 51{1,1} [-1.0 1.0] 79 [-1.0 1.0] 286{1,1} [-1.0 1.0]
+	348 /* Funci&#243;n Proposicional para ver si se cumplen m&#225;s de 3 que influyen en  */
+		C & -1.0 5  33{1,1} [-1.0 1.0] 72{1,1} [-1.0 1.0] 246{2,1} [-1.0 1.0] 326 [-1.0 1.0] 349 [-1.0 1.0]
+	349 /* APP de Pericarditis o Derrame Pleural */
+	350 /* Intermedio de Polimiosistis */
+//  REGLAS
+	372{2,1} V 95{2,1}  => 349 1.0;
+	69{1,1} V 76{1,1}  => 312 1.0;
+	-69{1,1} & -76{1,1}  => 312 -1.0;
+	319{11,1} V 425{11,1} V 174{1,1} V 78{1,1} V 19{1,1} V 50{1,1} V 121{1,1} V 93{1,1} V 44{1,1} V 373{2,1} V 219{8,1} V 59{1,1}  => 331 1.0;
+	-319{11,1} & -425{11,1} & -174{1,1} & -78{1,1} & -19{1,1} & -50{1,1} & -121{1,1} & -93{1,1} & -44{1,1} & -373{2,1} & -219{8,1} & -59{1,1}  => 331 -1.0;
+	23 V 34 V 35 V 36 V 37 V 38  => 22 1.0;
+	215 V 216 V 217 V 218 V 219 V 207  => 206 1.0;
+	127 V 136 V 137 V 138 V 139 V 140  => 126 1.0;
+	2 V 3  => 285 1.0;
+	1  => 285 -1.0;
+	68 V 69  => 143 1.0;
+	-68 & -69 & -293  => 143 -1.0;
+	80{1,1} & -58{1,1}  => 237 1.0;
+	-80{1,1} V 58{1,1}  => 237 -1.0;
+	80{1,1} & 58{1,1}  => 248 1.0;
+	-80{1,1} V -58{1,1}  => 248 -1.0;
+	6{1,1} & -58{1,1}  => 145 1.0;
+	-6{1,1} V 58{1,1}  => 145 -1.0;
+	14 V 15 V 22 V 23 V 38 V 16 V 8  => 147 1.0;
+	-14 & -15 & -22 & -23 & -38 & -16 & -8  => 147 -1.0;
+	121{1,1} V 298  => 154 1.0;
+	-121{1,1} & -298  => 154 -1.0;
+	42{1,1} V 44{1,1}  => 298 1.0;
+	-42{1,1} & -44{1,1}  => 298 -1.0;
+	71{1,1} V 69{1,1}  => 159 1.0;
+	-71{1,1} & -69{1,1}  => 159 -1.0;
+	40{1,1} & 42{1,1}  => 162 1.0;
+	-40{1,1} V -42{1,1}  => 162 -1.0;
+	69 V 70  => 163 1.0;
+	-69 & -70  => 163 -1.0;
+	9 V 10  => 299 1.0;
+	-9 & -10  => 299 -1.0;
+	18 V 19 V 20 V 21  => 17 1.0;
+	-18 & -19 & -20 & -21  => 17 -1.0;
+	13 V 14  => 303 1.0;
+	-13 & -14  => 303 -1.0;
+	31{1,1} V 366{2,1}  => 272 1.0;
+	-305  => 241 1.0;
+	305  => 241 -1.0;
+	25 V 26 V 27 V 34 V 35  => 63 1.0;
+	25 V 26 V 27 V 34 V 35  => 62 -1.0;
+	28 V 30 V 31 V 36 V 37 V 38  => 62 1.0;
+	28 V 30 V 31 V 36 V 37 V 38  => 63 -1.0;
+	50{1,1} V 49{1,1}  => 306 1.0;
+	-50{1,1} & -49{1,1}  => 306 -1.0;
+	76 V 77 V 78  => 178 1.0;
+	-76 & -77 & -78  => 178 -1.0;
+	33 V 71 V 132  => 229 1.0;
+	-33 & -71 & -132  => 229 -1.0;
+	178 V 79  => 304 1.0;
+	-178 & -79  => 304 -1.0;
+	63{1,1} V 65{1,1}  => 308 1.0;
+	-63{1,1} & -65{1,1}  => 308 -1.0;
+	35{1,1} V 105{1,1}  => 152 1.0;
+	-35{1,1} & -105{1,1}  => 152 -1.0;
+	101 V 103  => 251 1.0;
+	-101 & -103  => 251 -1.0;
+	61{1,1} V 62{1,1} V 63{1,1} V 65{1,1} V 252{1,1}  => 242 1.0;
+	-61{1,1} & -62{1,1} & -63{1,1} & -65{1,1} & -252{1,1}  => 242 -1.0;
+	317 & 242  => 318 1.0;
+	-317 V -242  => 318 -1.0;
+	60{1,1} V 66{1,1}  => 236 1.0;
+	-60{1,1} & -66{1,1}  => 236 -1.0;
+	120 V 180  => 239 1.0;
+	-120 & -180  => 239 -1.0;
+	118 V 120  => 240 1.0;
+	-118 & -120  => 240 -1.0;
+	209{2,1} V 210{2,1} V 213{2,1} V 403{2,1}  => 156 1.0;
+	-209{2,1} & -210{2,1} & -213{2,1} & -403{2,1}  => 156 -1.0;
+	67 V 41  => 295 1.0;
+	-67 & -41  => 295 -1.0;
+	249{2,1} V 505{2,1} V 33{1,1}  => 327 1.0;
+	22{7,1} V 246{2,1} V 15{2,1}  => 328 1.0;
+	372{2,1} V 95{2,1} V 96{2,1}  => 220 1.0;
+	216{2,1} V 217{2,1} V 218{2,1} V 219{2,1}  => 221 1.0;
+	210{2,1} V 211{2,1}  => 234 1.0;
+	462{2,1} V 299{2,1} V 254{2,1} V 345{2,1}  => 329 1.0;
+	241 & 58  => 326 1.0;
+	241 & 178  => 231 1.0;
+	-241 V -178  => 231 -1.0;
+	305 & 178  => 309 1.0;
+	-305 V -178  => 309 -1.0;
+	231 V 309  => 230 1.0;
+	-231 & -309  => 230 -1.0;
+	36 V 37 V 34 V 35  => 266 1.0;
+	-36 & -37 & -34 & -35  => 266 -1.0;
+	50{1,1} V 52{1,1}  => 165 0.001;
+	115 V 120  => 144 1.0;
+	225{2,1} V 97{2,1} V 98{2,1} V 99{2,1} V 14{2,1}  => 55 1.0;
+	-225{2,1} & -97{2,1} & -98{2,1} & -99{2,1} & -14{2,1}  => 55 -1.0;
+	345{2,1} V 2{2,1} V 93{1,1} V 56{2,1} V 58{2,1} V 175{2,1} V 26{2,1}  => 56 1.0;
+	-345{2,1} & -2{2,1} & -93{1,1} & -56{2,1} & -58{2,1} & -175{2,1} & -26{2,1}  => 56 -1.0;
+	(1 & 230 & 42 & 305 & 266 )V 367{2,1} V 293  => 238 1.0;
+	238  => 165 0.4;
+	238 & 143  => 165 0.5;
+	238 & 59  => 165 0.5;
+	238 & 144  => 165 0.45;
+	238 & 55  => 165 0.5;
+	-55 & -56  => 165 -0.1;
+		C & 0.0 1  238 [0.001 1.0]
+	238 & 56  => 165 0.5;
+	238 & 375{2,1}  => 165 0.55;
+	238 & 36  => 165 0.6;
+	238 & 164  => 165 0.55;
+	238 & 66  => 165 0.5;
+	238 & 55{2,1}  => 165 0.45;
+	238 & 121{1,1}  => 165 0.45;
+	34 V 35  => 165 -0.1;
+		C & 0.0 1  238 [0.001 1.0]
+	231  => 165 -0.1;
+		C & 0.0 1  238 [0.001 1.0]
+	80{1,1}  => 165 0.15;
+		C & 0.0 1  238 [0.001 1.0]
+	-58{1,1}  => 165 0.1;
+		C & 0.0 1  238 [0.001 1.0]
+	58{1,1}  => 165 -0.1;
+		C & 0.0 1  238 [0.001 1.0]
+	69{1,1} V 76{1,1}  => 165 -0.3;
+		C & 0.0 1  238 [0.001 1.0]
+	23 V 25 V 11 V 32 V 16  => 165 -0.15;
+	50{1,1}  => 166 0.001;
+	-5{1,1}  => 166 -0.3;
+	69 V 70  => 244 1.0;
+	67 V 42{1,1} V 47{1,1}  => 245 1.0;
+	(34 V 35 V 28 V 27 V 25 V 26 )& 178  => 243 1.0;
+	243  => 166 0.4;
+	243 & 244  => 166 0.45;
+	243 & 245  => 166 0.45;
+	243 & 42  => 166 0.5;
+	243 & 59  => 166 0.5;
+	243 & 66  => 166 0.5;
+	5{1,1}  => 166 0.1;
+		C & 0.0 1  243 [0.001 1.0]
+	371{2,1} V 395{2,1} V 99{2,1} V 626{2,1} V 97{2,1}  => 166 0.1;
+		C & 0.0 1  243 [0.001 1.0]
+	627{2,1}  => 166 0.05;
+		C & 0.0 1  243 [0.001 1.0]
+	16 V 11  => 166 -0.1;
+	72{1,1}  => 166 -0.2;
+	76{1,1} V 69{1,1}  => 166 -0.2;
+	50{1,1} V 51{1,1}  => 167 0.001;
+	285 & (31 V 28 V 27 V 36 V 26 V 25 V 34 V 35 )& 58 & (76 V 77 V 78 ) => 246 1.0;
+	246  => 167 0.4;
+	51{1,1} & 91 & 58{1,1} & 94 & (100 V 101 ) => 344 1.0;
+	344  => 167 0.4;
+	347  => 167 0.4;
+	72{1,1} V 172{11,1}  => 167 -0.2;
+	15 V 14 V 13  => 167 -0.3;
+	121{1,1} V 42{1,1} V 47{1,1} V 253{11,1}  => 167 0.05;
+		C V 0.0 3  246 [0.001 1.0] 344 [0.001 1.0] 347 [0.001 1.0]
+	12  => 167 0.05;
+		C V 0.0 3  246 [0.001 1.0] 344 [0.001 1.0] 347 [0.001 1.0]
+	241 & 58 & 3  => 167 0.1;
+		C V 0.0 3  246 [0.001 1.0] 344 [0.001 1.0] 347 [0.001 1.0]
+	178  => 167 0.1;
+		C V 0.0 3  246 [0.001 1.0] 344 [0.001 1.0] 347 [0.001 1.0]
+	58  => 167 0.15;
+		C V 0.0 2  344 [0.001 1.0] 347 [0.001 1.0]
+	79  => 167 0.1;
+		C V 0.0 3  246 [0.001 1.0] 344 [0.001 1.0] 347 [0.001 1.0]
+	241  => 167 0.05;
+		C V 0.0 3  246 [0.001 1.0] 344 [0.001 1.0] 347 [0.001 1.0]
+	66  => 167 0.1;
+		C V 0.0 3  246 [0.001 1.0] 344 [0.001 1.0] 347 [0.001 1.0]
+	67  => 167 0.1;
+		C V 0.0 3  246 [0.001 1.0] 344 [0.001 1.0] 347 [0.001 1.0]
+	41  => 167 0.05;
+		C V 0.0 3  246 [0.001 1.0] 344 [0.001 1.0] 347 [0.001 1.0]
+	6{1,1}  => 167 0.05;
+		C V 0.0 3  246 [0.001 1.0] 344 [0.001 1.0] 347 [0.001 1.0]
+	58{1,1}  => 167 0.05;
+		C V 0.0 2  246 [0.001 1.0] 347 [0.001 1.0]
+	217{2,1}  => 167 0.05;
+		C V 0.0 3  246 [0.001 1.0] 344 [0.001 1.0] 347 [0.001 1.0]
+	95{2,1} V 96{2,1} V 372{2,1} V 331{2,1}  => 167 0.1;
+		C V 0.0 3  246 [0.001 1.0] 344 [0.001 1.0] 347 [0.001 1.0]
+	52{1,1}  => 167 0.05;
+		C V 0.0 3  246 [0.001 1.0] 344 [0.001 1.0] 347 [0.001 1.0]
+	50{1,1} V 52{1,1} V 49{1,1}  => 168 0.001;
+	80{1,1}  => 168 0.2;
+		C V 0.0 3  146 [0.001 1.0] 148 [0.001 1.0] 249 [0.001 1.0]
+	6{1,1}  => 168 -0.15;
+		C V 0.0 3  146 [0.001 1.0] 148 [0.001 1.0] 249 [0.001 1.0]
+	3 & (14 V 15 V 38 V 8 V 16 ) => 146 1.0;
+	146  => 168 0.4;
+	146 & 41  => 168 0.45;
+	146 & 74  => 168 0.45;
+	146 & 79  => 168 0.55;
+	146 & 164  => 168 0.5;
+	117 & 119 & (141 V 142 V 122 V 123 V 124 V 125 ) => 249 1.0;
+	249  => 168 0.4;
+	249 & 146  => 168 0.45;
+	5 & (198 V 199 ) => 148 1.0;
+	148  => 168 0.4;
+	148 & 24  => 168 0.45;
+	148 & 80  => 168 0.5;
+	148 & 300  => 168 0.5;
+	63{1,1} V 65{1,1}  => 168 0.05;
+		C V 0.0 3  146 [0.001 1.0] 148 [0.001 1.0] 249 [0.001 1.0]
+	40{1,1} V 42{1,1}  => 168 -0.1;
+		C V 0.0 3  146 [0.001 1.0] 148 [0.001 1.0] 249 [0.001 1.0]
+	224{2,1} V 254{2,1}  => 168 0.1;
+		C V 0.0 3  146 [0.001 1.0] 148 [0.001 1.0] 249 [0.001 1.0]
+	149 V 151 V 150 V 153  => 335 1.0;
+	-149 & -151 & -150 & -153  => 335 -1.0;
+	1 & 42 & 121{1,1}  => 149 1.0;
+	90 & 301 & (98 V 99 V 100 V 105 V 106 V 107 V 108 )& 121{1,1}  => 151 1.0;
+	115 & 120 & (126 V 128 V 129 V 130 V 136 V 137 V 138 )& 306 & 121{1,1}  => 150 1.0;
+	230 & ((285 & 41 )V ((116 V 117 )& 119 )V (91 & 94 )) => 153 1.0;
+	50{1,1} V 51{1,1} V 52{1,1}  => 169 0.001;
+	335  => 169 0.4;
+	335 & (64 V 65 V 66 V 6 V 8 ) => 169 0.3;
+	335 & (26{2,1} V 204{2,1} V 404{2,1} V 405{2,1} V 406{2,1} V 60{2,1} V 370{2,1} V 2{2,1} V 625{2,1} V 73{2,1} ) => 169 0.5;
+	335 & 305  => 169 0.45;
+	335 & 178  => 169 0.5;
+	335 & 44{1,1}  => 169 0.45;
+	335 & 73{1,1}  => 169 0.45;
+	335 & 60{2,1}  => 169 0.5;
+	-178  => 169 -0.2;
+	42{1,1}  => 169 0.05;
+		C & 0.0 1  335 [0.001 1.0]
+	335 & 306  => 169 0.5;
+	335 & 157  => 169 0.5;
+	180  => 169 -0.1;
+	72{1,1} V 57{1,1} V 67{1,1} V 69{1,1} V 76{1,1}  => 169 -0.2;
+	50{1,1} V 51{1,1} V 52{1,1}  => 170 0.001;
+	153  => 170 0.4;
+	153 & 121{1,1}  => 170 0.5;
+	153 & 42{1,1}  => 170 0.5;
+	153 & 1{14,1}  => 170 0.5;
+	153 & 44{1,1}  => 170 0.5;
+	101{2,1} V 545{2,1}  => 170 0.3;
+		C & 0.0 1  153 [0.001 1.0]
+	153 & 164  => 170 0.45;
+	69{1,1} V 76{1,1} V 72{1,1} V 67{1,1} V 57{1,1}  => 170 -0.2;
+	153 & 305  => 170 0.5;
+	153 & 73{1,1}  => 170 0.45;
+	153 & 178  => 170 0.5;
+	153 & (60{2,1} V 73{2,1} V 59{2,1} V 400{2,1} ) => 170 0.5;
+	50{1,1} V 51{1,1} V 52{1,1} V 293{1,1} V 292{1,1}  => 171 0.001;
+	(132{15,1} V 133{15,1} V 544{2,1} )& (50{1,1} V 27 V 30 V 38 V 15 )& (116 V 117 ) => 256 1.0;
+	248 & 2 & 30 & 62 & 59 & 178  => 171 0.6;
+	256 & 30  => 171 0.55;
+	256 & 31  => 171 0.55;
+	256 & 154  => 171 0.65;
+	248 & 154 & 79  => 171 0.75;
+	256  => 171 0.4;
+	256 & 133  => 171 0.5;
+	256 & 133 & 128  => 171 0.65;
+	256 & 90 & 94 & 251 & 113 & 40{1,1}  => 171 0.85;
+	50{1,1} V 51{1,1} V 52{1,1}  => 172 0.001;
+	58{1,1}  => 172 0.1;
+		C & 0.0 1  335 [0.001 1.0]
+	-58{1,1}  => 172 -0.1;
+		C & 0.0 1  335 [0.001 1.0]
+	6{1,1}  => 172 0.05;
+		C & 0.0 1  335 [0.001 1.0]
+	69{1,1} V 76{1,1}  => 172 0.2;
+		C & 0.0 1  335 [0.001 1.0]
+	-69{1,1} & -76{1,1}  => 172 -0.8;
+	63{2,1} V 59{2,1}  => 172 0.1;
+		C & 0.0 1  335 [0.001 1.0]
+	335 & 305  => 172 0.5;
+	335 & 178  => 172 0.1;
+	-178  => 172 -0.2;
+		C & 0.0 1  335 [0.001 1.0]
+	335 & 44{1,1}  => 172 0.45;
+	335 & 73{1,1}  => 172 0.45;
+	42{1,1}  => 172 0.05;
+		C & 0.0 1  335 [0.001 1.0]
+	335 & 157  => 172 0.5;
+	61{1,1} V 62{1,1} V 63{1,1} V 65{1,1} V 60{1,1} V 66{1,1}  => 173 0.001;
+	315  => 258 1.0;
+	258  => 173 0.4;
+	258 & 31{1,1}  => 173 0.45;
+	258 & 10{1,1}  => 173 0.45;
+	258 & 230  => 173 0.55;
+	254{2,1}  => 313 0.15;
+	-58{1,1}  => 173 -0.1;
+	258 & 58{1,1}  => 173 0.5;
+	258 & 222{2,1}  => 173 0.45;
+	258 & 462{2,1}  => 173 0.55;
+	258 & 614{2,1}  => 173 0.45;
+	316 V 318  => 314 1.0;
+	61{1,1} V 62{1,1} V 63{1,1} V 65{1,1} V 60{1,1} V 66{1,1}  => 313 0.001;
+	314  => 313 0.4;
+	-58{1,1}  => 313 -0.15;
+	314 & 58{1,1}  => 313 0.5;
+	50{1,1} V 52{1,1}  => 174 0.001;
+	-5{1,1}  => 174 -0.2;
+	5{1,1} & 285 & (30 V 34 V 12 V 14 V 23 V 35 ) => 259 1.0;
+	130 V 136 V 138 V 307 V 142 V 137  => 260 1.0;
+	259  => 174 0.4;
+	259 & 41  => 174 0.45;
+	259 & 59  => 174 0.45;
+	259 & 82  => 174 0.45;
+	259 & 83  => 174 0.45;
+	259 & 260  => 174 0.5;
+	28 V 27 V 25 V 26  => 174 -0.1;
+	154 V 45{1,1} V 46{1,1} V 47{1,1} V 43{1,1} V 59{1,1} V 73{1,1}  => 174 -0.15;
+	50{1,1}  => 175 0.001;
+	-58{1,1}  => 175 -0.2;
+	58{1,1}  => 175 0.2;
+		C V 0.0 1  262 [0.001 1.0]
+	60{1,1} V 121{1,1}  => 263 1.0;
+	(50{1,1} V 178 )& (63{1,1} V 61{1,1} V 62{1,1} V 65{1,1} V 287{1,1} )& (76{1,1} V 69{1,1} ) => 262 1.0;
+	262  => 175 0.4;
+	262 & 263  => 175 0.5;
+	262 & 264  => 175 0.45;
+	262 & 257  => 175 0.5;
+	262 & 261  => 175 0.55;
+	262 & 63{2,1}  => 175 0.55;
+	262 & 66{2,1}  => 175 0.55;
+	262 & 80{1,1}  => 175 0.5;
+	262 & 59  => 175 0.5;
+	262 & (231 V 241 ) => 175 0.5;
+	262 & 121{1,1}  => 175 0.5;
+	262 & (615{2,1} V 616{2,1} V 617{2,1} V 400{2,1} V 506{2,1} V 152{2,1} ) => 175 0.5;
+	50{1,1} V 40{1,1} V 41{1,1} V 72{1,1} V 67{1,1} V 60{1,1} V 33{1,1}  => 176 0.001;
+	348  => 176 0.001;
+	72{1,1} V 67{1,1} V 60{1,1} V 326 V 220 V 327 V 328 V 628{2,1}  => 176 0.001;
+	161  => 176 0.4;
+	299{2,1} V 138{2,1}  => 176 0.05;
+		C & 0.0 1  161 [0.001 1.0]
+	6{1,1}  => 176 0.1;
+		C & 0.0 1  161 [0.001 1.0]
+	58{1,1}  => 176 0.1;
+		C & 0.0 1  161 [0.001 1.0]
+	40{1,1} V 41{1,1}  => 176 0.1;
+		C & 0.0 1  161 [0.001 1.0]
+	97{1,1} V 11{1,1}  => 176 0.1;
+		C & 0.0 1  161 [0.001 1.0]
+	202{1,1}  => 176 0.1;
+		C & 0.0 1  161 [0.001 1.0]
+	105{1,1}  => 176 0.05;
+		C & 0.0 1  161 [0.001 1.0]
+	373{2,1}  => 176 0.1;
+		C & 0.0 1  161 [0.001 1.0]
+	298  => 176 0.05;
+		C & 0.0 1  161 [0.001 1.0]
+	39{1,1}  => 176 0.05;
+		C & 0.0 1  161 [0.001 1.0]
+	36{1,1}  => 176 0.05;
+		C & 0.0 1  161 [0.001 1.0]
+	221  => 176 0.15;
+		C & 0.0 1  161 [0.001 1.0]
+	234  => 176 0.15;
+		C & 0.0 1  161 [0.001 1.0]
+	329  => 176 0.05;
+		C & 0.0 1  161 [0.001 1.0]
+	80{1,1}  => 176 -0.1;
+		C & 0.0 1  161 [0.001 1.0]
+	-58{1,1}  => 176 -0.2;
+		C & 0.0 1  161 [0.001 1.0]
+	11  => 176 -0.15;
+		C & 0.0 1  161 [0.001 1.0]
+	-5{1,1}  => 177 -0.2;
+	49{1,1} V 50{1,1}  => 177 0.001;
+	5 & 5{1,1} & (191 V 207 V 208 V 198 V 121{1,1} ) => 270 1.0;
+	270  => 177 0.4;
+	270 & 44{1,1}  => 177 0.5;
+	270 & 46{1,1}  => 177 0.55;
+	270 & 47{1,1}  => 177 0.5;
+	270 & 93{1,1}  => 177 0.55;
+	270 & 121{1,1}  => 177 0.5;
+	270 & 232{2,1}  => 177 0.5;
+	-121{1,1} & -44{1,1} & -47{1,1}  => 177 -1.0;
+	7 V 9 V 11  => 232 1.0;
+	-7 & -9 & -11  => 232 -1.0;
+	14 V 15  => 254 1.0;
+	-14 & -15  => 254 -1.0;
+	18 V 19 V 20 V 21  => 233 1.0;
+	-18 & -19 & -20 & -21  => 233 -1.0;
+	50{1,1} & 5{1,1} & 121{1,1} & (44{1,1} V 42{1,1} ) => 57 1.0;
+	57  => 177 0.4;
+	57 & 2  => 177 0.45;
+	57 & 232  => 177 0.45;
+	57 & 233  => 177 0.5;
+	57 & 25  => 177 0.5;
+	57 & 23  => 177 0.5;
+	57 & 254  => 177 0.5;
+	57 & 41  => 177 0.5;
+	272  => 177 0.1;
+		C V 0.0 2  57 [0.001 1.0] 270 [0.001 1.0]
+	312 V 72{1,1}  => 177 -0.2;
+	50{1,1} V 52{1,1} V 31{1,1}  => 182 0.001;
+	119  => 182 0.05;
+		C & 0.0 1  158 [0.001 1.0]
+	5{1,1} & 272 & 16 & 121 & 42{1,1}  => 158 1.0;
+	158  => 182 0.4;
+	52{1,1} & 5{1,1} & 31{1,1} & 121{1,1}  => 310 1.0;
+	310  => 182 0.4;
+	31{1,1} & -58{1,1} & (92{11,1} V 95{11,1} )& 110{11,1} & 90{11,1} & (42{1,1} V 43{1,1} V 191 V 193 V 121{1,1} ) => 346 1.0;
+	346  => 182 0.4;
+	270  => 182 0.4;
+	1 V 115  => 182 -0.6;
+	-31{1,1}  => 182 -0.3;
+	312 V 72{1,1}  => 182 -0.2;
+	107{11,1} V 108{11,1} V 109{11,1}  => 182 -0.3;
+	158 & 121{1,1}  => 182 0.5;
+	47{1,1}  => 182 0.1;
+		C V 0.0 4  158 [0.001 1.0] 270 [0.001 1.0] 310 [0.001 1.0] 346 [0.001 1.0]
+	65{1,1}  => 182 0.05;
+		C V 0.0 4  158 [0.001 1.0] 270 [0.001 1.0] 310 [0.001 1.0] 346 [0.001 1.0]
+	121  => 182 0.15;
+		C V 0.0 4  158 [0.001 1.0] 270 [0.001 1.0] 310 [0.001 1.0] 346 [0.001 1.0]
+	128  => 182 0.1;
+		C V 0.0 4  158 [0.001 1.0] 270 [0.001 1.0] 310 [0.001 1.0] 346 [0.001 1.0]
+	298  => 182 0.1;
+		C V 0.0 4  158 [0.001 1.0] 270 [0.001 1.0] 310 [0.001 1.0] 346 [0.001 1.0]
+	46{1,1}  => 182 0.1;
+		C V 0.0 4  158 [0.001 1.0] 270 [0.001 1.0] 310 [0.001 1.0] 346 [0.001 1.0]
+	93{1,1}  => 182 0.1;
+		C V 0.0 4  158 [0.001 1.0] 270 [0.001 1.0] 310 [0.001 1.0] 346 [0.001 1.0]
+	97{1,1}  => 182 0.05;
+		C V 0.0 4  158 [0.001 1.0] 270 [0.001 1.0] 310 [0.001 1.0] 346 [0.001 1.0]
+	101{11,1}  => 182 0.05;
+		C V 0.0 4  158 [0.001 1.0] 270 [0.001 1.0] 310 [0.001 1.0] 346 [0.001 1.0]
+	200  => 182 0.2;
+		C V 0.0 4  158 [0.001 1.0] 270 [0.001 1.0] 310 [0.001 1.0] 346 [0.001 1.0]
+	6{1,1}  => 182 0.05;
+		C V 0.0 4  158 [0.001 1.0] 270 [0.001 1.0] 310 [0.001 1.0] 346 [0.001 1.0]
+	99{10,1}  => 182 0.1;
+		C V 0.0 4  158 [0.001 1.0] 270 [0.001 1.0] 310 [0.001 1.0] 346 [0.001 1.0]
+	103{11,1}  => 182 0.05;
+		C V 0.0 4  158 [0.001 1.0] 270 [0.001 1.0] 310 [0.001 1.0] 346 [0.001 1.0]
+	105{11,1}  => 182 0.05;
+		C V 0.0 4  158 [0.001 1.0] 270 [0.001 1.0] 310 [0.001 1.0] 346 [0.001 1.0]
+	117{11,1} V 116{11,1} V 115{11,1}  => 182 0.05;
+		C V 0.0 4  158 [0.001 1.0] 270 [0.001 1.0] 310 [0.001 1.0] 346 [0.001 1.0]
+	441{2,1} V 232{2,1} V 233{2,1} V 234{2,1} V 235{2,1} V 118{2,1} V 246{2,1}  => 182 0.05;
+		C V 0.0 4  158 [0.001 1.0] 270 [0.001 1.0] 310 [0.001 1.0] 346 [0.001 1.0]
+	50{1,1} V 52{1,1}  => 183 0.001;
+	(1 & 254 )V (115 & 142 ) => 275 1.0;
+	275  => 183 0.4;
+	275 & 42  => 183 0.45;
+	275 & 59  => 183 0.45;
+	275 & 75  => 183 0.45;
+	275 & 181  => 183 0.45;
+	275 & 143  => 183 0.45;
+	275 & 239  => 183 0.5;
+	275 & 42 & 59  => 183 0.5;
+	275 & 42 & 75  => 183 0.5;
+	275 & 42 & 181  => 183 0.5;
+	275 & 42 & 239  => 183 0.55;
+	275 & 42 & 143  => 183 0.5;
+	275 & 75 & 239  => 183 0.55;
+	275 & 181 & 239  => 183 0.55;
+	275 & 75 & 181  => 183 0.5;
+	275 & 143 & 239  => 183 0.55;
+	275 & 143 & 75  => 183 0.5;
+	275 & 143 & 181  => 183 0.5;
+	275 & 59 & 143  => 183 0.5;
+	275 & 42 & 59 & 239  => 183 0.65;
+	275 & 42 & 75 & 239  => 183 0.65;
+	275 & 42 & 181 & 239  => 183 0.65;
+	275 & 42 & 75 & 181  => 183 0.6;
+	275 & 42 & 143 & 239  => 183 0.6;
+	275 & 42 & 143 & 59  => 183 0.6;
+	275 & 42 & 59 & 75  => 183 0.6;
+	275 & 42 & 59 & 181  => 183 0.6;
+	275 & 42 & 59 & 143 & 75  => 183 0.65;
+	275 & 42 & 59 & 143 & 181  => 183 0.65;
+	275 & 42 & 59 & 143 & 239  => 183 0.7;
+	275 & 42 & 59 & 75 & 239  => 183 0.7;
+	275 & 42 & 59 & 181 & 239  => 183 0.7;
+	275 & 42 & 59 & 75 & 181  => 183 0.65;
+	275 & 42 & 59 & 143 & 75 & 181 & 239  => 183 0.8;
+	-58{1,1}  => 183 0.1;
+		C & 0.0 1  275 [0.001 1.0]
+	6{1,1}  => 183 -0.05;
+		C & 0.0 1  275 [0.001 1.0]
+	22{2,1} V 207{2,1} V 208{2,1}  => 183 0.05;
+		C & 0.0 1  275 [0.001 1.0]
+	275 & 52{1,1}  => 183 0.5;
+	50{1,1} V 51{1,1}  => 184 0.001;
+	1 & (10 V 14 V 13 )& 121{1,1} & 73{1,1}  => 280 1.0;
+	90 & (111 V 102 V 103 ) => 281 1.0;
+	280  => 184 0.4;
+	280 & 5{1,1}  => 184 0.55;
+	280 & 24{2,1}  => 184 0.55;
+	280 & 60{2,1}  => 184 0.5;
+	280 & 26{2,1}  => 184 0.5;
+	280 & 281  => 184 0.55;
+	280 & 281 & 24{2,1}  => 184 0.6;
+	280 & 281 & 60{2,1}  => 184 0.6;
+	280 & 281 & 26{2,1}  => 184 0.6;
+	280 & 24{2,1} & 60{2,1}  => 184 0.6;
+	280 & 24{2,1} & 26{2,1}  => 184 0.6;
+	280 & 281 & 5{1,1}  => 184 0.6;
+	280 & 5{1,1} & 24{2,1}  => 184 0.65;
+	280 & 5{1,1} & 60{2,1}  => 184 0.6;
+	280 & 5{1,1} & 26{2,1}  => 184 0.6;
+	280 & 281 & 5{1,1} & 24{2,1}  => 184 0.7;
+	280 & 281 & 5{1,1} & 60{2,1}  => 184 0.65;
+	280 & 281 & 5{1,1} & 26{2,1}  => 184 0.65;
+	280 & 281 & 5{1,1} & 24{2,1} & 60{2,1}  => 184 0.75;
+	280 & 281 & 5{1,1} & 24{2,1} & 26{2,1}  => 184 0.75;
+	280 & 281 & 5{1,1} & 60{2,1} & 26{2,1}  => 184 0.7;
+	280 & 281 & 24{2,1} & 60{2,1} & 26{2,1}  => 184 0.7;
+	280 & 281 & 24{2,1} & 60{2,1}  => 184 0.65;
+	280 & 24{2,1} & 60{2,1} & 26{2,1}  => 184 0.65;
+	280 & 281 & 5{1,1} & 24{2,1} & 60{2,1} & 26{2,1}  => 184 0.85;
+	185 & 3  => 342 0.001;
+	185 & 3 & 343  => 342 0.4;
+	185 & 3 & 343 & (1{2,1} V 42{1,1} ) => 342 0.5;
+	185 & 3 & 343 & -58{1,1}  => 342 0.5;
+	50{1,1}  => 185 0.001;
+	25 & 59 & 305  => 185 0.8;
+	-25 & -9  => 185 -1.0;
+	241  => 185 -1.0;
+	27{2,1}  => 185 0.15;
+	72{1,1} V 40{1,1} V 39{1,1} V 176{1,1} V 69{1,1} V 96{1,1} V 266{1,1} V 95{1,1}  => 185 -0.2;
+	210{2,1} V 209{2,1} V 207{2,1} V 620{2,1} V 213{2,1} V 345{2,1}  => 185 -0.1;
+	164 V 75  => 185 0.1;
+	50{1,1} V 52{1,1}  => 297 0.001;
+	-128  => 297 -0.8;
+	185  => 297 0.4;
+	185 & 58{1,1}  => 297 0.45;
+	185 & 285  => 297 0.45;
+	185 & 42  => 297 0.45;
+	185 & 27{2,1}  => 297 0.45;
+	185 & 75  => 297 0.5;
+	185 & 253{11,1} & ((301{11,1} & -302{11,1} )V (-301{11,1} & 302{11,1} )) => 297 0.5;
+	185 & 208  => 297 0.45;
+	185 & (17{2,1} V 612{2,1} V 621{2,1} V 678{2,1} ) => 297 0.5;
+	185 & 269{1,1} & (339{11,1} V 342{11,1} V 343{11,1} V 345{11,1} )& 253{11,1} & (6{11,1} V 7{11,1} ) => 297 0.5;
+	50{1,1} V 52{1,1}  => 186 0.001;
+	-185  => 186 -0.5;
+	-128  => 186 -0.8;
+	185  => 186 0.4;
+	185 & 1 & 42 & 78 & 128  => 186 0.6;
+	185 & 285 & 392{2,1} & 128  => 186 0.6;
+	185 & 128  => 186 0.5;
+	185 & 1 & 128  => 186 0.55;
+	185 & 1 & 78 & 128  => 186 0.6;
+	185 & 128 & 42  => 186 0.6;
+	185 & 1 & 128 & 42  => 186 0.65;
+	185 & 80{1,1}  => 186 0.45;
+	185 & -58{1,1}  => 186 0.45;
+	185 & 27{2,1}  => 186 0.45;
+	50{1,1} V 52{1,1}  => 187 0.001;
+	-128  => 187 -0.8;
+	1  => 187 -0.05;
+	185  => 187 0.4;
+	185 & -58{1,1} & 164 & 128  => 187 0.8;
+	185 & -58{1,1} & 128  => 187 0.65;
+	185 & 164 & 128  => 187 0.65;
+	185 & 128  => 187 0.6;
+	185 & 6{1,1}  => 187 0.45;
+	185 & (204{2,1} V 205{2,1} V 207{2,1} ) => 187 0.45;
+	185 & (356{2,1} V 97{2,1} V 251{2,1} ) => 187 0.45;
+	185 & 27{2,1}  => 187 0.45;
+	50{1,1} V 52{1,1}  => 188 0.001;
+	-128  => 188 -0.8;
+	185  => 188 0.4;
+	185 & 27{2,1}  => 188 0.5;
+	185 & 27{2,1} & 58{1,1}  => 188 0.55;
+	185 & 27{2,1} & 58{1,1} & 1 & 75  => 188 0.6;
+	185 & 27{2,1} & 58{1,1} & 115 & 240 & 128  => 188 0.6;
+	185 & (619{2,1} V 621{2,1} ) => 188 0.55;
+	-619{2,1} & -621{2,1} & -27{2,1}  => 188 -0.1;
+	61{1,1} V 62{1,1} V 63{1,1} V 65{1,1} V 243{1,1}  => 291 0.001;
+	(61{1,1} V 62{1,1} V 63{1,1} V 65{1,1} )& 243{1,1} & -64{1,1}  => 271 1.0;
+	271  => 291 0.4;
+	271 & 156  => 291 0.55;
+	271 & 36{1,1} & 39{1,1} & 345{2,1}  => 291 0.6;
+	271 & 262{1,1}  => 291 0.45;
+	271 & 6{1,1}  => 291 0.55;
+	271 & 5{1,1}  => 291 0.45;
+	271 & 19{1,1}  => 291 0.45;
+	271 & 249{2,1}  => 291 0.45;
+	80{1,1}  => 291 -0.05;
+	50{1,1}  => 290 0.001;
+	(30 V 31 V 34 )& 241 & 58 & 178  => 269 1.0;
+	17{1,1} V 16{1,1} V 12{1,1} V 10{1,1} V 93{1,1} V 6{5,1} V 372{2,1}  => 268 1.0;
+	269  => 290 0.4;
+	269 & (2 V 3 ) => 290 0.45;
+	269 & (9 V 10 ) => 290 0.5;
+	269 & 41  => 290 0.45;
+	269 & (69 V 70 ) => 290 0.45;
+	269 & 84  => 290 0.45;
+	269 & 19{1,1}  => 290 0.55;
+	269 & 268  => 290 0.5;
+	269 & 213{2,1}  => 290 0.9;
+	269 & (17 V 18 ) => 290 0.45;
+	269 & 19  => 290 0.45;
+	269 & (23 V 24 V 25 ) => 290 0.45;
+	269 & (28 V 31 ) => 290 0.45;
+	269 & (21{1,1} V 25{1,1} V 105{5,1} V 23{1,1} ) => 290 0.5;
+	269 & (345{2,1} V 372{2,1} V 358{2,1} ) => 290 0.5;
+	269 & (138{5,1} & 131{5,1} ) => 290 0.001;
+	253 V 332  => 334 1.0;
+	-253 & -332  => 334 -1.0;
+	52{1,1} V 51{1,1}  => 289 0.001;
+	322{11,1} & 66{1,1}  => 253 1.0;
+	156{1,1} V 49{1,1} V 66{1,1}  => 289 0.001;
+	253  => 289 0.4;
+	253 & 6{1,1}  => 289 0.5;
+	253 & 163{11,1}  => 289 0.45;
+	253 & (165{11,1} V 166{11,1} ) => 289 0.45;
+	253 & 167{11,1}  => 289 0.45;
+	253 & 171{11,1}  => 289 0.45;
+	253 & (174{11,1} V 175{11,1} ) => 289 0.45;
+	(193 V 207 )& 66{1,1}  => 332 1.0;
+	332  => 289 0.4;
+	332 & (191 V 192 V 193 V 194 ) => 289 0.45;
+	332 & 208  => 289 0.45;
+	332 & (204 V 205 ) => 289 0.45;
+	332 & 24  => 289 0.45;
+	332 & 189  => 289 0.45;
+	332 & 52{1,1}  => 289 0.5;
+	334 & 331  => 289 0.05;
+	334 & 6{1,1}  => 289 0.05;
+	334 & -58{1,1}  => 289 0.05;
+	334 & 412{2,1}  => 289 0.1;
+	55{1,1} V 72{1,1}  => 289 -0.1;
+	201 V 330  => 333 1.0;
+	-201 & -330  => 333 -1.0;
+	322{11,1}  => 201 1.0;
+	(49{1,1} V 156{1,1} )& (208 V 191 V 207 V 172{11,1} )& (24 V 163{11,1} ) => 350 1.0;
+	-350  => 288 -0.2;
+	(-49{1,1} & -156{1,1} )V (-208 & -191 & -207 & -172{11,1} )V (-24 V -163{11,1} ) => 350 -1.0;
+	156{1,1} V 49{1,1}  => 288 0.001;
+	201  => 288 0.4;
+	201 & 6{1,1}  => 288 0.5;
+	201 & 163{11,1}  => 288 0.45;
+	201 & (165{11,1} V 166{11,1} ) => 288 0.45;
+	201 & 167{11,1}  => 288 0.45;
+	201 & 171{11,1}  => 288 0.45;
+	201 & (174{11,1} V 175{11,1} ) => 288 0.45;
+	208 V 191 V 207  => 330 1.0;
+	330  => 288 0.4;
+	330 & (191 V 192 V 193 V 194 ) => 288 0.45;
+	330 & 208  => 288 0.45;
+	330 & (204 V 205 ) => 288 0.45;
+	330 & 24  => 288 0.45;
+	330 & 189  => 288 0.45;
+	330 & 52{1,1}  => 288 0.5;
+	333 & 331  => 288 0.05;
+	333 & 6{1,1}  => 288 0.05;
+	333 & -58{1,1}  => 288 0.05;
+	333 & 412{2,1}  => 288 0.1;
+	55{1,1} V 72{1,1}  => 288 -0.1;
+	97{2,1}  => 288 -0.2;
+	48 & 211{2,1}  => 49 1.0;
+	-48 V -211{2,1}  => 49 -1.0;
+	50{1,1} V 121{1,1}  => 46 0.001;
+	404{2,1} V 405{2,1} V 406{2,1}  => 50 1.0;
+	-50  => 46 -0.2;
+	-58{1,1}  => 46 -0.1;
+	241 & 121{1,1} & 64 & -67 & 178  => 48 1.0;
+	48  => 46 0.4;
+	48 & 50  => 46 0.6;
+	48 & 403{2,1}  => 46 0.6;
+	48 & 218{2,1}  => 46 0.45;
+	48 & 2{11,1}  => 46 0.6;
+	58{1,1}  => 46 0.1;
+		C V 0.0 1  48 [0.001 1.0]
+	69{1,1} V 76{1,1}  => 46 -0.2;
+	185{1,1} V 174{1,1}  => 319 0.001;
+	(253{11,1} & 10{11,1} & (310{11,1} V 306{11,1} ))V (233{8,1} & (230{8,1} V 231{8,1} )) => 320 1.0;
+	320  => 319 0.4;
+	320 & (155{1,1} V 245{1,1} V 244{1,1} ) => 319 0.5;
+	320 & 50{1,1} & (27 V 28 ) => 319 0.5;
+	320 & 621{2,1}  => 319 0.45;
+	320 & 21  => 319 0.45;
+	320 & 322  => 319 0.45;
+	320 & (323 V 324 V 325 ) => 319 0.45;
+	320 & (210{2,1} V 99{2,1} V 605{2,1} V 429{2,1} V 622{2,1} V 395{2,1} V 97{2,1} ) => 319 0.5;
+	320 & 623{2,1}  => 319 0.5;
+	320 & -58{1,1}  => 319 0.45;
+	320 & 624{2,1}  => 319 0.5;
+	50{1,1} V 52{1,1}  => 267 0.001;
+	(1 V 2 )& 25 & (115 V 116 )& 128  => 311 1.0;
+	311  => 267 0.4;
+	311 & (41 V 42 ) => 267 0.45;
+	311 & 59  => 267 0.45;
+	58  => 267 -0.1;
+	311 & (68 V 69 ) => 267 0.45;
+	311 & 75  => 267 0.45;
+	76 V 77  => 267 -0.1;
+	311 & 78  => 267 0.45;
+	311 & 164  => 267 0.45;
+	69{1,1} V 76{1,1} V 72{1,1} V 67{1,1}  => 267 -0.2;
+	63{2,1} V 59{2,1}  => 267 -0.2;
+	60{1,1} V 61{1,1} V 62{1,1} V 63{1,1} V 65{1,1}  => 267 -0.2;
+	121{1,1} V 73{1,1}  => 267 -0.2;
+	311 & (210{1,1} V 629{2,1} V 210{2,1} V 67{2,1} V 207{2,1} V 631{2,1} ) => 267 0.5;
+	50{1,1} V 52{1,1}  => 336 0.001;
+	(1 V 2 )& 23 & (115 V 116 )& 127  => 337 1.0;
+	337  => 336 0.4;
+	337 & (41 V 42 ) => 336 0.45;
+	337 & 59  => 336 0.45;
+	337 & 164  => 336 0.45;
+	58  => 336 -0.1;
+	337 & (68 V 69 ) => 336 0.45;
+	337 & 75  => 336 0.45;
+	76 V 77  => 336 -0.1;
+	337 & 78  => 336 0.45;
+	337 & 181  => 336 0.45;
+	69{1,1} V 76{1,1} V 72{1,1} V 67{1,1}  => 336 -0.2;
+	63{2,1} V 59{2,1}  => 336 -0.2;
+	60{1,1} V 61{1,1} V 62{1,1} V 63{1,1} V 65{1,1}  => 336 -0.2;
+	121{1,1} V 73{1,1}  => 336 -0.2;
+	337 & (210{1,1} V 629{2,1} V 210{2,1} V 67{2,1} V 207{2,1} V 631{2,1} ) => 336 0.5;
+	50{1,1} V 52{1,1}  => 338 0.001;
+	(1 V 2 )& 26 & (115 V 116 )& 129  => 339 1.0;
+	339  => 338 0.4;
+	339 & (41 V 42 ) => 338 0.45;
+	339 & 59  => 338 0.45;
+	339 & 164  => 338 0.45;
+	58  => 338 -0.1;
+	339 & (68 V 69 ) => 338 0.45;
+	339 & 75  => 338 0.45;
+	76 V 77  => 338 -0.1;
+	339 & 78  => 338 0.45;
+	69{1,1} V 76{1,1} V 72{1,1} V 67{1,1}  => 338 -0.2;
+	63{2,1} V 59{2,1}  => 338 -0.2;
+	60{1,1} V 61{1,1} V 62{1,1} V 63{1,1} V 65{1,1}  => 338 -0.2;
+	121{1,1} V 73{1,1}  => 338 -0.2;
+	339 & (210{1,1} V 629{2,1} V 210{2,1} V 67{2,1} V 207{2,1} V 631{2,1} ) => 338 0.5;
+	27{2,1}  => 338 -0.2;
+		C & 0.0 1  339 [0.001 1.0]
+	50{1,1}  => 340 0.001;
+	(1 V 2 )& 26  => 341 1.0;
+	341  => 340 0.4;
+	341 & 27{2,1}  => 340 0.55;
+	-27{2,1}  => 340 -0.1;
+	341 & 58{1,1}  => 340 0.5;
+	341 & (41 V 42 ) => 340 0.45;
+	341 & 59  => 340 0.5;
+	58  => 340 -0.1;
+	341 & (68 V 69 ) => 340 0.45;
+	341 & 75  => 340 0.45;
+	341 & (76 V 77 V 78 ) => 340 0.45;
+	341 & 52{1,1}  => 340 0.5;
+	341 & 129  => 340 0.5;
+	69{1,1} V 76{1,1} V 72{1,1} V 67{1,1}  => 340 -0.2;
+	60{1,1} V 61{1,1} V 62{1,1} V 63{1,1} V 65{1,1}  => 340 -0.2;
+	121{1,1} V 73{1,1}  => 340 -0.2;
+//  VARIABLES
+	S T S S 3 1 NULL 2 NULL 3 NULL 
+		C & -1.0 1  50{1,1} [0.001 1.0] 
+	S T S S 2 4 NULL 5 NULL 
+		C & -1.0 1  49{1,1} [0.001 1.0] 
+	M T S S 6 6 NULL 7 NULL 8 NULL 9 NULL 10 NULL 11 NULL 
+		C & -1.0 1  50{1,1} [0.001 1.0] 
+	M T S S 6 34 NULL 35 NULL 36 NULL 37 NULL 38 NULL 23 NULL 
+		C & -1.0 1  10 [0.001 1.0] 
+	S T S S 2 41 NULL 42 NULL 
+		C & -1.0 1  50{1,1} [0.001 1.0] 
+	S T S S 2 58 NULL 59 NULL 
+		C & -1.0 1  50{1,1} [0.001 1.0] 
+	M T S S 3 64 NULL 65 NULL 66 NULL 
+		C & -1.0 1  50{1,1} [0.001 1.0] 
+	M T S S 6 68 NULL 69 NULL 70 NULL 72 NULL 73 NULL 293 NULL 
+		C & -1.0 1  50{1,1} [0.001 1.0] 
+	S T S S 2 74 NULL 75 NULL 
+		C & -1.0 1  50{1,1} [0.001 1.0] 
+	M T S S 4 76 NULL 77 NULL 78 NULL 79 NULL 
+		C & -1.0 1  50{1,1} [0.001 1.0] 
+	M T S S 5 33 NULL 71 NULL 132 NULL 80 NULL 81 NULL 
+		C & -1.0 1  49{1,1} [0.001 1.0] 
+	M T S S 3 85 NULL 86 NULL 87 NULL 
+		C & -1.0 1  49{1,1} [0.001 1.0] 
+	S T S S 3 88 NULL 89 NULL 189 NULL 
+		C & -1.0 1  49{1,1} [0.001 1.0] 
+	S T S S 2 90 NULL 91 NULL 
+		C & -1.0 1  51{1,1} [0.001 1.0] 
+	S T S S 2 92 NULL 93 NULL 
+		C & -1.0 1  51{1,1} [0.001 1.0] 
+	M T S S 4 47 NULL 110 NULL 111 NULL 52 NULL 
+		C & -1.0 1  51{1,1} [0.001 1.0] 
+	S T S S 3 115 NULL 116 NULL 117 NULL 
+		C & -1.0 1  52{1,1} [0.001 1.0] 
+	S T S S 4 118 NULL 119 NULL 120 NULL 180 NULL 
+		C & -1.0 1  52{1,1} [0.001 1.0] 
+	M T S S 4 39 NULL 40 NULL 44 NULL 45 NULL 
+		C & -1.0 1  52{1,1} [0.001 1.0] 
+	M T S S 5 191 NULL 192 NULL 193 NULL 194 NULL 195 NULL 
+		C & -1.0 1  49{1,1} [0.001 1.0] 
+	M T S S 6 215 NULL 216 NULL 217 NULL 218 NULL 219 NULL 207 NULL 
+		C & -1.0 1  194 [0.001 1.0] 
+	S T S S 2 24 NULL 29 NULL 
+		C & -1.0 1  49{1,1} [0.001 1.0] 
+	M T S S 6 222 NULL 223 NULL 224 NULL 225 NULL 226 NULL 292 NULL 
+		C & -1.0 1  49{1,1} [0.001 1.0] 
+	S T S S 2 227 NULL 228 NULL 
+		C & -1.0 1  49{1,1} [0.001 1.0] 
+	M T S S 2 95 NULL 96 NULL 
+		C & -1.0 1  47 [0.001 1.0] 
+	N T S S 4 50{1,1} NULL 49{1,1} NULL 52{1,1} NULL 51{1,1} NULL 
+	N T S S 3 404{2,1} NULL 405{2,1} NULL 406{2,1} NULL 
+	N T S S 31 40{1,1} NULL 41{1,1} NULL 73{1,1} NULL 44{1,1} NULL 43{1,1} NULL 59{1,1} NULL 42{1,1} NULL 93{1,1} NULL 60{1,1} NULL 19{1,1} NULL 17{1,1} NULL 10{1,1} NULL 16{1,1} NULL 12{1,1} NULL 35{1,1} NULL 72{1,1} NULL 66{1,1} NULL 67{1,1} NULL 68{1,1} NULL 39{1,1} NULL 36{1,1} NULL 69{1,1} NULL 76{1,1} NULL 71{1,1} NULL 61{1,1} NULL 62{1,1} NULL 63{1,1} NULL 64{1,1} NULL 65{1,1} NULL 22{1,1} NULL 6{5,1} NULL 
+	N T S S 6 45{2,1} NULL 46{2,1} NULL 375{2,1} NULL 14{2,1} NULL 2{2,1} NULL 345{2,1} NULL 
+	S T S S 2 94 NULL 301 NULL 
+	M T S S 4 12 NULL 13 NULL 14 NULL 15 NULL 
+		C & -1.0 1  11 [0.001 1.0] 
+	M T S S 2 43 NULL 16 NULL 
+		C & -1.0 1  6 [0.001 1.0] 
+	M T S S 4 18 NULL 19 NULL 20 NULL 21 NULL 
+		C & -1.0 1  7 [0.001 1.0] 
+	M T S S 7 25 NULL 26 NULL 27 NULL 28 NULL 30 NULL 31 NULL 32 NULL 
+		C & -1.0 1  9 [0.001 1.0] 
+	M T S S 4 196 NULL 197 NULL 198 NULL 199 NULL 
+		C & -1.0 1  195 [0.001 1.0] 
+	M T S S 4 202 NULL 203 NULL 204 NULL 205 NULL 
+		C & -1.0 1  191 [0.001 1.0] 
+	M T S S 7 208 NULL 209 NULL 210 NULL 211 NULL 212 NULL 213 NULL 214 NULL 
+		C & -1.0 1  193 [0.001 1.0] 
+	M T S S 5 121 NULL 122 NULL 123 NULL 124 NULL 125 NULL 
+		C & -1.0 1  39 [0.001 1.0] 
+	M T S S 7 128 NULL 129 NULL 130 NULL 131 NULL 133 NULL 134 NULL 135 NULL 
+		C & -1.0 1  40 [0.001 1.0] 
+	M T S S 6 136 NULL 137 NULL 138 NULL 139 NULL 140 NULL 127 NULL 
+		C & -1.0 1  44 [0.001 1.0] 
+	M T S S 3 141 NULL 142 NULL 307 NULL 
+		C & -1.0 1  45 [0.001 1.0] 
+	M T S S 4 98 NULL 99 NULL 100 NULL 101 NULL 
+		C & -1.0 1  110 [0.001 1.0] 
+	M T S S 6 104 NULL 105 NULL 106 NULL 107 NULL 108 NULL 109 NULL 
+		C & -1.0 1  111 [0.001 1.0] 
+	M T S S 3 102 NULL 103 NULL 97 NULL 
+		C & -1.0 1  52 [0.001 1.0] 
+	S I G "=,0,1,1,1,[,],0.001,1,4" 
+	S I G "=,0,2,2,1,[,],0.001,1,4" 
+	S I G ">=,0,3,3,1,[,],0.001,1,4" 
+	S I G "=,0,1,1,1,[,],0.001,1,13" 
+	N T S S 7 155 NULL 250 NULL 252 NULL 255 NULL 273 NULL 274 NULL 276 NULL 
+	N T S S 6 207{2,1} NULL 208{2,1} NULL 367{2,1} NULL 204{2,1} NULL 205{2,1} NULL 392{2,1} NULL 
+		C & 0.0 1  155 [0.001 1.0] 
+	N T S S 9 209{2,1} NULL 210{2,1} NULL 211{2,1} NULL 212{2,1} NULL 213{2,1} NULL 214{2,1} NULL 215{2,1} NULL 393{2,1} NULL 331{2,1} NULL 
+		C & 0.0 1  250 [0.001 1.0] 
+	N T S S 4 96{2,1} NULL 245{2,1} NULL 372{2,1} NULL 373{2,1} NULL 
+		C & 0.0 1  252 [0.001 1.0] 
+	N T S S 6 95{2,1} NULL 24{2,1} NULL 175{2,1} NULL 366{2,1} NULL 374{2,1} NULL 405{2,1} NULL 
+		C V 0.0 4  255 [0.001 1.0]  273 [0.001 1.0]  274 [0.001 1.0]  276 [0.001 1.0] 
+	N T S S 6 370{2,1} NULL 63{2,1} NULL 27{2,1} NULL 60{2,1} NULL 26{2,1} NULL 22{2,1} NULL 
+	N T S S 10 216{2,1} NULL 217{2,1} NULL 218{2,1} NULL 219{2,1} NULL 220{2,1} NULL 221{2,1} NULL 222{2,1} NULL 223{2,1} NULL 224{2,1} NULL 225{2,1} NULL 
+	S I G ">=,0,4,4,1,[,],0.001,1,4" 
+	S I G "=,0,3,3,1,[,],0.001,1,4" 
+	S I G "=,0,2,2,1,[,],0.001,1,4" 
+	S I G ">=,0,3,3,1,[,],0.001,1,8" 
+	S I G ">=,0,2,2,1,[,],0.001,1,8" 
+	S I G ">=,0,2,2,1,[,],0.001,1,4" 
+	S I G ">=,0,3,3,1,[,],0.001,1,5" 
+//  PROGRAMAS EXTERNOS
+//  FUNCIONES INTERNAS
+	FP 5 VI45 PI10{1,1} PI65{1,1} PI42{1,1} PI372{2,1} 
+	FP 5 VI46 PI10{1,1} PI65{1,1} PI42{1,1} PI372{2,1} 
+	FP 5 VI47 PI10{1,1} PI65{1,1} PI42{1,1} PI372{2,1} 
+	FP 14 VI48 PI25 PI26 PI27 PI34 PI35 PI28 PI30 PI31 PI36 PI37 PI38 PI23 PI32 
+	FP 5 VI56 PI60{1,1} PI240{1,1} PI242 PI66{1,1} 
+	FP 5 VI57 PI60{1,1} PI240{1,1} PI242 PI66{1,1} 
+	FP 5 VI58 PI60{1,1} PI240{1,1} PI242 PI66{1,1} 
+	FP 9 VI59 PI72{1,1} PI67{1,1} PI60{1,1} PI326 PI220 PI327 PI328 PI628{2,1} 
+	FP 9 VI60 PI429{3,1} PI512{3,1} PI428{3,1} PI506{3,1} PI513{3,1} PI411{3,1} PI514{3,1} PI593{3,1} 
+	FP 5 VI61 PI79 PI51{1,1} PI286{1,1} PI50{1,1} 
+	FP 6 VI62 PI72{1,1} PI326 PI33{1,1} PI246{2,1} PI349 
+//  RELACIONES PADRE-HIJOS
+49{1,1}P[0.001 1.0], -4, -191, -202, -208, -215, -196, -24, -222, -227, -33, -85, -88, -300, -294;
+50{1,1}P[0.001 1.0], -1, -6, -16, -18, -25, -34, -12, -41, -58, -64, -67, -68, -74, -76, -82, -164, -83, -84, -181, -294;
+51{1,1}P[0.001 1.0], -90, -92, -94, -47, -95, -98, -104, -102, -112, -113, -114, -157, -294;
+52{1,1}P[0.001 1.0], -115, -118, -39, -121, -128, -136, -141, -294;
+//  REGLAS DE CONCLUSIONES
+	=> RP 49 [0.001 1];
+	=> RP 46 [0.001 1];
+	=> RP 165 [0.001 1];
+	=> RP 166 [0.001 1];
+	=> RP 167 [0.001 1];
+	=> RP 168 [0.001 1];
+	=> RP 169 [0.001 1];
+	=> RP 170 [0.001 1];
+	=> RP 171 [0.001 1];
+	=> RP 172 [0.001 1];
+	=> RP 173 [0.001 1];
+	=> RP 174 [0.001 1];
+	=> RP 175 [0.001 1];
+	=> RP 176 [0.001 1];
+	=> RP 177 [0.001 1];
+	=> RP 182 [0.001 1];
+	=> RP 183 [0.001 1];
+	=> RP 184 [0.001 1];
+	=> RP 185 [0.001 1];
+	=> RP 186 [0.001 1];
+	=> RP 187 [0.001 1];
+	=> RP 188 [0.001 1];
+	=> RP 267 [0.001 1];
+	=> RP 297 [0.001 1];
+	=> RP 291 [0.001 1];
+	=> RP 290 [0.001 1];
+	=> RP 289 [0.001 1];
+	=> RP 288 [0.001 1];
+	=> RP 313 [0.001 1];
+	=> RP 319 [0.001 1];
+	=> RP 336 [0.001 1];
+	=> RP 338 [0.001 1];
+	=> RP 340 [0.001 1];
+	=> RP 342 [0.001 1];
+//  RELACIONES PADRE - HIJOS EN CONCLUSIONES
+//  PROPOSICIONES QUE NO VAN AL SISTEMA EXPLICATORIO
+//  FIN

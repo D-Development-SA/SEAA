@@ -1,0 +1,7 @@
+.border-content-questionnaire{
+    border-color: lightgray;
+    border-radius: 6px;
+    border-style: dashed;
+    border-width: thin;
+    padding: 10px;
+}

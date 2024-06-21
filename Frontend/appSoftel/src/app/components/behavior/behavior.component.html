@@ -1,0 +1,35 @@
+<h1>Comportamiento</h1>
+<div *ngIf="ready;else loading">
+    <mat-tab-group *ngIf="seaas != undefined && seaas.length != 0;else noSeaas">
+        <mat-tab *ngFor="let seaa of seaas; let i = index" [label]="seaa.name">
+            <h1>
+                {{seaa.name}}
+            </h1>
+            <div>
+                <canvas baseChart class="chart" 
+                    [data]="barChartData[i]" 
+                    [options]="barChartOptions"
+                    [type]="barChartType"
+                    >
+                </canvas>
+            </div>
+            <div>
+                <p>Total de consultas realizadas: {{total[i]}}</p>
+                <p>Total de usuarios utilizando el sistema Experto: {{userWithLink[i].length}}</p>
+            </div>
+
+            <h1>Usuarios</h1>
+            <mat-divider></mat-divider>
+            <div *ngFor="let user of userWithLink[i]; let j = index" class="d-flex gap-2 my-2">
+                <h5>{{user.name + ' ' + user.lastName}}</h5>
+                <button mat-flat-button (click)="openDialog(i, j, user.name + ' ' + user.lastName)">Mostrar registro de preguntas y respuestas</button>
+            </div>
+        </mat-tab>
+    </mat-tab-group>
+</div>
+<ng-template #loading>
+    <div class="d-flex justify-content-center">
+        <mat-spinner style="--mdc-circular-progress-active-indicator-color: #006633!important;"></mat-spinner>
+    </div>
+</ng-template>
+<ng-template #noSeaas><p class="text-align-center">No tienes asociado ni compartido ningún sistema Experto</p></ng-template>

@@ -1,0 +1,106 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.font-calibri{
+    font-family: 'Calibri'!important;
+    font-weight: bold!important;
+}
+
+.bg-forest{
+    background-color: #006633!important;
+}
+
+.bg-green{
+    background-color: #33CC66!important;
+    border-radius: 8px;
+}
+
+.text-forest{
+    color: #006633!important;
+}
+
+input.form-control.form:focus {
+    border-color: #33CC66;
+    box-shadow: 0 0 0 0.2rem rgba(52, 206, 87, 0.25);
+}
+
+input.form-control.form{
+    border-color: #006633!important;
+}
+
+.mat-mdc-checkbox-checked .mdc-checkbox__background,
+.mat-mdc-checkbox-indeterminate .mdc-checkbox__background{
+  background-color: #006633 !important;
+  border-color: #006633!important;
+}
+
+.mat-form-field-appearance-fill.mat-primary .mdc-line-ripple::after{
+    border-bottom-color: #33CC66 !important;
+}
+
+.mat-form-field-appearance-fill.mat-primary.mat-focused .mdc-floating-label{
+    color: #006633!important;
+}
+
+.mat-form-field-appearance-fill.mat-primary .mdc-line-ripple::before{
+    border-bottom-color: #00f379 !important;
+}
+
+.mat-form-field-appearance-fill.mat-primary .mdc-floating-label{
+    color: #33CC66!important;
+}
+
+.padding-f .mat-mdc-form-field-hint-wrapper{
+    padding: 0 0.7rem;
+}
+
+.input-sm{
+    height: 20px;
+    font-size: small;
+}
+
+.float{
+    width: fit-content;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.font-calibri-light{
+    font-family: Calibri Light;
+}
+
+.btn-pers{
+    color: black;
+    border-color: black;
+    margin-left: 25%;
+}
+
+.mat-mdc-progress-spinner {
+    --mdc-circular-progress-active-indicator-color: white!important;
+}
+
+.bg-drawer-right{
+    background-color: #f3ffea;
+}
+
+.fs-small{
+    font-size: 0.8rem;
+}
+
+.mat-mdc-form-field-hint-wrapper{
+    padding: 0!important;
+}
+
+input[type="password"]::-webkit-inner-spin-button,
+input[type="password"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="password"]::-ms-clear,
+input[type="password"]::-ms-reveal {
+  display: none;
+}

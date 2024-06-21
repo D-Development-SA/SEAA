@@ -1,0 +1,10 @@
+.mat-mdc-form-field{
+    height: 4.3rem;
+}
+.w-35{
+    width: 35%!important;
+}
+.border-style{
+    border-bottom-style: dotted;
+    border-bottom-color: lightgray;
+}

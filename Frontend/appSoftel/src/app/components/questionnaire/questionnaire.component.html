@@ -1,0 +1,105 @@
+<ng-template #intro>
+    <app-intro [start]="startSpinnerQuery" (hideEvent)="startQuestionnaire($event)"></app-intro>
+</ng-template>
+
+<div *ngIf="showIntro; else intro">
+    <app-conclusions [showComplement]="showComplement"
+                    (showQuestions)="showQ($event)"
+                    *ngIf="showConclusions && position == 'start'"
+                    [question]="questions[questions.length-1]"
+                    [continueQuestionnarie]="continueQuestionnarie"
+                    [date]="dateConclusion"
+                    (continueQuery)="continueQuery.emit()"></app-conclusions>
+
+
+    <div *ngIf="showQuestion" class="mt-2" [ngClass]="showConclusions ? 'border-content-questionnaire' : ''">
+        <ng-container *ngFor="let question of questions; let i = index">
+            <div [ngSwitch]="question.type">
+
+                <ng-container *ngIf="i == questions.length-1">
+                    <div #scrollMarker></div>
+                </ng-container>
+
+                <mat-divider></mat-divider>
+                <p class="font-calibri fs-6 fw-normal">Pregunta {{i+1}}</p>
+
+                <div class="mb-5">
+                    <p class="fs-3" [ngClass]="showNoteQuestion ? '' : 'mb-4'">{{question.text}}</p>
+                    <div *ngIf="showNoteQuestion" class="my-2">
+                        <button mat-button (click)="addNote = !addNote">Colocar Nota</button>
+                        <ng-container *ngIf="addNote">
+                            <div class="my-1">
+                                <textarea class="form-control" [(ngModel)]="question.note"></textarea>
+                            </div>
+                        </ng-container>
+
+                    </div>
+
+                    <app-t-input *ngSwitchCase="'N'"
+                                [typeI]="'number'"
+                                [placeHolderText]="'Número'"
+                                [question]="question"
+                                [value]="getValueAnswer(i)"
+                                (answer)="sendAnswerVar($event, i)"
+                                (cancel)="cancel(i)"
+                                [disabled]="activateBtn[i]"
+                                [disabledAll]="readOnly"
+                                [btnDisabled]="activateBtn[i]">
+                    </app-t-input>
+
+                    <app-t-input *ngSwitchCase="'C'"
+                                [typeI]="'text'"
+                                [placeHolderText]="'Escribe aquí'"
+                                [question]="question"
+                                [value]="getValueAnswer(i)"
+                                (answer)="sendAnswerVar($event, i)"
+                                (cancel)="cancel(i)"
+                                [disabled]="activateBtn[i]"
+                                [disabledAll]="readOnly"
+                                [btnDisabled]="activateBtn[i]">
+                    </app-t-input>
+
+                    <app-t-simple-selection *ngSwitchCase="'S'"
+                                            [question]="question"
+                                            (answer)="sendAnswerVar($event, i)"
+                                            (cancel)="cancel(i)"
+                                            [disabled]="activateBtn[i]"
+                                            [disabledAll]="readOnly"
+                                            [btnDisabled]="activateBtn[i]">
+                    </app-t-simple-selection>
+
+                    <app-t-multiple-selection *ngSwitchCase="'M'"
+                                            [question]="question"
+                                            (answer)="sendAnswerVar($event, i)"
+                                            (cancel)="cancel(i)"
+                                            [disabled]="activateBtn[i]"
+                                            [disabledAll]="readOnly"
+                                            [btnDisabled]="activateBtn[i]">
+                    </app-t-multiple-selection>
+
+                    <app-t-proposition [question]="question"
+                                        [value]="answers.query.vars[i]"
+                                        (answer)="sendAnswerProp($event, i)"
+                                        *ngSwitchCase="'P'"
+                                        (cancel)="cancel(i)"
+                                       [disabledAll]="readOnly"
+                                        [disabled]="activateBtn[i]">
+                    </app-t-proposition>
+                </div>
+            </div>
+        </ng-container>
+    </div>
+
+    <app-conclusions (clickNew)="newQuery()" (showQuestions)="showQ($event)" [showComplement]="showComplement" *ngIf="showConclusions && position == 'end'" [question]="questions[questions.length-1]"></app-conclusions>
+
+    <div *ngIf="showComplement" class="d-grid gap-4 d-md-flex flex-column align-items-md-end pb-3 pe-3 float">
+        <button *ngFor="let button of buttonsTool"
+                class="btn btn-lg d-flex align-items-center"
+                [matTooltip]="button.toolTip"
+                [matTooltipShowDelay]="800"
+                [ngClass]="button.class"
+                (click)="button.click!()">
+            <mat-icon class="me-1">{{button.nameIcon}}</mat-icon>
+        </button>
+    </div>
+</div>

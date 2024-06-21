@@ -1,0 +1,50 @@
+<div class="p-4 h-100 d-flex flex-column justify-content-around">
+    <div class="text-center">
+        <h1 class="font-calibri">Iniciar Sesión</h1>
+        <p class="font-calibri-light fs-5">
+            Inserte los datos correspondientes
+        </p>
+    </div>
+
+    <div class="d-flex flex-column px-3">
+
+        <form class="col g-2 ms-4">
+            <div>
+                <label>
+                    Número de teléfono:
+                </label>
+                <div class="input-group">
+                    <span class="input-group-text">+53</span>
+                    <input type="text" class="form-control" placeholder="Teléfono ej. 52145872"
+                        [(ngModel)]="phoneNumber" name="phoneNumber" (ngModelChange)="validatePhoneNumber()">
+                </div>
+                <div [ngClass]="validPhoneNumber ? '' : 'text-danger fs-small'" class="ms-2 h-08">
+                    {{validPhoneNumber ? '' : '*Número de teléfono incorrecto'}}
+                </div>
+            </div>
+            <div class="mt-4">
+                <label>
+                    Contraseña:
+                </label>
+                <div class="position-relative">
+                    <input [type]="togglePassword ? 'text' : 'password'" class="form-control" placeholder="Contraseña123@#%."
+                    [(ngModel)]="password" name="password" (ngModelChange)="validatePassword()" (keydown.enter)="button.disabled ? '': login()">
+                    <div (click)="togglePassword = !togglePassword" class="position-absolute bottom-0 end-0 z-1 me-2">
+                        <mat-icon class="h-100 w-100">{{togglePassword ? 'visibility' : 'visibility_off'}}</mat-icon>
+                    </div>
+                </div>
+                <div [ngClass]="validPassword ? '' : 'text-danger fs-small'" class="ms-2 h-08">
+                    {{validPassword ? '' : '*Contraseña incorrecta'}}
+                </div>
+            </div>
+        </form>
+        <a class="text-center link-success link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover mt-3 mb-4" href="#">¿Olvidó la contraseña?</a>
+    </div>
+
+    <button #button [disabled]="load || !(validPhoneNumber && validPassword)" class="btn btn-outline-success btn-pers rounded-pill w-50 d-flex align-items-center justify-content-center" (click)="login()">
+        Acceder
+        <ng-container *ngIf="load">
+            <mat-spinner style="--mdc-circular-progress-active-indicator-color: #006633!important;" class="w-25 h-100"></mat-spinner>
+        </ng-container>
+    </button>
+</div>

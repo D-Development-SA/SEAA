@@ -1,0 +1,752 @@
+derm151
+3
+//  Objetivos
+	20 70 72 97 98 99 100 131 135 137 139 142 143 171 174 176 178 181 184 186 189 
+//  Conclusiones Finales
+//  Proposiciones que van al BKB
+	29 1 2 3 4 70 71 72 97 98 99 100 108 131 132 133 135 137 139 142 143 171 174 176 178 181 182 184 186 189 
+//  Variables que van al BKB
+//  Proposiciones que se eliminan del BKB
+//  Variables que se eliminan del BKB
+//  PROPOSICIONES
+	1 /* Existen evidencias de L&#233;ntigos */
+	2 /* Copia de Prurito Localizado */
+		C & -1.0 1  289{1,1} [0.001 1.0]
+	3 /* Copia de Prurito Generalizado */
+		C & -1.0 1  289{1,1} [0.001 1.0]
+	4 /* Comod&#237;n de la localizaci&#243;n del Prurito */
+		C & -1.0 2  2 [0.001 1.0] 289{1,1} [0.001 1.0]
+		V 2 U
+	5 /* El paciente presenta Prurito de menos de 1 semana */
+		C & -1.0 1  289{1,1} [0.001 1.0]
+	6 /* El paciente presenta Prurito de 1 a 3 semanas */
+		C & -1.0 1  289{1,1} [0.001 1.0]
+	7 /* El paciente presenta Prurito de de 3 semanas o m&#225;s */
+		C & -1.0 1  289{1,1} [0.001 1.0]
+	8 /* El Prurito se manifiesta en puntos de contacto con sustancias o productos */
+		C & -1.0 1  289{1,1} [0.001 1.0]
+	9 /* El Prurito se manifiesta en Lesiones de la Piel */
+		C & -1.0 2  66{1,1} [0.001 1.0] 289{1,1} [0.001 1.0]
+	10 /* El Prurito comienza de forma Brusca */
+		C & -1.0 1  289{1,1} [0.001 1.0]
+	11 /* El Prurito comienza de forma Progresiva/lentamente */
+		C & -1.0 1  289{1,1} [0.001 1.0]
+	12 /* El Prurito se manifiesta de forma Continua */
+		C & -1.0 1  289{1,1} [0.001 1.0]
+	13 /* El Prurito se manifiesta de forma Intermitente */
+		C & -1.0 1  289{1,1} [0.001 1.0]
+	14 /* El Prurito se manifiesta de forma Recurrente */
+		C & -1.0 1  289{1,1} [0.001 1.0]
+	15 /* El paciente presenta exacerbaci&#243;n nocturna del Prurito */
+		C & -1.0 1  289{1,1} [0.001 1.0]
+	16 /* El paciente presenta Manchas en la Piel de menos de 1 semana */
+		C & -1.0 1  292{1,1} [0.001 1.0]
+	17 /* El paciente presenta Manchas en la Piel de 1 semana a 1 mes */
+		C & -1.0 1  292{1,1} [0.001 1.0]
+	18 /* El paciente presenta Manchas en la Piel de m&#225;s de 1 mes */
+		C & -1.0 1  292{1,1} [0.001 1.0]
+	19 /* El paciente presenta Manchas en la Piel localizadas */
+		C & -1.0 1  292{1,1} [0.001 1.0]
+	20 /* El paciente presenta Manchas en la Piel generalizadas */
+		C & -1.0 1  292{1,1} [0.001 1.0]
+	21 /* Las Manchas en la Piel son localizadas en el periorificial (alrededor de boca, n */
+		C & -1.0 1  19 [0.001 1.0]
+	22 /* Las Manchas en la Piel son localizadas en el dorso de la mano */
+		C & -1.0 1  19 [0.001 1.0]
+	23 /* Las Manchas en la Piel son localizadas en el cara anterior de las mu&#241;ecas */
+		C & -1.0 1  19 [0.001 1.0]
+	24 /* Las Manchas en la Piel son localizadas en el antebrazos */
+		C & -1.0 1  19 [0.001 1.0]
+	25 /* Las Manchas en la Piel son localizadas en genitales o perigenitales */
+		C & -1.0 1  19 [0.001 1.0]
+	26 /* El comienzo de las Manchas en la Piel fue Brusco */
+		C & -1.0 1  292{1,1} [0.001 1.0]
+	27 /* El comienzo de las Manchas en la Piel fue Lentamente progresivo */
+		C & -1.0 1  292{1,1} [0.001 1.0]
+	28 /* Comod&#237;n de S&#237;ntomas Acompa&#241;antes de Prurito */
+		C & -1.0 1  289{1,1} [0.001 1.0]
+		V 7 U
+	29 /* Comod&#237;n de S&#237;ntomas Acompa&#241;antes de Manchas en la Piel */
+		C & -1.0 1  292{1,1} [0.001 1.0]
+		V 13 U
+	30 /* Comod&#237;n 2 de S&#237;ntomas Acompa&#241;antes de Manchas en la Piel */
+		C & -1.0 1  292{1,1} [0.001 1.0]
+		V 14 U
+	31 /* El paciente presenta Alteraci&#243;n de la Sensibilidad en Zonas de la Piel */
+		C & -1.0 1  185{1,1} [0.001 1.0]
+	32 /* El paciente presenta P&#233;rdida de la Cola de las Cejas */
+	33 /* Los Bultos en la Piel son Localizados */
+		C & -1.0 1  294{1,1} [0.001 1.0]
+	34 /* Los Bultos en la Piel son Generalizados */
+		C & -1.0 1  294{1,1} [0.001 1.0]
+	35 /* Los Bultos en la Piel se localizan en: Esternoclavicular */
+		C & -1.0 1  33 [0.001 1.0]
+	36 /* Los Bultos en la Piel se localizan en: Cara posterior de la pierna */
+		C & -1.0 1  33 [0.001 1.0]
+	37 /* Los Bultos en la Piel se localizan en: Cara anterior de la pierna */
+		C & -1.0 1  33 [0.001 1.0]
+	38 /* Los Bultos en la Piel se localizan en: Brazos */
+		C & -1.0 1  33 [0.001 1.0]
+	39 /* Los Bultos en la Piel se localizan en: Muslos */
+		C & -1.0 1  33 [0.001 1.0]
+	40 /* Los Bultos en la Piel son redondeados con relieve cut&#225;neo */
+		C & -1.0 1  294{1,1} [0.001 1.0]
+	41 /* Las Lesiones en la Piel se distribuyen: Sim&#233;tricamente */
+		C & -1.0 1  292{1,1} [0.001 1.0]
+	42 /* Las Lesiones en la Piel se distribuyen: Asim&#233;tricamente */
+		C & -1.0 1  292{1,1} [0.001 1.0]
+	43 /* Las Lesiones en la Piel se distribuyen: Bilaterales */
+		C & -1.0 1  292{1,1} [0.001 1.0]
+	44 /* El paciente presenta Erupci&#243;n en la Piel de menos de 1 semana */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	45 /* El paciente presenta Erupci&#243;n en la Piel de de 1 a 3 semanas */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	46 /* El paciente presenta Erupci&#243;n en la Piel de de 3 semanas o m&#225;s */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	47 /* La Erupci&#243;n en la Piel se presenta localizada */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	48 /* La Erupci&#243;n en la Piel se presenta generalizada */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	49 /* La Erupci&#243;n en la Piel localizada: Manos */
+		C & -1.0 1  47 [0.001 1.0]
+	50 /* La Erupci&#243;n en la Piel localizada: Cuello */
+		C & -1.0 1  47 [0.001 1.0]
+	51 /* La Erupci&#243;n en la Piel localizada: Cara */
+		C & -1.0 1  47 [0.001 1.0]
+	52 /* La Erupci&#243;n en la Piel localizada: Piernas */
+		C & -1.0 1  47 [0.001 1.0]
+	53 /* La Erupci&#243;n en la Piel localizada: Genitales */
+		C & -1.0 1  47 [0.001 1.0]
+	54 /* La Erupci&#243;n en la Piel localizada: Parte superior del tronco */
+		C & -1.0 1  47 [0.001 1.0]
+	55 /* La Erupci&#243;n en la Piel localizada: Pliegues de codos/rodillas */
+		C & -1.0 1  47 [0.001 1.0]
+	56 /* La Erupci&#243;n en la Piel comienza de forma Brusca */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	57 /* La Erupci&#243;n en la Piel comienza de forma Progresiva/lentamente */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	58 /* La Erupci&#243;n en la Piel se manifiesta de forma Continua */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	59 /* La Erupci&#243;n en la Piel se manifiesta de forma Intermitente */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	60 /* La Erupci&#243;n en la Piel se manifiesta de forma Recurrente */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	61 /* La Erupci&#243;n en la Piel tiene ritmo estacional que empeora en el invierno */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	62 /* La Erupci&#243;n en la Piel tiene ritmo estacional que mejora en el verano */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	63 /* La Erupci&#243;n en la Piel tiene ritmo estacional en cualquier epoca del a&#241 */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	64 /* La Erupci&#243;n en la Piel evoluciona de manera Aguda */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	65 /* La Erupci&#243;n en la Piel evoluciona de Cr&#243;nica */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	66 /* La Erupci&#243;n en la Piel evoluciona de cr&#243;nica en brotes de agudizacion */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	67 /* Los Bultos en la Piel son redondeados sin relieve cut&#225;neo */
+		C & -1.0 1  294{1,1} [0.001 1.0]
+	68 /* La coloraci&#243;n de los Bultos en la Piel coincide con el de la piel (Normal) */
+		C & -1.0 1  294{1,1} [0.001 1.0]
+	69 /* La coloraci&#243;n de los Bultos en la Piel es Roja o Violeta */
+		C & -1.0 1  294{1,1} [0.001 1.0]
+	70 /* Existen evidencias de Vitiligo */
+	71 /* CMBD de Vitiligo */
+	72 /* Existen evidencias de Lepra (Enfermedad de Hansen) */
+	73 /* CMBD1 de Lepra (aporte de Manchas en la Piel) */
+	74 /* CMBD2 de Lepra (aporte de Alteraciones de la Sensibilidad) */
+	75 /* La coloraci&#243;n de los Bultos en la Piel es Rosada de Jam&#243;n */
+		C & -1.0 1  294{1,1} [0.001 1.0]
+	76 /* La coloraci&#243;n de los Bultos en la Piel es Amarillo Acaramelado */
+		C & -1.0 1  294{1,1} [0.001 1.0]
+	77 /* La evoluci&#243;n de los Bultos en la Piel es Aguda */
+		C & -1.0 1  294{1,1} [0.001 1.0]
+	78 /* La evoluci&#243;n de los Bultos en la Piel es Subaguda */
+		C & -1.0 1  294{1,1} [0.001 1.0]
+	79 /* La evoluci&#243;n de los Bultos en la Piel es Cr&#243;nica */
+		C & -1.0 1  294{1,1} [0.001 1.0]
+	80 /* Los Bultos en la Piel son Dolorosos */
+		C & -1.0 1  294{1,1} [0.001 1.0]
+	81 /* Comod&#237;n para S&#237;ntomas Acompa&#241;antes de Bultos en la Piel */
+		C & -1.0 1  294{1,1} [0.001 1.0]
+		V 26 U
+	82 /* La Erupci&#243;n en la Piel localizada: Pliegues intergl&#250;teos */
+		C & -1.0 1  47 [0.001 1.0]
+	83 /* La Erupci&#243;n en la Piel localizada: Cuero cabelludo */
+		C & -1.0 1  47 [0.001 1.0]
+	84 /* La Erupci&#243;n en la Piel localizada: Lecho subungueal */
+		C & -1.0 1  47 [0.001 1.0]
+	85 /* La Erupci&#243;n en la Piel localizada: Palma de las manos y plantas de los pies */
+		C & -1.0 1  47 [0.001 1.0]
+	86 /* La Erupci&#243;n en la Piel localizada: A un dermatoma */
+		C & -1.0 1  47 [0.001 1.0]
+	87 /* La Erupci&#243;n en la Piel se distribuye de forma Sim&#233;trica */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	88 /* La Erupci&#243;n en la Piel se distribuye de forma Asim&#233;trica */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+	89 /* Las Manchas en la Piel son localizadas en: Pliques de codos/rodillas */
+		C & -1.0 1  19 [0.001 1.0]
+	90 /* Las Manchas en la Piel son localizadas en: Pliegue intergl&#250;teos */
+		C & -1.0 1  19 [0.001 1.0]
+	91 /* Las Manchas en la Piel son localizadas en: Cuero cabelludo */
+		C & -1.0 1  19 [0.001 1.0]
+	92 /* Las Manchas en la Piel son localizadas en: Lecho subungueal */
+		C & -1.0 1  19 [0.001 1.0]
+	93 /* Las Manchas en la Piel son localizadas en: Palma de las manos y plantas de los p */
+		C & -1.0 1  19 [0.001 1.0]
+	94 /* Las Manchas en la Piel son de color: Rojo */
+		C & -1.0 1  292{1,1} [0.001 1.0]
+	95 /* Las Manchas en la Piel son de color: Oscuro */
+		C & -1.0 1  292{1,1} [0.001 1.0]
+	96 /* Las Manchas en la Piel son de color: Blanco */
+		C & -1.0 1  292{1,1} [0.001 1.0]
+	97 /* Existen evidencias de Dermatitis de Contacto */
+	98 /* Existen evidencias de Dermatitis Medicamentosa */
+	99 /* Existen evidencias de Dermatitis Piogena */
+	100 /* Existen evidencias de Dermatitis At&#243;picas */
+	101 /* CMBD de Dermatitits de Contacto */
+	102 /* En su evoluci&#243;n, la Dermatitis, es facilmente reducible al Integro */
+	103 /* El paciente ha estado en contacto con sustancias y/o productos inflamatorios par */
+	104 /* Las lesiones de la piel se localizan en puntos de contacto con sustancias y/o pr */
+		C & -1.0 2  66{1,1} [0.001 1.0] 103 [0.001 1.0]
+	105 /* Existe respuesta beneficiosa a terapeutica con esteroides internos o externos */
+	106 /* Antecedentes de Reacci&#243;n al contactante sospechoso */
+		C & -1.0 1  103 [0.001 1.0]
+	107 /* Antecedentes de Positividad a la Prueba del Parche con el agente contactante */
+		C & -1.0 1  103 [0.001 1.0]
+	108 /* Existen evidencias de Dermatitis de Contacto Al&#233;rgica (Dermatitis en Berloc */
+	109 /* Antecedentes personales de contacto con zumos de frutas c&#237;tricas y/o sustan */
+	110 /* Antecedentes de Uso o Contacto con: Tinte de Pelo */
+	111 /* Antecedentes de Uso o Contacto con: Esmalte de U&#241;as */
+	112 /* Antecedentes de Uso o Contacto con: Cremas para la cara, polvos, creyones de lab */
+	113 /* Antecedentes de Uso o Contacto con: Piretrum &#243; DDT (Insecticida) */
+	114 /* Antecedentes de Uso o Contacto con: Niquel - Cromo */
+	115 /* Antecedentes de Uso o Contacto con: Acero - Cromo */
+	116 /* Antecedentes de Uso o Contacto con: Cromo */
+	117 /* Antecedentes de Uso o Contacto con: Desodorantes y/o Antiperspirantes */
+	118 /* Antecedentes de Uso o Contacto con: Cloruro de Benzolconio */
+	119 /* Antecedentes de Uso o Contacto con: Ropas hechas con materiales sint&#233;ticos */
+	120 /* Antecedentes de Uso o Contacto con: Zapatos, pieles, tintes de zapatos, etc. */
+	121 /* Antecedentes personales recientes de un medicamento aplicado en heridas, absceso */
+	122 /* Antecedentes personales recientes de haber utilizado un medicamento para afeccio */
+	123 /* Antecedentes personales recientes de un Medicamento ingerido y/o inyectado */
+	124 /* Lesiones de Piel en puntos de contacto con alg&#250;n medicamento */
+	125 /* CMBD1 de Dermatitis Medicamentosa */
+	126 /* CMBD2 de Dermatitis Medicamentosa */
+	127 /* CMBD1 de Dermatitis Piogena */
+	128 /* El paciente presenta alguna Herida Infectada */
+	129 /* CMBD1 de Dermatitis At&#243;pica */
+	130 /* CMBD2 de Dermatitis At&#243;pica */
+	131 /* Existen evidencias de Psoriasis */
+	132 /* CMBD1 de Psoriasis */
+	133 /* CMBD2 de Psoriasis */
+	134 /* Antecedentes patol&#243;gicos personales recientes de contacto con plantas irrit */
+	135 /* Existen evidencias de Eritema Nodoso */
+	136 /* CMBD de Eritema Nodoso */
+	137 /* Existen evidencias de Eritema Indurado de Bazin */
+	138 /* CMBD de Eritema Indurado de Bazin */
+	139 /* Existen evidencias de Herpes Zoster */
+	140 /* CMBD1 de Herpes Zoster */
+	141 /* CMBD2 de Herpes Zoster */
+	142 /* Existen evidencias de Neuralgia Poherp&#233;tica */
+	143 /* Existen evidencias de S&#237;ndrome de Ramsay Hunt */
+	144 /* Las ves&#237;culas cut&#225;neas se localizan a un Dermatoma */
+	145 /* La Alteraci&#243;n en las U&#241;as es desde hace menos de una semana */
+		C & -1.0 1  283{1,1} [0.001 1.0]
+	146 /* La Alteraci&#243;n en las U&#241;as es desde hace una semana a un mes */
+		C & -1.0 1  283{1,1} [0.001 1.0]
+	147 /* La Alteraci&#243;n en las U&#241;as es desde hace m&#225;s de un mes */
+		C & -1.0 1  283{1,1} [0.001 1.0]
+	148 /* La Alteraci&#243;n en las U&#241;as es Localizada */
+		C & -1.0 1  283{1,1} [0.001 1.0]
+	149 /* La Alteraci&#243;n en las U&#241;as es Generalizada */
+		C & -1.0 1  283{1,1} [0.001 1.0]
+	150 /* La Alteraci&#243;n en las U&#241;as es Localizada a algunas u&#241;as de las man */
+		C & -1.0 1  148 [0.001 1.0]
+	151 /* La Alteraci&#243;n en las U&#241;as es Localizada a algunas u&#241;as de los pie */
+		C & -1.0 1  148 [0.001 1.0]
+	152 /* La Alteraci&#243;n en las U&#241;as es Generalizada a todas las u&#241;as de las */
+		C & -1.0 1  149 [0.001 1.0]
+	153 /* La Alteraci&#243;n en las U&#241;as es Generalizada a todas las u&#241;as de los */
+		C & -1.0 1  149 [0.001 1.0]
+	154 /* La Alteraci&#243;n en las U&#241;as comenz&#243; de forma: Brusca */
+		C & -1.0 1  283{1,1} [0.001 1.0]
+	155 /* La Alteraci&#243;n en las U&#241;as comenz&#243; de forma: Lentamente progresiva */
+		C & -1.0 1  283{1,1} [0.001 1.0]
+	156 /* La Alteraci&#243;n en las U&#241;as es del tipo: P&#233;rdida del Lustre Normal */
+		C & -1.0 1  283{1,1} [0.001 1.0]
+	157 /* La Alteraci&#243;n en las U&#241;as es del tipo: Friables, secas, con estr&#237; */
+		C & -1.0 1  283{1,1} [0.001 1.0]
+	158 /* La Alteraci&#243;n en las U&#241;as es del tipo: Rotas, quebradizas */
+		C & -1.0 1  283{1,1} [0.001 1.0]
+	159 /* La Alteraci&#243;n en las U&#241;as es del tipo: Reborde ungueal inflamado */
+		C & -1.0 1  283{1,1} [0.001 1.0]
+	160 /* La Erupci&#243;n en la Piel localizada: Pies */
+		C & -1.0 1  47 [0.001 1.0]
+	161 /* La Erupci&#243;n en la Piel localizada: Pliegues de Flexi&#243;n */
+		C & -1.0 1  47 [0.001 1.0]
+	162 /* La Erupci&#243;n en la Piel localizada: Surco submamario */
+		C & -1.0 1  47 [0.001 1.0]
+	163 /* La Erupci&#243;n en la Piel localizada: Pliegues inguinales */
+		C & -1.0 1  47 [0.001 1.0]
+	164 /* El paciente presenta Lesiones de Piel localizada en los Pies */
+		C & -1.0 1  66{1,1} [0.001 1.0]
+	165 /* El paciente presenta otras Lesiones de Piel en los Pies */
+		C & -1.0 1  66{1,1} [0.001 1.0]
+	166 /* Comod&#237;n para la variable 36 */
+		V 36 U
+	167 /* Los Bultos en la Piel se localizan en: Genitales Externos */
+		C & -1.0 1  33 [0.001 1.0]
+	168 /* Los Bultos en la Piel se localizan en: Regi&#243;n Perianal */
+		C & -1.0 1  33 [0.001 1.0]
+	169 /* Los Bultos en la Piel son Verrugas o Excrecencias Papilares */
+		C & -1.0 1  294{1,1} [0.001 1.0]
+	170 /* Comod&#237;n de S&#237;ntomas Acompa&#241;antes de Erupci&#243;n en la piel */
+		C & -1.0 1  293{1,1} [0.001 1.0]
+		V 37 U
+	171 /* Existen evidencias de Epidermofitosis de los Pies */
+	172 /* CMBD1 de Epidermofitosis de los Pies */
+	173 /* Las Manchas son localizadas en: El Tronco */
+		C & -1.0 1  19 [0.001 1.0]
+	174 /* Existen evidencias de Onicomicosis (Ti&#241;a de las U&#241;as) */
+	175 /* CMBD de Onicomicosis */
+	176 /* Existen evidencias de Eczema Marginado de Hebra */
+	177 /* CMBD de Eczema Marginado de Hebra */
+	178 /* Existen evidencias de Condiloma Aluminado o Verrugas Ven&#233;reas */
+	179 /* CMBD de Condiloma Aluminado o Verrugas Ven&#233;reas */
+	180 /* El paciente presenta Prurito en los Pies */
+	181 /* Neurofibromatosis o Enfermedad de Von Recklinghausen */
+	182 /* CMBD de Neurofibromatosis */
+	183 /* Las Manchas son localizadas en: Raiz de los miembros */
+		C & -1.0 1  19 [0.001 1.0]
+	184 /* Existen evidencias de S&#237;filis Primaria */
+	185 /* CMBD de S&#237;filis Primaria */
+	186 /* Existen evidencias de S&#237;filis Secundaria */
+	187 /* CMBD1 de S&#237;filis Secundaria */
+	188 /* CMBD2 de S&#237;filis Secundaria */
+	189 /* Existen evidencias de S&#237;filis Tard&#237;a */
+	190 /* Intermedio de S&#237;filis Tard&#237;a */
+//  REGLAS
+	66{1,1}  => 189 0.001;
+	321{2,1} & 294{1,1}  => 190 1.0;
+	190  => 189 0.4;
+	69 V 75  => 189 0.05;
+		C V 0.0 1  190 [0.001 1.0]
+	-80  => 189 0.1;
+		C V 0.0 1  190 [0.001 1.0]
+	599{2,1} & 58{1,1} & -345{2,1}  => 189 0.4;
+	321{2,1} V 926{2,1}  => 189 0.1;
+		C V 0.0 4  185 [0.001 1.0] 187 [0.001 1.0] 188 [0.001 1.0] 190 [0.001 1.0]
+	66{1,1}  => 186 0.001;
+	292{1,1} & (93 V 173 V 183 V 25 ) => 187 1.0;
+	187  => 186 0.4;
+	293{1,1} & (85 V 53 V 160 V 83 V 48 ) => 188 1.0;
+	188  => 186 0.4;
+	42  => 186 -0.1;
+		C V 0.0 2  187 [0.001 1.0] 188 [0.001 1.0]
+	41 V 43  => 186 0.1;
+		C V 0.0 2  187 [0.001 1.0] 188 [0.001 1.0]
+	94  => 186 0.05;
+		C V 0.0 2  187 [0.001 1.0] 188 [0.001 1.0]
+	95{1,1}  => 186 0.1;
+		C V 0.0 2  187 [0.001 1.0] 188 [0.001 1.0]
+	87  => 186 0.1;
+		C V 0.0 2  187 [0.001 1.0] 188 [0.001 1.0]
+	57  => 186 0.05;
+		C V 0.0 2  187 [0.001 1.0] 188 [0.001 1.0]
+	46  => 186 0.05;
+		C V 0.0 2  187 [0.001 1.0] 188 [0.001 1.0]
+	-289{1,1}  => 186 0.05;
+		C V 0.0 2  187 [0.001 1.0] 188 [0.001 1.0]
+	855{2,1} V 63{2,1} V 858{2,1} V 856{2,1} V 857{2,1} V 59{2,1} V 859{2,1} V 860{2,1} V 720{2,1} V 925{2,1}  => 186 0.15;
+		C V 0.0 2  187 [0.001 1.0] 188 [0.001 1.0]
+	185  => 186 0.1;
+		C V 0.0 2  187 [0.001 1.0] 188 [0.001 1.0]
+	60{1,1}  => 186 0.05;
+		C V 0.0 2  187 [0.001 1.0] 188 [0.001 1.0]
+	40{1,1} V 106{1,1} V 107{1,1} V 93{1,1}  => 186 0.05;
+		C V 0.0 2  187 [0.001 1.0] 188 [0.001 1.0]
+	31{1,1} V 50{1,1} V 111{1,1}  => 186 0.05;
+		C V 0.0 2  187 [0.001 1.0] 188 [0.001 1.0]
+	202{1,1}  => 186 0.05;
+		C V 0.0 2  187 [0.001 1.0] 188 [0.001 1.0]
+	104{1,1}  => 186 0.05;
+		C V 0.0 2  187 [0.001 1.0] 188 [0.001 1.0]
+	66{1,1}  => 184 0.001;
+	293{1,1} V 25 V 167 V 235{1,1} V 240{1,1} V 53 V 301{1,1}  => 185 1.0;
+	185  => 184 0.4;
+	58{1,1}  => 184 0.05;
+		C V 0.0 1  185 [0.001 1.0]
+	-741{2,1}  => 184 0.05;
+		C V 0.0 1  185 [0.001 1.0]
+	543{2,1}  => 184 0.05;
+		C V 0.0 1  185 [0.001 1.0]
+	840{2,1}  => 184 0.05;
+		C V 0.0 1  185 [0.001 1.0]
+	62{2,1}  => 184 0.05;
+		C V 0.0 1  185 [0.001 1.0]
+	402{2,1}  => 184 0.2;
+		C V 0.0 1  185 [0.001 1.0]
+	855{2,1} V 63{2,1} V 858{2,1} V 856{2,1} V 857{2,1} V 59{2,1} V 859{2,1} V 860{2,1} V 720{2,1} V 925{2,1}  => 184 0.15;
+		C V 0.0 1  185 [0.001 1.0]
+	12{7,1}  => 184 0.1;
+		C V 0.0 1  185 [0.001 1.0]
+	292{1,1} V 201{1,1} V 294{1,1}  => 181 0.001;
+	(292{1,1} V 201{1,1} )& 294{1,1}  => 182 1.0;
+	182  => 181 0.4;
+	185{1,1}  => 181 -0.05;
+		C V 0.0 1  182 [0.001 1.0]
+	523{2,1}  => 181 -0.05;
+		C V 0.0 1  182 [0.001 1.0]
+	58{1,1}  => 181 0.05;
+		C V 0.0 1  182 [0.001 1.0]
+	18  => 181 0.05;
+		C V 0.0 1  182 [0.001 1.0]
+	20  => 181 0.1;
+		C V 0.0 1  182 [0.001 1.0]
+	27  => 181 0.05;
+		C V 0.0 1  182 [0.001 1.0]
+	43  => 181 0.05;
+		C V 0.0 1  182 [0.001 1.0]
+	64{12,1}  => 181 0.05;
+		C V 0.0 1  182 [0.001 1.0]
+	65{12,1}  => 181 0.05;
+		C V 0.0 1  182 [0.001 1.0]
+	167  => 181 0.05;
+		C V 0.0 1  182 [0.001 1.0]
+	40 V 67  => 181 0.05;
+		C V 0.0 1  182 [0.001 1.0]
+	69 V 75  => 181 0.05;
+		C V 0.0 1  182 [0.001 1.0]
+	79  => 181 0.05;
+		C V 0.0 1  182 [0.001 1.0]
+	-80  => 181 0.05;
+		C V 0.0 1  182 [0.001 1.0]
+	924{2,1}  => 181 0.1;
+		C V 0.0 1  182 [0.001 1.0]
+	701{2,1} V 922{2,1} V 923{2,1}  => 181 0.1;
+		C V 0.0 1  182 [0.001 1.0]
+	294{1,1}  => 178 0.001;
+	294{1,1} & (167 V 168 )& 169  => 179 1.0;
+	179  => 178 0.4;
+	68 V 75  => 178 0.05;
+		C V 0.0 1  179 [0.001 1.0]
+	79  => 178 0.05;
+		C V 0.0 1  179 [0.001 1.0]
+	293{1,1} V 66{1,1}  => 176 0.001;
+	(293{1,1} V 66{1,1} )& (53 V 55 V 82 V 161 V 162 V 163 ) => 177 1.0;
+	177  => 176 0.4;
+	48  => 176 -0.1;
+		C V 0.0 1  177 [0.001 1.0]
+	289{1,1}  => 176 0.1;
+		C V 0.0 1  177 [0.001 1.0]
+	-6{1,1} V 80{1,1}  => 176 0.1;
+		C V 0.0 1  177 [0.001 1.0]
+	97{2,1}  => 176 0.05;
+		C V 0.0 1  177 [0.001 1.0]
+	14{2,1}  => 176 0.05;
+		C V 0.0 1  177 [0.001 1.0]
+	283{1,1}  => 174 0.001;
+	283{1,1} & (156 V 157 V 158 V 159 ) => 175 1.0;
+	175  => 174 0.4;
+	147  => 174 0.05;
+		C V 0.0 1  175 [0.001 1.0]
+	150 V 151  => 174 0.1;
+		C V 0.0 1  175 [0.001 1.0]
+	152 V 153  => 174 0.05;
+		C V 0.0 1  175 [0.001 1.0]
+	155  => 174 0.05;
+		C V 0.0 1  175 [0.001 1.0]
+	97{2,1}  => 174 0.05;
+		C V 0.0 1  175 [0.001 1.0]
+	337{2,1}  => 174 0.1;
+		C V 0.0 1  175 [0.001 1.0]
+	289{1,1} V 66{1,1} V 293{1,1}  => 171 0.001;
+	164 V 180  => 172 1.0;
+	172  => 171 0.4;
+	166 V 740{2,1} V 913{2,1} V 914{2,1} V 915{2,1} V 916{2,1}  => 171 0.2;
+		C V 0.0 1  172 [0.001 1.0]
+	87  => 171 0.05;
+		C V 0.0 1  172 [0.001 1.0]
+	57  => 171 0.05;
+		C V 0.0 1  172 [0.001 1.0]
+	289{1,1}  => 171 0.1;
+		C & 0.0 1  172 [-1.0 -0.001]
+	97{2,1} V 400{2,1} V 152{2,1} V 153{2,1}  => 171 0.1;
+		C V 0.0 1  172 [0.001 1.0]
+	160 V 85 V 93 V 151 V 153 V 96{8,1} V 134{8,1}  => 164 1.0;
+	160 & -85 & -93 & -151 & -153 & -96{8,1} & -134{8,1}  => 164 -1.0;
+	289{1,1}  => 97 0.001;
+	289{1,1} & (8 V 9 ) => 101 1.0;
+	101  => 97 0.4;
+	291{1,1}  => 97 -0.1;
+		C V 0.0 1  101 [0.001 1.0]
+	105  => 97 -0.1;
+		C V 0.0 1  101 [0.001 1.0]
+	105{2,1} V 864{2,1} V 115{2,1} V 160{2,1} V 150{2,1} V 883{2,1}  => 97 -0.1;
+		C V 0.0 1  101 [0.001 1.0]
+	102  => 97 0.1;
+		C V 0.0 1  101 [0.001 1.0]
+	104  => 97 0.2;
+		C V 0.0 1  101 [0.001 1.0]
+	106  => 97 0.2;
+		C V 0.0 1  101 [0.001 1.0]
+	107  => 97 0.2;
+		C V 0.0 1  101 [0.001 1.0]
+	134  => 97 0.1;
+		C V 0.0 1  101 [0.001 1.0]
+	109  => 97 0.1;
+		C V 0.0 1  101 [0.001 1.0]
+	110 V 111 V 112 V 113 V 114 V 115 V 116 V 117 V 118 V 119 V 120  => 97 0.1;
+		C V 0.0 1  101 [0.001 1.0]
+	109  => 108 0.4;
+		C V 0.0 1  101 [0.001 1.0]
+	291{1,1}  => 108 -0.1;
+		C V 0.0 1  101 [0.001 1.0]
+	66{1,1} V 289{1,1}  => 98 0.001;
+	66{1,1} & (121 V 122 V 123 ) => 125 1.0;
+	125  => 98 0.4;
+	124 & 289{1,1}  => 126 1.0;
+	126  => 98 0.4;
+	291{1,1}  => 98 -0.1;
+		C V 0.0 2  125 [0.001 1.0] 126 [0.001 1.0]
+	409{2,1} V 305{2,1} V 884{2,1} V 885{2,1} V 886{2,1} V 887{2,1} V 888{2,1} V 889{2,1}  => 98 0.15;
+		C V 0.0 2  125 [0.001 1.0] 126 [0.001 1.0]
+	66{1,1}  => 99 0.001;
+	(25{2,1} V 297{1,1} V 296{1,1} V 128 )& 66{1,1}  => 127 1.0;
+	127  => 99 0.4;
+	291{1,1}  => 99 -0.1;
+		C V 0.0 1  127 [0.001 1.0]
+	293{1,1} V 289{1,1}  => 100 0.001;
+	(12 V 13 V 15 )& 293{1,1}  => 129 1.0;
+	129  => 100 0.4;
+	(49 V 50 V 51 V 52 V 53 V 54 V 55 )& 289{1,1}  => 130 1.0;
+	130  => 100 0.4;
+	102  => 100 -0.1;
+		C V 0.0 2  129 [0.001 1.0] 130 [0.001 1.0]
+	291{1,1}  => 100 -0.1;
+		C V 0.0 2  129 [0.001 1.0] 130 [0.001 1.0]
+	115{2,1} V 890{2,1} V 891{2,1} V 896{2,1} V 105{2,1} V 864{2,1} V 150{2,1} V 230{2,1} V 897{2,1} V 898{2,1}  => 100 0.15;
+		C V 0.0 2  129 [0.001 1.0] 130 [0.001 1.0]
+	899{2,1}  => 100 0.2;
+		C V 0.0 2  129 [0.001 1.0] 130 [0.001 1.0]
+	105{2,1}  => 100 0.1;
+		C V 0.0 2  129 [0.001 1.0] 130 [0.001 1.0]
+	32{2,1} V 33{2,1} V 37{2,1} V 86{2,1} V 28{2,1}  => 100 0.1;
+		C V 0.0 2  129 [0.001 1.0] 130 [0.001 1.0]
+	901{2,1}  => 100 0.1;
+		C V 0.0 2  129 [0.001 1.0] 130 [0.001 1.0]
+	61 & 62  => 100 0.05;
+		C V 0.0 2  129 [0.001 1.0] 130 [0.001 1.0]
+	45 V 46  => 100 0.05;
+		C V 0.0 2  129 [0.001 1.0] 130 [0.001 1.0]
+	64 V 66  => 100 0.05;
+		C V 0.0 2  129 [0.001 1.0] 130 [0.001 1.0]
+	57  => 100 0.05;
+		C V 0.0 2  129 [0.001 1.0] 130 [0.001 1.0]
+	292{1,1}  => 70 0.001;
+	18  => 71 1.0;
+	71  => 70 0.3;
+	286{1,1} V 185{1,1}  => 70 -0.2;
+	21 V 22 V 23 V 24 V 25  => 70 0.1;
+		C V 0.0 1  71 [0.001 1.0]
+	41 V 43  => 70 0.1;
+		C V 0.0 1  71 [0.001 1.0]
+	27  => 70 0.05;
+		C V 0.0 1  71 [0.001 1.0]
+	292{1,1} V 185{1,1}  => 72 0.001;
+	18  => 73 1.0;
+	73  => 72 0.3;
+	31 & 4{11,1}  => 74 1.0;
+	74  => 72 0.3;
+	41  => 72 -0.05;
+		C V 0.0 2  73 [0.001 1.0] 74 [0.001 1.0]
+	425{11,1} V 325{6,1}  => 72 0.1;
+		C V 0.0 2  73 [0.001 1.0] 74 [0.001 1.0]
+	878{2,1} V 879{2,1}  => 72 0.1;
+		C V 0.0 2  73 [0.001 1.0] 74 [0.001 1.0]
+	880{2,1}  => 72 0.05;
+		C V 0.0 2  73 [0.001 1.0] 74 [0.001 1.0]
+	291{1,1}  => 72 0.1;
+		C V 0.0 2  73 [0.001 1.0] 74 [0.001 1.0]
+	32  => 72 0.1;
+		C V 0.0 2  73 [0.001 1.0] 74 [0.001 1.0]
+	84{1,1} V 82{1,1} V 186{1,1}  => 72 0.05;
+		C V 0.0 2  73 [0.001 1.0] 74 [0.001 1.0]
+	171{1,1} V 116{1,1}  => 72 0.05;
+		C V 0.0 2  73 [0.001 1.0] 74 [0.001 1.0]
+	42{1,1} V 40{1,1} V 50{1,1}  => 72 0.05;
+		C V 0.0 2  73 [0.001 1.0] 74 [0.001 1.0]
+	95{1,1}  => 72 0.05;
+		C V 0.0 2  73 [0.001 1.0] 74 [0.001 1.0]
+	178{1,1}  => 72 0.05;
+		C V 0.0 2  73 [0.001 1.0] 74 [0.001 1.0]
+	388{11,1} V 277{11,1}  => 72 0.1;
+		C V 0.0 2  73 [0.001 1.0] 74 [0.001 1.0]
+	292{1,1} V 293{1,1}  => 131 0.001;
+	(45 V 46 )& (55 V 82 V 83 V 51 V 49 V 84 V 85 V 161 ) => 132 1.0;
+	132  => 131 0.4;
+	(17 V 18 )& (89 V 90 V 91 V 25 V 22 V 92 V 93 )& 94  => 133 1.0;
+	133  => 131 0.4;
+	244{1,1}  => 131 -0.15;
+		C V 0.0 2  132 [0.001 1.0] 133 [0.001 1.0]
+	57  => 131 0.05;
+		C V 0.0 2  132 [0.001 1.0] 133 [0.001 1.0]
+	59 V 60  => 131 0.05;
+		C V 0.0 2  132 [0.001 1.0] 133 [0.001 1.0]
+	65 V 66  => 131 0.05;
+		C V 0.0 2  132 [0.001 1.0] 133 [0.001 1.0]
+	41  => 131 0.1;
+		C V 0.0 2  132 [0.001 1.0] 133 [0.001 1.0]
+	27  => 131 0.05;
+		C V 0.0 2  132 [0.001 1.0] 133 [0.001 1.0]
+	-58{1,1}  => 131 0.05;
+		C V 0.0 2  132 [0.001 1.0] 133 [0.001 1.0]
+	289{1,1}  => 131 0.05;
+		C V 0.0 2  132 [0.001 1.0] 133 [0.001 1.0]
+	50{1,1}  => 131 0.1;
+		C V 0.0 2  132 [0.001 1.0] 133 [0.001 1.0]
+	97{2,1} V 210{2,1} V 285{2,1}  => 131 0.05;
+		C V 0.0 2  132 [0.001 1.0] 133 [0.001 1.0]
+	404{2,1} V 406{2,1} V 506{2,1} V 780{2,1} V 779{2,1}  => 131 0.05;
+		C V 0.0 2  132 [0.001 1.0] 133 [0.001 1.0]
+	903{2,1}  => 131 0.1;
+		C V 0.0 2  132 [0.001 1.0] 133 [0.001 1.0]
+	294{1,1}  => 135 0.001;
+	294{1,1} & 37  => 136 1.0;
+	136  => 135 0.4;
+	-80  => 135 -0.05;
+		C V 0.0 1  136 [0.001 1.0]
+	40{1,1} V 41{1,1} V 50{1,1} V 49{1,1} V 106{1,1} V 107{1,1} V 93{1,1}  => 135 0.1;
+		C V 0.0 1  136 [0.001 1.0]
+	40  => 135 0.05;
+		C V 0.0 1  136 [0.001 1.0]
+	69  => 135 0.1;
+		C V 0.0 1  136 [0.001 1.0]
+	77 V 78  => 135 0.1;
+		C V 0.0 1  136 [0.001 1.0]
+	80  => 135 0.1;
+		C V 0.0 1  136 [0.001 1.0]
+	516{2,1} V 305{2,1} V 409{2,1} V 51{2,1} V 696{2,1} V 907{2,1} V 23{2,1}  => 135 0.15;
+		C V 0.0 1  136 [0.001 1.0]
+	506{2,1} V 428{2,1} V 429{2,1} V 186{2,1} V 651{2,1} V 404{2,1} V 405{2,1} V 323{2,1} V 26{2,1} V 454{2,1} V 453{2,1} V 406{2,1} V 452{2,1} V 419{2,1} V 784{2,1} V 215{2,1} V 181{2,1} V 640{2,1} V 905{2,1} V 904{2,1}  => 135 0.15;
+		C V 0.0 1  136 [0.001 1.0]
+	908{2,1} V 909{2,1} V 910{2,1} V 604{2,1}  => 135 0.15;
+		C V 0.0 1  136 [0.001 1.0]
+	294{1,1}  => 137 0.001;
+	294{1,1} & 36  => 138 1.0;
+	138  => 137 0.4;
+	79  => 137 0.1;
+		C V 0.0 1  138 [0.001 1.0]
+	-80  => 137 0.05;
+	293{1,1} V 291{1,1} V 271{1,1}  => 139 0.001;
+	((293{1,1} & 86 )V (271{1,1} & 144 ))& 291{1,1}  => 140 1.0;
+	140  => 139 0.4;
+	291{1,1} & (526{11,1} V 527{11,1} V 528{11,1} V 529{11,1} V 530{11,1} V 531{11,1} ) => 141 1.0;
+	141  => 139 0.4;
+	46  => 139 -0.1;
+		C V 0.0 2  140 [0.001 1.0] 141 [0.001 1.0]
+	44 V 45  => 139 0.05;
+		C V 0.0 2  140 [0.001 1.0] 141 [0.001 1.0]
+	56  => 139 0.1;
+		C V 0.0 2  140 [0.001 1.0] 141 [0.001 1.0]
+	58  => 139 0.05;
+		C V 0.0 2  140 [0.001 1.0] 141 [0.001 1.0]
+	241{1,1}  => 139 0.05;
+		C V 0.0 2  140 [0.001 1.0] 141 [0.001 1.0]
+	153{2,1} V 428{2,1}  => 139 0.05;
+		C V 0.0 2  140 [0.001 1.0] 141 [0.001 1.0]
+	911{2,1}  => 139 0.05;
+		C V 0.0 2  140 [0.001 1.0] 141 [0.001 1.0]
+	430{2,1}  => 139 0.05;
+		C V 0.0 2  140 [0.001 1.0] 141 [0.001 1.0]
+	523{11,1}  => 139 0.05;
+		C V 0.0 2  140 [0.001 1.0] 141 [0.001 1.0]
+	293{1,1} V 66{1,1}  => 139 0.2;
+		C V 0.0 2  140 [0.001 1.0] 141 [0.001 1.0]
+	10{2,1} V 73{2,1}  => 139 0.05;
+		C V 0.0 2  140 [0.001 1.0] 141 [0.001 1.0]
+	585{2,1}  => 139 0.1;
+		C V 0.0 2  140 [0.001 1.0] 141 [0.001 1.0]
+	289{1,1}  => 139 0.05;
+		C V 0.0 2  140 [0.001 1.0] 141 [0.001 1.0]
+	291{1,1}  => 142 0.001;
+	525{11,1} & 430{2,1}  => 142 0.4;
+	291{1,1}  => 143 0.001;
+	525{11,1}  => 143 0.001;
+//  VARIABLES
+	S T S S 2 2 NULL 3 NULL 
+		C & -1.0 1  289{1,1} [0.001 1.0] 
+	N T S S 7 90{1,1} NULL 122{1,1} NULL 235{1,1} NULL 218{1,1} NULL 261{1,1} NULL 219{1,1} NULL 180 NULL 
+		C & -1.0 1  2 [0.001 1.0] 
+	S T S N 3 5 NULL 6 NULL 7 NULL 
+	M T S S 2 8 NULL 9 NULL 
+	S T S S 2 10 NULL 11 NULL 
+	S T S S 3 12 NULL 13 NULL 14 NULL 
+	N T S S 2 40{1,1} NULL 299{1,1} NULL 
+	S T S N 3 16 NULL 17 NULL 18 NULL 
+	S T S N 2 19 NULL 20 NULL 
+	M T S S 12 21 NULL 22 NULL 23 NULL 24 NULL 25 NULL 89 NULL 90 NULL 91 NULL 92 NULL 93 NULL 173 NULL 183 NULL 
+		C & -1.0 1  19 [0.001 1.0] 
+	S T S S 2 26 NULL 27 NULL 
+	S T S S 3 41 NULL 42 NULL 43 NULL 
+	N T S S 5 185{1,1} NULL 66{1,1} NULL 291{1,1} NULL 244{1,1} NULL 325{6,1} NULL 
+	N T S S 2 425{11,1} NULL 426{11,1} NULL 
+		C & -1.0 1  244{1,1} [0.001 1.0] 
+	S T S N 3 44 NULL 45 NULL 46 NULL 
+	S T S N 2 47 NULL 48 NULL 
+	M T S S 16 49 NULL 50 NULL 51 NULL 52 NULL 53 NULL 54 NULL 55 NULL 82 NULL 83 NULL 84 NULL 85 NULL 86 NULL 161 NULL 162 NULL 163 NULL 160 NULL 
+		C & -1.0 1  47 [0.001 1.0] 
+	S T S S 2 56 NULL 57 NULL 
+	S T S S 3 58 NULL 59 NULL 60 NULL 
+	S T S S 3 61 NULL 62 NULL 63 NULL 
+	S T S S 3 64 NULL 65 NULL 66 NULL 
+	S T S N 2 33 NULL 34 NULL 
+	M T S S 7 35 NULL 36 NULL 37 NULL 38 NULL 39 NULL 167 NULL 168 NULL 
+	M T S S 3 40 NULL 67 NULL 169 NULL 
+	M T S S 4 68 NULL 69 NULL 76 NULL 75 NULL 
+	N T S S 7 40{1,1} NULL 41{1,1} NULL 50{1,1} NULL 49{1,1} NULL 106{1,1} NULL 107{1,1} NULL 93{1,1} NULL 
+	S T S N 3 77 NULL 78 NULL 79 NULL 
+	M T S S 3 94 NULL 95 NULL 96 NULL 
+	M T S S 11 110 NULL 111 NULL 112 NULL 113 NULL 114 NULL 115 NULL 116 NULL 117 NULL 118 NULL 119 NULL 120 NULL 
+	S T S S 3 145 NULL 146 NULL 147 NULL 
+	S T S S 2 148 NULL 149 NULL 
+	M T S S 2 150 NULL 151 NULL 
+	M T S S 2 152 NULL 153 NULL 
+	S T S S 2 154 NULL 155 NULL 
+	M T S S 4 156 NULL 157 NULL 158 NULL 159 NULL 
+	N T S S 5 740{2,1} NULL 913{2,1} NULL 914{2,1} NULL 915{2,1} NULL 916{2,1} NULL 
+	N T S S 5 40{1,1} NULL 41{1,1} NULL 50{1,1} NULL 291{1,1} NULL 289{1,1} NULL 
+//  PROGRAMAS EXTERNOS
+//  FUNCIONES INTERNAS
+//  RELACIONES PADRE-HIJOS
+289{1,1}P[0.001 1.0], -5, -2, -4, -8, -10, -12, -15, -28;
+292{1,1}P[0.001 1.0], -16, -19, -21, -26, -41, -94, -29, -30;
+293{1,1}P[0.001 1.0], -44, -47, -49, -56, -58, -61, -64, -170;
+294{1,1}P[0.001 1.0], -35, -40, -68, -77, -80, -81;
+283{1,1}P[0.001 1.0], -145, -150, -152, -154, -156;
+//  REGLAS DE CONCLUSIONES
+	=> RP 1 [0.001 1];
+	=> RP 70 [0.001 1];
+	=> RP 72 [0.001 1];
+	=> RP 97 [0.001 1];
+	=> RP 98 [0.001 1];
+	=> RP 99 [0.001 1];
+	=> RP 100 [0.001 1];
+	=> RP 108 [0.001 1];
+	=> RP 131 [0.001 1];
+	=> RP 135 [0.001 1];
+	=> RP 137 [0.001 1];
+	=> RP 139 [0.001 1];
+	=> RP 142 [0.001 1];
+	=> RP 143 [0.001 1];
+	=> RP 171 [0.001 1];
+	=> RP 174 [0.001 1];
+	=> RP 176 [0.001 1];
+	=> RP 178 [0.001 1];
+	=> RP 181 [0.001 1];
+	=> RP 184 [0.001 1];
+	=> RP 186 [0.001 1];
+	=> RP 189 [0.001 1];
+//  RELACIONES PADRE - HIJOS EN CONCLUSIONES
+//  PROPOSICIONES QUE NO VAN AL SISTEMA EXPLICATORIO
+//  FIN

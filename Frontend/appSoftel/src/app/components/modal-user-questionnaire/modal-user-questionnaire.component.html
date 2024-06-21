@@ -1,0 +1,26 @@
+<h1 mat-dialog-title>Usuario: {{data.userName}}</h1>
+<mat-dialog-content>
+    <ng-container *ngFor="let answerAndQuestion of data.answerAndQuestion; let i = index">
+        <div class="mb-2">
+            <app-questionnaire [questions]="answerAndQuestion.question"
+                            [answers]="answerAndQuestion.answer"
+                            [position]="'start'" 
+                            [showIntro]="true"
+                            [showQuestion]="data.showQuestion"
+                            [showConclusions]="data.showConclusion"
+                            [showComplement]="false"
+                            [readOnly]="true"
+                            [showNoteQuestion]="true"
+                            [continueQuestionnarie]="false"
+                            [dateConclusion]="data.date[i]"></app-questionnaire>
+        </div>
+    </ng-container>
+</mat-dialog-content>
+<mat-dialog-actions>
+    <button mat-button mat-dialog-close>Ok</button>
+    <button mat-raised-button 
+            color="primary"
+            [mat-dialog-close]="true"
+            cdkFocusInitial
+            (click)="dialogRef.close()">Guardar</button>
+</mat-dialog-actions>

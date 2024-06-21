@@ -1,0 +1,73 @@
+<div class="position-relative h-100 d-flex overflow-hidden">
+
+        <div @initCard class="d-flex flex-column justify-content-center mt-5 pt-5 px-5">
+            <div class="position-absolute" style="top: 15%;width: 93%;">
+                <hr>
+            </div>
+
+            <div class="h-75 d-flex flex-column justify-content-center">
+
+                <ng-container *ngFor="let _ of title; let i = index">
+                    <div *ngIf="i === count" @contentFade>
+                        <app-content class="mt-5"  [title]="title[i]" [text]="text[i]" [images]="images[i]"></app-content>
+                    </div>
+                </ng-container>
+
+                <div @contentFade class="fs-4 px-5" *ngIf="count === text.length - 1">
+                    <p>{{text[count]}}</p>
+                    <div class="d-flex justify-content-center gap-2 pt-5">
+                        <button class="text-forest" mat-stroked-button (click)="goToHelp()">Ir a Ayuda</button>
+                        <button mat-button (click)="finish()">Terminar intro</button>
+                    </div>
+                </div>
+
+            </div>
+
+            <hr>
+
+            <div class="d-flex justify-content-between">
+                <button mat-icon-button class="d-flex justify-content-center align-items-center"
+                 (click)="previous()" [disabled]="btnDisabledLeft"><mat-icon>arrow_back_ios</mat-icon></button>
+
+                 <div class="position-absolute w-75 bottom-0 l-10 mb-4">
+                     <p class="text-center fs-4">{{count + 1}} / {{text.length}}</p>
+                 </div>
+
+                <button mat-icon-button class="d-flex justify-content-center align-items-center"
+                 (click)="next()" [disabled]="btnDisabledRight"><mat-icon>arrow_forward_ios</mat-icon></button>
+            </div>
+        </div>
+
+        <div @textHeader class="position-absolute w-75 t-3 l-10">
+            <p class="text-family-segoe text-center">¿ Qué puedes hacer ?</p>
+        </div>
+
+        <div @startText class="position-absolute w-75 t-40 l-10" style="display: none;">
+            <p class="text-family-segoe fs-2rem text-center">Primero, antes que todo, debes saber que la principal función de
+                esta aplicación es detectar posibles enfermedades, a través de síntomas anteriormente definidos.
+            </p>
+        </div>
+
+        <div @fade class="d-flex align-items-center justify-content-center position-absolute w-100 h-100 z-1" style="opacity: 0;">
+            <div class="position-relative h-75 w-100">
+                <div class="d-flex justify-content-around w-100">
+                    <div class="overflow-hidden opacity-50">
+                        <img id="imgPresentation" class="img-presentation" src="../../../assets/presentation.png">
+                    </div>
+                    <div id="lineAnimation" class="position-absolute bg-primary line">
+                    </div>
+                    <div class="w-50 d-flex flex-column justify-content-center gap-4 overflow-hidden">
+                        <div id="textPresentation">
+                            <div>
+                                <h1 class="fw-bold mb-2 text-primary">SOMOS SOFTEL</h1>
+                                <p class="fs-3 mb-3 text-primary">Empresa de desarrollo de Software.</p>
+                            </div>
+                            <div class="overflow-hidden">
+                                <p id="text" class="fs-4 text-secondary">Te presentaremos una guía rápida, una síntesis de nuestro sistema</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>

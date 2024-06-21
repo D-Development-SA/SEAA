@@ -1,0 +1,208 @@
+1,3,3 1
+	Tuberculosis Pulmonar
+2,3,3 1
+	Asma Bronquial
+3,3,3 1
+	Tromboembolismo Pulmonar Agudo (TEPA)
+4,3,3 1
+	Neumot&#243;rax
+5,3,3 1
+	Neoplasia Pulmonar
+6,3,3 1
+	Traqueobronquitis Aguda
+7,3,3 1
+	Neumon&#237;a (At&#237;pica)
+8,3,3 1
+	Enfermedad Pulmonar Obstructiva Cr&#243;nica
+9,3,3 1
+	Insuficiencia Respiratoria Aguda
+10,3,3 1
+	Derrame Pleural
+11,3,3 1
+	Silicosis
+12,3,3 1
+	Hemosiderosis Pulmonar Idiop&#225;tica
+13,3,3 1
+	Neumonitis de Hipersensibilidad
+14,3,3 1
+	Neumonitis por Radiaci&#243;n
+15,3,3 1
+	Hiperventilaci&#243;n Emocional
+16,3,3 1
+	Hipertensi&#243;n Pulmonar Primaria
+17,3,3 1
+	Fibrosis Qu&#237;stica
+18,3,3 1
+	Neumopat&#237;a Intersticial
+19,3,3 1
+	Aspiraci&#243;n Cuerpo Extra&#241;o
+20,3,3 1
+	S&#237;ndrome Carcinoide
+21,3,3 1
+	S&#237;ndrome de Pickwick
+22,3,3 1
+	Dolor Tor&#225;cico de Pared
+23,3,3 1
+	Bronquiectasias
+24,3,3 1
+	Bronquiectasia Infectada
+25,3,3 1
+	Hemoptisis por Bronquiectasia
+26,3,3 1
+	Neumon&#237;a Bacteriana (T&#237;pica)
+27,3,3 1
+	S&#237;ndrome de Horner
+28,3,3 1
+	Neumoconiosis por Carb&#243;n
+29,3,3 1
+	Cor Pulmonale
+30,3,3 1
+	Laringitis Aguda
+31,3,3 1
+	Faringitis Aguda
+32,3,3 1
+	no se usa
+33,3,3 1
+	Herpangina
+34,3,3 1
+	No se usa
+35,3,3 1
+	Candidiasis Oro-Far&#237;ngea
+36,3,3 1
+	Flem&#243;n o Absceso Periamigdalino
+37,3,3 1
+	Epligotitis Aguda
+38,3,3 1
+	Asbestosis
+39,3,3 1
+	Siderosis
+40,3,3 1
+	Estanosis
+41,3,3 1
+	Baritosis
+42,3,3 1
+	Talcosis
+43,3,3 1
+	Neumoconiosis por Caol&#237;n
+44,3,3 1
+	Aluminosis
+45,3,3 1
+	Beriliosis
+46,3,3 1
+	Intermedio &#34;522{3,1} V 450{3,1}&#34;
+47,3,3 1
+	Intermedio &#34;58{3,1} &#38; 68{3,1} &#38; 56{3,1}&#34;
+48,3,3 1
+	Intermedio de fiebre o febricula de evidencias o exploraci&#243;n
+49,3,3 1
+	Intermedio &#34;560{3,1} V 578{3,1} V 454{3,1}&#34;
+50,3,3 1
+	Intermedio de Insuficiencia Respiratoria Aguda
+51,3,3 1
+	Intermedio de 1{4,1} &#38; (123{1,1} V 31{1,1})
+52,3,3 1
+	Intermedio &#34;560{3,1} V 270{3,1} V 285{3,1} V 348{3,1}&#34;
+53,3,3 1
+	Intermedio &#34;416{3,1} V 451{3,1}&#34;
+54,3,3 1
+	Intermedio &#34;6{3,1} V 31{3,1} V 22{3,1} V 180{3,1} V 189{3,1}&#34;
+55,3,3 1
+	C&#225;ncer Metast&#225;sico
+56,3,3 1
+	Neumopat&#237;a Intersticial Secundaria a Artritis Reumatoide
+57,3,3 1
+	Neumopat&#237;a Intersticial Secundaria a Esclerodermia
+58,3,3 1
+	Neumopat&#237;a Intersticial Secundaria a Lupus Eritematoso Sist&#233;mico
+59,3,3 1
+	Neumopat&#237;a Intersticial Secundaria a Enfermedad Mixta del Tejido Conectivo
+60,3,3 1
+	Neumopat&#237;a Intersticial Secundaria a f&#225;rmaco
+61,3,3 1
+	Neumopat&#237;a Intersticial Secundaria a Radioterapia
+62,3,3 1
+	S&#237;ndrome de Compresi&#243;n de Subclavia
+63,3,3 1
+	Neumon&#237;a At&#237;pica por Legionella Pneumophilia
+64,3,3 1
+	Neumon&#237;a At&#237;pica por Clamidia Psittaci
+65,3,3 1
+	Mesotelioma
+66,3,3 1
+	Derrame Metast&#225;sico
+67,3,3 1
+	Hemot&#243;rax
+68,3,3 1
+	Derrame Pleural Tuberculoso
+69,3,3 1
+	Derrame Pleural Origen Cardiog&#233;nico
+70,3,3 1
+	Intermedio 861{3,1} V (251{3,1} &#38; 254{3,1})
+71,3,3 1
+	Disminuci&#243;n murmullo vesicular en todo el hemitorax derecho
+72,3,3 1
+	Pulm&#243;n de Granjero
+73,3,3 1
+	Pulm&#243;n de Humedecedor
+74,3,3 1
+	Pulm&#243;n de Cuidador de Aves
+75,3,3 1
+	Bagazosis
+76,3,3 1
+	Pulm&#243;n de Recolector de Hongos
+77,3,3 1
+	Suberosis
+78,3,3 1
+	Pulm&#243;n de Trabajador de Detergentes
+79,3,3 1
+	Disminuci&#243;n murmullo vesicular en todo el hemitorax izquierdo
+80,3,3 1
+	Abolici&#243;n del murmullo vesicular en todo el hemitorax derecho
+81,3,3 1
+	Abolici&#243;n murmullo vesicular en todo el hemitorax izquierdo
+82,3,3 2
+	Intermedio1 Disminuci&#243;n del Murmullo Vesicular (derecho) 243{3,1} &#38;
+	 (-244{3,1} V -245{3,1})
+83,3,3 2
+	Intermedio2 Disminuci&#243;n del Murmullo Vesicular (derecho) 82 V (244{3,1}
+	 &#38; -245{3,1})
+84,3,3 2
+	Intermedio1 Disminuci&#243;n del Murmullo Vesicular (izquierdo) 246{3,1} &#38;
+	 (-247{3,1} V -248{3,1})
+85,3,3 2
+	Intermedio2 Disminuci&#243;n del Murmullo Vesicular (izquierdo) 84 V (247{3,1}
+	 &#38; -248{3,1})
+86,3,3 2
+	Intermedio1 Abolici&#243;n del Murmullo Vesicular (derecho) 257{3,1} &#38;
+	 (-258{3,1} V -259{3,1})
+87,3,3 2
+	Intermedio2 Abolici&#243;n del Murmullo Vesicular (derecho) 86 V (258{3,1}
+	 &#38; -259{3,1})
+88,3,3 2
+	Intermedio1 Abolici&#243;n del Murmullo Vesicular (izquierdo) 260{3,1} &#38;
+	 (-261{3,1} V -262{3,1})
+89,3,3 2
+	Intermedio2 Abolici&#243;n del Murmullo Vesicular (izquierdo) 88 V (261{3,1}
+	 &#38; -262{3,1})
+90,3,3 1
+	Intermedio1 matidez (derecho) 887{3,1} &#38; (-888{3,1} V -889{3,1})
+91,3,3 1
+	Intermedio2 matidez (derecho) 90 V (888{3,1} &#38; -889{3,1})
+92,3,3 1
+	Intermedio1 matidez (izquierdo) 890{3,1} &#38; (-891{3,1} V -892{3,1})
+93,3,3 1
+	Intermedio2 matidez (izquierdo) 92 V (891{3,1} &#38; -892{3,1})
+94,3,3 1
+	Intemedio3 Disminuci&#243;n Murmullo Vesicular (-83 &#38; -85) V 860
+95,3,3 1
+	Intemedio3 Abolici&#243;n Murmullo Vesicular (-87 &#38; -89) V 862
+96,3,3 1
+	Intemedio3 matidez (-91 &#38; -92) V 895
+97,3,3 1
+	Intermedio de 17 V 18
+98,3,3 2
+	Intermedio1 de s&#237;ndrome carcinoide relacionado con Regurgitaci&#243;n
+	 tric&#250;spidea 32{3,6}
+99,3,3 2
+	Intermedio1 de s&#237;ndrome carcinoide relacionado con Estenosis Pulmonar
+	 34{3,6}

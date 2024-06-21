@@ -1,0 +1,362 @@
+1,6,1 1 3
+	Desde cu&#225;ndo tiene el Dolor Articular?
+		Un mes o menos
+		Entre uno y tres meses
+		M&#225;s de tres meses
+2,6,1 1 2
+	Desde cu&#225;ndo tiene el Dolor Muscular?
+		Un mes o menos
+		M&#225;s de un mes
+3,6,1 1 6
+	D&#243;nde se localiza el Dolor Articular?
+		Cabeza
+		Cuello
+		T&#243;rax
+		Extremidades Superiores
+		Extremidades Inferiores
+		Columna
+4,6,1 2 6
+	El Dolor Articular en las extremidades inferiores se relaciona con el
+	 movimiento de:
+		La rodilla
+		Los tobillos
+		Las metatarsofal&#225;ngicas
+		Los tarsometatarsianos
+		Las sacroil&#237;acas
+		El muslo sobre la pelvis
+5,6,1 1 2
+	Forma de comienzo del Dolor Articular:
+		En curso de semanas o meses (progresiva)
+		En horas o d&#237;as (aguda)
+6,6,1 1 2
+	El Dolor en las Articulaciones afectadas se ha presentado de forma:
+		Sim&#233;trica
+		Asim&#233;trica
+7,6,1 1 3
+	Car&#225;cter evolutivo del Dolor Articular:
+		Migratorio (de una articulaci&#243;n a otra)
+		Fugaz
+		Brotes (de varios d&#237;as a varias semanas)
+8,6,1 1 6
+	Modo de calmarse el Dolor Articular:
+		Con el reposo
+		Con analg&#233;sico o antiinflamatorios
+		Con corticoesteroides
+		Cambios metereol&#243;gicos del calor
+		Cambios metereol&#243;gicos de la humedad
+		Con colchicina
+9,6,1 1 2
+	Relaci&#243;n del Dolor Articular con la actividad f&#237;sica:
+		Se alivia
+		Empeora
+10,6,1 1 4
+	S&#237;ntomas Articulares acompa&#241;antes:
+		Calor
+		Rubor
+		Aumento de Volumen
+		Rigidez Matinal
+11,6,1 1 5
+	S&#237;ntomas Musculares acompa&#241;antes:
+		Calor
+		Rubor
+		Aumento de Volumen
+		Rigidez Muscular Localizada
+		Endurecimiento Muscular
+12,6,1 1 3
+	El Dolor Muscular:
+		Compromete difusamente grandes zonas musculares
+		Es circunscrito
+		Es generalizado
+13,6,1 1 3
+	El Dolor Muscular se desarrolla:
+		Exclusivamente con el movimiento
+		Exclusivamente con la presi&#243;n
+		Con ambos
+14,6,1 1 2
+	Desde cu&#225;ndo tiene la Deformidad:
+		Un mes o menos
+		M&#225;s de un mes
+15,6,1 1 2
+	C&#243;mo comenz&#243; la Deformidad:
+		Posterior a un trauma
+		Espont&#225;neamente
+16,6,1 1 4
+	D&#243;nde se localiza la Deformidad:
+		Cabeza
+		Extremidades Superiores
+		Extremidades Inferiores
+		Columna
+17,6,1 1 3
+	Desde cu&#225;ndo tiene la Limitaci&#243;n:
+		Un mes o menos
+		Entre uno y tres meses
+		M&#225;s de tres meses
+18,6,1 1 4
+	C&#243;mo comenz&#243; la Limitaci&#243;n:
+		Posterior a un trauma
+		Progresivo
+		Espont&#225;neo
+		Al realizar un esfuerzo brusco o al levantarse
+19,6,1 1 4
+	D&#243;nde se localiza la Limitaci&#243;n:
+		Cabeza y Cuello
+		Extremidades Superiores
+		Extremidades Inferiores
+		Columna
+20,6,1 1 5
+	D&#243;nde se localiza el Dolor Muscular:
+		Cuello
+		T&#243;rax
+		Extremidades Superiores
+		Extremidades Inferiores
+		Columna
+21,6,1 2 6
+	El Dolor Muscular en las Extremidades Inferiores se relaciona con el movimiento
+	 de:
+		La rodilla
+		Los tobillos
+		Las metatarsofal&#225;ngicas
+		Los tarsometatarsianos
+		Las sacroil&#237;acas
+		El muslo sobre la pelvis
+22,6,1 1 2
+	Forma de comienzo del Dolor Muscular:
+		En curso de semanas o meses (progresiva)
+		En horas o d&#237;as (aguda)
+23,6,1 1 6
+	Modo de calmarse el Dolor Muscular:
+		Con el reposo
+		Con analg&#233;sico o antiinflamatorios
+		Con corticoides
+		Cambios metereol&#243;gicos del calor
+		Cambios metereol&#243;gicos de la humedad
+		Con colchicina
+24,6,1 1 2
+	Relaci&#243;n del Dolor Muscular con la actividad f&#237;sica:
+		Se alivia
+		Empeora
+25,6,1 1 2
+	La Deformidad en la cabeza se localiza en:
+		B&#243;veda craneal
+		Articulaci&#243;n temporomaxilar
+26,6,1 1 4
+	El paciente presenta alguno de los siguientes s&#237;ntomas:
+		Dolor Articular
+		Dolor Muscular
+		Limitaci&#243;n Funcional
+		Deformidad
+27,6,1 1 3
+	Ha padecido recientemente de alguna de las siguientes Infecciones:
+		Infecci&#243;n Amigdalina
+		Escarlatina
+		Infecci&#243;n Faringea
+28,6,1 1 31
+	El paciente presenta alguno de los siguientes s&#237;ntomas:
+		Fiebre
+		Febr&#237;cula
+		Escalofr&#237;os
+		Mialgias y/o Quebrantamientos
+		Sudoraci&#243;n
+		Prurito Generalizado
+		S&#237;ndrome General
+		P&#233;rdida de Peso
+		Estomatitis Aptosa
+		Disfagia
+		Pirosis
+		Diarrea
+		Regurgitaci&#243;n
+		Distensi&#243;n Abdominal
+		Rash Cut&#225;neo
+		Eritema Malar (Erucci&#243;n Cut&#225;nea)
+		Lesiones de Piel
+		Fen&#243;meno de Fotosensibilidad
+		Ulceras Maleolares
+		Hematuria
+		Edema
+		Uretrorrea
+		Leucorrea
+		Disuria
+		Ardor Ocular
+		Dolor en Globo Ocular
+		Enrojecimiento Ocular
+		Lagrimeo
+		Dificultad para la Visi&#243;n
+		Disnea
+		Tos Seca
+29,6,1 1 6
+	El paciente se encuentra en alguna de las siguientes situaciones:
+		Come pocos vegetales
+		Bebe poca agua
+		Come muchas prote&#237;nas
+		Obesidad
+		Alcoh&#243;lico
+		Tiene antecedentes de Hipertensi&#243;n arterial
+30,6,1 1 2
+	C&#243;mo ha sido la evoluci&#243;n de la Deformidad:
+		Progresivamente
+		Aparici&#243;n r&#225;pida, en horas
+31,6,1 1 4
+	El Dolor Articular de la Columna es al movimiento de la:
+		Columna Cervical
+		Columna Dorsal
+		Columna Lumbar
+		Columna Sacra
+32,6,1 1 2
+	El Dolor Articular al movimiento de la Cabeza es:
+		En la b&#243;veda craneal
+		Para la masticaci&#243;n
+33,6,1 1 4
+	El Dolor Articular del Cuello se relaciona con:
+		La flexi&#243;n del cuello
+		La extensi&#243;n del cuello
+		La rotaci&#243;n del cuello
+		Los movimientos laterales del cuello
+34,6,1 2 7
+	El Dolor Articular en las extremidades superiores se relaciona con el
+	 movimiento de:
+		Los hombros
+		Los codos
+		De las mu&#241;ecas
+		De las metacarpofal&#225;ngicas
+		De las interfal&#225;ngicas distales
+		De las interfal&#225;ngicas proximales
+		De las articulaciones esternoclaviculares
+35,6,1 1 4
+	El Dolor Muscular de la Columna es al movimiento de la:
+		Columna Cervical
+		Columna Dorsal
+		Columna Lumbar
+		Columna Sacra
+36,6,1 1 4
+	El Dolor Muscular del Cuello se relaciona con:
+		La flexi&#243;n del cuello
+		La extensi&#243;n del cuello
+		La rotaci&#243;n del cuello
+		Los movimientos laterales del cuello
+37,6,1 2 7
+	El Dolor Muscular en las extremidades superiores se relaciona con el movimiento
+	 de:
+		Los hombros
+		Los codos
+		De las mu&#241;ecas
+		De las metacarpofal&#225;ngicas
+		De las interfal&#225;ngicas distales
+		De las interfal&#225;ngicas proximales
+		De las articulaciones esternoclaviculares
+38,6,1 1 5
+	La Limitaci&#243;n Funcional de la Cabeza y Cuello se relaciona con:
+		La masticaci&#243;n
+		La flexi&#243;n del cuello
+		La extensi&#243;n del cuello
+		La rotaci&#243;n del cuello
+		Los movimientos laterales del cuello
+39,6,1 2 7
+	La Limitaci&#243;n Funcional en las extremidades superiores se relaciona con el
+	 movimiento de:
+		Los hombros
+		Los codos
+		De las mu&#241;ecas
+		De las metacarpofal&#225;ngicas
+		De las interfal&#225;ngicas distales
+		De las interfal&#225;ngicas proximales
+		De las articulaciones esternoclaviculares
+40,6,1 2 6
+	La Limitaci&#243;n Funcional en las extremidades inferiores se relaciona con el
+	 movimiento de:
+		La rodilla
+		Los tobillos
+		Las metatarsofal&#225;ngicas
+		Los tarsometatarsianos
+		Las sacroil&#237;acas
+		El muslo sobre la pelvis
+41,6,1 1 3
+	La Limitaci&#243;n Funcional de la Columna es al movimiento de la:
+		Columna Dorsal
+		Columna Lumbar
+		Columna Cervical
+42,6,1 2 4
+	La Deformidad en las Extremidades Superiores se localiza en las Articulaciones
+	 del:
+		Hombro
+		Codo
+		Mu&#241;eca
+		Digitales de la mano
+43,6,1 2 6
+	La Deformidad en las Extremidades Inferiores se localiza en las Articulaciones
+	 de:
+		Sacrococc&#237;gea
+		Rodilla
+		Tobillos
+		Tarso
+		Tarsometatarsianas
+		Digitales del pie
+44,6,1 1 3
+	La Deformidad de la Columna se localiza en:
+		Columna Dorsal
+		Columna Lumbar
+		Columna Cervical
+49,6,1 1 7
+	El paciente tiene Antecedentes Personales de:
+		Enfermedades Osteoarticulares
+		Enfermedades del Tejido Conectivo
+		Enfermedades Cardiovasculares
+		Enfermedad Respiratoria
+		Enfermedad Hematol&#243;gica
+		Enfermedad Genito-Urinaria
+		Enfermedades Neurol&#243;gicas
+50,6,1 2 6
+	Cu&#225;les Antecedentes Personales de Enfermedades Osteoarticulares presenta
+	 el paciente:
+		Osteoartrosis
+		Espondilopat&#237;as
+		Hiperunicemia o episodios de Gota
+		Fracturas Oseas
+		Luxaciones
+		Hombro Doloroso
+51,6,1 2 9
+	Cu&#225;les Antecedentes Personales de Enfermedades del Tejido Conectivo
+	 presenta el paciente:
+		Lupus Eritematoso Sist&#233;mico
+		Artritis Reumatoide
+		Fiebre Reum&#225;tica
+		Enfermedad Mixta
+		Esclerodermia
+		Miastenias Graves
+		Enfermedad de Behcet
+		Tiroiditis de Hashimoto
+		Vasculitis
+52,6,1 2 4
+	Cu&#225;les Antecedentes Personales de Enfermedades Cardiovasculares presenta
+	 el paciente:
+		Derrame Pericardio
+		Hipertensi&#243;n Arterial
+		Pericarditis
+		Fen&#243;meno de Raynaud
+53,6,1 1 6
+	Presenta alguna de los siguientes enfermedades como Antecedentes Personales:
+		Derrame Pleural
+		Anemia Hemol&#237;tica (Sicklemia)
+		Litiasis Renal
+		Cefalea
+		Demencia
+		Escarlatina
+54,6,1 1 6
+	Presenta el paciente alguno de los siguientes Antecedentes:
+		Traumatismos Oseos y/o Musculares recientes
+		Relaciones Sexuales Sospechosas
+		Es jugador de tenis o nadador
+		Toxicoman&#237;a Parenteral
+		Infecciones Postoperatorias
+		Actividad laboral intensa en posiciones anormales
+55,6,1 1 10
+	Presenta el paciente alguno de los siguientes Antecedentes Familiares:
+		Lupus Eritematoso Sist&#233;mico
+		Artritis Reumatoidea
+		Fiebre Reum&#225;tica
+		Enfermedad Mixta
+		Esclerodermia
+		Miastenias Graves
+		Enfermedad de Behcet
+		Vasculitis
+		Espondilopat&#237;as
+		Gota

@@ -1,0 +1,10 @@
+.border-style{
+    border-bottom-style: dotted;
+    border-bottom-color: lightgray;
+}
+
+.icon{
+    width: 3rem;
+    height: 3rem;
+    font-size: 3rem;
+}

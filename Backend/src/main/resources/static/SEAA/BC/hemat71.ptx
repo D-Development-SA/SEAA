@@ -1,0 +1,276 @@
+1,7,1 1
+	Desde cu&#225;ndo tiene Adenopat&#237;as: Mmenos de un mes (Aagudas)
+2,7,1 1
+	Desde cu&#225;ndo tiene Adenopat&#237;as: Uun mes o m&#225;s (Cr&#243;nicas)
+3,7,1 1
+	Las Adenopat&#237;as son: Generalizadas
+4,7,1 1
+	Las Adenopat&#237;as son: Localizadas
+5,7,1 1
+	Las Adenopat&#237;as son: Localizadas preauricular
+6,7,1 1
+	Las Adenopatias son: Localizadas infraaauricular
+7,7,1 1
+	Las Adenopatias son: Localizadas cervical : cadenas laterales y submandibulares
+8,7,1 1
+	Las Adenopat&#237;as son: Localizadas nuca
+9,7,1 1
+	Las Adenopat&#237;as son: Localizadas supraclavicular
+10,7,1 1
+	Las Adenopat&#237;as son: Localizadas axilar
+11,7,1 1
+	Las Adenopat&#237;as son: Localizadas epitrocleares
+12,7,1 1
+	Las Adenopat&#237;as son: Localizadas inguinal
+13,7,1 1
+	Son dolorosas las Adenopat&#237;as
+14,7,1 2
+	El paciente presenta dolor en las Adenopat&#237;as despu&#233;s de la
+	 ingesti&#243;n de alcohol
+15,7,1 1
+	El paciente orina oscuro por la ma&#241;ana que va aclarando por el d&#237;a
+16,7,1 1
+	El paciente siente ansias por comer hielo y/o almid&#243;n y/o tierra (Pica)
+17,7,1 1
+	Las Adenopat&#237;as son: Localizadas auriculares
+18,7,1 1
+	Las Adenopat&#237;as son: Localizadas cervicales
+19,7,1 1
+	Las Adenopat&#237;as son: Localizadas supraauriculares
+20,7,1 1
+	Las Adenopat&#237;as son: Localizadas popliteos
+21,7,1 1
+	La Adenopat&#237;a cervical es de comienzo brusco
+22,7,1 1
+	La Hemorragia Superficial es espont&#225;nea (sin trauma perceptible)
+23,7,1 1
+	Hemorragia Superficial de menos de 15 d&#237;as (Aguda)
+24,7,1 1
+	Hemorragia Superficial de m&#225;s de 15 d&#237;as (Cr&#243;nica)
+25,7,1 1
+	Existen evidencias de Anemia de Eritrocitos Falciformes (Sicklemia)
+26,7,1 1
+	Existen evidencias de Hemofilia
+27,7,1 1
+	La Hemorragia Superficial aparece secundaria a un traumatismo
+28,7,1 1
+	La Hemorragia Profunda es espont&#225;nea (sin trauma perceptible)
+29,7,1 1
+	La Hemorragia Profunda aparece secundaria a un traumatismo
+30,7,1 1
+	La Gingivorragia se localiza en las encias
+31,7,1 1
+	La Gingivorragia se localiza en los carrillos
+32,7,1 1
+	La Gingivorragia se localiza en la orofaringe
+33,7,1 1
+	Le sangran las encias con facilidad al cepillarse los dientes
+34,7,1 1
+	Hemorragia Profunda de menos de un mes (aguda)
+35,7,1 1
+	Hemorragia Profunda de m&#225;s de un mes (cr&#243;nica)
+36,7,1 2
+	Utiliza con frecuencia tintes de pelo, insecticidas, pinturas, l&#237;quidos de
+	 limpiezas, sustancias depilatorias.
+37,7,1 1
+	La Gingivorragia es espont&#225;nea (sin trauma perceptible)
+38,7,1 1
+	Intermedio de 103{1,1} V 18{1,1} V 82{1,1} V 77{1,1}
+39,7,1 1
+	Comod&#237;n de S&#237;ntomas Acompa&#241;antes de Hemorragia
+40,7,1 1
+	Comod&#237;n de S&#237;ntomas Acompa&#241;antes de Palidez
+41,7,1 1
+	CMBD de Leucemia Linfobl&#225;stica Aguda y Leucemia Mieloide Aguda
+42,7,1 1
+	Intermedio de 340{2,1} y 158{2,1}
+43,7,1 1
+	Intermedio de 31{1,1} y 33{1,1}
+44,7,1 1
+	Intermedio de 116{1,1} y 117{1,1}
+45,7,1 1
+	Existen evidencias de Leucemia Linfobl&#225;stica Aguda
+46,7,1 1
+	Existen evidencias de Leucemia Mieloide Aguda
+47,7,1 1
+	Existen evidencias de Leucemias Agudas
+48,7,1 1
+	Intermedio de problemas de visi&#243;n
+49,7,1 1
+	Intermedio de 58{1,1} &#38; 43 &#38; 44
+50,7,1 1
+	CMBD de Leucemia Mieloide Cr&#243;nica
+51,7,1 1
+	Intermedio de 108{1,1} &#38; 13{1,1}
+52,7,1 1
+	Existen evidencias de Anemia Apl&#225;stica
+53,7,1 1
+	Existen evidencias de Leucemia Mieloide Cr&#243;nica
+54,7,1 1
+	Comod&#237;n de H&#225;bitos Diet&#233;ticos
+55,7,1 1
+	CMBD de Anemia P&#250;rpura Tromb&#243;tica Trombocitop&#233;nica
+56,7,1 1
+	Existen evidencias de Leucemia de C&#233;lulas Peludas
+57,7,1 1
+	CMBD de Leucemia Linfobl&#225;stica Cr&#243;nica
+58,7,1 1
+	Existen evidencias de Leucemia Linfoide Cr&#243;nica
+59,7,1 1
+	Comod&#237;n de Tratamiento Farmacol&#243;gico de Hemorragia
+60,7,1 1
+	El tiempo de evoluci&#243;n del S&#237;ndrome General es menor de 3 meses
+61,7,1 1
+	CMBD de Linfomas Hodgkin y NO Hodgkin
+62,7,1 1
+	Intermedio de 7 V 9 V 10
+63,7,1 1
+	El tiempo de evoluci&#243;n de la Palidez es menor de 3 meses?
+64,7,1 1
+	Existen evidencias de Enfermedad de Hodgkin
+65,7,1 1
+	Existen evidencias de Linfoma no Hodgkin
+66,7,1 1
+	Comod&#237;n de S&#237;ntomas Acompa&#241;antes de Adenopatias
+67,7,1 1
+	El paciente ha tenido recientemente Dolor de Garganta con Rash Cut&#225;neo
+68,7,1 1
+	El paciente ha tenido recientemente Dolor de Garganta y/o Absceso Dental
+69,7,1 1
+	El paciente refiere tener Menstruaci&#243;n Normal
+70,7,1 1
+	El paciente refiere tener Menstruaci&#243;n Polimenorreica
+71,7,1 1
+	El paciente refiere tener Menstruaci&#243;n Hipermenorreica
+72,7,1 1
+	El paciente refiere tener Menstruaci&#243;n Hiperpolimenorreica
+73,7,1 1
+	Intermedio de Radiaciones Recibidas por el paciente
+74,7,1 1
+	CMBD de Leucemia de C&#233;lulas Peludas
+75,7,1 1
+	Existen evidencias de Policitemias Secundarias
+76,7,1 1
+	Intermedio de Manifestaciones Neurol&#243;gicas
+77,7,1 1
+	La Gingivorragia aparece secundaria a un traumatismo
+78,7,1 1
+	Existen antecedentes recientes de Hemorragia Intensa
+79,7,1 1
+	Intermedio de 78{1,1} V 114{1,1}
+80,7,1 1
+	CMBD de Hemofilia
+81,7,1 1
+	Intermedio de 18{1,1} V 158{1,1} V 53{1,1}
+82,7,1 1
+	Com&#250;n para todas las Anemias
+83,7,1 1
+	Existen evidencias de Anemia Ferrop&#233;nica (D&#233;ficit de Hierro)
+84,7,1 1
+	Intermedio de 70 V 71 V 72 V 77{1,1} V 81
+85,7,1 1
+	Intermedio de 140{2,1} V 141{2,1} V 142{2,1}
+86,7,1 1
+	Intermedio de 18{1,1} V 8{4,1} V 104{1,1} V 24{1,1}
+87,7,1 1
+	Intermedio de localizaci&#243;n de Hemorragias
+88,7,1 1
+	CMBD de P&#250;rpura Trombocitop&#233;nica Idiop&#225;tica
+89,7,1 2
+	Interm 140{2,1} V 141{2,1} V 142{2,1} V 2{4,1} V 306{2,1} V 76{2,1} V 73{2,1} V
+	  187{2,1} V 123 V 58{2,1}
+90,7,1 1
+	Existen evidencias de P&#250;rpura Trombocitop&#233;nica Idiop&#225;tica
+91,7,1 1
+	La Hemorragia se localiza superficial: Extremidades Inferiores
+92,7,1 1
+	La Hemorragia se localiza superficial: Extremidades Superiores
+93,7,1 1
+	La Hemorragia se localiza superficial: Tronco
+94,7,1 2
+	Existen evidencias de Anemia Megalobl&#225;stica por D&#233;ficit de Acido
+	 F&#243;lico y Vitamina B12
+95,7,1 1
+	Existen evidencias de Anemia Inmunohemol&#237;tica
+96,7,1 1
+	Existen evidencias de Hemoglobinuria Parox&#237;stica Nocturna
+97,7,1 1
+	Existen evidencias de P&#250;rpura Tromb&#243;tica Trombocitop&#233;nica
+98,7,1 1
+	Intermedio de 278{2,1} V 2{4,1}
+99,7,1 1
+	Intermedio de 113{1,1} V 101{1,1} V 29{1,1}
+100,7,1 1
+	Intermedio de 307{2,1} V 312{2,1}
+101,7,1 1
+	Intermedio de 70 V 71 V 72
+102,7,1 1
+	Existen evidencias de Anemia Asociada a Procesos Cr&#243;nicos
+103,7,1 1
+	Intermedio de 82 &#38; 11{1,1}
+104,7,1 1
+	Existen evidencias de Esferocitosis Hereditaria
+105,7,1 1
+	Interm de 159{2,1} V 161{2,1} V 340{2,1} V 413{2,1} V 158{2,1}
+106,7,1 1
+	Comod&#237;n de Tratamiento Farmacol&#243;gico de Palidez
+107,7,1 1
+	Intermedio de 209{2,1} V 210{2,1} V 331{2,1}
+108,7,1 1
+	Comod&#237;n de Antecedentes Personales de Hemorragia
+109,7,1 1
+	Comod&#237;n de Antecedentes Personales de enfermedades hematol&#243;gicas
+110,7,1 1
+	Comod&#237;n de Antecedentes Personales de Enfermedades de la Sangre
+111,7,1 1
+	Comod&#237;n de Antecedentes Personales de Anemias
+112,7,1 1
+	Comod&#237;n de Antecedentes Familiares
+113,7,1 1
+	Comod&#237;n de Antecedentes Personales de Hemorragia
+114,7,1 1
+	Comod&#237;n de Antecedentes Personales de Enfermedades del Tejido Conectivo
+115,7,1 1
+	Comod&#237;n de Antecedentes Personales de Adenopatias
+116,7,1 1
+	Comod&#237;n de Antecedentes Personales de Palidez
+117,7,1 1
+	Existen evidencias de Mieloma M&#250;ltiple
+118,7,1 1
+	CMBD de Mieloma M&#250;ltiple
+119,7,1 1
+	Existen evidencias de Policitemias
+120,7,1 1
+	CMBD de Policitemias
+121,7,1 1
+	Existen evidencias de Policitemia Vera
+122,7,1 1
+	Existen evidencias de Policitemias Relativas (de Stress)
+123,7,1 1
+	Intermedio de 78{2,1} V 325{2,1}
+124,7,1 1
+	Desde Cu&#225;ndo es la Palidez: M&#225;s de 1 mes y menos de 3 meses
+125,7,1 1
+	Padre de criterio de parada en Adenopatias
+126,7,1 1
+	CMBD de Anemia de Eritrocitos Falciformes
+127,7,1 1
+	Existen evidencias de Talasemias
+128,7,1 1
+	CMBD de Talasemias
+129,7,1 1
+	Intermedio de 50{1,1} V 111{1,1} V 51{1,1}
+130,7,1 1
+	Gingivorragia de menos de un mes (Agudas)
+131,7,1 1
+	Gingivorragia de m&#225;s de un mes (Cr&#243;nica)
+132,7,1 1
+	Desde cu&#225;ndo es la Palidez: Semanas-D&#237;as
+133,7,1 1
+	CMBD de Anemia Apl&#225;stica
+134,7,1 1
+	La Palidez se manifiesta de forma epis&#243;dica
+135,7,1 1
+	CMBD 2 de Leucemias Cr&#243;nicas
+136,7,1 1
+	CMBD 2 de Hemoglobinuria Parox&#237;stica Nocturna

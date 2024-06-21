@@ -1,0 +1,57 @@
+1,3,8 1
+	Orzuelo Externo
+2,3,8 1
+	Orzuelo Interno
+3,3,8 1
+	Episcleritis
+4,3,8 1
+	Blefaritis
+5,3,8 1
+	Dacriocistitis Aguda
+6,3,8 1
+	Dacriocistitis Cr&#243;nica
+7,3,8 1
+	Glaucoma de Angulo Abierto o Glaucoma Cr&#243;nico Simple
+8,3,8 1
+	Glaucoma de Angulo Abierto Juvenil
+9,3,8 1
+	Glaucoma de Angulo Estrecho
+10,3,8 1
+	Glaucoma de Angulo Estrecho Juvenil
+11,3,8 1
+	Catarata
+12,3,8 1
+	Catarata Diab&#233;tica
+13,3,8 1
+	Queratitis Bacteriana
+14,3,8 1
+	Queratitis Viral
+15,3,8 1
+	Queratitis Mic&#243;tica
+16,3,8 1
+	Conjuntivitis Bacteriana Aguda
+17,3,8 1
+	Conjuntivitis Viral Aguda
+18,3,8 1
+	Conjuntivitis Folicular de las Piscinas
+19,3,8 1
+	Conjuntivitis Al&#233;rgica
+20,3,8 1
+	Conjuntivitis Cr&#243;nica
+21,3,8 1
+	Glaucomas Secundarios
+22,3,8 1
+	Calacio
+23,3,8 1
+	Uve&#237;tis Anterior Aguda
+24,3,8 2
+	Uve&#237;tis Posterior Nota: buscar presencia de enfermedad granulomatosa:
+	 Toxoplasmosis Tuberculosis Sarcoidosis Histoplasmosis
+25,3,8 1
+	Blefaritis Eritematosa
+26,3,8 1
+	Blefaritis Escamosa
+27,3,8 1
+	Blefaritis Ulcerocostrosa
+28,3,8 1
+	Uve&#237;tis Anterior Cr&#243;nica

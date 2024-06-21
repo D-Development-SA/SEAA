@@ -1,0 +1,181 @@
+1,3,7 1
+	Prostatitis
+2,3,7 1
+	Hiperplasia Prost&#225;tica Benigna (HPB)
+3,3,7 1
+	C&#225;ncer de Pr&#243;stata
+4,3,7 1
+	Cistitis Intersticial
+5,3,7 1
+	Epididimitis
+6,3,7 1
+	Torsi&#243;n Testicular
+7,3,7 1
+	Tumor Testicular
+8,3,7 1
+	Lesi&#243;n Traum&#225;tica Testicular
+9,3,7 1
+	Glomerulonefritis Aguda
+10,3,7 1
+	P&#250;rpura de Sch&#38;ouml;nlein Henoch &#243; P&#250;rpura Anafilactoide
+11,3,7 1
+	S&#237;ndrome de Good Posture
+12,3,7 1
+	S&#237;ndrome Nefr&#243;tico
+13,3,7 1
+	Pielonefritis Aguda
+14,3,7 1
+	C&#225;ncer Renal
+15,3,7 1
+	Ri&#241;ones Poliqu&#237;sticos
+16,3,7 1
+	Absceso Renal
+17,3,7 1
+	Estrechez Uretral
+18,3,7 1
+	Uretritis Gonoc&#243;cica
+19,3,7 1
+	Vulvovaginitis Gonoc&#243;cica
+20,3,7 1
+	Vulvovaginitis por C&#225;ndidas
+21,3,7 1
+	Vulvovaginitis por Trichomonas
+22,3,7 1
+	Vulvovaginitis Bacteriana (Chlamydia, Gandmerella, otras)
+23,3,7 1
+	Mastitis
+24,3,7 1
+	Hidrocele
+25,3,7 1
+	Mastopat&#237;a Fibroqu&#237;stica
+26,3,7 1
+	C&#225;ncer de Mama
+27,3,7 1
+	Embarazo
+28,3,7 1
+	Aborto
+29,3,7 1
+	Embarazo Ect&#243;pico
+30,3,7 1
+	S&#237;ndrome Premenstrual
+31,3,7 1
+	C&#243;lico Renoureteral por Litiasis Renoureteral
+32,3,7 1
+	Litiasis Vesical
+33,3,7 1
+	C&#225;ncer de Vejiga
+34,3,7 1
+	Insuficiencia Renal Cr&#243;nica
+35,3,7 1
+	Insuficiencia Renal Aguda
+36,3,7 1
+	Necrosis Papilar
+37,3,7 1
+	Uretritis NO Gonoc&#243;cica
+38,3,7 1
+	Intermedio 861{3,1} V (251{3,1} &#38; 254{3,1})
+39,3,7 1
+	Vejiga Neur&#243;gena
+40,3,7 1
+	Insuficiencia Renal Aguda Prerrenal
+41,3,7 1
+	Retenci&#243;n Urinaria por Litiasis Renoureteral
+42,3,7 1
+	Retenci&#243;n Urinaria por Traumatismo
+43,3,7 1
+	Retenci&#243;n Urinaria Secundaria a F&#225;rmacos
+44,3,7 1
+	Retenci&#243;n Urinaria Secundaria a C&#225;lculos Vesicales
+45,3,7 1
+	Glomerulonefritis Aguda Posestreptoc&#243;cica
+46,3,7 1
+	C&#225;ncer de Vejiga con Met&#225;stasis Ganglionar
+47,3,7 1
+	C&#225;ncer de Vejiga con Met&#225;stasis Osea
+48,3,7 1
+	Tumor Testicular con Met&#225;stasis Pulmonar
+49,3,7 1
+	Tumor Testicular con Met&#225;stasis Osea
+50,3,7 1
+	Tumor Testicular con Met&#225;stasis Ganglionar
+51,3,7 1
+	Varicocele
+52,3,7 1
+	Pielonefritis Cr&#243;nica
+53,3,7 1
+	C&#225;ncer Renal con Met&#225;stasis Pulmonar
+54,3,7 1
+	C&#225;ncer Renal con Met&#225;stasis Osea
+55,3,7 1
+	Mastitis Puerperal
+56,3,7 1
+	C&#225;ncer de Mama con Met&#225;stasis Pulmonar
+57,3,7 1
+	C&#225;ncer de Mama con Met&#225;stasis Osea
+58,3,7 1
+	C&#225;ncer de Mama con Met&#225;stasis Ganglionar
+59,3,7 1
+	Sangramiento del Primer Trimestre de Embarazo
+60,3,7 1
+	Mola Hidiatiforme
+61,3,7 1
+	no se usa
+62,3,7 1
+	Mioma Uterino
+63,3,7 2
+	Enfermedad Inflamatoria Pelviana Aguda. Incluye cualquiera de los siguientes
+	 tipos: Endometritis, Salpingitis, Ooforitis, Parametritis o Pelviperitonitis.
+64,3,7 2
+	Enfermedad Inflamatoria Pelviana Cr&#243;nica. Incluye cualquiera de los
+	 siguientes tipos: Metroanexitis, Hidrosalpinx o Salpin- gitis cr&#243;nica.
+65,3,7 1
+	Hipospadias
+66,3,7 1
+	Epispadias
+67,3,7 1
+	F&#237;mosis
+68,3,7 1
+	Paraf&#237;mosis
+69,3,7 1
+	Incontinencia Urinaria por Esfuerzo en la Mujer
+70,3,7 1
+	Cervicitis Aguda
+71,3,7 1
+	Cervicitis Cr&#243;nica
+72,3,7 1
+	S&#237;ntomas y signos importantes que apuntan a C&#225;ncer Renal
+73,3,7 1
+	S&#237;ntomas y signos importantes que apuntan a Prostatitis
+74,3,7 2
+	S&#237;ntomas y signos importantes que apuntan a Hiperplasia Prost&#225;tica
+	 Benigna
+75,3,7 1
+	S&#237;ntomas y signos importantes que apuntan a C&#225;ncer de Pr&#243;stata
+76,3,7 1
+	S&#237;ntomas y signos importantes que apuntan a Tumor Testicular
+77,3,7 1
+	S&#237;ntomas y signos importantes que apuntan a Pielonefritis
+78,3,7 1
+	S&#237;ntomas y signos importantes que apuntan a Mastitis
+79,3,7 2
+	S&#237;ntomas y signos importantes que apuntan a Mastopat&#237;a
+	 Fibroqu&#237;stica
+80,3,7 1
+	S&#237;ntomas y signos importantes que apuntan a Embarazo
+81,3,7 2
+	S&#237;ntomas y signos importantes que apuntan a Insuficiencia Renal
+	 Cr&#243;nica
+82,3,7 1
+	S&#237;ntomas y signos importantes que apuntan a Insuficiencia Renal Aguda
+83,3,7 1
+	S&#237;ntomas y signos importantes que apuntan a Hidrocele
+84,3,7 1
+	S&#237;ntomas y signos importantes que apuntan a Varicocele
+85,3,7 1
+	S&#237;ntomas y signos importantes que apuntan a Mioma Uterino
+86,3,7 1
+	S&#237;ntomas y signos importantes que apuntan a Cervicitis Aguda
+87,3,7 1
+	S&#237;ntomas y signos importantes que apuntan a Cervicitis Cr&#243;nica
+88,3,7 1
+	Nefropat&#237;a Diab&#233;tica o S&#237;ndrome de Kimmelstiel-Wilson

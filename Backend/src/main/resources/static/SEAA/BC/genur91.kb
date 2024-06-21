@@ -1,0 +1,2047 @@
+genur91
+3
+//  Objetivos
+	48 139 155 180 193 197 204 206 211 218 220 222 225 231 232 234 241 245 247 251 253 255 257 260 262 308 314 317 322 324 326 329 331 335 339 345 349 361 368 369 374 388 390 391 394 396 398 400 88 
+//  Conclusiones Finales
+//  Proposiciones que van al BKB
+	133 1 2 3 4 6 7 9 10 11 12 13 27 30 34 35 46 65 66 83 88 112 113 116 126 132 134 136 139 151 152 153 154 155 158 159 160 161 162 163 164 166 168 173 176 177 178 179 180 191 193 195 197 203 204 205 206 211 212 216 218 219 220 221 222 225 228 231 232 233 234 239 241 244 245 246 247 248 250 251 252 253 256 257 259 260 262 263 264 265 267 269 270 271 272 273 275 278 280 281 286 288 300 304 308 314 317 322 324 326 329 331 335 339 345 347 349 361 368 369 374 384 388 390 391 394 396 398 400 401 402 403 404 405 
+//  Variables que van al BKB
+//  Proposiciones que se eliminan del BKB
+//  Variables que se eliminan del BKB
+//  PROPOSICIONES
+	1 /* Desde cu&#225;ndo tiene el Edema: Menos de 48 horas */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	2 /* Desde cu&#225;ndo tiene el Edema: M&#225;s de 48 horas */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	3 /* Desde cu&#225;ndo tiene el Edema: M&#225;s de un mes */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	4 /* El Edema es localizado */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	5 /* El Edema es generalizado */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	6 /* El Edema es en la cara */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	7 /* El Edema es en el cuello */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	8 /* Uretrorrea de m&#225;s de un mes */
+		C & -1.0 1  69{1,1} [0.001 1.0]
+	9 /* El Edema es en las extremidades */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	10 /* El Edema es periorbitario */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	11 /* El Edema es en las extremidades superiores */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	12 /* El Edema de Extremidades Inferiores es bilateral */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	13 /* El Edema de Extremidades Inferiores es unilateral */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	14 /* El Edema en la cara apareci&#243; r&#225;pidamente */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	15 /* El Edema en la cara apareci&#243; gradualmente */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	16 /* El Edema en la cara es m&#225;s pronunciado en la ma&#241;ana */
+		C & -1.0 1  6 [0.01 1.0]
+	17 /* El Edema en las Extremidades Superiores apareci&#243; r&#225;pidamente */
+		C & -1.0 1  11 [0.01 1.0]
+	18 /* El Edema en las Extremidades Superiores apareci&#243; gradualmente */
+		C & -1.0 1  11 [0.01 1.0]
+	19 /* Intermedio de C&#225;ncer de Mama (Mastodinia) */
+	20 /* Intermedio de Enfermedad Fibroqu&#237;stica (Mastodinia) */
+	21 /* Intermedio de Mastopat&#237;a Fibroqu&#237;stica (Mastodinia) */
+	22 /* Factores desencadenantes del Edema en Extremidades Superiores: Traumatismo Previ */
+		C & -1.0 1  11 [0.01 1.0]
+	23 /* Factores desencadenantes del Edema en Extremidades Superiores: Infecci&#243;n Lo */
+		C & -1.0 1  11 [0.01 1.0]
+	24 /* Factores desencadenantes del Edema en Extremidades Superiores: Picadura de Insec */
+		C & -1.0 1  11 [0.01 1.0]
+	25 /* Intermedio de Antecedentes Personales para Insuficiencia Renal Aguda */
+	26 /* Factores desencadenantes del Edema en Extremidades Superiores: Agente Irritante  */
+		C & -1.0 1  11 [0.01 1.0]
+	27 /* El Edema deja fovea */
+		C & -1.0 1  36{1,1} [0.01 1.0]
+	28 /* La Ascitis apareci&#243; primero que el Edema de Extremidades Inferiores */
+		C & -1.0 2  12 [0.01 1.0] 167{1,1} [0.01 1.0]
+	29 /* La Ascitis apareci&#243; siguiendo el Edema de Extremidades Inferiores */
+		C & -1.0 2  12 [0.01 1.0] 167{1,1} [0.01 1.0]
+	30 /* El paciente refiere tener Nicturia */
+	31 /* CMBD HPB (Disuria) */
+	32 /* Tiene Oliguria de menos de 48 horas */
+		C & -1.0 1  70{1,1} [0.001 1.0]
+	33 /* Tiene Oliguria de m&#225;s de 48 horas */
+		C & -1.0 1  70{1,1} [0.001 1.0]
+	34 /* Edema en P&#225;rpados */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	35 /* Padre de lista de Edema en P&#225;rpados */
+	36 /* El paciente tiene N&#243;dulos Testiculares */
+	37 /* El Edema de Extremidades Superiores es bilateral */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	38 /* El Edema de Extremidades Superiores es unilateral */
+		C & -1.0 1  36{1,1} [0.001 1.0]
+	39 /* Desde cu&#225;ndo ha notado Bultos en las Mamas: M&#225;s de 1 mes */
+		C & -1.0 2  6{1,1} [0.01 1.0] 189{1,1} [0.001 1.0]
+	40 /* Desde cu&#225;ndo ha notado Bultos en las Mamas: Menos de 1 mes */
+		C & -1.0 2  6{1,1} [0.01 1.0] 189{1,1} [0.001 1.0]
+	41 /* Los Bultos en las Mamas se localizan de forma: Unilateral */
+		C & -1.0 2  6{1,1} [0.01 1.0] 189{1,1} [0.001 1.0]
+	42 /* Comod&#237;n de la variable 4 */
+		V 4 U
+	43 /* Intermedio de Glomerulonefritis Aguda por Edema o Hematuria */
+	44 /* Comod&#237;n de la variable 15 */
+		V 15 U
+	45 /* La Polaquiuria tiene relaci&#243;n con estados de Ansiedad o Stress */
+		C & -1.0 1  75{1,1} [0.01 1.0]
+	46 /* CMBD de Tumor Testicular por Dolor Testicular */
+	47 /* Intermedio de S&#237;ntomas Acompa&#241;antes. Otras manifestaciones para Insufi */
+	48 /* Comod&#237;n de la variable 20 */
+		V 20 U
+	49 /* Comod&#237;n de la variable 7 */
+		V 7 U
+	50 /* Uretrorrea de menos de un mes */
+		C & -1.0 1  69{1,1} [0.001 1.0]
+	51 /* Secreci&#243;n Uretral clara */
+	52 /* Secreci&#243;n Uretral blanquecina */
+	53 /* Secreci&#243;n Uretral purulenta */
+	54 /* Ultimo contacto sexual: M&#225;s de 10 d&#237;as */
+	55 /* Ultimo contacto sexual: Menos de 10 d&#237;as */
+	56 /* Nota Disuria hace: Uno a dos d&#237;as */
+		C & -1.0 1  71{1,1} [0.001 1.0]
+	57 /* Nota Disuria hace: Dos a siete d&#237;as */
+		C & -1.0 1  71{1,1} [0.001 1.0]
+	58 /* Nota Disuria hace: M&#225;s de un mes */
+		C & -1.0 1  71{1,1} [0.001 1.0]
+	59 /* La Disuria comenz&#243; de forma s&#250;bita */
+		C & -1.0 1  71{1,1} [0.001 1.0]
+	60 /* La Disuria comenz&#243; de forma progresiva */
+		C & -1.0 1  71{1,1} [0.001 1.0]
+	61 /* La Disuria se presenta al principio del chorro */
+		C & -1.0 1  71{1,1} [0.001 1.0]
+	62 /* La Disuria se presenta al final del chorro */
+		C & -1.0 1  71{1,1} [0.001 1.0]
+	63 /* La Disuria se presenta durante toda la micci&#243;n */
+		C & -1.0 1  71{1,1} [0.001 1.0]
+	64 /* Es su orina clara */
+	65 /* Es su orina turbia */
+	66 /* Intermedio para Glomerulonefritis Aguda Posestreptoc&#243;cica */
+	67 /* Dolor en &#225;rea vesical (Suprap&#250;bico) */
+	68 /* Dolor en extremo del pene */
+		C & -1.0 1  6{1,1} [-1.0 -0.01]
+	69 /* Dolor en regi&#243;n perineal */
+	70 /* Nota Disuria hace: Siete d&#237;as a un mes */
+		C & -1.0 1  71{1,1} [0.001 1.0]
+	71 /* Desde cu&#225;ndo tiene Leucorrea: M&#225;s de un mes */
+		C & -1.0 1  76{1,1} [0.001 1.0]
+	72 /* Desde cu&#225;ndo tiene Leucorrea: Menos de un mes */
+		C & -1.0 1  76{1,1} [0.001 1.0]
+	73 /* Leucorrea blanquecina */
+		C & -1.0 1  76{1,1} [0.001 1.0]
+	74 /* Leucorrea amarilla */
+		C & -1.0 1  76{1,1} [0.001 1.0]
+	75 /* Leucorrea maloliente y espumosa */
+		C & -1.0 1  76{1,1} [0.001 1.0]
+	76 /* Desde cu&#225;ndo tiene Modificaci&#243;n del Chorro: Uno a dos d&#237;as */
+		C & -1.0 1  134{1,1} [0.001 1.0]
+	77 /* Desde cu&#225;ndo tiene Modificaci&#243;n del Chorro: Dos a siete d&#237;as */
+		C & -1.0 1  134{1,1} [0.001 1.0]
+	78 /* Desde cu&#225;ndo tiene Modificaci&#243;n del Chorro: De siete d&#237;as a un me */
+		C & -1.0 1  134{1,1} [0.001 1.0]
+	79 /* Desde cu&#225;ndo tiene Modificaci&#243;n del Chorro: M&#225;s de un mes */
+		C & -1.0 1  134{1,1} [0.001 1.0]
+	80 /* El Chorro de Orina es d&#233;bil */
+	81 /* El Chorro de Orina es fraccionado */
+	82 /* El Chorro de Orina es disperso */
+	83 /* El Chorro de Orina es intermitente */
+	84 /* Desde cu&#225;ndo tiene Polaquiuria: Uno a dos d&#237;as */
+		C & -1.0 1  75{1,1} [0.001 1.0]
+	85 /* Desde cu&#225;ndo tiene Polaquiuria: Dos a siete d&#237;as */
+		C & -1.0 1  75{1,1} [0.001 1.0]
+	86 /* Desde cu&#225;ndo tiene Polaquiuria: De siete d&#237;as a un mes */
+		C & -1.0 1  75{1,1} [0.001 1.0]
+	87 /* Desde cu&#225;ndo tiene Polaquiuria: M&#225;s de un mes */
+		C & -1.0 1  75{1,1} [0.001 1.0]
+	88 /* Glomerulonefritis Aguda Posestreptoc&#243;cica */
+	89 /* El paciente refiere tener Goteo Postmicci&#243;n */
+	90 /* En que momento del d&#237;a orina m&#225;s frecuentemente: D&#237;a */
+		C & -1.0 1  75{1,1} [0.001 1.0]
+	91 /* En que momento del d&#237;a orina m&#225;s frecuentemente: Noche */
+		C & -1.0 1  75{1,1} [0.001 1.0]
+	92 /* En que momento del d&#237;a orina m&#225;s frecuentemente: Ambos */
+		C & -1.0 1  75{1,1} [0.001 1.0]
+	93 /* Desde cu&#225;ndo tiene Dolor Testicular: M&#225;s de un mes */
+		C & -1.0 1  116{1,1} [0.001 1.0]
+	94 /* Desde cu&#225;ndo tiene Dolor Testicular: menos de un mes */
+		C & -1.0 1  116{1,1} [0.001 1.0]
+	95 /* Desde cu&#225;ndo tiene Dolor Testicular: Horas */
+		C & -1.0 1  116{1,1} [0.001 1.0]
+	96 /* El Dolor Testicular se localiza en: Un test&#237;culo */
+		C & -1.0 1  116{1,1} [0.001 1.0]
+	97 /* El Dolor Testicular se localiza en: Ambos test&#237;culos */
+		C & -1.0 1  116{1,1} [0.001 1.0]
+	98 /* Intermedio de S&#237;ntomas Acompa&#241;antes Toxicos de Retenci&#243;n para Ins */
+	99 /* El Dolor Testicular se irradia a regi&#243;n Inguino Abdominal */
+		C & -1.0 1  116{1,1} [0.001 1.0]
+	100 /* El Dolor Testicular se irradia a regi&#243;n Lumbar */
+		C & -1.0 1  116{1,1} [0.001 1.0]
+	101 /* Rubor Testicular */
+	102 /* Calor Testicular */
+	103 /* Comod&#237;n de la variable 38 */
+		V 38 U
+	104 /* El Dolor Testicular empeora con la elevaci&#243;n del escroto */
+		C & -1.0 1  116{1,1} [0.001 1.0]
+	105 /* El Dolor Testicular se alivia con la elevaci&#243;n del escroto */
+		C & -1.0 1  116{1,1} [0.001 1.0]
+	106 /* Comod&#237;n de la variable 40 */
+		V 40 U
+	107 /* Desde cu&#225;ndo tiene Aumento de Volumen Testicular: M&#225;s de un mes */
+		C & -1.0 1  117{1,1} [0.001 1.0]
+	108 /* Desde cu&#225;ndo tiene Aumento de Volumen Testicular: Menos de un mes */
+		C & -1.0 1  117{1,1} [0.001 1.0]
+	109 /* Desde cu&#225;ndo tiene Aumento de Volumen Testicular: Horas */
+		C & -1.0 1  117{1,1} [0.001 1.0]
+	110 /* El Aumento de Volumen Testicular apareci&#243; de forma: Brusca */
+		C & -1.0 1  117{1,1} [0.001 1.0]
+	111 /* El Aumento de Volumen Testicular apareci&#243; de forma: Progresiva */
+		C & -1.0 1  117{1,1} [0.001 1.0]
+	112 /* Tiene Hematuria hace: Menos de un mes */
+		C & -1.0 1  39{1,1} [0.001 1.0]
+	113 /* Tiene Hematuria hace: M&#225;s de un mes */
+		C & -1.0 1  39{1,1} [0.001 1.0]
+	114 /* Es la primera vez que tiene Hematuria */
+		C & -1.0 1  39{1,1} [0.001 1.0]
+	115 /* Color de la orina: Rojo brillante */
+	116 /* Color de la orina: Rojo oscuro */
+	117 /* Aparece sangre: Al principio de la micci&#243;n */
+	118 /* Aparece sangre: Al final de la micci&#243;n */
+	119 /* Aparece sangre: Durante toda la micci&#243;n */
+	120 /* La Retenci&#243;n Urinaria se instaur&#243; bruscamente */
+		C & -1.0 1  146{1,1} [0.001 1.0]
+	121 /* Contiene la orina co&#225;gulos de sangre */
+		C & -1.0 1  39{1,1} [0.01 1.0]
+	122 /* Contiene la orina co&#225;gulos de sangre: Grandes y voluminosos */
+		C & -1.0 1  39{1,1} [0.01 1.0]
+	123 /* Contiene la orina co&#225;gulos de sangre: Alargados o filiformes */
+		C & -1.0 1  39{1,1} [0.01 1.0]
+	124 /* La Retenci&#243;n Urinaria se instaur&#243; gradualmente */
+		C & -1.0 1  146{1,1} [0.001 1.0]
+	125 /* La Orina es de color Rojo: S&#243;lo por las ma&#241;anas */
+		C & -1.0 1  39{1,1} [0.001 1.0]
+	126 /* La Orina es de color Rojo: Despu&#233;s de un paseo, carrera, esfuerzo f&#237;si */
+		C & -1.0 1  39{1,1} [0.001 1.0]
+	127 /* La Orina es de color Rojo: Cuando se expone al fr&#237;o */
+		C & -1.0 1  39{1,1} [0.001 1.0]
+	128 /* La Orina es de color Rojo: Siempre o sin causa aparente */
+		C & -1.0 1  39{1,1} [0.001 1.0]
+	129 /* Intermedio de S&#237;ntomas Acompa&#241;antes Hipertensivos para Insuficiencia R */
+	130 /* El paciente refiere presentar Eyaculaci&#243;n D&#233;bil */
+	131 /* Antecedentes Patol&#243;gicos Personales de Amigdalitis Pult&#225;cea de 48 hora */
+		C & -1.0 1  452{2,1} [0.01 1.0]
+	132 /* Antecedentes Patol&#243;gicos Personales de Amigdalitis Pult&#225;cea de 48 hora */
+		C & -1.0 1  452{2,1} [0.01 1.0]
+	133 /* Antecedentes Patol&#243;gicos Personales de Faringitis de 48 horas previas a apa */
+		C & -1.0 1  453{2,1} [0.01 1.0]
+	134 /* Antecedentes Patol&#243;gicos Personales de Faringitis de 48 horas despu&#233;s  */
+		C & -1.0 1  453{2,1} [0.01 1.0]
+	135 /* Antecedentes Patol&#243;gicos Personales de infecci&#243;n cut&#225;nea de 48 ho */
+		C & -1.0 1  454{2,1} [0.01 1.0]
+	136 /* Antecedentes Patol&#243;gicos Personales de Infecci&#243;n Cut&#225;nea de 48 ho */
+		C & -1.0 1  454{2,1} [0.01 1.0]
+	137 /* Comod&#237;n de la variable 49 */
+		V 49 U
+	138 /* El paciente refiere tener Chorro en Abanico o Regadera */
+	139 /* Existen evidencias de Vejiga Neur&#243;gena */
+	140 /* Ha notado que sus micciones son m&#225;s prolongadas que lo habitual */
+	141 /* CMBD de Estrechez Uretral (Polaquiuria) */
+	142 /* Comod&#237;n de la variable 54 */
+		V 54 U
+	143 /* Incontinencia de Orina de menos de un mes */
+		C & -1.0 1  160{1,1} [0.001 1.0]
+	144 /* Incontinencia de Orina de m&#225;s de un mes */
+		C & -1.0 1  160{1,1} [0.001 1.0]
+	145 /* Tiene a veces ganas exageradas de orinar */
+		C & -1.0 1  160{1,1} [0.001 1.0]
+	146 /* Orina gota a gota, poca cantidad, a intervalos frecuentes */
+	147 /* Pierde orina al realizar un esfuerzo */
+		C & -1.0 1  160{1,1} [0.001 1.0]
+	148 /* Tiene que hacer esfuerzos o presi&#243;n manual de la vejiga durante toda la mic */
+	149 /* Comod&#237;n de la variable tratamiento farmacol&#243;gico 57 */
+		V 57 U
+	150 /* Comod&#237;n de la variable enfermedades 58 */
+		V 58 U
+	151 /* Dolor Lumbar de menos de un mes */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	152 /* Dolor Lumbar de m&#225;s de un mes */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	153 /* El Dolor Lumbar comenz&#243; de forma s&#250;bita */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	154 /* El Dolor Lumbar comenz&#243; gradualmente */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	155 /* Existen evidencias de Estrechez Uretral */
+	156 /* CMBD de Estrechez Uretral (Modificaci&#243;n del Chorro) */
+	157 /* CMBD de Estrechez Uretral (Disuria) */
+	158 /* Se irradia el Dolor Lumbar a lo largo del &#225;rea subcostal hacia el Hombligo */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	159 /* Se irradia el Dolor Lumbar hacia la Fosa Il&#237;aca o Genital Ipsolateral */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	160 /* Se irradia el Dolor Lumbar hacia el Area Suprap&#250;bica */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	161 /* El Dolor Lumbar dur&#243;: Horas */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	162 /* El Dolor Lumbar dur&#243;: D&#237;as */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	163 /* El Dolor Lumbar dur&#243;: Meses */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	164 /* Padeci&#243; anteriormente de episodios similares (Dolor Lumbar) */
+		C & -1.0 1  118{1,1} [0.01 1.0]
+	165 /* El Dolor Lumbar es sordo, constante */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	166 /* El Dolor Lumbar es intenso, agudo y epis&#243;dico */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	167 /* El Dolor Lumbar se alivia con: Analg&#233;sicos orales o parenteral */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	168 /* El Dolor Lumbar se alivia con: Movi&#233;ndose constantemente */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	169 /* El Dolor Lumbar se alivia con: Reposo sin moverse en cama */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	170 /* Comod&#237;n Antecedentes Personales de Dolor Lumbar V66 */
+		V 66 U
+	171 /* CMBD de Vejiga Neur&#243;gena por Incontinencia Urinaria */
+	172 /* La Mastodinia guarda relaci&#243;n con: Menstruaci&#243;n */
+		C & -1.0 2  119{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	173 /* El Dolor Lumbar se exacerba con los movimientos &#243; con el ejercicio */
+		C & -1.0 1  118{1,1} [0.01 1.0]
+	174 /* El paciente presenta m&#225;s sed de lo habitual */
+		V 71 U
+	175 /* Cu&#225;nto tiempo hace que Orina M&#225;s de lo Habitual: Menos de un mes */
+		C & -1.0 1  161{1,1} [0.001 1.0]
+	176 /* Cu&#225;nto tiempo hace que Orina M&#225;s de lo Habitual: De un mes a tres mese */
+		C & -1.0 1  161{1,1} [0.001 1.0]
+	177 /* Cu&#225;nto tiempo hace que Orina M&#225;s de lo Habitual: Tres meses o m&#225;s */
+		C & -1.0 1  161{1,1} [0.001 1.0]
+	178 /* Cu&#225;nto orina en cada micci&#243;n: Una gran cantidad de orina */
+		C & -1.0 1  161{1,1} [0.001 1.0]
+	179 /* Prefiere bebidas muy fr&#237;as o heladas */
+	180 /* Existen evidencias de Insuficiencia Renal Aguda */
+	181 /* CMBD de Insuficiencia Renal Aguda (Oliguria) */
+	182 /* Durante el d&#237;a ingiere poca cantidad de l&#237;quido (menos de 1 litro) */
+	183 /* Durante el d&#237;a ingiere cantidad normal de l&#237;quido (1-2 litros) */
+	184 /* Comod&#237;n de la var 72 */
+		V 72 U
+	185 /* Intermedio S&#237;ntomas Cr&#243;nicos para Hiperplasia Prost&#225;tica Benigna */
+	186 /* Comod&#237;n de la var 74 */
+		V 74 U
+	187 /* Comod&#237;n de la var 75 */
+		V 75 U
+	188 /* Comod&#237;n de la var 76 */
+		V 76 U
+	189 /* Comod&#237;n de la var 79 */
+		V 79 U
+	190 /* Comod&#237;n de la var 80 */
+		V 80 U
+	191 /* Existen evidencias de Insuficiencia Renal Aguda Prerrenal */
+	192 /* El Aumento de Volumen Testicular se acompa&#241;a de s&#237;ntomas inflamatorios */
+		C & -1.0 1  117{1,1} [0.001 1.0]
+	193 /* Existen evidencias de Prostatitis */
+		C & -1.0 1  6{1,1} [-1.0 -0.01]
+	194 /* CMBD Prostatitis (Disuria) */
+	195 /* Existen evidencias de Retenci&#243;n Urinaria por Litiasis Renoureteral */
+	196 /* CMBD Prostatitis (Polaquiuria) */
+	197 /* Existen evidencias de Hiperplasia Prost&#225;tica Benigna */
+		C & -1.0 1  6{1,1} [-1.0 -0.01]
+	198 /* CMBD HPB (Modificaci&#243;n del Chorro) */
+	199 /* CMBD HPB (Retenci&#243;n Urinaria) */
+	200 /* CMBD HPB (Incontinencia de Orina) */
+	201 /* CMBD HPB (Polaquiuria) */
+	202 /* Intermedio de Hiperplasia Prost&#225;tica Benigna y C&#225;ncer de Pr&#243;stata */
+	203 /* Existen evidencias de Retenci&#243;n Urinaria por Traumatismo */
+	204 /* Existen evidencias de C&#225;ncer de Pr&#243;stata */
+		C & -1.0 1  6{1,1} [-1.0 -0.01]
+	205 /* Existen evidencias de Retenci&#243;n Urinaria Secundaria a F&#225;rmacos */
+	206 /* Existen evidencias de Cistitis Intersticial */
+	207 /* CMBD de Cistitis Intersticial (Disuria) */
+	208 /* CMBD de Cistitis Intersticial por Hematuria */
+	209 /* Intermedio de Disuria &#243; Polaquiuria */
+	210 /* CMBD de Cistitis Intersticial (Polaquiuria) */
+	211 /* Existen evidencias de Epididimitis */
+		C & -1.0 1  6{1,1} [-1.0 -0.01]
+	212 /* CMBD de Epidimitis (Dolor Testicular) */
+	213 /* CMBD de Epidimitis (Aumento de Volumen Testicular) */
+	214 /* El paciente presenta Hipersensibilidad Testicular */
+		C & -1.0 1  6{1,1} [-1.0 -0.01]
+	215 /* Comodin de la variable 1 */
+		V 1 U
+	216 /* El Dolor Lumbar comenz&#243; en la espalda: Unilateral */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	217 /* El Dolor Lumbar comenz&#243; en la espalda: Bilateral */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	218 /* Existen evidencias de Torsi&#243;n Testicular */
+		C & -1.0 1  6{1,1} [-1.0 -0.01]
+	219 /* CMBD de Torsi&#243;n Testicular (Dolor Testicular) */
+	220 /* Existen evidencias de Tumor Testicular */
+		C & -1.0 1  6{1,1} [-1.0 -0.01]
+	221 /* CMBD de Tumor Testicular (Aumento de Volumen Testicular) */
+	222 /* Existen evidencias de Lesi&#243;n Traum&#225;tica Testicular */
+		C & -1.0 1  6{1,1} [-1.0 -0.01]
+	223 /* CMBD de Lesi&#243;n Traum&#225;tica Testicular (Dolor Testicular) */
+	224 /* CMBD de Lesi&#243;n Traum&#225;tica Testicular (Aumento de Volumen testicular) */
+	225 /* Existen evidencias de Glomerulonefritis Aguda */
+	226 /* CMBD de Glomerulonefritis Aguda (Hematuria) */
+	227 /* CMBD de Glomerulonefritis Aguda (Edema) */
+	228 /* Manifestaciones Hipertensivas */
+		C & -1.0 4  31{1,1} [-1.0 1.0] 82{1,1} [-1.0 1.0] 162{1,1} [-1.0 1.0] 163{1,1} [-1.0 1.0]
+		F 1 U
+	229 /* Intermedio para Insuficiencia Card&#237;aca y Edema */
+	230 /* CMBD de S&#237;ndrome de Good Posture por Hematuria */
+	231 /* Existen evidencias de S&#237;ndrome de Good Posture */
+	232 /* Existen evidencias de S&#237;ndrome Nefr&#243;tico */
+	233 /* CMBD de S&#237;ndrome Nefr&#243;tico (Edema) */
+	234 /* Existen evidencias de Pielonefritis Aguda */
+	235 /* CMBD de Pielonefritis Aguda (Dolor Lumbar) */
+	236 /* CMBD de Pielonefritis Aguda(Disuria) */
+	237 /* Intermedio 1 para Pielonefritis Aguda */
+	238 /* Intermedio 2 para Pielonefritis Aguda */
+	239 /* Intermedio 3 para Pielonefritis Aguda */
+	240 /* Intermedio 4 para Pielonefritis Aguda */
+	241 /* Existen evidencias de C&#225;ncer Renal */
+	242 /* CMBD de C&#225;ncer Renal (Hematuria) */
+	243 /* CMBD de C&#225;ncer Renal (Dolor abdominal) */
+	244 /* CMBD de Ri&#241;ones Poliqu&#237;sticos por Dolor Lumbar */
+	245 /* Existen evidencias de Ri&#241;ones Poliqu&#237;sticos */
+	246 /* CMBD de Ri&#241;ones Poliqu&#237;sticos (Hematuria) */
+	247 /* Existen evidencias de Absceso Renal */
+	248 /* CMBD de Absceso Renal (Dolor lumbar) */
+	249 /* Intermedio de Hematuria y Disuria */
+	250 /* Hay evidencias de Retenci&#243;n Urinaria Secundaria a C&#225;lculos Vesicales */
+	251 /* Existen evidencias de Uretritis Gonoc&#243;cica */
+		C & -1.0 1  6{1,1} [-1.0 -0.01]
+	252 /* CMBD de Uretritis Gonoc&#243;cica (Uretrorrea) */
+	253 /* Existen evidencias de Vulvovaginitis Gonoc&#243;cica */
+		C & -1.0 1  6{1,1} [0.01 1.0]
+	254 /* CMBD de Vulvovaginitis (Leucorrea) */
+	255 /* C&#225;ncer de Pr&#243;stata Metast&#225;sico */
+		C & -1.0 1  6{1,1} [-1.0 -0.01]
+	256 /* Comod&#237;n de la var 81 */
+		V 81 U
+	257 /* Existen evidencias de Vulvovaginitis por C&#225;ndidas */
+		C & -1.0 1  6{1,1} [0.01 1.0]
+	258 /* CMBD de Vulvovaginitis (C&#225;ndidas por Leucorrea) */
+	259 /* Intermedio 79{2,1} V 73{2,1} V 10{2,1} para Vulvovaginitis por C&#225;ndidas */
+	260 /* Existen evidencias de Vulvovaginitis por Trichomonas */
+		C & -1.0 1  6{1,1} [0.01 1.0]
+	261 /* CMBD de Vulvovaginitis por Trichomonas (Leucorrea) */
+	262 /* Existen evidencias de Vulvovaginitis Bacteriana (Chlamydia, Gandmerella, otras) */
+		C & -1.0 1  6{1,1} [0.01 1.0]
+	263 /* Comod&#237;n de la var 85 */
+		V 85 U
+	264 /* Cu&#225;ntas Reglas le han Faltado: Entre 1 y 2 (Amenorrea) */
+		C & -1.0 2  38{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	265 /* Cu&#225;ntas Reglas le han Faltado: M&#225;s de 3 (Amenorrea) */
+		C & -1.0 2  38{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	266 /* A que edad tuvo la primera regla: Menos de 12 a&#241;os */
+		C & -1.0 1  234{1,1} [0.01 1.0]
+	267 /* A que edad tuvo la primera regla: Entre 12 y 14 a&#241;os */
+		C & -1.0 1  234{1,1} [0.01 1.0]
+	268 /* A que edad tuvo la primera regla: Despu&#233;s de 15 a&#241;os */
+		C & -1.0 1  234{1,1} [0.01 1.0]
+	269 /* Cu&#225;l es el ritmo de su Ciclo Menstrual: Entre 25 y 31 d&#237;as */
+		C & -1.0 1  234{1,1} [0.01 1.0]
+	270 /* Cu&#225;l es el ritmo de su Ciclo Menstrual: Menos de 21 d&#237;as */
+		C & -1.0 1  234{1,1} [0.01 1.0]
+	271 /* Cu&#225;l es el ritmo de su Ciclo Menstrual: M&#225;s de 35 d&#237;as */
+		C & -1.0 1  234{1,1} [0.01 1.0]
+	272 /* Los Bultos en las Mamas se localizan de forma: Bilateral */
+		C & -1.0 2  6{1,1} [0.01 1.0] 189{1,1} [0.001 1.0]
+	273 /* Desde cu&#225;ndo tiene Dolor en las Reglas: Desde la menarqu&#237;a (Dismenorre */
+		C & -1.0 2  225{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	274 /* Desde cu&#225;ndo tiene Dolor en las Reglas: Varios a&#241;os despu&#233;s de la */
+		C & -1.0 2  225{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	275 /* Desde cu&#225;ndo tiene Dolor en las Reglas: Edad madura (Dismenorrea) */
+		C & -1.0 2  225{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	276 /* Sus reglas son regulares y predecibles */
+		C & -1.0 1  234{1,1} [0.01 1.0]
+	277 /* Cu&#225;nto dura su Menstruaci&#243;n: Menos de 2 d&#237;as */
+		C & -1.0 1  234{1,1} [0.01 1.0]
+	278 /* Cu&#225;nto dura su Menstruaci&#243;n: M&#225;s de 6 d&#237;as */
+		C & -1.0 1  234{1,1} [0.01 1.0]
+	279 /* Cu&#225;nto dura su Menstruaci&#243;n: Entre 3 y 5 d&#237;as */
+		C & -1.0 1  234{1,1} [0.01 1.0]
+	280 /* Sangre que pierde en su regla: Excesiva (m&#225;s de 6 compresas por d&#237;a),  */
+		C & -1.0 1  234{1,1} [0.01 1.0]
+	281 /* Sangre que pierde en su regla: Escasa (menos de 2 compresas por d&#237;a), Hipom */
+		C & -1.0 1  234{1,1} [0.01 1.0]
+	282 /* Sangre que pierde en su regla: Normal ( de 2 a 6 compresas por d&#237;a), Eumeno */
+		C & -1.0 1  234{1,1} [0.01 1.0]
+	283 /* El Dolor asociado a la Menstruaci&#243;n es: D&#237;as antes de la regla */
+		C & -1.0 2  225{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	284 /* El Dolor asociado a la Menstruaci&#243;n es: Durante la regla */
+		C & -1.0 2  225{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	285 /* El Dolor asociado a la Menstruaci&#243;n es: Despu&#233;s de la regla */
+		C & -1.0 2  225{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	286 /* Comod&#237;n de la variable 48 */
+		V 48 U
+	287 /* Tiempo que hace que ha notado Problemas Menstruales: 3 meses o menos */
+		C & -1.0 2  77{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	288 /* Tiempo que hace que ha notado Problemas Menstruales: M&#225;s de 3 meses */
+		C & -1.0 2  77{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	289 /* Metrorragias Irregulares entre ciclos menstruaci&#243;n: Despu&#233;s del coito */
+		C & -1.0 2  77{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	290 /* Metrorragias Irregulares entre ciclos menstruales: A mitad de ciclo */
+		C & -1.0 2  77{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	291 /* Metroragias Irregulares entre ciclos menstruales: Unos dias antes del inicio de  */
+		C & -1.0 2  77{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	292 /* Tiene co&#225;gulos de sangre la menstruaci&#243;n */
+		C & -1.0 2  77{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	293 /* La sangre asociada a la Metrorragia es: Rojo brillante */
+		C & -1.0 2  77{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	294 /* La sangre asociada a la Metrorragia es: Oscura */
+		C & -1.0 2  77{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	295 /* Secreci&#243;n de leche por el pez&#243;n */
+		C & -1.0 2  6{1,1} [0.01 1.0] 177{1,1} [0.01 1.0]
+	296 /* Desde cu&#225;ndo tiene Mastodinia: 1 mes o menos */
+		C & -1.0 1  119{1,1} [0.001 1.0]
+	297 /* Desde cu&#225;ndo tiene Mastodinia: M&#225;s de 1 mes */
+		C & -1.0 1  119{1,1} [0.001 1.0]
+	298 /* La Mastodinia es: Unilateral */
+		C & -1.0 1  119{1,1} [0.001 1.0]
+	299 /* La Mastodinia es: Bilateral */
+		C & -1.0 1  119{1,1} [0.001 1.0]
+	300 /* Existen evidencias de Hidrocele */
+	301 /* La Mastodinia aparece: Una semana antes de la regla y desaparece a los 2 o 3 d&# */
+		C & -1.0 2  119{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	302 /* La Mastodinia aparece: Solo d&#237;as antes de la menstruaci&#243;n */
+		C & -1.0 2  119{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	303 /* La Mastodinia aparece: Solo durante la menstruaci&#243;n */
+		C & -1.0 2  119{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	304 /* La Mastodinia guarda relaci&#243;n con: Puerperio */
+		C & -1.0 3  119{1,1} [0.001 1.0] 206{1,1} [-1.0 -0.001] 234{1,1} [0.01 1.0]
+	305 /* La Mastodinia guarda relaci&#243;n con: Embarazo */
+		C & -1.0 2  119{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	306 /* La Mastodinia guarda relaci&#243;n con: Traumatismo */
+		C & -1.0 1  119{1,1} [0.001 1.0]
+	307 /* La Mastodinia guarda relaci&#243;n con: Lesiones de continuidad en el pez&#243;n */
+		C & -1.0 1  119{1,1} [0.001 1.0]
+	308 /* Existen evidencias de Mastitis */
+	309 /* CMBD de Mastitis (Mastodinia) */
+	310 /* CMBD de Hidrocele (Aumento del Volumen Testicular) */
+	311 /* CMBD de Enfermedad Fibroqu&#237;stica (Bultos en las Mamas) */
+	312 /* CMBD de Enfermedad Fibroqu&#237;stica (Mastodinia) */
+	313 /* CMBD de Enfermedad Fibroqu&#237;stica (Galactorrea) */
+	314 /* Existen evidencias de Mastopat&#237;a Fibroqu&#237;stica */
+		C & -1.0 1  6{1,1} [0.01 1.0]
+	315 /* CMBD de Mastopat&#237;a Fibroqu&#237;stica(Bultos en las Mamas) */
+	316 /* CMBD de Vejiga Neur&#243;gena por Retenci&#243;n Urinaria */
+	317 /* Existen evidencias de C&#225;ncer de Mama */
+		C & -1.0 1  6{1,1} [0.01 1.0]
+	318 /* CMBD de C&#225;ncer de mama (Bultos en las Mamas) */
+	319 /* Secresi&#243;n sanguinolenta por el pez&#243;n */
+	320 /* Retracci&#243;n del Pez&#243;n */
+	321 /* CMBD de C&#225;ncer de Mama (Mastodinia) */
+	322 /* Existen evidencias de Embarazo */
+		C & -1.0 1  234{1,1} [0.01 1.0]
+	323 /* CMBD de Embarazo (Amenorrea) */
+	324 /* Existen evidencias de Aborto */
+		C & -1.0 1  234{1,1} [0.01 1.0]
+	325 /* CMBD de Aborto (Metrorragia) */
+	326 /* Existen evidencias de S&#237;ndrome Premenstrual */
+		C & -1.0 1  234{1,1} [0.01 1.0]
+	327 /* CMBD de S&#237;ndrome Premenstrual (Dismenorrea) */
+	328 /* Comod&#237;n de la var 99 */
+		V 70 U
+	329 /* Existen evidencias de Embarazo Ect&#243;pico */
+		C & -1.0 1  6{1,1} [0.001 1.0]
+	330 /* CMBD de Embarazo Ect&#243;pico (Dolor Abdominal) */
+	331 /* Existen evidencias de Varicocele */
+	332 /* CMBD de Embarazo Ect&#243;pico (Metrorragia) */
+	333 /* CMBD de Embarazo (Galactorrea) */
+	334 /* CMBD de Aborto (Dolor Lumbar) */
+	335 /* Existen evidencias de C&#243;lico Renoureteral por Litiasis Renoureteral */
+	336 /* CMBD de C&#243;lico Renoureteral (Dolor Lumbar) */
+	337 /* CMBD de C&#243;lico Renoureteral (Dolor Abdominal) */
+	338 /* CMBD de C&#243;lico Renoureteral (Hematuria) */
+	339 /* Existen evidencias de Litiasis Vesical */
+	340 /* CMBD de Litiasis Vesical (Hematuria) */
+	341 /* CMBD de Litiasis Vesical (Disuria1) */
+	342 /* CMBD de Litiasis Vesical (Disuria2) */
+	343 /* CMBD de Litiasis Vesical (Polaquiuria) */
+	344 /* CMBD de Litiasis Vesical (Modificaci&#243;n del Chorro) */
+	345 /* Existen evidencias de C&#225;ncer de Vejiga */
+	346 /* CMBD de C&#225;ncer de Vejiga (Hematuria) */
+	347 /* CMBD de Varicocele por Aumento de Volumen Testicular */
+	348 /* CMBD de C&#225;ncer de Vejiga (Polaquiuria) */
+	349 /* Existen evidencias de P&#250;rpura de Sch&#38;ouml;nlein - Henoch &#243; P&#250; */
+	350 /* CMBD de P&#250;rpura de Sch&#38;ouml;nlein - Henoch (Hematuria) */
+	351 /* Comod&#237;n de la var 98 */
+		V 55 U
+	352 /* Comod&#237;n de la var 90 */
+		V 90 U
+	353 /* El sangrado actual fue precedido de ausencia de al menos una regla */
+		C & -1.0 2  77{1,1} [0.001 1.0] 234{1,1} [0.01 1.0]
+	354 /* El paciente refiere tener Disuria de 7 a 10 d&#237;as despu&#233;s de la menstru */
+		C & -1.0 2  71{1,1} [0.001 1.0] 234{1,1} [0.001 1.0]
+	355 /* El paciente refiere tener Hematuria de 7 a 10 d&#237;as despu&#233;s de la menst */
+		C & -1.0 2  39{1,1} [0.001 1.0] 234{1,1} [0.001 1.0]
+	356 /* comod&#237;n de la var 99 */
+		V 68 U
+	357 /* comod&#237;n de la var 100 */
+		V 67 U
+	358 /* El paciente refiere tener Polaquiuria de 7 a 10 d&#237;as despu&#233;s de la men */
+		C & -1.0 2  75{1,1} [0.001 1.0] 234{1,1} [0.001 1.0]
+	359 /* comod&#237;n de la var 102 */
+		V 19 U
+	360 /* CMBD de Necrosis Papilar (Hematuria) */
+	361 /* Existen evidencias de Insuficiencia Renal Cr&#243;nica */
+	362 /* CMBD de insuficiencia Renal Cr&#243;nica (Debilidad Muscular) */
+	363 /* CMBD de insuficiencia Renal Cr&#243;nica (Oliguria) */
+	364 /* Intermedio 1 de S&#237;ntomas Acompa&#241;antes para Insuficiencia Renal Cr&#243 */
+	365 /* Intermedio 2 de S&#237;ntomas Acompa&#241;antes para Insuficiencia Renal Cr&#243 */
+	366 /* Intermedio de Antecedentes Patol&#243;gicos Personales para Insuficiencia Renal  */
+	367 /* Intermedio de S&#237;ntomas Acompa&#241;antes para Insuficiencia Renal Cr&#243;n */
+	368 /* Existen evidencias de Pielonefritis Cr&#243;nica */
+	369 /* Existen evidencias de Necrosis Papilar */
+	370 /* CMBD de Necrosis Papilar (Dolor Lumbar) */
+	371 /* Secreci&#243;n Uretral amarilla */
+	372 /* Leucorrea purulenta */
+		C & -1.0 1  76{1,1} [0.001 1.0]
+	373 /* Leucorrea clara */
+		C & -1.0 1  76{1,1} [0.001 1.0]
+	374 /* Existen evidencias de Uretritis no Gonoc&#243;cica */
+		C & -1.0 1  6{1,1} [-1.0 -0.01]
+	375 /* CMBD de Uretritis no Gonoc&#243;cica (Uretrorrea) */
+	376 /* CMBD de Pielonefritis Cr&#243;nica (Dolor Lumbar) */
+	377 /* CMBD de Uretritis no Gonoc&#243;cica (Uretrorrea Clara) */
+	378 /* CMBD de Vulvovaginitis Bacteriana (Leucorrea) */
+	379 /* CMBD de Vulvovaginitis Bacteriana (Leucorrea Clara) */
+	380 /* CMBD de Pielonefritis Cr&#243;nica (Disuria) */
+	381 /* Comod&#237;n de la variable 15 (S&#237;ntomas Acompa&#241;antes de Edema) */
+		C V -1.0 6  5 [0.01 1.0] 6 [0.01 1.0] 7 [0.01 1.0] 10 [0.01 1.0] 12 [0.01 1.0] 167{1,1} [0.01 1.0]
+		V 18 U
+	382 /* Factores desencadenantes del edema en Extremidades Superiores: F&#225;rmacos */
+		C & -1.0 1  11 [0.01 1.0]
+	383 /* Comodin de la variable 102 (Sint&#237;ntomas Acompa&#241;antes en Extremidades d */
+		C & -1.0 1  11 [0.01 1.0]
+		V 13 U
+	384 /* Padre de RPH para lista de edema en Extremidades Inferiores */
+	385 /* CMBD de Absceso Renal por (Dolor Lumbar+(Fiebre &#243; Escalofr&#237;os)) */
+	386 /* CMBD de Absceso Renal por (Dolor Abdominal+(Fiebre &#243; Escalofr&#237;os)) */
+	387 /* CMBD de P&#250;rpura de Sch&#38;ouml;nlein - Henoch por (Hemorragia) */
+	388 /* Existen evidencias de Mioma Uterino */
+		C & -1.0 1  6{1,1} [0.001 1.0]
+	389 /* CMBD de Mioma Uterino por Metrorragia con/sin Dolor Abdominal */
+	390 /* Existen evidencias de Enfermedad Inflamatoria Pelviana Aguda */
+		C & -1.0 1  6{1,1} [0.001 1.0]
+	391 /* Existen evidencias de Enfermedad Inflamatoria Pelviana Cr&#243;nica */
+		C & -1.0 1  6{1,1} [0.001 1.0]
+	392 /* CMBD de Enfermedad Inflamatoria Pelviana Aguda (Dolor Abdominal) */
+	393 /* CMBD de Enfermedad Inflamatoria Pelviana Cr&#243;nica (Dolor Abdominal) */
+	394 /* Existen evidencias de Incontinencia Urinaria por Esfuerzo en la Mujer */
+		C & -1.0 1  6{1,1} [0.001 1.0]
+	395 /* CMBD de la enfermedad &#34;Incontinencia Urinaria por esfuerzo en la Mujer&#34;  */
+	396 /* Existen evidencias de Cervicitis Aguda */
+		C & -1.0 1  6{1,1} [0.001 1.0]
+	397 /* CMBD de &#34;Cervicitis Aguda&#34; por Leucorrea */
+	398 /* Existen evidencias de Cervicitis Cr&#243;nica */
+		C & -1.0 1  6{1,1} [0.001 1.0]
+	399 /* CMBD de &#34;Cervicitis Cr&#243;nica&#34; por Leucorrea */
+	400 /* Existen evidencias de Mola Hidiatiforme */
+		C & -1.0 1  6{1,1} [0.001 1.0]
+	401 /* Elimina ves&#237;culas por la vagina */
+		C & -1.0 1  6{1,1} [0.001 1.0]
+	402 /* El Dolor Lumbar se irradia hacia la cara posterior o lateral del muslo o pierna */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	403 /* El Dolor Lumbar se exacerba con la Tos o Estornudo */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	404 /* El Dolor Lumbar se localiza en el raquis */
+		C & -1.0 1  118{1,1} [0.001 1.0]
+	405 /* El paciente refiere presentar Priapismo y Eyaculaci&#243;n Espont&#225;nea */
+	406 /* CMBD de P&#250;rpura de Sch&#38;ouml;nlein - Henoch (Artritis) */
+//  REGLAS
+	101 V 102 V 36  => 192 1.0;
+	75{1,1} V 71{1,1}  => 209 1.0;
+	9{1,1} V 12{1,1}  => 237 1.0;
+	455{2,1} V 475{2,1}  => 238 1.0;
+	9{1,1} V 106{1,1} V 107{1,1}  => 239 1.0;
+	30 V 75{1,1}  => 240 1.0;
+	39{1,1} V 71{1,1}  => 249 1.0;
+	28{1,1} & -167{1,1}  => 384 1.0;
+	-28{1,1} V 167{1,1}  => 384 -1.0;
+	34  => 35 1.0;
+	-34  => 35 -1.0;
+	71{1,1} V 75{1,1} V 118{1,1}  => 193 0.001;
+	71{1,1} & 69  => 194 1.0;
+	194  => 193 0.4;
+	194 & 60  => 193 0.45;
+	194 & 65  => 193 0.5;
+	194 & 67  => 193 0.5;
+	194 & 40{1,1}  => 193 0.5;
+	194 & 73{1,1}  => 193 0.45;
+	194 & 75{1,1}  => 193 0.5;
+	75{1,1} & 233{1,1}  => 196 1.0;
+	196  => 193 0.4;
+	488{2,1} V 475{2,1} V 640{2,1} V 470{2,1}  => 193 0.1;
+		C V 0.0 2  194 [0.001 1.0] 196 [0.001 1.0]
+	58{1,1}  => 193 0.1;
+		C V 0.0 2  194 [0.001 1.0] 196 [0.001 1.0]
+	-58{1,1}  => 193 -0.3;
+		C V 0.0 2  194 [0.001 1.0] 196 [0.001 1.0]
+	151 & 217  => 193 0.1;
+		C V 0.0 2  194 [0.001 1.0] 196 [0.001 1.0]
+	44{1,1}  => 193 0.05;
+		C V 0.0 2  194 [0.001 1.0] 196 [0.001 1.0]
+	146{1,1} V 30  => 193 0.05;
+		C V 0.0 2  194 [0.001 1.0] 196 [0.001 1.0]
+	134{1,1} V 146{1,1} V 160{1,1} V 75{1,1} V 71{1,1}  => 197 0.001;
+	202  => 197 1.0;
+	42{1,1}  => 197 -0.2;
+		C V 0.0 5  31 [0.001 1.0] 198 [0.001 1.0] 199 [0.001 1.0] 200 [0.001 1.0] 201 [0.001 1.0]
+	58{1,1}  => 197 -0.2;
+	134{1,1} & (80 V 83 ) => 198 1.0;
+	198  => 202 0.4;
+	198 & 79  => 202 0.45;
+	198 & 71{1,1}  => 202 0.45;
+	198 & 75{1,1}  => 202 0.5;
+	198 & 30  => 202 0.5;
+	146{1,1} & 67  => 199 1.0;
+	199  => 202 0.4;
+	199 & 30  => 202 0.45;
+	199 & 134{1,1}  => 202 0.45;
+	199 & 71{1,1}  => 202 0.45;
+	199 & 75{1,1}  => 202 0.45;
+	52{2,1} V 51{2,1} V 50{2,1}  => 202 -0.1;
+		C V 0.0 2  198 [0.001 1.0] 199 [0.001 1.0]
+	160{1,1} & (146 V 145 ) => 200 1.0;
+	200  => 202 0.4;
+	200 & (30 V 75{1,1} V 71{1,1} V 134{1,1} ) => 202 0.45;
+	56{2,1}  => 202 -0.1;
+		C V 0.0 1  200 [0.001 1.0]
+	470{2,1}  => 202 -0.2;
+		C V 0.0 1  200 [0.001 1.0]
+	75{1,1} & 87  => 201 1.0;
+	201  => 202 0.4;
+	201 & 91  => 202 0.5;
+	201 & 134{1,1}  => 202 0.5;
+	201 & 71{1,1}  => 202 0.45;
+	201 & 146{1,1}  => 202 0.5;
+	201 & 160{1,1}  => 202 0.5;
+	84 V 85  => 202 -0.1;
+		C V 0.0 1  201 [0.001 1.0]
+	45  => 202 -0.1;
+		C V 0.0 1  201 [0.001 1.0]
+	71{1,1} & 58 & (134{1,1} V 30 V 146{1,1} ) => 31 1.0;
+	31  => 202 0.4;
+	31 & 58  => 202 0.45;
+	31 & 60  => 202 0.45;
+	31 & 61  => 202 0.45;
+	31 & 67  => 202 0.45;
+	31 & 30  => 202 0.5;
+	31 & 160{1,1}  => 202 0.5;
+	5{1,1}  => 202 -0.2;
+		C V 0.0 5  31 [0.001 1.0] 198 [0.001 1.0] 199 [0.001 1.0] 200 [0.001 1.0] 201 [0.001 1.0]
+	56 V 57  => 202 -0.1;
+		C V 0.0 5  31 [0.001 1.0] 198 [0.001 1.0] 199 [0.001 1.0] 200 [0.001 1.0] 201 [0.001 1.0]
+	59  => 202 -0.1;
+		C V 0.0 5  31 [0.001 1.0] 198 [0.001 1.0] 199 [0.001 1.0] 200 [0.001 1.0] 201 [0.001 1.0]
+	65 V 39{1,1}  => 202 -0.05;
+		C V 0.0 5  31 [0.001 1.0] 198 [0.001 1.0] 199 [0.001 1.0] 200 [0.001 1.0] 201 [0.001 1.0]
+	68  => 202 -0.05;
+		C V 0.0 5  31 [0.001 1.0] 198 [0.001 1.0] 199 [0.001 1.0] 200 [0.001 1.0] 201 [0.001 1.0]
+	69{1,1}  => 202 -0.1;
+		C V 0.0 5  31 [0.001 1.0] 198 [0.001 1.0] 199 [0.001 1.0] 200 [0.001 1.0] 201 [0.001 1.0]
+	116{1,1}  => 202 -0.05;
+		C V 0.0 5  31 [0.001 1.0] 198 [0.001 1.0] 199 [0.001 1.0] 200 [0.001 1.0] 201 [0.001 1.0]
+	30  => 202 0.1;
+	471{2,1} V 511{2,1}  => 202 0.1;
+		C V 0.0 5  31 [0.001 1.0] 198 [0.001 1.0] 199 [0.001 1.0] 200 [0.001 1.0] 201 [0.001 1.0]
+	(198 & 79 )V (200 & 144 )V (199 & 124 )V (201 & 87 ) => 185 1.0;
+	(-198 V -79 )& (-200 V -144 )& (-199 V -124 )& (-201 V -87 ) => 185 -1.0;
+	185  => 202 0.1;
+	134{1,1} V 146{1,1} V 160{1,1} V 75{1,1} V 71{1,1}  => 204 0.001;
+	202  => 204 1.0;
+	42{1,1}  => 204 0.1;
+		C V 0.0 5  31 [0.001 1.0] 198 [0.001 1.0] 199 [0.001 1.0] 200 [0.001 1.0] 201 [0.001 1.0]
+	647{2,1}  => 204 0.05;
+		C V 0.0 5  31 [0.001 1.0] 198 [0.001 1.0] 199 [0.001 1.0] 200 [0.001 1.0] 201 [0.001 1.0]
+	1{2,1} V 2{2,1}  => 204 0.05;
+		C V 0.0 5  31 [0.001 1.0] 198 [0.001 1.0] 199 [0.001 1.0] 200 [0.001 1.0] 201 [0.001 1.0]
+	264{1,1} V 260{1,1}  => 204 0.1;
+		C V 0.0 5  31 [0.001 1.0] 198 [0.001 1.0] 199 [0.001 1.0] 200 [0.001 1.0] 201 [0.001 1.0]
+	39{1,1}  => 204 0.1;
+		C V 0.0 5  31 [0.001 1.0] 198 [0.001 1.0] 199 [0.001 1.0] 200 [0.001 1.0] 201 [0.001 1.0]
+	97{1,1}  => 204 0.1;
+		C V 0.0 5  31 [0.001 1.0] 198 [0.001 1.0] 199 [0.001 1.0] 200 [0.001 1.0] 201 [0.001 1.0]
+	58{1,1}  => 204 -0.3;
+	134{1,1} V 146{1,1} V 160{1,1} V 75{1,1} V 71{1,1}  => 255 0.001;
+	204 & (111{1,1} V 95{1,1} V 191{1,1} V 22{1,1} ) => 255 0.6;
+	71{1,1} V 39{1,1} V 75{1,1}  => 206 0.001;
+	71{1,1} & (56 V 57 V 70 ) => 207 1.0;
+	207  => 206 0.4;
+	207 & 60  => 206 0.45;
+	207 & (65 V 39{1,1} ) => 206 0.5;
+	207 & 67  => 206 0.5;
+	207 & 75{1,1}  => 206 0.5;
+	75{1,1} & (84 V 85 ) => 210 1.0;
+	207 & 210 & 208  => 206 0.4;
+	210  => 206 0.4;
+	210 & 71{1,1}  => 206 0.5;
+	210 & 39{1,1}  => 206 0.45;
+	30  => 206 0.1;
+		C V 0.0 3  207 [0.001 1.0] 208 [0.001 1.0] 210 [0.001 1.0]
+	45  => 206 -0.05;
+		C V 0.0 3  207 [0.001 1.0] 208 [0.001 1.0] 210 [0.001 1.0]
+	39{1,1} & 112 & (75{1,1} V 71{1,1} ) => 208 1.0;
+	208  => 206 0.4;
+	208 & (118 V 119 ) => 206 0.45;
+	570{2,1}  => 206 -0.2;
+	118{1,1} & 216  => 206 -0.3;
+	116{1,1}  => 206 -0.1;
+		C V 0.0 3  207 [0.001 1.0] 208 [0.001 1.0] 210 [0.001 1.0]
+	69{1,1}  => 206 -0.2;
+	40{1,1}  => 206 -0.05;
+		C V 0.0 3  207 [0.001 1.0] 208 [0.001 1.0] 210 [0.001 1.0]
+	108{1,1} & 109{1,1}  => 206 -0.15;
+		C V 0.0 3  207 [0.001 1.0] 208 [0.001 1.0] 210 [0.001 1.0]
+	6{1,1}  => 206 0.1;
+		C V 0.0 3  207 [0.001 1.0] 208 [0.001 1.0] 210 [0.001 1.0]
+	58{1,1} V 234{1,1}  => 206 0.05;
+		C V 0.0 3  207 [0.001 1.0] 208 [0.001 1.0] 210 [0.001 1.0]
+	354 V 355 V 358  => 206 0.1;
+		C V 0.0 3  207 [0.001 1.0] 208 [0.001 1.0] 210 [0.001 1.0]
+	118{1,1} & 217  => 206 0.05;
+		C V 0.0 3  207 [0.001 1.0] 208 [0.001 1.0] 210 [0.001 1.0]
+	118{1,1} & 217 & 160  => 206 0.05;
+		C V 0.0 3  207 [0.001 1.0] 208 [0.001 1.0] 210 [0.001 1.0]
+	97{2,1} V 43{2,1} V 138{2,1} V 488{2,1}  => 206 0.1;
+		C V 0.0 3  207 [0.001 1.0] 208 [0.001 1.0] 210 [0.001 1.0]
+	116{1,1} V 117{1,1}  => 211 0.001;
+	116{1,1} & (94 V 95 )& 117{1,1}  => 212 1.0;
+	212  => 211 0.4;
+	212 & 96  => 211 0.45;
+	212 & 99  => 211 0.45;
+	212 & 233{1,1}  => 211 0.5;
+	212 & 105  => 211 0.5;
+	214  => 211 0.1;
+		C & 0.0 1  212 [0.001 1.0]
+	97  => 211 -0.1;
+		C & 0.0 1  212 [0.001 1.0]
+	2{1,1}  => 211 -0.05;
+		C & 0.0 1  212 [0.001 1.0]
+	-117{1,1}  => 211 -0.2;
+		C & 0.0 1  116{1,1} [0.01 1.0]
+	-94 & -95  => 211 -0.3;
+		C & 0.0 1  116{1,1} [0.01 1.0]
+	117{1,1} & (108 V 109 )& 116{1,1} & (101 V 102 ) => 213 1.0;
+	213  => 211 0.4;
+	213 & 110  => 211 0.45;
+	213 & 233{1,1}  => 211 0.5;
+	213 & 214  => 211 0.45;
+	192  => 211 0.1;
+		C V 0.0 1  213 [0.001 1.0]
+	-192  => 211 -0.1;
+		C V 0.0 1  213 [0.001 1.0]
+	488{2,1} V 69{1,1}  => 211 0.1;
+		C V 0.0 2  212 [0.001 1.0] 213 [0.001 1.0]
+	447{2,1} V 470{2,1} V 488{2,1} V 446{2,1} V 648{2,1} V 649{2,1}  => 211 0.1;
+		C V 0.0 2  212 [0.001 1.0] 213 [0.001 1.0]
+	75{1,1} V 71{1,1}  => 211 0.1;
+		C & 0.0 2  212 [0.001 1.0] 213 [0.001 1.0]
+	(194 V 196 )& (116{1,1} V 117{1,1} ) => 211 0.1;
+	101 V 102 V 36  => 211 0.1;
+		C V 0.0 2  212 [0.001 1.0] 213 [0.001 1.0]
+	116{1,1}  => 218 0.001;
+	116{1,1} & 95 & 96  => 219 1.0;
+	219  => 218 0.4;
+	219 & 99  => 218 0.5;
+	219 & 104  => 218 0.5;
+	219 & 58{1,1}  => 218 0.45;
+	219 & 214  => 218 0.45;
+	219 & 117{1,1}  => 218 0.45;
+	97  => 218 -0.1;
+		C V 0.0 1  219 [0.001 1.0]
+	446{2,1}  => 218 -0.2;
+		C V 0.0 1  219 [0.001 1.0]
+	488{2,1}  => 218 -0.1;
+		C V 0.0 1  219 [0.001 1.0]
+	101 & 102  => 218 -0.1;
+		C V 0.0 1  219 [0.001 1.0]
+	75{1,1} V 69{1,1} V 71{1,1}  => 218 -0.2;
+		C V 0.0 1  219 [0.001 1.0]
+	43{1,1}  => 218 -0.1;
+		C V 0.0 1  219 [0.001 1.0]
+	45{1,1}  => 218 0.05;
+		C V 0.0 1  219 [0.001 1.0]
+	9{1,1}  => 218 0.05;
+		C V 0.0 1  219 [0.001 1.0]
+	-58{1,1}  => 218 -0.1;
+		C V 0.0 1  219 [0.001 1.0]
+	219 & 450{2,1}  => 218 0.5;
+	219 & 36  => 218 0.45;
+	117{1,1} V 116{1,1}  => 220 0.001;
+	117{1,1} & (108 V 107 )& 111  => 221 1.0;
+	221  => 220 0.4;
+	221 & -116{1,1}  => 220 0.55;
+	192  => 220 -0.2;
+		C V 0.0 1  221 [0.001 1.0]
+	116{1,1} & (93 V 94 )& 96 & 36  => 46 1.0;
+	46  => 220 0.4;
+	46 & 117{1,1}  => 220 0.5;
+	97  => 220 -0.2;
+		C V 0.0 1  46 [0.001 1.0]
+	101 & 102  => 220 -0.05;
+		C V 0.0 1  46 [0.001 1.0]
+	450{2,1}  => 220 0.05;
+		C V 0.0 2  46 [0.001 1.0] 221 [0.001 1.0]
+	171{1,1} V 58{1,1}  => 220 0.05;
+		C V 0.0 2  46 [0.001 1.0] 221 [0.001 1.0]
+	42{1,1}  => 220 0.1;
+		C V 0.0 2  46 [0.001 1.0] 221 [0.001 1.0]
+	446{2,1}  => 220 -0.1;
+		C V 0.0 2  46 [0.001 1.0] 221 [0.001 1.0]
+	75{1,1} V 71{1,1}  => 220 -0.05;
+		C V 0.0 2  46 [0.001 1.0] 221 [0.001 1.0]
+	116{1,1} V 117{1,1}  => 222 0.001;
+	116{1,1} & 446{2,1}  => 223 1.0;
+	223  => 222 0.4;
+	223 & 94  => 222 0.55;
+	223 & 99  => 222 0.6;
+	223 & 117{1,1}  => 222 0.6;
+	223 & 117{1,1} & 101 & 102  => 222 0.65;
+	223 & 214  => 222 0.55;
+	95  => 222 0.05;
+		C V 0.0 1  223 [0.001 1.0]
+	117{1,1} & 446{2,1} & 110  => 224 1.0;
+	224  => 222 0.4;
+	224 & 116{1,1}  => 222 0.55;
+	224 & 116{1,1} & 101 & 102  => 222 0.6;
+	224 & 9{1,1}  => 222 0.55;
+	224 & 214  => 222 0.55;
+	-446{2,1}  => 222 -0.2;
+		C V 0.0 2  223 [0.001 1.0] 224 [0.001 1.0]
+	40{1,1} V 73{1,1}  => 222 -0.1;
+		C V 0.0 2  223 [0.001 1.0] 224 [0.001 1.0]
+	36{1,1} V 39{1,1}  => 225 0.001;
+	39{1,1} & 58{1,1} & 116  => 226 1.0;
+	226  => 225 0.4;
+	226 & 119  => 225 0.45;
+	226 & -121  => 225 0.45;
+	226 & 228  => 225 0.5;
+	36{1,1} V 358{2,1}  => 229 1.0;
+	226 & 229  => 225 0.55;
+	226 & 112  => 225 0.5;
+	113  => 225 -0.05;
+		C & 0.0 1  226 [0.001 1.0]
+	36{1,1} & 58{1,1} & 2 & 39{1,1}  => 227 1.0;
+	227  => 225 0.4;
+	227 & 10  => 225 0.45;
+	227 & 28{1,1} & 12  => 225 0.45;
+	227 & 15  => 225 0.45;
+	227 & 16  => 225 0.45;
+	227 & 27  => 225 0.45;
+	227 & 139{2,1}  => 225 0.45;
+	227 & 228  => 225 0.5;
+	227 & 358{2,1}  => 225 0.5;
+	226 V 227  => 43 1.0;
+	-226 & -227  => 43 -1.0;
+	43 & (47{1,1} V 42{1,1} ) => 225 0.1;
+	43 & (116 V 31{1,1} V 162{1,1} V 163{1,1} V 82{1,1} ) => 225 0.1;
+	43 & (209{2,1} V 213{2,1} V 634{2,1} V 412{2,1} ) => 225 0.1;
+	118{1,1} V 71{1,1} V 116{1,1} V 126 V 570{2,1}  => 225 -0.1;
+		C V 0.0 2  226 [0.001 1.0] 227 [0.001 1.0]
+	66  => 225 0.1;
+	36{1,1} V 39{1,1}  => 88 0.001;
+	131 V 132 V 133 V 134 V 135 V 136  => 66 1.0;
+	-131 & -132 & -133 & -134 & -135 & -136  => 66 -1.0;
+	225  => 88 1.0;
+		C & -0.7 2  66 [0.001 1.0] 225 [0.4 1.0]
+	39{1,1}  => 231 0.001;
+	39{1,1} & 119 & 24{1,1}  => 230 1.0;
+	230  => 231 0.4;
+	230 & (42{1,1} V 47{1,1} ) => 231 0.45;
+	230 & 31{1,1}  => 231 0.45;
+	230 & 128  => 231 0.45;
+	-6{1,1} & 58{1,1}  => 231 0.05;
+		C & 0.0 1  230 [0.001 1.0]
+	118{1,1} V 71{1,1} V 116{1,1}  => 231 -0.1;
+		C & 0.0 1  230 [0.001 1.0]
+	126  => 231 -0.1;
+		C & 0.0 1  230 [0.001 1.0]
+	570{2,1}  => 231 -0.1;
+		C & 0.0 1  230 [0.001 1.0]
+	24{1,1}  => 231 0.2;
+		C & 0.0 1  225 [0.5 1.0]
+	39{1,1} V 96{1,1}  => 349 0.001;
+	39{1,1} & 58{1,1} & (214{1,1} V 285{1,1} V 278{1,1} ) => 350 1.0;
+	350  => 349 0.4;
+	96{1,1} & 23{7,1} & (91{7,1} V 93{7,1} )& 22{7,1} & 58{1,1}  => 387 1.0;
+	387  => 349 0.4;
+	230{6,1} & 20{1,1} & (214{1,1} V 285{1,1} V 278{1,1} V 105{1,1} ) => 406 1.0;
+	406  => 349 0.4;
+	113  => 349 -0.2;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	570{2,1}  => 349 -0.2;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	126 V 127  => 349 -0.1;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	75{1,1} V 118{1,1} V 71{1,1}  => 349 -0.1;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	67{6,1}  => 349 -0.1;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	50{1,1} V 230{6,1}  => 349 0.05;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	158{4,1}  => 349 0.05;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	152{4,1}  => 349 0.05;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	9{1,1}  => 349 0.05;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	10{1,1} V 14{1,1}  => 349 0.05;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	97{1,1}  => 349 0.05;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	18{1,1}  => 349 0.05;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	31{1,1}  => 349 0.05;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	106{1,1}  => 349 0.05;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	107{1,1}  => 349 0.05;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	80{1,1}  => 349 0.05;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	93{2,1}  => 349 0.1;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	-67{6,1}  => 349 0.05;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	119  => 349 0.05;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	40{1,1} V 50{1,1} V 10{1,1} V 20{1,1}  => 349 0.05;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	18{1,1} V 39{1,1}  => 349 0.05;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	506{2,1} V 150{2,1}  => 349 0.1;
+		C V 0.0 3  350 [0.001 1.0] 387 [0.001 1.0] 406 [0.001 1.0]
+	36{1,1}  => 232 0.001;
+	36{1,1} & 58{1,1}  => 233 1.0;
+	233  => 232 0.4;
+	233 & 228  => 232 0.5;
+	233 & 2  => 232 0.45;
+	233 & 5  => 232 0.5;
+	233 & 27  => 232 0.45;
+	233 & 29  => 232 0.5;
+	233 & 139{2,1}  => 232 0.45;
+	233 & 118{1,1}  => 232 0.45;
+	233 & 70{1,1}  => 232 0.5;
+	9{1,1} V 106{1,1} V 73{1,1} V 107{1,1} V 22{1,1}  => 232 0.05;
+		C & 0.0 1  233 [0.001 1.0]
+	39{1,1}  => 232 -0.2;
+		C & 0.0 1  233 [0.001 1.0]
+	13 V 38  => 232 -0.4;
+	66{8,1} V 67{8,1} V 68{8,1} V 69{8,1}  => 232 -0.1;
+		C & 0.0 1  233 [0.001 1.0]
+	80{8,1} V 193{8,1}  => 232 -0.1;
+		C & 0.0 2  28{1,1} [0.001 1.0] 233 [0.001 1.0]
+	22 V 23 V 24 V 26 V 382  => 232 -0.1;
+		C & 0.0 1  233 [0.001 1.0]
+	269{8,1} V 271{8,1}  => 232 -0.1;
+		C & 0.0 2  11 [0.001 1.0] 233 [0.001 1.0]
+	233 & (358{2,1} V 372{2,1} V 173{2,1} V 321{2,1} V 643{2,1} V 400{2,1} V 645{2,1} V 231{2,1} V 646{2,1} V 642{2,1} V 428{2,1} V 498{2,1} V 605{2,1} V 15{2,1} V 641{2,1} V 644{2,1} V 209{2,1} V 331{2,1} V 210{2,1} ) => 232 0.1;
+		C & 0.0 1  233 [0.001 1.0]
+	233 & (306{2,1} V 489{2,1} V 376{2,1} V 487{2,1} V 518{2,1} V 310{2,1} ) => 232 0.1;
+		C & 0.0 1  233 [0.001 1.0]
+	118{1,1} V 71{1,1}  => 234 0.001;
+	118{1,1} & 151 & 233{1,1}  => 235 1.0;
+	235  => 234 0.4;
+	235 & (216 V 217 ) => 234 0.45;
+	235 & 154  => 234 0.45;
+	235 & 160  => 234 0.45;
+	235 & 164  => 234 0.5;
+	235 & 165  => 234 0.45;
+	235 & 169  => 234 0.45;
+	235 & 65  => 234 0.45;
+	235 & 209  => 234 0.5;
+	235 & 237  => 234 0.45;
+	235 & 71{1,1}  => 234 0.5;
+	235 & 239  => 234 0.45;
+	163  => 234 -0.5;
+	173  => 234 -0.3;
+	475{2,1}  => 234 0.1;
+	77{1,1} V 76{1,1}  => 234 -0.1;
+		C V 0.0 2  235 [0.001 1.0] 236 [0.001 1.0]
+	71{1,1} & (56 V 57 V 70 )& 233{1,1}  => 236 1.0;
+	236  => 234 0.4;
+	236 & 60  => 234 0.45;
+	236 & 63  => 234 0.45;
+	236 & 65  => 234 0.5;
+	236 & 67  => 234 0.45;
+	236 & 240  => 234 0.5;
+	236 & 239  => 234 0.45;
+	236 & 75{1,1}  => 234 0.5;
+	236 & 118{1,1}  => 234 0.5;
+	-118{1,1}  => 234 -0.4;
+	6{1,1}  => 234 0.05;
+		C V 0.0 2  235 [0.001 1.0] 236 [0.001 1.0]
+	97{2,1} V 43{2,1} V 138{2,1} V 488{2,1} V 635{2,1} V 449{2,1} V 636{2,1}  => 234 0.1;
+		C V 0.0 2  235 [0.001 1.0] 236 [0.001 1.0]
+	10{1,1}  => 234 0.05;
+		C V 0.0 2  235 [0.001 1.0] 236 [0.001 1.0]
+	65{1,1}  => 234 0.05;
+		C V 0.0 2  235 [0.001 1.0] 236 [0.001 1.0]
+	31{1,1}  => 234 0.05;
+		C V 0.0 2  235 [0.001 1.0] 236 [0.001 1.0]
+	238 V 573{2,1}  => 234 0.1;
+		C V 0.0 2  235 [0.001 1.0] 236 [0.001 1.0]
+	118{1,1} V 71{1,1}  => 368 0.001;
+	118{1,1} & 152 & 233{1,1}  => 376 1.0;
+	376  => 368 0.4;
+	376 & (216 V 217 ) => 368 0.45;
+	376 & 154  => 368 0.45;
+	376 & 160  => 368 0.45;
+	376 & 164  => 368 0.5;
+	376 & 165  => 368 0.45;
+	376 & 169  => 368 0.45;
+	376 & 65  => 368 0.45;
+	376 & 209  => 368 0.5;
+	376 & 237  => 368 0.45;
+	376 & 71{1,1}  => 368 0.5;
+	376 & 239  => 368 0.45;
+	163  => 368 -0.5;
+	173  => 368 -0.3;
+	475{2,1}  => 368 0.1;
+	71{1,1} & 58 & 233{1,1}  => 380 1.0;
+	380  => 368 0.4;
+	380 & 60  => 368 0.45;
+	380 & 63  => 368 0.45;
+	380 & 65  => 368 0.5;
+	380 & 67  => 368 0.45;
+	380 & 240  => 368 0.5;
+	380 & 239  => 368 0.45;
+	380 & 75{1,1}  => 368 0.5;
+	380 & 118{1,1}  => 368 0.5;
+	-118{1,1}  => 368 -0.4;
+	6{1,1}  => 368 0.05;
+		C V 0.0 2  376 [0.001 1.0] 380 [0.001 1.0]
+	97{2,1} V 43{2,1} V 138{2,1} V 488{2,1} V 635{2,1} V 449{2,1} V 636{2,1}  => 368 0.1;
+		C V 0.0 2  376 [0.001 1.0] 380 [0.001 1.0]
+	10{1,1}  => 368 0.05;
+		C V 0.0 2  376 [0.001 1.0] 380 [0.001 1.0]
+	65{1,1}  => 368 0.05;
+		C V 0.0 2  376 [0.001 1.0] 380 [0.001 1.0]
+	31{1,1}  => 368 0.05;
+		C V 0.0 2  376 [0.001 1.0] 380 [0.001 1.0]
+	238 V 573{2,1}  => 368 0.1;
+		C V 0.0 2  376 [0.001 1.0] 380 [0.001 1.0]
+	475{2,1} & (58 V 65 ) => 368 0.4;
+	77{1,1} V 76{1,1}  => 368 -0.1;
+		C V 0.0 2  376 [0.001 1.0] 380 [0.001 1.0]
+	39{1,1} V 20{1,1} V 118{1,1}  => 241 0.001;
+	39{1,1} & (20{1,1} V 228 V 118{1,1} ) => 242 1.0;
+	242  => 241 0.4;
+	242 & 113  => 241 0.45;
+	242 & 114  => 241 0.45;
+	242 & 116  => 241 0.45;
+	242 & 119  => 241 0.45;
+	242 & -121  => 241 0.45;
+	242 & 42{1,1}  => 241 0.5;
+	242 & 40{1,1}  => 241 0.45;
+	20{1,1} & 39{1,1} & (159{4,1} V 160{4,1} ) => 243 1.0;
+	243  => 241 0.4;
+	243 & 42{1,1}  => 241 0.5;
+	243 & 151{4,1}  => 241 0.45;
+	243 & 40{1,1}  => 241 0.45;
+	-58{1,1}  => 241 0.1;
+		C V 0.0 2  242 [0.001 1.0] 243 [0.001 1.0]
+	58{1,1}  => 241 -0.2;
+		C V 0.0 2  242 [0.001 1.0] 243 [0.001 1.0]
+	345{2,1}  => 241 0.1;
+		C V 0.0 2  242 [0.001 1.0] 243 [0.001 1.0]
+	-6{1,1}  => 241 0.05;
+		C V 0.0 2  242 [0.001 1.0] 243 [0.001 1.0]
+	1{2,1}  => 241 0.1;
+		C V 0.0 2  242 [0.001 1.0] 243 [0.001 1.0]
+	653{2,1}  => 241 0.05;
+		C V 0.0 2  242 [0.001 1.0] 243 [0.001 1.0]
+	97{1,1}  => 241 0.05;
+		C V 0.0 2  242 [0.001 1.0] 243 [0.001 1.0]
+	154  => 241 0.05;
+		C & 0.0 2  39{1,1} [0.001 1.0] 118{1,1} [0.001 1.0]
+	216  => 241 0.05;
+		C & 0.0 2  39{1,1} [0.001 1.0] 118{1,1} [0.001 1.0]
+	165  => 241 0.05;
+		C & 0.0 2  39{1,1} [0.001 1.0] 118{1,1} [0.001 1.0]
+	116  => 241 0.05;
+		C & 0.0 2  39{1,1} [0.001 1.0] 118{1,1} [0.001 1.0]
+	20{1,1} V 31{1,1} V 162{1,1} V 163{1,1} V 82{1,1}  => 241 0.1;
+		C & 0.0 2  39{1,1} [0.001 1.0] 118{1,1} [0.001 1.0]
+	-118{1,1} V -39{1,1}  => 241 -0.1;
+		C V 0.0 2  242 [0.001 1.0] 243 [0.001 1.0]
+	39{1,1} V 118{1,1}  => 245 0.001;
+	39{1,1} & 116  => 246 1.0;
+	246  => 245 0.4;
+	246 & 113  => 245 0.45;
+	246 & 119  => 245 0.45;
+	246 & -121  => 245 0.45;
+	246 & 451{2,1}  => 245 0.5;
+	246 & 448{2,1}  => 245 0.45;
+	246 & -58{1,1}  => 245 0.5;
+	20{1,1}  => 245 0.05;
+		C & 0.0 1  246 [0.001 1.0]
+	118{1,1}  => 245 0.05;
+		C & 0.0 1  246 [0.001 1.0]
+	569{2,1}  => 245 0.05;
+		C & 0.0 1  246 [0.001 1.0]
+	475{2,1}  => 245 0.05;
+		C & 0.0 1  246 [0.001 1.0]
+	121  => 245 -0.1;
+		C & 0.0 1  246 [0.001 1.0]
+	118{1,1} & 152 & 154 & 165 & (39{1,1} V 65 )& (569{2,1} V 475{2,1} ) => 244 1.0;
+	244  => 245 0.4;
+	244 & (162 V 163 ) => 245 0.45;
+	244 & 164  => 245 0.45;
+	244 & 39{1,1}  => 245 0.45;
+	345{2,1}  => 245 0.1;
+		C V 0.0 2  244 [0.001 1.0] 246 [0.001 1.0]
+	31{1,1} V 162{1,1} V 163{1,1} V 82{1,1}  => 245 0.1;
+		C V 0.0 2  244 [0.001 1.0] 246 [0.001 1.0]
+	458{2,1}  => 245 0.6;
+		C V 0.0 2  244 [0.001 1.0] 246 [0.001 1.0]
+	-458{2,1} V -345{2,1}  => 245 -0.1;
+		C V 0.0 2  244 [0.001 1.0] 246 [0.001 1.0]
+	20{1,1} & 134{4,1} & (159{4,1} V 160{4,1} ) => 245 0.4;
+		C V 0.0 2  244 [0.001 1.0] 246 [0.001 1.0]
+	455{2,1} V 573{2,1} V 470{2,1}  => 245 0.05;
+		C V 0.0 2  244 [0.001 1.0] 246 [0.001 1.0]
+	58{1,1}  => 245 -0.05;
+		C V 0.0 2  244 [0.001 1.0] 246 [0.001 1.0]
+	36{1,1}  => 245 -0.05;
+		C V 0.0 2  244 [0.001 1.0] 246 [0.001 1.0]
+	118{1,1} V 20{1,1}  => 247 0.001;
+	118{1,1} & 151 & 154 & 216 & 43{1,1} & 162 & 165 & (39{1,1} V 65 V 71{1,1} V 75{1,1} ) => 248 1.0;
+	151 & 216 & 40{1,1} & 73{1,1}  => 385 1.0;
+	385  => 247 0.4;
+	(159{4,1} V 160{4,1} )& 40{1,1} & 73{1,1}  => 386 1.0;
+	386  => 247 0.4;
+	248  => 247 0.4;
+	455{2,1} V 573{2,1} V 470{2,1} V 475{2,1}  => 247 0.05;
+		C V 0.0 3  248 [0.001 1.0] 385 [0.001 1.0] 386 [0.001 1.0]
+	237  => 247 0.05;
+		C V 0.0 3  248 [0.001 1.0] 385 [0.001 1.0] 386 [0.001 1.0]
+	40{1,1}  => 247 0.05;
+		C V 0.0 3  248 [0.001 1.0] 385 [0.001 1.0] 386 [0.001 1.0]
+	97{2,1} V 655{2,1} V 454{2,1} V 569{2,1} V 656{2,1}  => 247 0.1;
+		C V 0.0 3  248 [0.001 1.0] 385 [0.001 1.0] 386 [0.001 1.0]
+	-6{1,1}  => 247 0.05;
+		C V 0.0 3  248 [0.001 1.0] 385 [0.001 1.0] 386 [0.001 1.0]
+	58{1,1}  => 247 0.05;
+		C V 0.0 3  248 [0.001 1.0] 385 [0.001 1.0] 386 [0.001 1.0]
+	42{1,1}  => 247 0.05;
+		C V 0.0 3  248 [0.001 1.0] 385 [0.001 1.0] 386 [0.001 1.0]
+	173  => 247 -0.2;
+	217  => 247 -0.2;
+	11{1,1}  => 247 -0.3;
+	69{1,1}  => 251 0.001;
+	69{1,1} & (52 V 53 V 371 ) => 252 1.0;
+	252  => 251 0.4;
+	252 & 55  => 251 0.5;
+	252 & 50{1,1}  => 251 0.5;
+	252 & 118{1,1}  => 251 0.45;
+	252 & 71{1,1}  => 251 0.5;
+	252 & (855{2,1} V 63{2,1} V 858{2,1} V 856{2,1} V 857{2,1} V 59{2,1} V 859{2,1} V 860{2,1} V 720{2,1} V 925{2,1} ) => 251 0.55;
+	252 & 68  => 251 0.45;
+	252 & (193 V 211 ) => 251 0.5;
+	76{1,1}  => 253 0.001;
+	76{1,1} & (74 V 372 ) => 254 1.0;
+	254  => 253 0.4;
+	254 & 55  => 253 0.5;
+	254 & 118{1,1}  => 253 0.45;
+	254 & 71{1,1}  => 253 0.5;
+	254 & 172{1,1}  => 253 0.5;
+	254 & 50{1,1}  => 253 0.45;
+	254 & 61  => 253 0.45;
+	254 & 58{1,1}  => 253 0.45;
+	254 & 63{2,1}  => 253 0.45;
+	254 & (75{1,1} V 30 ) => 253 0.45;
+	76{1,1}  => 257 0.001;
+	76{1,1} & 73  => 258 1.0;
+	258  => 257 0.4;
+	258 & 71{1,1}  => 257 0.45;
+	258 & 235{1,1}  => 257 0.5;
+	258 & 97{2,1}  => 257 0.5;
+	258 & 43{2,1}  => 257 0.45;
+	79{2,1} V 73{2,1} V 10{2,1}  => 259 1.0;
+	258 & 259  => 257 0.5;
+	75  => 257 -0.05;
+		C V 0.0 1  258 [0.001 1.0]
+	76{1,1}  => 260 0.001;
+	76{1,1} & (75 V 74 ) => 261 1.0;
+	261  => 260 0.4;
+	261 & 54  => 260 0.5;
+	261 & 71{1,1}  => 260 0.5;
+	261 & 172{1,1}  => 260 0.45;
+	261 & 74  => 260 0.5;
+	235{1,1}  => 260 -0.05;
+		C V 0.0 1  261 [0.001 1.0]
+	261 & 633{2,1}  => 260 0.05;
+	76{1,1}  => 262 0.001;
+	76{1,1} & (372 V 74 V 75 ) => 378 1.0;
+	76{1,1} & 373  => 379 1.0;
+	379 V 378  => 262 0.4;
+	54  => 262 0.1;
+		C V 0.0 2  378 [0.001 1.0] 379 [0.001 1.0]
+	71{1,1}  => 262 0.05;
+		C V 0.0 2  378 [0.001 1.0] 379 [0.001 1.0]
+	172{1,1}  => 262 0.05;
+		C V 0.0 2  378 [0.001 1.0] 379 [0.001 1.0]
+	235{1,1}  => 262 -0.05;
+		C V 0.0 2  378 [0.001 1.0] 379 [0.001 1.0]
+	58{1,1}  => 262 0.05;
+		C V 0.0 2  378 [0.001 1.0] 379 [0.001 1.0]
+	632{2,1} V 181{2,1}  => 262 0.05;
+		C V 0.0 2  378 [0.001 1.0] 379 [0.001 1.0]
+	63{2,1}  => 262 -0.05;
+		C V 0.0 2  378 [0.001 1.0] 379 [0.001 1.0]
+	633{2,1}  => 262 0.1;
+		C V 0.0 2  378 [0.001 1.0] 379 [0.001 1.0]
+	69{1,1}  => 374 0.001;
+	69{1,1} & (53 V 371 ) => 375 1.0;
+	69{1,1} & 51  => 377 1.0;
+	377 V 375  => 374 0.4;
+	54  => 374 0.15;
+		C V 0.0 2  375 [0.001 1.0] 377 [0.001 1.0]
+	55  => 374 -0.1;
+		C V 0.0 2  375 [0.001 1.0] 377 [0.001 1.0]
+	235{1,1}  => 374 0.05;
+		C V 0.0 2  375 [0.001 1.0] 377 [0.001 1.0]
+	71{1,1}  => 374 0.05;
+		C V 0.0 2  375 [0.001 1.0] 377 [0.001 1.0]
+	68  => 374 -0.05;
+		C V 0.0 2  375 [0.001 1.0] 377 [0.001 1.0]
+	855{2,1} V 63{2,1} V 858{2,1} V 856{2,1} V 857{2,1} V 59{2,1} V 859{2,1} V 860{2,1} V 720{2,1} V 925{2,1}  => 374 -0.1;
+		C V 0.0 2  375 [0.001 1.0] 377 [0.001 1.0]
+	58{1,1}  => 374 0.05;
+		C V 0.0 2  375 [0.001 1.0] 377 [0.001 1.0]
+	119{1,1}  => 308 0.001;
+	119{1,1} & 298 & 231{1,1}  => 309 1.0;
+	309  => 308 0.4;
+	309 & 304  => 308 0.55;
+	309 & 305  => 308 -0.2;
+	309 & 306  => 308 0.5;
+	309 & 307  => 308 0.5;
+	309 & 177{1,1}  => 308 0.5;
+	309 & 40{1,1}  => 308 0.5;
+	297  => 308 -0.3;
+		C & 0.0 1  309 [0.001 1.0]
+	309 & 657{2,1}  => 308 0.45;
+	-231{1,1}  => 308 -0.2;
+	189{1,1} V 119{1,1}  => 314 0.001;
+	189{1,1}  => 315 1.0;
+	315  => 314 0.4;
+	315 & 39  => 314 0.45;
+	315 & 41  => 314 0.5;
+	272  => 314 0.2;
+		C & 0.0 3  21 [0.001 1.0] 119{1,1} [0.001 1.0] 189{1,1} [0.001 1.0]
+	315 & (419{2,1} V 9{2,1} ) => 314 0.5;
+	315 & (535{2,1} V 536{2,1} ) => 314 0.45;
+	119{1,1}  => 21 1.0;
+	21  => 314 0.4;
+	5{1,1}  => 314 -0.2;
+		C & 0.0 3  21 [0.001 1.0] 119{1,1} [0.001 1.0] 189{1,1} [0.001 1.0]
+	299  => 314 0.3;
+		C & 0.0 3  21 [0.001 1.0] 119{1,1} [0.001 1.0] 189{1,1} [0.001 1.0]
+	231{1,1}  => 314 -0.15;
+		C V 0.0 3  21 [0.001 1.0] 119{1,1} [0.001 1.0] 189{1,1} [0.001 1.0]
+	535{2,1}  => 314 -0.2;
+	3{1,1} V 4{1,1}  => 314 0.05;
+		C & 0.0 3  21 [0.001 1.0] 119{1,1} [0.001 1.0] 189{1,1} [0.001 1.0]
+	537{2,1}  => 314 0.05;
+		C & 0.0 3  21 [0.001 1.0] 119{1,1} [0.001 1.0] 189{1,1} [0.001 1.0]
+	304 V 305 V 306 V 307  => 314 -0.3;
+	189{1,1} V 119{1,1}  => 317 0.001;
+	189{1,1}  => 318 1.0;
+	318  => 317 0.3;
+	318 & -58{1,1}  => 317 0.5;
+	318 & 535{2,1}  => 317 0.5;
+	318 & (419{2,1} V 9{2,1} ) => 317 0.4;
+	318 & 320  => 317 0.55;
+	318 & (10{7,1} V 9{7,1} ) => 317 0.55;
+	318 & 77{1,1}  => 317 0.45;
+	318 & 119{1,1}  => 317 0.5;
+	318 & 537{2,1}  => 317 0.45;
+	318 & 66{2,1}  => 317 0.45;
+	318 & 539{2,1}  => 317 -0.1;
+	272  => 317 -0.1;
+		C & 0.0 1  318 [0.001 1.0]
+	319  => 317 0.2;
+		C & 0.0 1  189{1,1} [0.001 1.0]
+	76{2,1}  => 317 0.1;
+		C & 0.0 1  189{1,1} [0.001 1.0]
+	313{2,1}  => 317 0.3;
+		C & 0.0 1  189{1,1} [0.001 1.0]
+	119{1,1} & 298 & -58{1,1}  => 317 0.4;
+	119{1,1} & (320 V 10{7,1} V 9{7,1} ) => 317 0.6;
+	119{1,1} & 66{2,1}  => 317 0.4;
+	119{1,1} & 319  => 317 0.2;
+	119{1,1} & 320  => 317 0.2;
+	119{1,1} & (10{7,1} V 9{7,1} ) => 317 0.1;
+	119{1,1} & 76{2,1}  => 317 0.1;
+	119{1,1} & 313{2,1}  => 317 0.3;
+	119{1,1} & 539{2,1}  => 317 -0.1;
+	119{1,1} & (304 V 305 V 306 V 172 ) => 317 -0.15;
+	119{1,1} & 299  => 317 -0.2;
+	38{1,1} V 117{1,1}  => 322 0.001;
+	38{1,1} & 234{1,1}  => 323 1.0;
+	323  => 322 0.4;
+	323 & 108{1,1}  => 322 0.45;
+	323 & 109{1,1}  => 322 0.45;
+	323 & 113{1,1}  => 322 0.45;
+	323 & 227{1,1}  => 322 0.45;
+	323 & 295  => 322 0.5;
+	323 & 232{1,1}  => 322 0.5;
+	203{2,1} V 10{2,1} V 9{2,1}  => 322 -0.05;
+		C & 0.0 1  323 [0.001 1.0]
+	177{1,1} & 234{1,1} & 38{1,1}  => 333 1.0;
+	333  => 322 0.4;
+	333 & 35{12,1}  => 322 0.45;
+	333 & 9{1,1}  => 322 0.5;
+	333 & (227{1,1} V 113{1,1} ) => 322 0.5;
+	75{1,1}  => 322 0.05;
+		C V 0.0 2  323 [0.001 1.0] 333 [0.001 1.0]
+	12{1,1}  => 322 0.1;
+		C V 0.0 2  323 [0.001 1.0] 333 [0.001 1.0]
+	-234{1,1}  => 322 -0.2;
+	-38{1,1}  => 322 -0.15;
+		C V 0.0 2  323 [0.001 1.0] 333 [0.001 1.0]
+	-227{1,1}  => 322 -0.05;
+		C V 0.0 2  323 [0.001 1.0] 333 [0.001 1.0]
+	43{2,1}  => 322 0.8;
+	38{1,1} V 77{1,1} V 20{1,1}  => 324 0.001;
+	(43{2,1} V 322 )& 77{1,1}  => 324 0.4;
+	77{1,1} & 353  => 325 1.0;
+	325  => 324 0.4;
+	325 & 279  => 324 0.45;
+	325 & 292  => 324 0.45;
+	325 & 20{1,1}  => 324 0.45;
+	325 & (232{1,1} V 119{1,1} ) => 324 0.5;
+	325 & 118{1,1}  => 324 0.5;
+	325 & 113{1,1}  => 324 0.45;
+	325 & 227{1,1}  => 324 0.45;
+	325 & 97{2,1}  => 324 0.5;
+	325 & 98{2,1}  => 324 0.5;
+	325 & 138{2,1}  => 324 0.45;
+	20{1,1} & 131{4,1} & (164{4,1} V 162{4,1} V 163{4,1} )& (65{2,1} V 43{2,1} V 322 ) => 334 1.0;
+	334  => 324 0.4;
+	334 & 152{4,1}  => 324 0.5;
+	233{1,1} V 18{1,1} V 10{1,1} V 71{1,1} V 75{1,1} V 260{1,1} V 74{1,1}  => 324 -0.2;
+	11{1,1}  => 324 -0.3;
+	234{1,1}  => 324 0.05;
+		C V 0.0 2  325 [0.001 1.0] 334 [0.001 1.0]
+	20{1,1} V 77{1,1}  => 329 0.001;
+	20{1,1} & 234{1,1} & 131{4,1} & (65{2,1} V 43{2,1} V 322 V 38{1,1} ) => 330 1.0;
+	330  => 329 0.4;
+	330 & 181{2,1}  => 329 0.45;
+	330 & 139{4,1}  => 329 0.45;
+	330 & 150{4,1}  => 329 0.5;
+	330 & 118{1,1}  => 329 0.5;
+	330 & 132{4,1}  => 329 0.5;
+	77{1,1} & 234{1,1} & 353 & 20{1,1}  => 332 1.0;
+	332  => 329 0.4;
+	332 & 118{1,1}  => 329 0.55;
+	225{1,1}  => 326 0.001;
+	225{1,1} & 58{1,1} & (283 V 284 ) => 327 1.0;
+	327  => 326 0.4;
+	327 & 274  => 326 0.45;
+	327 & -276  => 326 0.45;
+	327 & -279  => 326 0.45;
+	327 & 282  => 326 0.45;
+	327 & 28{1,1} & 12  => 326 0.5;
+	327 & 189{1,1}  => 326 0.5;
+	327 & 140{4,1}  => 326 0.45;
+	327 & 46{1,1}  => 326 0.45;
+	327 & 31{1,1}  => 326 0.45;
+	327 & 47{1,1}  => 326 0.45;
+	327 & 253{11,1}  => 326 0.45;
+	327 & 209{1,1}  => 326 0.45;
+	118{1,1} V 20{1,1} V 39{1,1}  => 335 0.001;
+	118{1,1} & 151 & 216  => 336 1.0;
+	336  => 335 0.4;
+	336 & (159 V 160 ) => 335 0.5;
+	336 & 161  => 335 0.5;
+	336 & 166  => 335 0.55;
+	336 & 65  => 335 0.5;
+	336 & 39{1,1}  => 335 0.55;
+	336 & (75{1,1} V 71{1,1} ) => 335 0.5;
+	336 & -173  => 335 0.45;
+	336 & 164  => 335 0.45;
+	336 & 116{1,1}  => 335 0.45;
+	173  => 335 -0.2;
+		C & 0.0 1  336 [0.001 1.0]
+	217  => 335 -0.3;
+		C & 0.0 1  336 [0.001 1.0]
+	169  => 335 -0.05;
+		C & 0.0 1  336 [0.001 1.0]
+	117{1,1}  => 335 -0.2;
+	20{1,1} & (132{4,1} V 133{4,1} )& (164{4,1} V 159{4,1} V 160{4,1} V 162{4,1} V 163{4,1} )& (175{2,1} V 71{1,1} V 75{1,1} V 260{1,1} ) => 337 1.0;
+	337  => 335 0.4;
+	337 & 149{4,1}  => 335 0.5;
+	337 & 152{4,1}  => 335 0.5;
+	337 & 109{1,1}  => 335 0.45;
+	39{1,1} & 118{1,1} & 112  => 338 1.0;
+	338  => 335 0.4;
+	338 & 119  => 335 0.45;
+	338 & 71{1,1}  => 335 0.45;
+	338 & 75{1,1}  => 335 0.45;
+	570{2,1}  => 335 -0.2;
+		C V 0.0 2  336 [0.001 1.0] 338 [0.001 1.0]
+	-6{1,1}  => 335 0.05;
+		C V 0.0 3  336 [0.4 1.0] 337 [0.4 1.0] 338 [0.4 1.0]
+	455{2,1} V 573{2,1}  => 335 0.1;
+		C V 0.0 3  336 [0.4 1.0] 337 [0.4 1.0] 338 [0.4 1.0]
+	367{2,1} V 395{2,1}  => 335 0.05;
+		C V 0.0 3  336 [0.4 1.0] 337 [0.4 1.0] 338 [0.4 1.0]
+	460{2,1} V 637{2,1} V 639{2,1} V 638{2,1} V 469{2,1} V 379{2,1} V 416{2,1} V 475{2,1}  => 335 0.1;
+		C V 0.0 3  336 [0.4 1.0] 337 [0.4 1.0] 338 [0.4 1.0]
+	167  => 335 0.05;
+		C V 0.0 3  336 [0.4 1.0] 337 [0.4 1.0] 338 [0.4 1.0]
+	97{1,1} V 43{1,1} V 46{1,1} V 47{1,1}  => 335 0.05;
+		C V 0.0 3  336 [0.4 1.0] 337 [0.4 1.0] 338 [0.4 1.0]
+	39{1,1} V 71{1,1} V 75{1,1} V 134{1,1}  => 339 0.001;
+	39{1,1} & 20{1,1} & (71{1,1} V 75{1,1} ) => 340 1.0;
+	340  => 339 0.4;
+	340 & 112  => 339 0.45;
+	340 & 115  => 339 0.45;
+	340 & (117 V 118 ) => 339 0.45;
+	340 & 122  => 339 0.45;
+	340 & 134{1,1}  => 339 0.5;
+	340 & 345{2,1}  => 339 0.45;
+	71{1,1} & (67 V 68 ) => 341 1.0;
+	341  => 339 0.4;
+	341 & 58  => 339 0.45;
+	341 & 59  => 339 0.45;
+	341 & 61  => 339 0.45;
+	341 & 62  => 339 0.5;
+	341 & (65 V 39{1,1} ) => 339 0.45;
+	341 & 39{1,1} & 75{1,1}  => 339 0.5;
+	341 & 20{1,1}  => 339 0.45;
+	71{1,1} & 20{1,1} & 75{1,1} & 39{1,1}  => 342 1.0;
+	342  => 339 0.4;
+	342 & 59  => 339 0.45;
+	342 & (61 V 62 ) => 339 0.45;
+	75{1,1} & 20{1,1} & 71{1,1}  => 343 1.0;
+	343  => 339 0.4;
+	343 & (39{1,1} V 134{1,1} ) => 339 0.5;
+	134{1,1} & 20{1,1} & (81 V 83 ) => 344 1.0;
+	344  => 339 0.4;
+	344 & (76 V 77 ) => 339 0.45;
+	344 & (39{1,1} V 71{1,1} ) => 339 0.5;
+	69{1,1} V 76{1,1}  => 339 -0.3;
+	470{2,1} V 471{2,1} V 635{2,1} V 636{2,1}  => 339 0.05;
+		C V 0.0 5  340 [0.4 1.0] 341 [0.4 1.0] 342 [0.4 1.0] 343 [0.4 1.0] 344 [0.4 1.0]
+	-6{1,1}  => 339 0.05;
+		C V 0.0 5  340 [0.4 1.0] 341 [0.4 1.0] 342 [0.4 1.0] 343 [0.4 1.0] 344 [0.4 1.0]
+	264{1,1} V 260{1,1}  => 339 0.05;
+		C V 0.0 5  340 [0.4 1.0] 341 [0.4 1.0] 342 [0.4 1.0] 343 [0.4 1.0] 344 [0.4 1.0]
+	67 V 68  => 339 0.1;
+		C V 0.0 5  340 [0.4 1.0] 341 [0.4 1.0] 342 [0.4 1.0] 343 [0.4 1.0] 344 [0.4 1.0]
+	-20{1,1} V -67 V -68 V -217 V -160  => 339 -0.1;
+		C V 0.0 5  340 [0.4 1.0] 341 [0.4 1.0] 342 [0.4 1.0] 343 [0.4 1.0] 344 [0.4 1.0]
+	455{2,1} V 573{2,1}  => 339 0.05;
+		C V 0.0 5  340 [0.4 1.0] 341 [0.4 1.0] 342 [0.4 1.0] 343 [0.4 1.0] 344 [0.4 1.0]
+	39{1,1} V 71{1,1} V 75{1,1}  => 345 0.001;
+	39{1,1} & -58{1,1}  => 346 1.0;
+	346  => 345 0.4;
+	346 & 112  => 345 0.45;
+	346 & 115  => 345 0.45;
+	346 & 122  => 345 0.45;
+	346 & 75{1,1}  => 345 0.5;
+	346 & 42{1,1}  => 345 0.45;
+	346 & 95{1,1}  => 345 0.45;
+	346 & 114  => 345 0.45;
+	346 & 71{1,1} & 58  => 345 0.45;
+	346 & 71{1,1} & 58 & 60  => 345 0.5;
+	346 & 71{1,1} & 58 & (67 V 69 ) => 345 0.5;
+	346 & 71{1,1} & 58 & 95{1,1}  => 345 0.5;
+	125  => 345 -0.1;
+		C V 0.0 2  346 [0.001 1.0] 348 [0.001 1.0]
+	126  => 345 -0.2;
+	570{2,1}  => 345 -0.2;
+	71{1,1}  => 345 -0.2;
+	75{1,1}  => 345 -0.1;
+		C & 0.0 2  112 [0.001 1.0] 346 [0.001 1.0]
+	118{1,1}  => 345 -0.2;
+		C & 0.0 2  112 [0.001 1.0] 346 [0.001 1.0]
+	75{1,1} & 87 & -58{1,1}  => 348 1.0;
+	348  => 345 0.4;
+	348 & 71{1,1} & 58  => 345 0.45;
+	348 & 39{1,1}  => 345 0.5;
+	348 & 42{1,1}  => 345 0.45;
+	348 & 95{1,1}  => 345 0.45;
+	568{2,1} V 1{2,1}  => 345 0.1;
+		C V 0.0 2  346 [0.001 1.0] 348 [0.001 1.0]
+	-6{1,1}  => 345 0.05;
+		C V 0.0 2  346 [0.001 1.0] 348 [0.001 1.0]
+	543{2,1}  => 345 0.05;
+		C V 0.0 2  346 [0.001 1.0] 348 [0.001 1.0]
+	160{1,1} V 161{1,1}  => 345 0.05;
+		C V 0.0 2  346 [0.001 1.0] 348 [0.001 1.0]
+	118{1,1} & (217 V 160 V 116 ) => 345 0.05;
+		C V 0.0 2  346 [0.001 1.0] 348 [0.001 1.0]
+	118{1,1} & (217 V 160 V 116 )& 71{1,1}  => 345 0.1;
+		C V 0.0 2  346 [0.001 1.0] 348 [0.001 1.0]
+	117 V 119  => 345 0.1;
+		C V 0.0 2  346 [0.001 1.0] 348 [0.001 1.0]
+	156{1,1} V 70{1,1}  => 361 0.001;
+	310{2,1} V 483{2,1} V 484{2,1} V 466{2,1} V 409{2,1} V 461{2,1} V 486{2,1} V 485{2,1} V 487{2,1}  => 366 1.0;
+	156{1,1} & 163{11,1} & 170{11,1} & (345{2,1} V 97{2,1} ) => 362 1.0;
+	31{1,1} V 255{1,1} V 30{1,1} V 33{1,1} V 59{11,1} V 157{1,1}  => 364 1.0;
+	197{1,1} V 108{1,1} V 109{1,1} V 107{1,1} V 239{1,1} V 56{1,1}  => 365 1.0;
+	362  => 361 0.4;
+	362 & 165{11,1}  => 361 0.45;
+	362 & 167{11,1}  => 361 0.45;
+	362 & 364  => 361 0.5;
+	362 & 365  => 361 0.5;
+	362 & 366  => 361 0.5;
+	362 & 367  => 361 0.5;
+	362 & 345{2,1}  => 361 0.5;
+	33  => 361 0.1;
+		C V 0.0 1  362 [0.001 1.0]
+	70{1,1} & 33  => 363 1.0;
+	39{1,1} V 31{1,1} V 162{1,1} V 163{1,1} V 82{1,1} V 165{1,1} V 164{1,1} V 166{1,1} V 358{2,1} V 372{2,1} V 109{1,1} V 10{1,1} V 107{1,1} V 108{1,1}  => 367 1.0;
+	363  => 361 0.4;
+	363 & 482{2,1}  => 361 0.45;
+	363 & 345{2,1}  => 361 0.5;
+	363 & 471{2,1}  => 361 0.45;
+	363 & 330{2,1}  => 361 0.45;
+	363 & 479{2,1}  => 361 0.5;
+	363 & 358{2,1}  => 361 0.5;
+	363 & 367  => 361 0.5;
+	363 & 366  => 361 0.5;
+	363 & 455{2,1}  => 361 0.45;
+	363 & 365  => 361 0.5;
+	654{2,1} V 642{2,1} V 412{2,1} V 15{2,1}  => 361 0.1;
+		C V 0.0 2  362 [0.001 1.0] 363 [0.001 1.0]
+	70{1,1}  => 180 0.001;
+	39{1,1} V 31{1,1} V 162{1,1} V 163{1,1} V 82{1,1}  => 129 1.0;
+	165{1,1} V 164{1,1} V 166{1,1} V 358{2,1} V 372{2,1} V 109{1,1} V 10{1,1} V 107{1,1} V 108{1,1}  => 98 1.0;
+	109{1,1} V 106{1,1} V 40{1,1} V 73{1,1} V 107{1,1} V 168{1,1}  => 47 1.0;
+	330{2,1} V 479{2,1} V 358{2,1} V 480{2,1}  => 25 1.0;
+	70{1,1} & 32 & (482{2,1} V 39{1,1} V 129 V 98 V 47 V 366 V 25 ) => 181 1.0;
+	181  => 180 0.5;
+	181 & (97{2,1} V 654{2,1} V 642{2,1} V 412{2,1} V 15{2,1} ) => 180 0.6;
+	181 & 118{1,1}  => 180 0.55;
+	181 & 93{1,1}  => 180 0.55;
+	181 & 113{1,1}  => 180 0.55;
+	70{1,1}  => 191 0.001;
+	180 & (46{2,1} V 60{12,1} V 10{1,1} ) => 191 0.4;
+	39{1,1} V 118{1,1}  => 369 0.001;
+	118{1,1} & (97{2,1} V 329{2,1} V 91{2,1} )& 151 & 153 & 216 & (65 V 39{1,1} ) => 370 1.0;
+	370  => 369 0.4;
+	370 & 40{1,1}  => 369 0.45;
+	370 & 159  => 369 0.45;
+	370 & (161 V 162 ) => 369 0.45;
+	370 & 166  => 369 0.45;
+	173  => 369 -0.4;
+	217  => 369 -0.4;
+	163  => 369 -0.2;
+	39{1,1} & (97{2,1} V 329{2,1} V 91{2,1} )& 112 & 118{1,1}  => 360 1.0;
+	360  => 369 0.4;
+	360 & 119  => 369 0.45;
+	360 & 123  => 369 0.45;
+	570{2,1}  => 369 -0.2;
+	126  => 369 -0.2;
+	160{1,1} V 146{1,1}  => 139 0.001;
+	160{1,1} & 144 & (145 V 148 ) => 171 1.0;
+	171  => 139 0.4;
+	171 & 30  => 139 0.45;
+	171 & 75{1,1}  => 139 0.45;
+	171 & 155{1,1}  => 139 0.5;
+	171 & 205{11,1}  => 139 0.55;
+	470{2,1} V 471{2,1}  => 139 -0.4;
+	146{1,1} & 6{1,1} & 124  => 316 1.0;
+	316  => 139 0.4;
+	316 & 114{1,1}  => 139 0.5;
+	316 & (75{1,1} V 30 ) => 139 0.45;
+	52{2,1} V 51{2,1} V 12{2,1}  => 139 -0.4;
+	511{2,1}  => 139 -0.4;
+	571{2,1}  => 139 -0.3;
+	134{1,1} V 71{1,1} V 75{1,1}  => 155 0.001;
+	134{1,1} & (77 V 78 V 79 ) => 156 1.0;
+	156  => 155 0.4;
+	156 & (75{1,1} V 71{1,1} ) => 155 0.6;
+	71{1,1} & 58  => 157 1.0;
+	157  => 155 0.4;
+	157 & (75{1,1} V 134{1,1} ) => 155 0.6;
+	75{1,1} & 87 & 92  => 141 1.0;
+	141  => 155 0.4;
+	141 & (134{1,1} V 71{1,1} ) => 155 0.6;
+	-6{1,1}  => 155 0.05;
+		C V 0.0 3  141 [0.001 1.0] 156 [0.001 1.0] 157 [0.001 1.0]
+	81 V 82 V 89  => 155 0.15;
+		C V 0.0 3  141 [0.001 1.0] 156 [0.001 1.0] 157 [0.001 1.0]
+	140 V 148 V 130 V 138  => 155 0.1;
+		C V 0.0 3  141 [0.001 1.0] 156 [0.001 1.0] 157 [0.001 1.0]
+	447{2,1} V 572{2,1} V 488{2,1}  => 155 0.2;
+		C V 0.0 3  141 [0.001 1.0] 156 [0.001 1.0] 157 [0.001 1.0]
+	635{2,1}  => 155 0.4;
+		C V 0.0 3  141 [0.001 1.0] 156 [0.001 1.0] 157 [0.001 1.0]
+	146{1,1}  => 195 0.001;
+	146{1,1} & 120 & 573{2,1}  => 195 0.4;
+	146{1,1}  => 203 0.001;
+	146{1,1} & 120 & 571{2,1}  => 203 0.4;
+	146{1,1}  => 205 0.001;
+	146{1,1} & (52{2,1} V 51{2,1} V 12{2,1} ) => 205 0.4;
+	146{1,1}  => 250 0.001;
+	146{1,1} & 39{1,1}  => 250 0.4;
+	117{1,1}  => 300 0.001;
+	117{1,1} & (108 V 107 )& 111  => 310 1.0;
+	310  => 300 0.4;
+	310 & -192  => 300 0.45;
+	214  => 300 -0.2;
+		C V 0.0 1  310 [0.001 1.0]
+	116{1,1}  => 300 -0.1;
+		C V 0.0 1  310 [0.001 1.0]
+	39{1,1}  => 300 -0.2;
+		C V 0.0 1  310 [0.001 1.0]
+	69{1,1}  => 300 -0.2;
+		C V 0.0 1  310 [0.001 1.0]
+	192  => 300 -0.4;
+		C V 0.0 1  310 [0.001 1.0]
+	446{2,1} V 507{2,1}  => 300 0.05;
+		C V 0.0 1  310 [0.001 1.0]
+	117{1,1}  => 331 0.001;
+	117{1,1} & (108 V 107 )& 111  => 347 1.0;
+	347  => 331 0.4;
+	347 & 116{1,1}  => 331 0.45;
+	347 & 537{2,1}  => 331 0.45;
+	39{1,1} V 69{1,1} V 171{1,1} V 75{1,1} V 71{1,1}  => 331 -0.1;
+		C V 0.0 1  347 [0.001 1.0]
+	77{1,1} V 20{1,1} V 194{1,1}  => 388 0.001;
+	(288 V 194{1,1} )& 58{1,1} & 136{4,1}  => 389 1.0;
+	(288 V 194{1,1} )& 58{1,1}  => 389 1.0;
+	(77{1,1} V 194{1,1} )& -58{1,1} & 136{4,1}  => 389 1.0;
+	(77{1,1} V 194{1,1} )& -58{1,1}  => 389 1.0;
+	389  => 388 0.4;
+	389 & -58{1,1}  => 388 0.45;
+	389 & (278 V 280 V 289 V 290 V 291 ) => 388 0.5;
+	389 & 292  => 388 0.45;
+	389 & 20{1,1}  => 388 0.5;
+	389 & (118{1,1} V 14{1,1} V 97{1,1} ) => 388 0.45;
+	353  => 388 -0.1;
+		C V 0.0 1  389 [0.001 1.0]
+	389 & (75{1,1} V 71{1,1} ) => 388 0.45;
+	389 & 77{1,1}  => 388 0.5;
+	389 & (146{1,1} V 28{1,1} ) => 388 0.45;
+	389 & (106{1,1} V 156{1,1} ) => 388 0.45;
+	389 & 543{2,1}  => 388 0.45;
+	389 & -43{2,1} & -138{2,1}  => 388 0.45;
+	389 & 596{2,1}  => 388 0.55;
+	58{1,1}  => 388 -0.15;
+	20{1,1}  => 390 0.001;
+	131{4,1} & (164{4,1} V (162{4,1} & 163{4,1} )) => 392 1.0;
+	392  => 390 0.4;
+	392 & (138{2,1} V 660{2,1} V 661{2,1} V 662{2,1} V 663{2,1} V 664{2,1} ) => 390 0.5;
+	392 & 139{4,1}  => 390 0.5;
+	392 & 151{4,1}  => 390 0.45;
+	392 & (71{1,1} V 75{1,1} V 94{1,1} ) => 390 0.45;
+	392 & (40{1,1} V 73{1,1} ) => 390 0.5;
+	392 & 172{1,1}  => 390 0.5;
+	181{2,1}  => 390 -0.1;
+		C V 0.0 1  392 [0.001 1.0]
+	392 & 224{1,1}  => 390 0.45;
+	392 & (75 V 372 ) => 390 0.5;
+	392 & 9{1,1}  => 390 0.45;
+	392 & (10{1,1} V 12{1,1} ) => 390 0.45;
+	392 & (31{1,1} V 113{1,1} ) => 390 0.45;
+	392 & (106{1,1} V 107{1,1} ) => 390 0.45;
+	392 & 178{1,1}  => 390 0.45;
+	392 & (58{1,1} V 234{1,1} ) => 390 0.5;
+	392 & (665{2,1} V 666{2,1} ) => 390 0.5;
+	20{1,1}  => 391 0.001;
+	134{4,1} & (164{4,1} V (162{4,1} & 163{4,1} )) => 393 1.0;
+	393  => 391 0.4;
+	393 & 181{2,1}  => 391 0.15;
+	393 & (71{1,1} V 75{1,1} V 94{1,1} ) => 391 0.45;
+	393 & (10{1,1} V 12{1,1} ) => 391 0.45;
+	393 & (75 V 372 ) => 391 0.45;
+	393 & 151{4,1}  => 391 0.45;
+	139{4,1}  => 391 -0.45;
+	393 & 225{1,1}  => 391 0.5;
+	393 & (274 V 275 ) => 391 0.45;
+	393 & (283 V 284 ) => 391 0.5;
+	393 & (118{1,1} V 67{5,1} ) => 391 0.45;
+	393 & 178{1,1}  => 391 0.45;
+	393 & 172{1,1}  => 391 0.5;
+	393 & 77{1,1}  => 391 0.5;
+	393 & (58{1,1} V 234{1,1} ) => 391 0.5;
+	393 & 99{1,1}  => 391 0.45;
+	393 & (665{2,1} V 666{2,1} ) => 391 0.5;
+	160{1,1}  => 394 0.001;
+	144 & 147  => 395 1.0;
+	395  => 394 0.4;
+	395 & (472{2,1} V 473{2,1} V 474{2,1} ) => 394 0.55;
+	56{2,1} V 73{2,1} V 52{2,1} V 461{2,1} V 465{2,1} V 466{2,1} V 467{2,1} V 468{2,1} V 469{2,1}  => 394 -0.1;
+		C V 0.0 1  395 [0.001 1.0]
+	395 & -58{1,1}  => 394 0.5;
+	146 V 145 V 148  => 394 -0.1;
+		C V 0.0 1  395 [0.001 1.0]
+	395 & (570{2,1} V 571{2,1} V 636{2,1} V 613{2,1} V 667{2,1} V 668{2,1} V 669{2,1} V 670{2,1} V 671{2,1} V 672{2,1} V 673{2,1} ) => 394 0.5;
+	76{1,1}  => 396 0.001;
+	72 & 372 & 234{1,1}  => 397 1.0;
+	397  => 396 0.4;
+	397 & 172{1,1}  => 396 0.45;
+	397 & 71{1,1}  => 396 0.45;
+	397 & 225{1,1}  => 396 0.45;
+	397 & 77{1,1}  => 396 0.5;
+	397 & 289  => 396 0.45;
+	397 & (164{4,1} V 118{1,1} ) => 396 0.5;
+	397 & 233{1,1}  => 396 0.45;
+	397 & 9{1,1}  => 396 0.45;
+	397 & 224{1,1}  => 396 0.45;
+	397 & (676{2,1} V 663{2,1} V 675{2,1} V 674{2,1} V 138{2,1} V 665{2,1} V 666{2,1} V 667{2,1} V 662{2,1} ) => 396 0.5;
+	397 & 173{1,1}  => 396 0.5;
+	76{1,1}  => 398 0.001;
+	71 & (372 V 75 V 74 )& 234{1,1}  => 399 1.0;
+	399  => 398 0.4;
+	399 & 172{1,1}  => 398 0.45;
+	399 & 71{1,1}  => 398 0.45;
+	399 & 225{1,1}  => 398 0.45;
+	399 & 77{1,1}  => 398 0.5;
+	399 & 289  => 398 0.45;
+	399 & (164{4,1} V 118{1,1} ) => 398 0.5;
+	399 & 233{1,1}  => 398 0.45;
+	399 & 9{1,1}  => 398 0.45;
+	399 & 224{1,1}  => 398 0.45;
+	399 & (676{2,1} V 663{2,1} V 675{2,1} V 674{2,1} V 138{2,1} V 665{2,1} V 666{2,1} V 667{2,1} V 662{2,1} ) => 398 0.5;
+	399 & 632{2,1}  => 398 0.5;
+	399 & 173{1,1}  => 398 0.5;
+	77{1,1}  => 400 0.001;
+	(43{2,1} V 322 )& 77{1,1}  => 400 0.4;
+	325  => 400 0.4;
+	325 & 227{1,1} & 9{1,1}  => 400 0.55;
+	325 & 20{1,1}  => 400 0.45;
+	325 & 292  => 400 0.45;
+	325 & (232{1,1} V 119{1,1} V 113{1,1} ) => 400 0.45;
+	325 & (33{1,1} V 28{1,1} V 164{1,1} V (31{1,1} & 162{1,1} & 163{1,1} )) => 400 0.55;
+	325 & 677{2,1}  => 400 0.6;
+	325 & 401  => 400 0.4;
+	325 & -401  => 400 -0.3;
+//  VARIABLES
+	N T S S 17 30 NULL 39{1,1} NULL 75{1,1} NULL 69{1,1} NULL 76{1,1} NULL 134{1,1} NULL 235{1,1} NULL 118{1,1} NULL 116{1,1} NULL 117{1,1} NULL 70{1,1} NULL 71{1,1} NULL 214 NULL 172{1,1} NULL 173{1,1} NULL 146{1,1} NULL 160{1,1} NULL 
+	S T S S 2 216 NULL 217 NULL 
+		C & -1.0 1  118{1,1} [0.01 1.0] 
+	S T S S 3 283 NULL 284 NULL 285 NULL 
+		C & -1.0 1  225{1,1} [0.01 1.0] 
+	N T S S 4 139{2,1} NULL 140{2,1} NULL 141{2,1} NULL 142{2,1} NULL 
+	S T S S 3 1 NULL 2 NULL 3 NULL 
+		C & -1.0 1  36{1,1} [0.01 1.0] 
+	S T S S 2 4 NULL 5 NULL 
+		C & -1.0 1  36{1,1} [0.01 1.0] 
+	N T S S 7 10 NULL 34 NULL 6 NULL 7 NULL 28{1,1} NULL 11 NULL 167{1,1} NULL 
+		C & -1.0 1  4 [0.01 1.0] 
+	S T S S 2 37 NULL 38 NULL 
+		C & -1.0 1  11 [0.01 1.0] 
+	S T S S 2 12 NULL 13 NULL 
+		C & -1.0 1  28{1,1} [0.01 1.0] 
+	S T S S 3 280 NULL 281 NULL 282 NULL 
+	S T S S 2 14 NULL 15 NULL 
+		C & -1.0 1  6 [0.01 1.0] 
+	S T S S 2 17 NULL 18 NULL 
+		C & -1.0 1  11 [0.01 1.0] 
+	N T S S 7 268{8,1} NULL 272{8,1} NULL 273{8,1} NULL 270{8,1} NULL 269{8,1} NULL 271{8,1} NULL 246{8,1} NULL 
+	S T S S 2 28 NULL 29 NULL 
+		C & -1.0 2  12 [0.01 1.0]  167{1,1} [0.01 1.0] 
+	N T S S 13 30 NULL 39{1,1} NULL 75{1,1} NULL 69{1,1} NULL 76{1,1} NULL 134{1,1} NULL 235{1,1} NULL 118{1,1} NULL 116{1,1} NULL 117{1,1} NULL 70{1,1} NULL 71{1,1} NULL 161{1,1} NULL 
+	M T S S 4 147 NULL 146 NULL 145 NULL 148 NULL 
+		C & -1.0 1  160{1,1} [0.01 1.0] 
+	M T S S 5 22 NULL 23 NULL 24 NULL 26 NULL 382 NULL 
+		C & -1.0 1  11 [0.01 1.0] 
+	N T S S 13 30 NULL 39{1,1} NULL 75{1,1} NULL 69{1,1} NULL 76{1,1} NULL 134{1,1} NULL 235{1,1} NULL 118{1,1} NULL 116{1,1} NULL 117{1,1} NULL 70{1,1} NULL 71{1,1} NULL 161{1,1} NULL 
+	N T S S 9 31{1,1} NULL 108{1,1} NULL 109{1,1} NULL 77{1,1} NULL 227{1,1} NULL 113{1,1} NULL 232{1,1} NULL 189{1,1} NULL 119{1,1} NULL 
+	N T S S 8 143{2,1} NULL 144{2,1} NULL 145{2,1} NULL 417{2,1} NULL 73{2,1} NULL 419{2,1} NULL 146{2,1} NULL 147{2,1} NULL 
+	S T S S 2 8 NULL 50 NULL 
+		C & -1.0 1  69{1,1} [0.01 1.0] 
+	M T S S 4 51 NULL 52 NULL 53 NULL 371 NULL 
+		C & -1.0 1  69{1,1} [0.01 1.0] 
+	S T S S 2 54 NULL 55 NULL 
+	S T S S 4 56 NULL 57 NULL 70 NULL 58 NULL 
+		C & -1.0 1  71{1,1} [0.01 1.0] 
+	S T S S 2 59 NULL 60 NULL 
+		C & -1.0 1  71{1,1} [0.01 1.0] 
+	M T S S 3 61 NULL 62 NULL 63 NULL 
+		C & -1.0 1  71{1,1} [0.01 1.0] 
+	S T S S 2 64 NULL 65 NULL 
+	M T S S 3 67 NULL 68 NULL 69 NULL 
+	S T S S 2 71 NULL 72 NULL 
+		C & -1.0 1  76{1,1} [0.01 1.0] 
+	M T S S 5 73 NULL 74 NULL 75 NULL 372 NULL 373 NULL 
+		C & -1.0 1  76{1,1} [0.01 1.0] 
+	S T S S 4 76 NULL 77 NULL 78 NULL 79 NULL 
+		C & -1.0 1  134{1,1} [0.01 1.0] 
+	S T S S 4 80 NULL 81 NULL 82 NULL 83 NULL 
+		C & -1.0 1  134{1,1} [0.01 1.0] 
+	S T S S 4 84 NULL 85 NULL 86 NULL 87 NULL 
+		C & -1.0 1  75{1,1} [0.01 1.0] 
+	S T S S 3 90 NULL 91 NULL 92 NULL 
+		C & -1.0 1  75{1,1} [0.01 1.0] 
+	S T S S 3 93 NULL 94 NULL 95 NULL 
+		C & -1.0 1  116{1,1} [0.01 1.0] 
+	S T S S 2 96 NULL 97 NULL 
+		C & -1.0 1  116{1,1} [0.01 1.0] 
+	S T S S 2 99 NULL 100 NULL 
+		C & 0.0 1  116{1,1} [0.01 1.0] 
+	N T S S 4 117{1,1} NULL 101 NULL 102 NULL 36 NULL 
+	S T S S 2 104 NULL 105 NULL 
+		C & -1.0 1  116{1,1} [0.01 1.0] 
+	N T S S 5 446{2,1} NULL 447{2,1} NULL 470{2,1} NULL 449{2,1} NULL 488{2,1} NULL 
+	S T S S 3 107 NULL 108 NULL 109 NULL 
+		C & -1.0 1  117{1,1} [0.01 1.0] 
+	S T S S 2 110 NULL 111 NULL 
+		C & -1.0 1  117{1,1} [0.01 1.0] 
+	S T S S 2 112 NULL 113 NULL 
+		C & -1.0 1  39{1,1} [0.01 1.0] 
+	S T S S 2 115 NULL 116 NULL 
+		C & -1.0 1  39{1,1} [0.01 1.0] 
+	S T S S 3 117 NULL 118 NULL 119 NULL 
+		C & -1.0 1  39{1,1} [0.01 1.0] 
+	S T S S 2 122 NULL 123 NULL 
+		C & -1.0 1  121 [0.01 1.0] 
+	S T S S 2 40 NULL 39 NULL 
+		C & -1.0 1  189{1,1} [0.01 1.0] 
+	N T S S 4 511{2,1} NULL 573{2,1} NULL 470{2,1} NULL 571{2,1} NULL 
+	N T S S 2 451{2,1} NULL 324{2,1} NULL 
+		C & -1.0 1  284{2,1} [0.01 1.0] 
+	S T S S 2 131 NULL 132 NULL 
+		C & -1.0 1  452{2,1} [0.01 1.0] 
+	S T S S 2 133 NULL 134 NULL 
+		C & -1.0 1  453{2,1} [0.01 1.0] 
+	S T S S 2 135 NULL 136 NULL 
+		C & -1.0 1  454{2,1} [0.01 1.0] 
+	S T S S 3 273 NULL 274 NULL 275 NULL 
+		C & -1.0 1  225{1,1} [0.01 1.0] 
+	N T S S 8 52{2,1} NULL 461{2,1} NULL 51{2,1} NULL 463{2,1} NULL 12{2,1} NULL 79{2,1} NULL 310{2,1} NULL 464{2,1} NULL 
+	N T S S 2 419{2,1} NULL 9{2,1} NULL 
+	S T S S 2 143 NULL 144 NULL 
+		C & -1.0 1  160{1,1} [0.01 1.0] 
+	N T S S 9 56{2,1} NULL 73{2,1} NULL 52{2,1} NULL 461{2,1} NULL 465{2,1} NULL 466{2,1} NULL 467{2,1} NULL 468{2,1} NULL 469{2,1} NULL 
+	N T S S 6 97{2,1} NULL 470{2,1} NULL 471{2,1} NULL 472{2,1} NULL 473{2,1} NULL 474{2,1} NULL 
+	S T S S 2 151 NULL 152 NULL 
+		C & -1.0 1  118{1,1} [0.01 1.0] 
+	S T S S 2 153 NULL 154 NULL 
+		C & -1.0 1  118{1,1} [0.01 1.0] 
+	S T S S 2 120 NULL 124 NULL 
+		C & -1.0 1  146{1,1} [0.01 1.0] 
+	S T S S 4 158 NULL 159 NULL 160 NULL 402 NULL 
+		C & -1.0 1  118{1,1} [0.01 1.0] 
+	S T S S 3 161 NULL 162 NULL 163 NULL 
+		C & -1.0 1  118{1,1} [0.01 1.0] 
+	S T S S 2 165 NULL 166 NULL 
+		C & -1.0 1  118{1,1} [0.01 1.0] 
+	S T S S 3 167 NULL 168 NULL 169 NULL 
+		C & -1.0 1  118{1,1} [0.01 1.0] 
+	N T S S 4 455{2,1} NULL 470{2,1} NULL 367{2,1} NULL 570{2,1} NULL 
+	N T S S 11 319 NULL 320 NULL 10{7,1} NULL 9{7,1} NULL 231{1,1} NULL 77{1,1} NULL 225{1,1} NULL 38{1,1} NULL 76{1,1} NULL 119{1,1} NULL 177{1,1} NULL 
+	N T S S 9 38{1,1} NULL 76{1,1} NULL 225{1,1} NULL 77{1,1} NULL 231{1,1} NULL 40{1,1} NULL 177{1,1} NULL 31{1,1} NULL 189{1,1} NULL 
+	S T S S 3 175 NULL 176 NULL 177 NULL 
+		C & -1.0 1  161{1,1} [0.01 1.0] 
+	N T S S 2 535{2,1} NULL 536{2,1} NULL 
+	N T S S 2 178 NULL 75{1,1} NULL 
+	N T S S 7 169{1,1} NULL 170{1,1} NULL 31{1,1} NULL 65{1,1} NULL 107{1,1} NULL 156{1,1} NULL 168{1,1} NULL 
+	S T S S 2 41 NULL 272 NULL 
+		C & -1.0 1  189{1,1} [0.01 1.0] 
+	N T S S 6 287{2,1} NULL 97{2,1} NULL 470{2,1} NULL 471{2,1} NULL 476{2,1} NULL 345{2,1} NULL 
+	N T S S 3 182 NULL 183 NULL 169{1,1} NULL 
+	N T S S 2 56{2,1} NULL 465{2,1} NULL 
+	M T S S 4 125 NULL 126 NULL 127 NULL 128 NULL 
+		C & -1.0 1  39{1,1} [0.01 1.0] 
+	S T S S 2 32 NULL 33 NULL 
+		C & -1.0 1  70{1,1} [0.01 1.0] 
+	N T S S 13 478{2,1} NULL 470{2,1} NULL 287{2,1} NULL 482{2,1} NULL 42{2,1} NULL 481{2,1} NULL 455{2,1} NULL 345{2,1} NULL 471{2,1} NULL 330{2,1} NULL 479{2,1} NULL 480{2,1} NULL 358{2,1} NULL 
+	N T S S 9 310{2,1} NULL 483{2,1} NULL 484{2,1} NULL 487{2,1} NULL 466{2,1} NULL 461{2,1} NULL 409{2,1} NULL 486{2,1} NULL 485{2,1} NULL 
+	N T S S 3 79{2,1} NULL 73{2,1} NULL 10{2,1} NULL 
+	S T S S 2 296 NULL 297 NULL 
+		C & -1.0 1  119{1,1} [0.01 1.0] 
+	S T S S 2 298 NULL 299 NULL 
+		C & -1.0 1  119{1,1} [0.01 1.0] 
+	S T S S 3 301 NULL 302 NULL 303 NULL 
+		C & -1.0 3  43{2,1} [-1.0 -0.001]  119{1,1} [0.01 1.0]  304 [-1.0 -0.001] 
+	N T S S 5 304 NULL 305 NULL 306 NULL 307 NULL 172 NULL 
+		C & -1.0 1  119{1,1} [0.01 1.0] 
+	S T S S 2 264 NULL 265 NULL 
+		C & -1.0 1  38{1,1} [0.01 1.0] 
+	S T S S 3 266 NULL 267 NULL 268 NULL 
+	S T S S 3 270 NULL 269 NULL 271 NULL 
+	S T S S 2 287 NULL 288 NULL 
+		C & -1.0 1  77{1,1} [0.01 1.0] 
+	N T S S 3 289 NULL 290 NULL 291 NULL 
+		C & -1.0 1  77{1,1} [0.01 1.0] 
+	S T S S 2 293 NULL 294 NULL 
+		C & -1.0 1  77{1,1} [0.01 1.0] 
+	S T S S 3 277 NULL 279 NULL 278 NULL 
+	S I G ">=,0,2,2,1,[,],0.01,1,4" 
+	M T S S 2 173 NULL 403 NULL 
+		C & -1.0 1  118{1,1} [0.01 1.0] 
+//  PROGRAMAS EXTERNOS
+//  FUNCIONES INTERNAS
+	FP 5 VI93 PI31{1,1} PI162{1,1} PI163{1,1} PI82{1,1} 
+//  RELACIONES PADRE-HIJOS
+36{1,1}P[0.01 1.0], -4, -1, -49, -12, -37, -27, -14, -16, -17, -22, -383, -28, -381, -48;
+69{1,1}P[0.01 1.0], -8, -51, -54, -44;
+71{1,1}P[0.01 1.0], -56, -59, -61, -64, -67, -215;
+76{1,1}P[0.01 1.0], -71, -73, -256, -54, -215;
+134{1,1}P[0.01 1.0], -76, -80, -44;
+75{1,1}P[0.01 1.0], -84, -90, -45, -215;
+116{1,1}P[0.01 1.0], -93, -96, -106, -104, -99, -103, -215;
+117{1,1}P[0.01 1.0], -107, -110, -106, -192, -215;
+39{1,1}P[0.01 1.0], -112, -570{2,1}, -114, -115, -117, -121, -122, -125, -44;
+146{1,1}P[0.01 1.0], -67, -120, -286, -142, -44;
+160{1,1}P[0.01 1.0], -143, -147, -149, -150, -44;
+118{1,1}P[0.01 1.0], -151, -153, -173, -216, -404, -158, -161, -164, -165, -168, -64, -170, -44;
+161{1,1}P[0.01 1.0], -175, -174, -30, -187, -179, -184, -188, -186;
+70{1,1}P[0.01 1.0], -32, -65, -187, -190, -189, -44;
+119{1,1}P[0.01 1.0], -296, -298, -263, -301, -356;
+38{1,1}P[0.01 1.0], -264, -266, -269, -359;
+189{1,1}P[0.01 1.0], -39, 41, -328, -351, -357;
+225{1,1}P[0.01 1.0], -273, -276, -277, -280, -283;
+77{1,1}P[0.01 1.0], -287, 266, -269, -352, -277, -280, -292, -293, -353;
+//  REGLAS DE CONCLUSIONES
+	=> RP 88 [0.001 1];
+	=> RP 139 [0.001 1];
+	=> RP 155 [0.001 1];
+	=> RP 180 [0.001 1];
+	=> RP 193 [0.001 1];
+	=> RP 197 [0.001 1];
+	=> RP 204 [0.001 1];
+	=> RP 206 [0.001 1];
+	=> RP 211 [0.001 1];
+	=> RP 218 [0.001 1];
+	=> RP 220 [0.001 1];
+	=> RP 222 [0.001 1];
+	=> RP 225 [0.001 1];
+	=> RP 231 [0.001 1];
+	=> RP 232 [0.001 1];
+	=> RP 234 [0.001 1];
+	=> RP 241 [0.001 1];
+	=> RP 245 [0.001 1];
+	=> RP 247 [0.001 1];
+	=> RP 251 [0.001 1];
+	=> RP 253 [0.001 1];
+	204  [0.4 1] => RP 255 [0.4 1];
+	=> RP 257 [0.001 1];
+	=> RP 260 [0.001 1];
+	=> RP 262 [0.001 1];
+	=> RP 300 [0.001 1];
+	=> RP 308 [0.001 1];
+	=> RP 314 [0.001 1];
+	=> RP 317 [0.001 1];
+	=> RP 322 [0.001 1];
+	=> RP 324 [0.001 1];
+	=> RP 326 [0.001 1];
+	=> RP 329 [0.001 1];
+	=> RP 331 [0.001 1];
+	=> RP 335 [0.001 1];
+	=> RP 339 [0.001 1];
+	=> RP 345 [0.001 1];
+	=> RP 349 [0.001 1];
+	=> RP 361 [0.001 1];
+	=> RP 369 [0.001 1];
+	=> RP 374 [0.001 1];
+	=> RP 388 [0.001 1];
+	=> RP 390 [0.001 1];
+	=> RP 391 [0.001 1];
+//  RELACIONES PADRE - HIJOS EN CONCLUSIONES
+//  PROPOSICIONES QUE NO VAN AL SISTEMA EXPLICATORIO
+//  FIN

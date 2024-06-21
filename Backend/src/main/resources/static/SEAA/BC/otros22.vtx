@@ -1,0 +1,287 @@
+1,2,2 2 12
+	Presenta el paciente otros s&#237;ntomas de alguno de los siguientes aparatos o
+	 sistemas:
+		S&#237;ntomas Sist&#233;micos Generales
+		Aparato Digestivo
+		Aparato Respiratorio
+		Aparato Osteomioarticular
+		Aparato Cardiovascular
+		Aparato Hematol&#243;gico
+		Aparato Genito-Urinario
+		Aparato Nervioso (Neurol&#243;gico)
+		Aparato Endocrino
+		Dermatol&#243;gico
+		Oftalmol&#243;gico
+		Otorrino
+2,2,2 2 22
+	Cu&#225;l(es) de los siguientes s&#237;ntomas del Sistema General presenta el
+	 paciente?
+		Fiebre
+		Febr&#237;cula
+		Escalofr&#237;os
+		Astenia
+		Anorexia
+		P&#233;rdida de Peso
+		Sudoraci&#243;n
+		Mialgias y/o Quebrantamiento General
+		S&#237;ntomas Vegetativos
+		Ansiedad o S&#237;ntomas Depresivos
+		Debilidad. Fatigabilidad
+		Ronquidos Nocturnos (Apnea de Sue&#241;o)
+		Anhidrosis
+		Aumento de Tama&#241;o del Maxilar Inferior
+		Sed Intensa
+		Hipo
+		Intolerancia al Fr&#237;o
+		Intolerancia al Calor
+		Aumenta de Peso
+		Disminuci&#243;n de la L&#237;bido
+		Xerostom&#237;a
+		Prurito
+3,2,2 2 24
+	Cu&#225;l(es) de los siguientes s&#237;ntomas del Aparato Digestivo presenta el
+	 paciente?
+		Diarrea
+		Ictericia en la Piel y de la Mucosa
+		Distensi&#243;n Abdominal
+		Dispepsia
+		Estre&#241;imiento
+		Ardor en el Epigastrio
+		Regurgitaci&#243;n
+		Pirosis
+		Sangra por V&#237;a Rectal (Rectorragia)
+		Disfagia
+		Dolor Abdominal
+		Hematemesis
+		Melena
+		N&#225;useas
+		V&#243;mitos
+		Dolor Anal
+		Tenesmo Rectal
+		Sialorrea
+		Ascitis
+		Aftas Orales
+		Incontinencia Esfinteriana Anal
+		Halitosis
+		Acolia
+		Coluria
+4,2,2 2 15
+	Cu&#225;l(es) de los siguientes s&#237;ntomas del Aparato Respiratorio presenta
+	 el paciente?
+		Tos
+		Disnea
+		Expectoraci&#243;n
+		Hemoptisis
+		Dolor Tor&#225;cico
+		Disfon&#237;a
+		Sibilancias
+		Rinorrea
+		Ep&#237;staxis
+		Estornudos
+		Obstrucci&#243;n Nasal
+		Dolor Facial
+		Odinofagia
+		Estridor
+		Ritmos Respiratorios Anormales
+5,2,2 2 7
+	Cu&#225;l(es) de los siguientes s&#237;ntomas del Aparato Osteo- mioarticular
+	 presenta el paciente?
+		Dolor Muscular
+		Dolor Articular
+		Deformidad
+		Limitaci&#243;n Funcional
+		Dolor Oseo
+		Alteraci&#243;n del Tono Muscular
+		Alteraci&#243;n del Trofismo Muscular
+6,2,2 2 12
+	Cu&#225;l(es) de los siguientes s&#237;ntomas del Aparato Cardiovascular
+	 presenta el paciente?
+		Flebitis en Extremidades Inferiores
+		Palpitaciones
+		Edema
+		Dolor Tor&#225;cico
+		Disnea
+		Tos
+		S&#237;ncope
+		Alteraci&#243;n de la Coloraci&#243;n de las Extremidades
+		Dolor en Extremidades Inferiores
+		Dolor en Extremidades Superiores
+		Hipotensi&#243;n Ortost&#225;tica
+		Raynaud en Extremidades Inferiores
+7,2,2 2 13
+	Cu&#225;l(es) de los siguientes s&#237;ntomas del Aparato Hematol&#243;gico
+	 presenta el paciente?
+		Adenopat&#237;as
+		Palidez
+		Hemorragia Superficial
+		Hemorragia Profunda
+		Ep&#237;staxis
+		Otorragia
+		Gingivorragia
+		Hematuria
+		Rectorragia
+		Melena
+		Hematemesis
+		Metrorragia
+		Hemoptisis
+8,2,2 2 23
+	Cu&#225;l(es) de los siguientes s&#237;ntomas del Aparato Genito- Urinario
+	 presenta el paciente?
+		Dolor en los Test&#237;culos
+		Aumento de Volumen de los Test&#237;culos
+		Uretrorrea
+		Leucorrea
+		Disuria
+		Hematuria
+		Dolor Lumbar
+		Edema
+		Polaquiuria
+		Poliuria
+		Oliguria
+		Modificaciones del Chorro
+		Retenci&#243;n de Orina
+		Incontinencia Esfinteriana Vesical
+		Mastodinia
+		Amenorrea
+		Metrorragia
+		Aumento del Volumen de las Mamas
+		Bultos en las Mamas
+		Oligomenorrea
+		Incontinencia Esfinteriana Anal
+		Impotencia
+		Trastornos de la Menstruaci&#243;n
+9,2,2 2 17
+	Cu&#225;l(es) de los siguientes s&#237;ntomas del Aparato Otorrino presenta el
+	 paciente?
+		Tinnitus
+		Otorrea
+		Otorragia
+		Sordera
+		Rinorrea
+		Obstrucci&#243;n Nasal
+		Ac&#250;fenos
+		Disfon&#237;a
+		Otalgia
+		Odinofagia
+		Estornudo
+		Ep&#237;staxis
+		Disgeusias
+		Trastornos de la Degluci&#243;n
+		Dolor facial
+		Trastornos del Olfato
+		Voz Cavernosa
+10,2,2 2 43
+	Cu&#225;l(es) de los siguientes s&#237;ntomas del Aparato Neurol&#243;gico
+	 presenta el paciente?
+		S&#237;ncope
+		Cefalea
+		Convulsiones
+		Mareo - V&#233;rtigo
+		Alteraci&#243;n del Nivel de Conciencia
+		Alteraciones de la Marcha
+		Temblor
+		Movimientos Involuntarios
+		Paresia
+		Debilidad Muscular
+		Desorientaci&#243;n Temporo-Espacial
+		Alteraciones de la Memoria
+		S&#237;ndrome de Horner
+		Disminuci&#243;n de la Agudeza Mental
+		Confusi&#243;n Mental
+		Focalidad par Craneal
+		Alteraciones Vasomotoras
+		Bradicinesia
+		Somnolencia
+		Nervioso, Irritable o Ansioso
+		Bradipsiquia
+		Alteraci&#243;n del Lenguaje
+		Ataxia - Dismetr&#237;as
+		Dropp - Attacks
+		Est&#225; en Estado de Estupor
+		Retraso Psico - Motor
+		Incontinencia Esfinteriana Anal
+		Fotofobia
+		Ptosis Parpebral
+		Alteraci&#243;n de Funciones Mentales Superiores
+		Embotamiento
+		Coma
+		Disminuci&#243;n de la Agudeza Visual
+		Estrabismo
+		Alteraci&#243;n del Tono Muscular
+		Alteraci&#243;n del Trofismo Muscular
+		Anosognosia
+		Alteraci&#243;n de la Sensibilidad
+		Tetania
+		Dolor Cervical
+		Diplopia
+		Flapping Tremor
+		Dolor Neur&#237;tico
+11,2,2 2 20
+	Cu&#225;l(es) de los siguientes s&#237;ntomas del Aparato Endocrino presenta el
+	 paciente?
+		Polidipsia
+		Ginecomastia
+		Obesidad
+		Hirsutismo
+		P&#233;rdida de Peso
+		Galactorrea
+		Esterilidad
+		Prominencia de los Globos Oculares
+		Virilismo
+		Dolor en la Regi&#243;n Tiroidea
+		Bocio y/o N&#243;dulo Tiroideo
+		La Piel H&#250;meda y/o Caliente
+		Hipertricosis
+		P&#233;rdida del Vello Corporal
+		Hiperpigmentaci&#243;n Cut&#225;neo - Mucosa
+		Baja Talla
+		Desfeminizaci&#243;n
+		Aumento de Tama&#241;o de Manos y Pies
+		Sequedad de la Piel
+		Polifagia
+12,2,2 2 30
+	Cu&#225;l(es) de los siguientes s&#237;ntomas del Aparato Dermatol&#243;gico
+	 presenta el paciente?
+		Alopec&#237;a
+		Rubefacci&#243;n Cut&#225;nea
+		Rash Cut&#225;neo
+		P&#250;rpura en Extremidades Inferiores
+		Edema
+		Acropaquias
+		Herpes Labial
+		Exantena
+		Eritema Multiforme
+		Eritema Nodoso
+		Eritema Malar
+		Eritema Discoide
+		Urticaria
+		Ulceras Genitales
+		Ulceras Maleolares
+		Fen&#243;meno de Fotosensibilidad
+		Ves&#237;culas Cut&#225;neas
+		P&#250;stulas
+		Erupci&#243;n Cut&#225;nea
+		Manchas en la Piel
+		P&#250;rpura en Extremidades Superiores
+		P&#250;rpura en el Tronco
+		P&#250;rpura Generalizada
+		Bultos en la Piel
+		Otros Tipos de Lesiones de la Piel
+		P&#225;pulas Dolorosas en Dedos
+		Abscesos en la Piel
+		For&#250;nculos
+		Alteraci&#243;n en las U&#241;as
+		Otras Lesiones de Piel Localizadas en los Genitales
+13,2,2 2 10
+	Cu&#225;l(es) de los siguientes s&#237;ntomas del Aparato Oftalmol&#243;gico
+	 presenta el paciente?
+		Ardor Ocular
+		Dolor Ocular
+		Enrojecimiento Ocular
+		Lagrimeo
+		Disminuci&#243;n de la Agudeza Visual
+		Escotomas
+		Estrabismo
+		Fotofobia
+		Secreci&#243;n Conjuntival
+		Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos

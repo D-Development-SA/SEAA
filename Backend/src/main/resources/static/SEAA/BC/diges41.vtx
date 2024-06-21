@@ -1,0 +1,864 @@
+1,4,1 1 2
+	Desde cu&#225;ndo tiene N&#225;usea y V&#243;mito:
+		Agudo (horas o d&#237;as)
+		Larga evoluci&#243;n (semanas o meses)
+2,4,1 1 4
+	Contenido del V&#243;mito:
+		Sangre y poso de caf&#233;
+		Bilis
+		Alimento
+		Fecaloideo
+3,4,1 1 5
+	Relaci&#243;n temporal del V&#243;mito con la ingesta:
+		No relaci&#243;n
+		Matutino pr&#233;vio a la ingesta
+		Con la ingesta
+		Postpandrial
+		Despu&#233;s de dos horas tras la ingesta
+4,4,1 1 2
+	Contenido del V&#243;mito al aparecer asociado al Estre&#241;imiento:
+		Fecaloideo
+		Hematemesis
+5,4,1 1 2
+	Desde cu&#225;ndo tiene Dolor Abdominal:
+		15 d&#237;as o menos (Agudo)
+		M&#225;s de 15 d&#237;as  (Cr&#243;nico)
+6,4,1 1 2
+	Desde cu&#225;ndo tiene Dolor Abdominal Agudo:
+		Menos de 48 horas
+		M&#225;s de 48 horas
+7,4,1 1 3
+	Desde cu&#225;ndo tiene Dolor Abdominal Cr&#243;nico:
+		M&#225;s de 15 d&#237;as y menor o igual a un mes
+		M&#225;s de un mes y menor o igual a un a&#241;o
+		M&#225;s de un a&#241;o
+8,4,1 1 4
+	Se le ha realizado alguna de las siguientes Cirug&#237;as:
+		Apendicectom&#237;a
+		Colecistectom&#237;a
+		Cirug&#237;a g&#225;strica
+		Laparatom&#237;a
+9,4,1 1 8
+	D&#243;nde se localiza el Dolor Abdominal:
+		Epigastrio
+		Mesog&#225;strio
+		Hipog&#225;strio
+		Cuadrante Superior Derecho
+		Cuadrante Superior Izquierdo
+		Cuadrante Inferior Derecho
+		Cuadrante Inferior Izquierdo
+		Localizado en punto concreto(que aumenta al contraer abdomen)
+10,4,1 1 6
+	El Dolor Abdominal se irradia:
+		De periumbilical o epig&#225;strico a cuadrante inferior derecho
+		De epig&#225;strico a cuadrante superior derecho
+		De epig&#225;strico a espalda
+		De hipog&#225;strico a cuadrante inferior izquierdo
+		De cuadrante superior derecho a espalda
+		De cuadrante superior derecho o izquierdo a genitales
+11,4,1 1 2
+	El Dolor Abdominal es:
+		Cont&#237;nuo y persistente (tipo cont&#237;nuo)
+		Aparece y desaparece (tipo c&#243;lico)
+12,4,1 1 6
+	El Dolor Abdominal se calma con:
+		Ingesta de alimentos
+		V&#243;mitos
+		Defecaci&#243;n
+		Postura encogida o Flexi&#243;n del Tronco
+		Postura sentada
+		Ingesta de anti&#225;cidos
+13,4,1 1 3
+	El Dolor Abdominal se desencadena con:
+		Ingesta alimenticia
+		F&#225;rmacos
+		Alcohol
+14,4,1 1 2
+	Qu&#233; composici&#243;n tiene la Regurgitaci&#243;n:
+		Restos alimenticios y saliva
+		Contenido &#225;cido
+15,4,1 1 4
+	Situaciones desencadenantes de la Regurgitaci&#243;n:
+		Con aumento de presi&#243;n intrabdominal
+		Con el dec&#250;bito
+		Con ingesta de f&#225;rmacos
+		Tabaco, caf&#233;, comidas copiosas, alcohol y/o grasas
+16,4,1 1 3
+	La Regurgitaci&#243;n se alivia con:
+		Incorporaci&#243;n tronco
+		Ingesti&#243;n de leche
+		Ingesti&#243;n de alcalinos
+17,4,1 1 4
+	La Pirosis se desencadena con:
+		Aumento de presi&#243;n intra-abdominal
+		El dec&#250;bito
+		Ingesta de f&#225;rmacos (salicilatos, teofilinas)
+		Consumo de tabaco, caf&#233;, alcohol, grasas, etc.
+18,4,1 1 3
+	La Pirosis se alivia con:
+		Toma de alcalinos
+		Toma de leche
+		Incorporaci&#243;n del tronco
+19,4,1 1 2
+	Desde cu&#225;ndo tiene Ictericia:
+		M&#225;s de un mes
+		Menos de un mes
+20,4,1 1 3
+	C&#243;mo empez&#243; la Ictericia:
+		Brusco
+		Progresivo
+		En episodios
+21,4,1 1 3
+	La Fiebre es:
+		Anterior a la ictericia
+		Coincidente con la ictericia
+		Posterior a la ictericia
+22,4,1 1 2
+	La Hematemesis es con:
+		Franca hemorragia
+		S&#243;lo restos de sangre
+23,4,1 1 3
+	Ha tenido Episodios Hemorr&#225;gicos de distinta localizaci&#243;n:
+		Ep&#237;staxis
+		Hemoptisis
+		Hematuria
+24,4,1 1 2
+	Desde cu&#225;ndo tiene Rectorragia:
+		Menos de 48 horas
+		Igual o m&#225;s de 48 horas
+25,4,1 1 2
+	La Distensi&#243;n Abdominal es de:
+		Reciente aparici&#243;n (menos de 3 meses)
+		Larga evoluci&#243;n (m&#225;s de 3 meses)
+26,4,1 1 2
+	La aparici&#243;n de la Distensi&#243;n Abdominal es:
+		Epis&#243;dica
+		Constante
+27,4,1 1 4
+	Desde cu&#225;ndo tiene Disfagia:
+		Menos de 24 horas
+		M&#225;s de 24 horas y menos de 1 mes
+		Entre 1 mes y 1 a&#241;o
+		M&#225;s de un a&#241;o
+28,4,1 1 2
+	Qu&#233; relaci&#243;n tiene la Disfagia con la degluci&#243;n:
+		Dificultad para tragar el bolo
+		Sensaci&#243;n de estancamiento del bolo a nivel tor&#225;cico
+29,4,1 1 2
+	Cuando comenz&#243; la Disfagia; esta era a alimentos:
+		S&#243;lidos
+		L&#237;quidos
+30,4,1 1 3
+	La evoluci&#243;n de la Disfagia es:
+		Constante y progresiva
+		Intermitente y no progresiva
+		Intermitente y progresiva
+31,4,1 1 3
+	Forma de aparici&#243;n de la Diarrea:
+		Intermitente
+		Practicamente cont&#237;nua
+		Alterna con extre&#241;imiento
+32,4,1 1 3
+	Volumen en Diarrea:
+		Grandes heces diarreicas
+		Normal
+		Heces peque&#241;as
+33,4,1 1 3
+	Apariencia de la Diarrea:
+		Normal
+		L&#237;quida
+		Pastosa
+34,4,1 1 6
+	Coloraci&#243;n de las heces:
+		Marr&#243;n
+		Blanco
+		Negro
+		Verde
+		Rojo o Hemol&#237;tico
+		Gris y/o turbia
+35,4,1 1 4
+	Las N&#225;useas y/o V&#243;mitos se relacionan con la ingesta de:
+		Medicamentos
+		Setas
+		Alcohol
+		Otros Alimentos
+36,4,1 1 3
+	La Diarrea es:
+		Diurna
+		Diurna y nocturna
+		Nocturna
+37,4,1 1 4
+	La Diarrea se relaciona con:
+		Ingesta de gluten
+		Ingesta de leche y derivados
+		Ingesta de alimentos
+		Toma cr&#243;nica de laxantes
+38,4,1 1 2
+	Duraci&#243;n de la Diarrea:
+		Menos de dos semanas (Aguda)
+		M&#225;s de dos semanas (Cr&#243;nica)
+39,4,1 1 2
+	El Ardor aparece en relaci&#243;n con la ingesta en un tiempo:
+		Menor de 2 horas
+		M&#225;s de 2 horas
+40,4,1 1 5
+	Con qu&#233; aparece el Ardor Epig&#225;strico:
+		Espontaneamente
+		Con ingesta de medicamentos
+		Con ingesta de alcohol
+		Irritantes g&#225;stricos
+		Exceso alimentario
+41,4,1 1 2
+	C&#243;mo se calma el Ardor Epig&#225;strico:
+		Con alimentos
+		Con alcalinos
+42,4,1 1 2
+	El Tiempo transcurrido desde la ingesta del alimento sospechoso es:
+		Menor de 12 horas
+		Mayor o igual a 12 horas
+43,4,1 1 14
+	Ha tenido:
+		Ingesta alcoh&#243;lica (m&#225;s de 100 grs etanol/d&#237;a)
+		Toxicoman&#237;a parenteral
+		Pinchazos o cortes
+		Transfusiones recientes
+		Pr&#225;ctica sexual de riesgo
+		Casos similares de Ictericia en su ambiente familiar
+		Ingesta de f&#225;rmacos
+		Anovulatorios
+		Embarazo mayor de 3 meses
+		Lupus eritematoso sist&#233;mico
+		Artritis reumatoidea
+		Mononucleosis infecciosa
+		Colicistectomia
+		Colelitiasis
+44,4,1 1 3
+	Existe Historia Familiar de:
+		Ictericia
+		Ictericia funcional
+		Anemia hemol&#237;tica
+45,4,1 1 3
+	El paciente presenta:
+		Acolia
+		Coluria u Orina oscura
+		Prurito
+46,4,1 1 3
+	Existen s&#237;ntomas asociados con las N&#225;useas y V&#243;mitos:
+		Generales
+		Extradigestivos
+		Digestivos
+47,4,1 1 7
+	Existen S&#237;ntomas Generales asociados con las N&#225;useas y V&#243;mitos:
+		Fiebre
+		P&#233;rdida de peso
+		Astenia
+		Anorexia
+		Trastornos Sist&#233;micos
+		Trastornos Metab&#243;licos
+		Afectaci&#243;n del Estado General
+48,4,1 2 3
+	Existen s&#237;ntomas Extradigestivos asociados con las N&#225;useas y
+	 V&#243;mitos:
+		Cefalea
+		Mareo - V&#233;rtigo
+		Dolor Tor&#225;cico
+49,4,1 1 10
+	Existen s&#237;ntomas Digestivos asociados con las N&#225;useas y V&#243;mitos:
+		Disfagia
+		Pirosis
+		Hematemesis
+		Dispepsia
+		Dolor Abdominal
+		Ictericia
+		Melena
+		Diarrea
+		Estre&#241;imiento
+		Ardor Epig&#225;strico
+50,4,1 1 6
+	La Regurgitaci&#243;n se asocia con:
+		Disfagia
+		Ardor en el Epigastrio
+		Dolor Abdominal
+		Molestias Far&#237;ngeas
+		Infecci&#243;n Respiratoria de Repetici&#243;n
+		S&#237;ntomas Vegetativos
+51,4,1 1 8
+	Existe asociaci&#243;n de la Pirosis con:
+		Disfagia
+		Ardor en el Epigastrio
+		Dolor Abdominal
+		Molestias Far&#237;ngeas
+		Tos asociada con degluci&#243;n
+		Infecciones Respiratorias de Repetici&#243;n
+		S&#237;ntomas Vegetativos
+		Hematemesis
+52,4,1 1 8
+	Tiene s&#237;ntomas asociados al Ardor Epig&#225;strico:
+		N&#225;useas
+		V&#243;mitos
+		Pirosis
+		Rectorragia y/o Melenas
+		Astenia
+		Anorexia
+		P&#233;rdida de peso
+		Fiebre
+53,4,1 1 6
+	Se le realiz&#243; anteriormente diagn&#243;stico de:
+		Ulcera P&#233;ptica
+		Gastritis
+		Esofagitis
+		V&#225;rices Esof&#225;gicas
+		Tumores Digestivos Altos
+		Mallory - Weiss
+54,4,1 1 2
+	Se le realiz&#243; diagn&#243;stico previo de Tumores Digestivos Altos en:
+		Es&#243;fago
+		Est&#243;mago
+55,4,1 1 3
+	Est&#225; tomando alguna medicaci&#243;n:
+		Anticoagulantes
+		Antiinflamatorios no esteroides
+		Salicilatos
+56,4,1 1 8
+	Existen antecedentes de:
+		Dolor Abdominal
+		Ardor Epig&#225;strico
+		Disfagia
+		Pirosis
+		Lesi&#243;n Hep&#225;tica
+		N&#225;useas
+		V&#243;mitos
+		Cirug&#237;a Previa G&#225;strica
+57,4,1 1 4
+	El paciente ha ingerido:
+		Preparado de hierro
+		Bismuto
+		Vino tinto
+		Calamares en su tinta
+58,4,1 1 3
+	El paciente tiene:
+		Dolor Anal
+		Prurito Anal
+		Hemorroides
+59,4,1 1 7
+	La Rectorragia se acompa&#241;a de:
+		Diarrea
+		Alteraci&#243;n del Ritmo Intestinal
+		Astenia
+		Anorexia
+		P&#233;rdida de Peso
+		Fiebre
+		Estre&#241;imiento
+60,4,1 1 6
+	El paciente tiene historia previa de:
+		Enfermedades del Es&#243;fago
+		Enfermedades del Est&#243;mago o Duodeno
+		Enfermedades del Arbol Biliar
+		Enfermedades del P&#225;ncreas
+		Enfermedades Intestinales
+		Enfermedades Sist&#233;micas
+61,4,1 1 3
+	Historia previa de enfermedades del Es&#243;fago:
+		Reflujo esof&#225;gico, con hernia de hiato o sin ella
+		Acalasia
+		Obstrucci&#243;n Esof&#225;gica
+62,4,1 1 4
+	Historia previa de enfermedades del Est&#243;mago o Duodeno:
+		Gastritis
+		Ulcera G&#225;strica
+		Ulcera Duodenal
+		Neoplasia G&#225;strica
+63,4,1 1 3
+	Historia previa de enfermedades del Arbol Biliar:
+		Colecistitis
+		Colelitiasis
+		Coledocolitiasis
+64,4,1 1 2
+	Historia previa de enfermedades del P&#225;ncreas:
+		Pancreatitis
+		Neoplasia de P&#225;ncreas
+65,4,1 1 5
+	Historia previa de enfermedades Intestinales:
+		Estados Malabsortivos
+		Obstrucci&#243;n Intestinal Intermitente
+		S&#237;ndrome de Colon Irritable
+		Angina Abdominal
+		Colitis Isqu&#233;mica
+66,4,1 1 6
+	Historia previa de enfermedades Sist&#233;micas:
+		Tuberculosis
+		Cardiopat&#237;as
+		Insuficiencia Renal
+		Hepatopat&#237;a Cr&#243;nica
+		Cirrosis Hep&#225;tica
+		Diabetes Mellitus
+67,4,1 1 13
+	S&#237;ntomas asociados a la Dispepsia:
+		N&#225;useas
+		V&#243;mitos
+		Pirosis
+		Dolor Abdominal
+		Estre&#241;imiento
+		Diarrea
+		Hematemesis
+		Melena
+		Rectorragia
+		Distensi&#243;n Abdominal
+		Ictericia
+		Heces con par&#225;sitos
+		Ardor
+68,4,1 1 10
+	El Estre&#241;imiento se acompa&#241;a de:
+		Dolor Rectal
+		Urgencia
+		Tenesmo Rectal
+		Astenia
+		Anorexia
+		P&#233;rdida de Peso
+		Dolor Abdominal
+		N&#225;useas
+		V&#243;mitos
+		Distensi&#243;n Abdominal
+69,4,1 1 8
+	Antecedentes Farmacol&#243;gicos de:
+		Opi&#225;ceos
+		Antidepresivos
+		Anticolinerg&#233;nicos
+		Anti&#225;cidos
+		Hierro
+		Algunos Antihipertensivos
+		Diur&#233;ticos
+		Abuso de Laxantes
+70,4,1 1 8
+	Tiene antecedentes de:
+		Embarazo
+		Hipotiroidismo
+		Hiperparatiroidismo
+		Otras Hipercalcemias
+		Hipopotasemia
+		Diabetes Mellitus
+		Porfiria
+		Feocromocitoma
+71,4,1 1 6
+	El paciente:
+		Come pocos vegetales
+		Bebe poca agua
+		Sedentario
+		Retiene de voluntariamente el deseo de defecaci&#243;n
+		Abuso de enemas
+		Abuso de laxantes
+72,4,1 1 2
+	La Disfagia se relaciona con:
+		Ingesta de c&#225;usticos
+		Ingesta de cuerpo extra&#241;o
+73,4,1 1 3
+	Tiene antecedentes de:
+		Inmunosupresi&#243;n
+		Ingesti&#243;n de Corticoides
+		HIV
+74,4,1 1 3
+	Tiene otros s&#237;ntomas asociados a la Disfagia:
+		Generales
+		Digestivos
+		Respiratorios
+75,4,1 1 4
+	S&#237;ntomas Generales asociados a la Disfagia:
+		Astenia
+		Anorexia
+		P&#233;rdida de Peso
+		Replecci&#243;n postpandrial de cuello y halitosis
+76,4,1 1 3
+	S&#237;ntomas Digestivos asociados a la Disfagia:
+		Ardor Epig&#225;strico
+		Dolor Abdominal
+		Regurgitaci&#243;n
+77,4,1 1 2
+	S&#237;ntomas Respiratorios asociados a la Disfagia:
+		Tose con la degluci&#243;n
+		Neumon&#237;a de repetici&#243;n
+78,4,1 1 5
+	Antecedentes de otras patolog&#237;as:
+		Hep&#225;tica
+		Cardiaca
+		Renal
+		S&#237;ndrome Malabsortivo
+		Tumoral
+79,4,1 1 7
+	S&#237;ntomas Digestivos asociados a la Distensi&#243;n Abdominal:
+		V&#243;mitos
+		Ausencia de Deposici&#243;n
+		Ictericia
+		Estre&#241;imiento
+		Diarrea
+		Dolor Abdominal
+		Eructos y/o Meteorismos
+80,4,1 1 6
+	S&#237;ntomas extradigestivos asociados a la Distensi&#243;n Abdominal:
+		Astenia
+		Anorexia
+		P&#233;rdida de Peso
+		Disnea
+		Edema
+		Fiebre
+81,4,1 1 16
+	Tiene antecedentes de:
+		Colelitiasis
+		Litiasis Renal
+		Ulcera p&#233;ptica
+		Intususcepci&#243;n
+		Adherencias Intra-Abdominales
+		Neoplasia Colon
+		Neoplasia G&#225;strica
+		Neoplasia P&#225;ncreas
+		Enfermedad Inflamatoria P&#233;lvica
+		Pancreatitis Aguda
+		V&#243;lvulo
+		Ingesta de F&#225;rmacos Gastroerosivos
+		P&#243;lipos Colon
+		Diverticulosis
+		Enfermedad Inflamatoria Intestinal
+		Cirug&#237;a
+82,4,1 1 24
+	El paciente padece de:
+		Diabetes
+		Alcoholismo
+		Hepatopat&#237;a cr&#243;nica con o sin ascitis
+		Cirrosis Hep&#225;tica
+		Patolog&#237;a Card&#237;aca
+		Apendicectom&#237;a
+		Colecistectom&#237;a
+		Cirug&#237;a G&#225;strica
+		Laparatom&#237;a
+		Mononucleosis Infecciosa
+		Anemia Microc&#237;tica
+		Anemia Macroc&#237;tica
+		Anemia Normoc&#237;tica
+		Flebitis de Repetici&#243;n
+		Diarrea
+		Estridor
+		Rinorrea
+		Ep&#237;staxis
+		Estornudo
+		Obstrucci&#243;n Nasal
+		Dolor Facial
+		Odinofagia
+		Prurito Far&#237;ngeo
+		Pancreatitis Cr&#243;nica
+83,4,1 1 2
+	La Hematemesis se asocia con:
+		Melena
+		Rectorragia
+84,4,1 1 6
+	Qu&#233; medicamentos ha ingerido:
+		Antibi&#243;ticos
+		Colin&#233;rgicos
+		Colchicina
+		Digital
+		Hierro
+		Antimal&#225;rico
+85,4,1 2 15
+	Relaciona la Diarrea con la ingesta de alguno de los siguientes alimentos
+	 sospechosos:
+		Setas
+		Pescado
+		Embutido
+		Marisco
+		Bebidas &#225;cidas y bicarbonatadas
+		Leche y derivados
+		Huevos (ensaladilla, pasteleria, heladeria)
+		Carne
+		Agua
+		Aves
+		Arroz
+		Pescados ahumados
+		Conservas
+		Legumbres
+		Vegetales
+86,4,1 1 3
+	El paciente presenta Sintomatolog&#237;a asociada del Aparato:
+		Digestivo
+		Dermatol&#243;gico
+		Otros Aparatos
+87,4,1 1 10
+	Sintomatolog&#237;a digestiva asociada a la Diarrea:
+		Dolor Abdominal
+		V&#243;mitos
+		N&#225;useas
+		Urgencia Rectal
+		Tenesmo Rectal
+		Diarrea en agua de arroz
+		Flatulencia
+		Hepatitis
+		Ictericia
+		Pujos
+88,4,1 1 6
+	Sintomatolog&#237;a dermatol&#243;gica asociada a la Diarrea:
+		Rash Cut&#225;neo
+		Herpes Labial
+		Eritema Nodoso
+		Exantema
+		Eritema Multiforme
+		Pioderma Gangrenoso
+89,4,1 1 13
+	El paciente refiere otras patolog&#237;as asociadas a la Diarrea:
+		Diabetes Mellitus
+		Artritis
+		Hepatopat&#237;a
+		Adenopat&#237;as
+		Neuropat&#237;a
+		Hipotensi&#243;n Postural
+		Enfermedad Pulmonar Cr&#243;nica
+		Hiperpigmentaci&#243;n
+		Espondilitis
+		Uve&#237;tis - Iritis
+		Eritema Nodoso
+		Pioderma Gangrenoso
+		Eritema Multiforme
+90,4,1 1 8
+	Tiene antecedentes de:
+		Radioterapia en regi&#243;n abdominal
+		Gastrectom&#237;a
+		Resecci&#243;n de Intestino Delgado
+		Resecci&#243;n del P&#225;ncreas
+		Intolerancia al Gl&#250;ten
+		Hipertiroidismo
+		Pancreatitis Cr&#243;nica
+		Nefropat&#237;a
+94,4,1 1 2
+	La Pancreatitis previa es:
+		Aguda
+		Cr&#243;nica
+95,4,1 1 3
+	El Estre&#241;imiento comenz&#243; hace:
+		Menos de un mes
+		Entre un mes y un a&#241;o
+		M&#225;s de un a&#241;o
+96,4,1 1 2
+	El Dolor Abdominal es:
+		Generalizado
+		Localizado
+97,4,1 1 16
+	El paciente presenta otras sintomatolog&#237;as asociadas a la Diarrea Aguda:
+		Alteraci&#243;n de la Sensibilidad
+		Mareo - V&#233;rtigo
+		Artritis
+		Cefalea
+		Convulsiones
+		Alteraci&#243;n del Nivel de Conciencia
+		Mialgias
+		Escalofr&#237;o
+		Conjuntivitis y/o Uve&#237;tis
+		Espondilitis
+		Fiebre
+		Afectaci&#243;n del Estado General
+		Focalidad de Pares Craneales
+		Debilidad Muscular
+		Disfon&#237;a
+		Visi&#243;n Borrosa
+99,4,1 1 2
+	La Dispepsia con la ingesta:
+		Se alivia
+		Se empeora
+100,4,1 1 24
+	El Dolor Abdominal se asocia con:
+		Fiebre
+		Escalofrio
+		Ictericia
+		Diarrea
+		Rectorragia
+		Estre&#241;imiento
+		Disuria
+		Polaquiuria
+		Tenesmo Rectal
+		V&#243;mitos
+		Nauseas
+		Coluria u Orina Oscura
+		Ausencia de Deposici&#243;n
+		Astenia
+		Anorexia
+		P&#233;rdida de Peso
+		Pirosis
+		Hematuria
+		Metrorragia
+		Melena
+		Alteraci&#243;n del Ritmo Intestinal
+		Ardor Epig&#225;strico
+		Sudoraci&#243;n
+		Distenci&#243;n Abdominal
+101,4,1 1 27
+	El Dolor Abdominal se asocia con:
+		Ictericia
+		Fiebre
+		Polaquiuria
+		Disuria
+		Hematuria
+		Alteraciones del Ritmo Intestinal
+		Diarrea
+		Tos
+		Expectoraci&#243;n
+		V&#243;mitos
+		N&#225;useas
+		Ardor Epig&#225;strico
+		Pirosis
+		Rectorragia
+		Leucorrea
+		Metrorragia
+		Trastornos Ps&#237;quicos
+		Coluria u Orina Oscura
+		Acolia
+		Astenia
+		Anorexia
+		P&#233;rdida de peso
+		Estre&#241;imiento
+		Ausencia de Deposici&#243;n
+		Sudoraci&#243;n
+		Melenas
+		Distenci&#243;n Abdominal
+102,4,1 1 7
+	Las N&#225;useas y/o V&#243;mitos se acompa&#241;an de:
+		Diarrea
+		Distensi&#243;n Abdominal
+		Ausencia de Deposici&#243;n
+		Dolor Tor&#225;cico
+		S&#237;ntomas Vegetativos
+		Ardor
+		Dolor Abdominal
+103,4,1 1 12
+	La Diarrea Cr&#243;nica se acompa&#241;a de:
+		Distensi&#243;n Abdominal
+		Tenesmo Rectal
+		Dolor Abdominal
+		P&#233;rdida de Peso
+		Anorexia
+		Fiebre
+		Sudoraci&#243;n
+		Dolor Articular
+		Mialgias y/o Quebrantamiento General
+		Ictericia
+		Alterna con Estre&#241;imiento
+		Astenia
+104,4,1 1 2
+	Es sangre:
+		Que mancha la deposici&#243;n
+		Sin relaci&#243;n con la deposici&#243;n
+105,4,1 1 20
+	Cu&#225;les de los siguientes f&#225;rmacos ha ingerido el paciente:
+		Azatioprina
+		Metotrexate
+		Paracetamol
+		6-mercaptopurina
+		5-fluorouacilo
+		Fenilbutazona
+		Difenilhidanto&#237;na
+		Metildopa
+		Rifampicina
+		Isoniacida
+		Sulfam&#237;dicos
+		Eritromicina
+		Clorotiazida
+		Anticonceptivos
+		Metimazole
+		Clorpropamida
+		Clorpromazina
+		Otras fenotiazinas
+		Metiltosterona
+		Antimic&#243;ticos
+106,4,1 1 2
+	El Estre&#241;imiento alterna con deposiciones:
+		Normales
+		Diarr&#233;icas
+107,4,1 1 5
+	El Dolor Abdominal empeora con:
+		Ingesta de Alimentos
+		Movimientos y/o Tos
+		Stress o Alteraciones Emocionales
+		Ingesta de Alcohol
+		Ingesta de F&#225;rmacos
+108,4,1 1 3
+	Caracter&#237;sticas del Dolor Abdominal en el tiempo:
+		Primer Episodio
+		Con Caracter Estacional
+		Recurrente
+109,4,1 1 3
+	Desde cu&#225;ndo se presenta el Ardor en el Epigastrio:
+		D&#237;as
+		Semanas
+		Meses o A&#241;os
+110,4,1 1 2
+	D&#243;nde se localiza la Disfagia:
+		A Nivel Orofar&#237;ngeo
+		A Nivel Esof&#225;gico
+111,4,1 1 3
+	Desde cu&#225;ndo presenta Regurgitaci&#243;n:
+		Semanas
+		Meses
+		A&#241;os
+112,4,1 1 3
+	Desde cu&#225;ndo presenta Dispepsia:
+		Semanas
+		Meses
+		A&#241;os
+113,4,1 1 3
+	La Dispepsia tiene relaci&#243;n con:
+		Ingesta de comidas flatulentas
+		Stress o ansiedad
+		Ingesta de f&#225;rmacos
+114,4,1 1 2
+	El paciente presenta Antecedentes Personales de:
+		Ictericia Funcional
+		Ictericia Org&#225;nica
+115,4,1 1 15
+	El paciente ha ingerido alg&#250;n alimento sospechoso:
+		Setas
+		Pescado
+		Embutido
+		Marisco
+		Bebidas &#225;cidas y bicarbonatadas
+		Leche y derivados
+		Huevos (ensaladilla, pasteleria, heladeria)
+		Carne
+		Agua
+		Aves
+		Arroz
+		Pescados ahumados
+		Conservas
+		Legumbres
+		Vegetales
+116,4,1 1 3
+	La Diarrea se acompa&#241;a de:
+		Restos de Comida
+		Flemas o mocos
+		Sangre
+117,4,1 1 2
+	Frecuencia de la Diarrea:
+		Abundante (M&#225;s de 3 deposiciones al d&#237;a)
+		Escasa (3 o menos deposisiones al d&#237;a)
+118,4,1 1 2
+	Las Heces:
+		Tienden a flotar
+		Se acompa&#241;an de grasa
+119,4,1 2 12
+	El paciente presenta alguna de las siguientes Manifestaciones
+	 Neuropsiqui&#225;tricas:
+		Alteraci&#243;n del movimiento
+		Cefalea
+		Temblor de Reposo
+		Corea
+		Rigidez
+		Tetania
+		Alteraci&#243;n del Lenguaje (Disartria)
+		Alteraci&#243;n de la Memoria
+		Alteraci&#243;n del Nivel de Conciencia
+		Nervioso, Irritable o Ansioso
+		Estupor
+		Alteraci&#243;n de Funciones Mentales Superiores
+120,4,1 1 8
+	El paciente tiene historia previa de:
+		Hepatitis Viral Aguda
+		Hepatitis T&#243;xica por F&#225;rmacos
+		Hepatitis Cr&#243;nica Activa
+		Toxicoman&#237;a Parenteral
+		Pinchazos o Cortes
+		Transfusiones Recientes
+		Pr&#225;ctica Sexual de Riesgo
+		Homosexualidad

@@ -1,0 +1,32 @@
+.size-m{
+    font-size: medium;
+}
+
+.shadow-g{
+    box-shadow: 2px 2px 10px;
+}
+
+.h-35{
+    height: 35rem;
+}
+
+.w-40{
+    position: absolute;
+    z-index: 1;
+    width: 40%;
+    left: 0%;
+}
+
+.w-60{
+    position: absolute;
+    width: 60%;
+    right: 0%;
+}
+
+.w-60-r{
+    right: 40%;
+}
+
+.w-80{
+    width: 80%;
+}

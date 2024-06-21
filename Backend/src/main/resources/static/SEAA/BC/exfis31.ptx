@@ -1,0 +1,3005 @@
+1,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n GENERAL
+2,3,1 1
+	El paciente tiene el Peso normal
+3,3,1 1
+	El paciente es Obeso
+4,3,1 1
+	El paciente tiene H&#225;bitos ast&#233;nicos
+5,3,1 1
+	El paciente tiene Temperatura normal
+6,3,1 1
+	El paciente tiene Febr&#237;cula
+7,3,1 1
+	El paciente tiene Fiebre
+8,3,1 1
+	El paciente tiene Bradicardia (pulso menor de 60)
+9,3,1 1
+	El paciente tiene Pulso normal (pulso entre 60 y 100)
+10,3,1 1
+	El paciente tiene Taquicardia (pulso mayor de 100)
+11,3,1 1
+	El paciente tiene Pulso parad&#243;jico
+12,3,1 1
+	El paciente tiene Presi&#243;n arterial alta (&#62;139/&#62;89)
+13,3,1 1
+	El paciente tiene Presi&#243;n arterial baja
+14,3,1 1
+	El paciente tiene Presi&#243;n arterial normal Alta (130-139/85-89)
+15,3,1 1
+	El paciente tiene Estado de consciencia: Consciente
+16,3,1 1
+	El paciente tiene Estado de consciencia: Obnubilado
+17,3,1 1
+	El paciente tiene Estado de consciencia: Estuporoso
+18,3,1 1
+	El paciente tiene Estado de consciencia: Comatoso
+19,3,1 1
+	El paciente se encuentra Orientado
+20,3,1 1
+	El paciente se encuentra Desorientado
+21,3,1 1
+	El paciente tiene buen Aspecto general
+22,3,1 1
+	El paciente tiene Afectaci&#243;n del estado general
+23,3,1 1
+	El paciente est&#225; bien Hidratado
+24,3,1 1
+	El paciente est&#225; Deshidratado
+25,3,1 1
+	El paciente est&#225; bien Nutrido
+26,3,1 1
+	El paciente est&#225; Desnutrido
+27,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en las Gl&#225;ndulas Salivares
+28,3,1 1
+	La coloraci&#243;n de piel y mucosa es normal
+29,3,1 1
+	El paciente presenta P&#225;lido el color de piel y mucosa
+30,3,1 1
+	El paciente presenta Ictericia
+31,3,1 1
+	El paciente presenta Cianosis
+32,3,1 1
+	El paciente presenta Hiperpigmentaci&#243;n
+33,3,1 1
+	El paciente presenta Rash cut&#225;neo
+34,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en CABEZA Y CUELLO
+35,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en OJOS
+36,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en la Conjuntiva
+37,3,1 1
+	El paciente tiene Tumoraciones en la Conjuntiva
+38,3,1 1
+	El paciente tiene Ictericia en la Conjuntiva
+39,3,1 1
+	El paciente tiene Hiperemia en la Conjuntiva
+40,3,1 1
+	El paciente tiene un Exudado purulento en la Conjuntiva
+41,3,1 1
+	El paciente tiene la Conjuntiva normal
+42,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en la C&#243;rnea
+43,3,1 1
+	El paciente tiene la C&#243;rnea normal
+44,3,1 1
+	El paciente tiene Anillo de Kayser-Fleischer en la C&#243;rnea
+45,3,1 1
+	El paciente tiene Ulceraci&#243;n en la C&#243;rnea
+46,3,1 1
+	El paciente tiene Hipopion
+47,3,1 1
+	El paciente tiene Opacidades en la C&#243;rnea
+48,3,1 1
+	El paciente tiene Arco corneal
+49,3,1 1
+	El paciente presenta Adenopat&#237;as en cadenas laterales del cuello
+50,3,1 1
+	El paciente presenta Retinopat&#237;a hipertensiva
+51,3,1 1
+	El paciente presenta Retinopat&#237;a diab&#233;tica
+52,3,1 1
+	II Par: Optico: Fondo ojo: Papila normal
+53,3,1 1
+	II Par: Optico: Fondo ojo: Edema papila
+54,3,1 1
+	II Par: Optico: Fondo ojo: Hemorragias
+55,3,1 1
+	El paciente presenta Exoftalmos
+56,3,1 1
+	El paciente presenta Enoftalmos
+57,3,1 1
+	El paciente presenta Diplopia
+58,3,1 1
+	El paciente presenta Ptosis palpebral
+59,3,1 1
+	El paciente presenta Edema palpebral
+60,3,1 1
+	El paciente presenta Adenopat&#237;as submandibulares
+61,3,1 1
+	III, IV y Par: Oculomotores: Pupilas: Normales
+62,3,1 1
+	III, IV y Par: Oculomotores: Pupilas: Isoc&#243;ricas
+63,3,1 1
+	III, IV y Par: Oculomotores: Pupilas: Anisoc&#243;ricas
+64,3,1 1
+	III, IV y Par: Oculomotores: Pupilas: Normorreactivas
+65,3,1 1
+	III, IV y Par: Oculomotores: Pupilas: Arreactivas
+66,3,1 1
+	III, IV y Par: Oculomotores: Pupilas: Midri&#225;ticas: Unilateral
+67,3,1 1
+	III, IV y Par: Oculomotores: Pupilas: Midri&#225;ticas: Bilateral
+68,3,1 1
+	III, IV y Par: Oculomotores: Pupilas: Mi&#243;ticas: Unilateral
+69,3,1 1
+	III, IV y Par: Oculomotores: Pupilas: Mi&#243;ticas: Bilateral
+70,3,1 1
+	El paciente presenta Uve&#237;tis
+71,3,1 1
+	El paciente presenta Epiescleritis
+72,3,1 1
+	El paciente presenta Iritis
+73,3,1 1
+	El paciente presenta Hiperemia
+74,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en los OIDOS
+75,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en el Conducto Auditivo Externo
+76,3,1 1
+	El paciente presenta el Conducto Auditivo Externo normal
+77,3,1 1
+	El paciente presenta Tumoraciones en el Conducto Auditivo Externo
+78,3,1 1
+	El paciente presenta Edema y Exudados en el Conducto Auditivo Externo
+79,3,1 1
+	El paciente presenta Tapones en el Conducto Auditivo Externo
+80,3,1 1
+	El paciente presenta Cuerpo extra&#241;o en el Conducto Auditivo Externo
+81,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en el Timpano
+82,3,1 1
+	El paciente presenta el T&#237;mpano normal
+83,3,1 1
+	El paciente presenta el T&#237;mpano hiper&#233;mico
+84,3,1 1
+	El paciente presenta el T&#237;mpano opaco y hay p&#233;rdida brillo
+85,3,1 1
+	El paciente presenta el T&#237;mpano perforado
+86,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en el Pabell&#243;n auricular
+87,3,1 1
+	El paciente tiene el Pabell&#243;n auricular normal
+88,3,1 1
+	El paciente tiene Tofos en el Pabell&#243;n auricular
+89,3,1 1
+	El paciente tiene Condritis en el Pabell&#243;n auricular
+90,3,1 2
+	Al paciente se le realiz&#243; exploraci&#243;n en la Regi&#243;n nasal y
+	 Paranasal
+91,3,1 1
+	Al paciente se le realiz&#243; Rinoscopia anterior
+92,3,1 1
+	El paciente tiene Normal la Regi&#243;n nasal
+93,3,1 1
+	El paciente tiene Hemorragias en la Regi&#243;n nasal
+94,3,1 1
+	El paciente tiene P&#243;lipos nasales
+95,3,1 1
+	El paciente tiene Secreci&#243;n nasal Purulenta
+96,3,1 1
+	El paciente tiene Tumores en la Regi&#243;n nasal
+97,3,1 2
+	El paciente tiene Desviaci&#243;n del Tabique y Cuerpo extra&#241;o en la
+	 Regi&#243;n nasal
+98,3,1 1
+	Al paciente se le realiz&#243; Rinoscopia posterior
+99,3,1 1
+	El paciente tiene Tumores en la Nasofaringe
+100,3,1 1
+	El paciente tiene Hemorragias en la Nasofaringe
+101,3,1 1
+	El paciente tuvo dolor a la Palpaci&#243;n de Senos paranasales
+102,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en la Boca y Orofaringe
+103,3,1 1
+	La Boca y Orofaringe est&#225;n Normales
+104,3,1 1
+	El paciente tiene Caries
+105,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en la Mucosa gingival
+106,3,1 1
+	La Mucosa gingival est&#225; Normal
+107,3,1 1
+	El paciente tiene Ulceras en la Mucosa gingival
+108,3,1 1
+	El paciente tiene Gingivitis
+109,3,1 1
+	El paciente tiene Gingivorragias
+110,3,1 1
+	El paciente tiene Tumores en la Mucosa gingival
+111,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en la Mucosa yugal
+112,3,1 1
+	La Mucosa yugal est&#225; Normal
+113,3,1 1
+	El paciente tiene Tumoraciones en la Mucosa yugal
+114,3,1 1
+	El paciente tiene Leucoplasias en la Mucosa yugal
+115,3,1 1
+	El paciente tiene Ulceras en la Mucosa yugal
+116,3,1 1
+	El paciente tiene Lesiones algodonosas en la Mucosa yugal
+117,3,1 1
+	El paciente tiene Hiperplasia gingival en la Mucosa yugal
+118,3,1 1
+	El paciente tiene lesiones Hiperpigmentadas en la Mucosa yugal
+119,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en los Labios
+120,3,1 1
+	Los Labios del paciente est&#225;n Normales
+121,3,1 1
+	El paciente tiene Queilitis angular
+122,3,1 1
+	El paciente tiene Lesiones mel&#225;nicas en los Labios
+123,3,1 1
+	El paciente tiene Angiomas en los Labios
+124,3,1 1
+	El paciente tiene Ves&#237;culas en los Labios
+125,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en la Regi&#243;n Periamigdalar
+126,3,1 1
+	El paciente tiene Am&#237;gdalas Normales
+127,3,1 1
+	El paciente tiene ausencias de Am&#237;gdalas
+128,3,1 1
+	El paciente tiene Exudados amigdalares
+129,3,1 1
+	El paciente tiene Tumoraciones amigdalares
+130,3,1 1
+	El paciente tiene Ulceras amigdalares
+131,3,1 1
+	El paciente tiene Hiperemia amigdalar
+132,3,1 1
+	El paciente tiene Lesiones algodonosas en la Regi&#243;n periamigdalar
+133,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en la Lengua
+134,3,1 1
+	El paciente tiene la Lengua Normal
+135,3,1 1
+	El paciente tiene Macroglosia en la Lengua
+136,3,1 1
+	El paciente tiene Depapilaci&#243;n
+137,3,1 1
+	El paciente tiene Tumores en la Lengua
+138,3,1 1
+	El paciente tiene Glositis
+139,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en el Cuello
+140,3,1 1
+	El paciente tiene Adenopat&#237;as en el Cuello
+141,3,1 1
+	Las Adenopat&#237;as son Blandas y M&#243;viles
+142,3,1 1
+	Las Adenopat&#237;as son Duras y Adheridas
+143,3,1 1
+	La Adenopat&#237;a es Supraclavicular
+144,3,1 1
+	La Adenopat&#237;a es Supraclavicular izquierda
+145,3,1 1
+	La Adenopat&#237;a es Supraclavicular derecha
+146,3,1 1
+	Al paciente se le realiz&#243; Auscultaci&#243;n cuello
+147,3,1 1
+	El paciente tiene Soplos carot&#237;deos
+148,3,1 1
+	El paciente tiene Estridor lar&#237;ngeo
+149,3,1 1
+	El paciente tiene Ingurgitaci&#243;n yugular
+150,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en la Gl&#225;ndula Tiroides
+151,3,1 1
+	El paciente tiene la Tiroides Normal
+152,3,1 1
+	El paciente tiene Bocio Difuso
+153,3,1 1
+	El paciente tiene N&#243;dulo tiroideo
+154,3,1 1
+	El paciente tiene Masas en la Tiroides
+155,3,1 1
+	El paciente tiene Soplos en la Tiroides
+156,3,1 1
+	El paciente tiene la Gl&#225;ndulas salivares Normal
+157,3,1 1
+	El paciente tiene Aumento de tama&#241;o de la Gl&#225;ndula par&#243;tida
+158,3,1 1
+	El paciente tiene Aumento de tama&#241;o de las Gl&#225;ndulas submaxilares
+159,3,1 1
+	El paciente tiene N&#243;dulos en las Gl&#225;ndulas salivares
+160,3,1 1
+	El paciente tiene Masas en las Gl&#225;ndulas salivares
+161,3,1 1
+	El paciente siente Dolor a palpaci&#243;n de las Gl&#225;ndulas salivares
+162,3,1 1
+	El paciente tiene Tumores en el Cuello
+163,3,1 1
+	El paciente tiene Tumor blando en el Cuello que desparece con la presi&#243;n
+164,3,1 1
+	Se siente Crepitaci&#243;n a la palpaci&#243;n Cuello
+165,3,1 1
+	El paciente tiene Edema en esclavina en el Cuello
+166,3,1 2
+	Al paciente se le realiz&#243; palpaci&#243;n de Arterias en las Regiones
+	 Temporales
+167,3,1 1
+	El paciente sinti&#243; Dolor a la palpaci&#243;n de las Regiones Temporales
+168,3,1 1
+	Se palparon Arterias temporales Engrosadas
+169,3,1 1
+	Se palparon Arterias temporales Tortuosas
+170,3,1 1
+	Se palparon Arterias temporales Endurecidas
+171,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en el Torax
+172,3,1 1
+	Al paciente se le realiz&#243; inspecci&#243;n en el Torax
+173,3,1 1
+	El paciente tiene aspecto Normal en el T&#243;rax
+174,3,1 1
+	El paciente tiene Deformidad tor&#225;cica
+175,3,1 1
+	El paciente tiene Movilidad tor&#225;cica Normal
+176,3,1 1
+	El paciente tiene Movilidad tor&#225;cica Asim&#233;trica
+177,3,1 1
+	El paciente tiene Neumot&#243;rax
+178,3,1 1
+	El paciente tiene Toracoplastia
+179,3,1 1
+	El paciente tiene Frecuencia respiratoria entre 12 y 20 (Normal)
+180,3,1 1
+	El paciente tiene Frecuencia respiratoria mayor de 20 (Taquipnea)
+181,3,1 1
+	El paciente tiene Ginecomastia (s&#243;lo var&#243;n)
+182,3,1 1
+	A la paciente se le realiz&#243; inspecci&#243;n en las Mamas (s&#243;lo mujer)
+183,3,1 1
+	Las Mamas son Sim&#233;tricas de tama&#241;o
+184,3,1 1
+	Las Mamas son Asim&#233;tricas de tama&#241;o
+185,3,1 1
+	La paciente tiene Tumores visibles en las Mamas
+186,3,1 1
+	La paciente tiene Signos inflamatorios visibles en las Mamas
+187,3,1 1
+	La paciente tiene Retracci&#243;n del Pez&#243;n
+188,3,1 1
+	La paciente tiene Piel aspecto naranja en las Mamas
+189,3,1 1
+	El paciente tiene Utilizaci&#243;n musculatora accesoria tor&#225;cica
+190,3,1 1
+	Al paciente se le realiz&#243; palpaci&#243;n en el Torax
+191,3,1 1
+	El paciente tiene Adenopat&#237;as en las Axilas
+192,3,1 1
+	Las Adenopat&#237;as son Blandas y M&#243;viles
+193,3,1 1
+	Las Adenopat&#237;as son Duras y Adheridas
+194,3,1 1
+	Se palparon Tumoraciones en las Mamas
+195,3,1 1
+	Hay Exudado del Pez&#243;n a la palpaci&#243;n
+196,3,1 1
+	Se palp&#243; Crepitaci&#243;n cut&#225;nea en el T&#243;rax
+197,3,1 2
+	Hay Dolor a la palpaci&#243;n de las Costillas-cart&#237;lagos
+	 Costales-estern&#243;n
+198,3,1 2
+	Hay Crepitaci&#243;n a la palpaci&#243;n de las Costillas-cart&#237;lagos
+	 Costales-estern&#243;n
+199,3,1 1
+	Hay Tumoraciones en las Costillas-cart&#237;lagos Costales-estern&#243;n
+200,3,1 1
+	Hay N&#243;dulos cut&#225;neos o Tumoraciones cut&#225;neas en el T&#243;rax
+201,3,1 1
+	Se palpan Latidos de la punta cardiaca Disminuidos
+202,3,1 1
+	Se palpan Latidos de la punta cardiaca Hipercin&#233;tico
+203,3,1 1
+	Se palpan Latidos de la punta cardiaca Desplazado hacia la izquierda
+204,3,1 1
+	El paciente tiene Soplo supraclavicular
+205,3,1 1
+	Al paciente se le realiz&#243; percusi&#243;n en el Torax
+206,3,1 1
+	Se sinti&#243; Sonido timp&#225;nico
+207,3,1 1
+	Se sinti&#243; Matidez
+208,3,1 1
+	Al paciente se le realiz&#243; Auscultaci&#243;n el Torax
+209,3,1 1
+	Al paciente se le realiz&#243; Auscultaci&#243;n card&#237;aca
+210,3,1 1
+	La Auscultaci&#243;n card&#237;aca es Normal
+211,3,1 1
+	Se percibe Soplos cardiacos
+212,3,1 1
+	Los Soplos card&#237;acos se localizan en el Apex cardiaco
+213,3,1 1
+	Los Soplos card&#237;acos se localizan en el Borde esternal derecho
+214,3,1 1
+	Los Soplos card&#237;acos se localizan en el Borde esternal izquierdo
+215,3,1 1
+	Los Soplos card&#237;acos se localizan en el 2? Espacio intercostal izquierdo
+216,3,1 1
+	Los Soplos card&#237;acos se localizan en el 2? Espacio intercostal derecho
+217,3,1 1
+	Los Soplos card&#237;acos son de tipo Sist&#243;lico
+218,3,1 1
+	Los Soplos card&#237;acos son de tipo Diast&#243;lico
+219,3,1 1
+	Los Soplos card&#237;acos se irradian a la Axila
+220,3,1 1
+	Los Soplos card&#237;acos se irradian al Cuello
+221,3,1 1
+	Los Soplos card&#237;acos aumentan su intensidad con la Inspiraci&#243;n
+222,3,1 1
+	Los Soplos card&#237;acos aumentan su intensidad con la Espiraci&#243;n
+223,3,1 1
+	Los Soplos card&#237;acos aumentan su intensidad con la Valsalva
+224,3,1 1
+	Los Soplos card&#237;acos aumentan su intensidad con la Ejercicio previo
+225,3,1 1
+	Los Soplos card&#237;acos disminuyen su intensidad con la Inspiraci&#243;n
+226,3,1 1
+	Los Soplos card&#237;acos disminuyen su intensidad con la Espiraci&#243;n
+227,3,1 1
+	Los Soplos card&#237;acos disminuyen su intensidad con la Valsalva
+228,3,1 1
+	El paciente presenta Soplo propio del Mixoma auricular (PLOP)
+229,3,1 1
+	El Sonido del soplo es Sordo
+230,3,1 1
+	El Sonido del soplo es Piante
+231,3,1 1
+	El paciente presenta Roce peric&#225;rdico
+232,3,1 1
+	El paciente presenta Ruidos card&#237;acos de 4? Tono
+233,3,1 1
+	El paciente presenta Ruidos card&#237;acos de 3? Tono
+234,3,1 1
+	El paciente presenta Ruidos card&#237;acos Apagados
+235,3,1 1
+	El paciente presenta Ritmos card&#237;acos Regulares
+236,3,1 1
+	El paciente presenta Ritmos card&#237;acos Irregulares
+237,3,1 1
+	El paciente presenta Primer ruido Aumentado
+238,3,1 1
+	El paciente presenta Desdoblamiento del 1? Tono
+239,3,1 1
+	El paciente presenta Desdoblamiento del 2? Tono
+240,3,1 1
+	El paciente presenta Chasquido de apertura
+241,3,1 1
+	Al paciente se le realiz&#243; Auscultaci&#243;n pulmonar
+242,3,1 1
+	La Auscultaci&#243;n pulmonar es Normal
+243,3,1 2
+	Se percibe disminuci&#243;n del murmullo vesicular en el campo superior del
+	 hemitorax derecho
+244,3,1 2
+	Se percibe disminuci&#243;n del murmullo vesicular en el campo medio del
+	 hemitorax derecho
+245,3,1 2
+	Se percibe disminuci&#243;n del murmullo vesicular en el campo inferior del
+	 hemitorax derecho
+246,3,1 2
+	Se percibe disminuci&#243;n del murmullo vesicular en el campo superior del
+	 hemitorax izquierdo
+247,3,1 2
+	Se percibe disminuci&#243;n del murmullo vesicular en el campo medio del
+	 hemitorax izquierdo
+248,3,1 2
+	Se percibe disminuci&#243;n del murmullo vesicular en el campo inferior del
+	 hemitorax izquierdo
+249,3,1 1
+	Se percibe crepitantes en el campo superior del hemitorax derecho
+250,3,1 1
+	Se percibe crepitantes en el campo medio del hemitorax derecho
+251,3,1 1
+	Se percibe crepitantes en el campo inferior del hemitorax derecho
+252,3,1 1
+	Se percibe crepitantes en el campo superior del hemitorax izquierdo
+253,3,1 1
+	Se percibe crepitantes en el campo medio del hemitorax izquierdo
+254,3,1 1
+	Se percibe crepitantes en el campo inferior del hemitorax izquierdo
+255,3,1 1
+	Se perciben roncus
+256,3,1 1
+	Se perciben sibilancias
+257,3,1 2
+	Se percibe abolici&#243;n del murmullo vesicular en el campo superior del
+	 hemitorax derecho
+258,3,1 2
+	Se percibe abolici&#243;n del murmullo vesicular en el campo medio del
+	 hemitorax derecho
+259,3,1 2
+	Se percibe abolici&#243;n del murmullo vesicular en el campo inferior del
+	 hemitorax derecho
+260,3,1 2
+	Se percibe abolici&#243;n del murmullo vesicular en el campo superior del
+	 hemitorax izquierdo
+261,3,1 2
+	Se percibe abolici&#243;n del murmullo vesicular en el campo medio del
+	 hemitorax izquierdo
+262,3,1 2
+	Se percibe abolici&#243;n del murmullo vesicular en el campo inferior del
+	 hemitorax izquierdo
+263,3,1 1
+	Se percibe roce pleural
+264,3,1 1
+	Se percibe broncofonia
+265,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en el ABDOMEN
+266,3,1 1
+	Al paciente se le realiz&#243; inspecci&#243;n en el ABDOMEN
+267,3,1 1
+	El paciente presenta cicatrices en el abdomen
+268,3,1 1
+	Se ven masas o asim&#233;tria de abdomen
+269,3,1 1
+	Se ven masas en orificios herniarios
+270,3,1 1
+	El paciente presenta distensi&#243;n abdominal (contorno)
+271,3,1 2
+	El paciente presenta circulaci&#243;n venosa visible: periumbilical o
+	 hemiabdomen superior o inferior
+272,3,1 1
+	El paciente presenta telangiectasia en el abdomen
+273,3,1 1
+	El paciente presenta spider en el abdomen
+274,3,1 1
+	El paciente presenta equimosis en el abdomen
+275,3,1 1
+	El paciente presenta petequias en el abdomen
+276,3,1 1
+	El paciente presenta acantosis en el abdomen
+277,3,1 1
+	El paciente presenta hemorroides
+278,3,1 1
+	El paciente presenta fisuras
+279,3,1 1
+	El paciente presenta signos inflamatorios en la regi&#243;n perianal
+280,3,1 1
+	El paciente presenta masas en la regi&#243;n perianal
+281,3,1 1
+	El paciente presenta absceso en la regi&#243;n perianal
+282,3,1 1
+	El paciente presenta f&#237;stula en la regi&#243;n perianal
+283,3,1 1
+	Al paciente se le realiz&#243; percusi&#243;n en el ABDOMEN
+284,3,1 1
+	Se percibi&#243; sonido timp&#225;nico en el abdomen
+285,3,1 1
+	Se percibi&#243; matidez cambiante (ascitis)
+286,3,1 1
+	Se percibi&#243; matidez en &#225;rea hep&#225;tica
+287,3,1 1
+	Se percibi&#243; matidez en &#225;rea Traube
+288,3,1 1
+	Se percibi&#243; pu&#241;opercusi&#243;n renal positivo
+289,3,1 1
+	Al paciente se le realiz&#243; palpaci&#243;n en el ABDOMEN
+290,3,1 1
+	Se palp&#243; visceromegalias
+291,3,1 1
+	Se palp&#243; hepatomegalia dolorosa
+292,3,1 1
+	Se palp&#243; hepatomegalia blanda
+293,3,1 1
+	Se palp&#243; hepatomegalia dura
+294,3,1 1
+	Se palp&#243; hepatomegalia regular
+295,3,1 1
+	Se palp&#243; hepatomegalia irregular
+296,3,1 1
+	Se palp&#243; esplenomegalia
+297,3,1 1
+	Se palp&#243; embarazo
+298,3,1 1
+	Se palp&#243; adenopat&#237;as abdomen
+299,3,1 1
+	El paciente presenta ves&#237;cula palpable
+300,3,1 1
+	Se palp&#243; masa en el epigastrio
+301,3,1 1
+	Se palp&#243; masa en el mesogastrio
+302,3,1 1
+	Se palp&#243; masa en el hipogastrio
+303,3,1 1
+	Se palp&#243; masa en el cuadrante superior derecho
+304,3,1 1
+	Se palp&#243; masa en el cuadrante superior izquierdo
+305,3,1 1
+	Se palp&#243; masa en el cuadrante inferior derecho
+306,3,1 1
+	Se palp&#243; masa en el cuadrante inferior izquierdo
+307,3,1 1
+	El paciente sinti&#243; dolor abdominal generalizado en la palpaci&#243;n
+308,3,1 1
+	El paciente sinti&#243; dolor abdominal en el epigastrio
+309,3,1 1
+	El paciente sinti&#243; dolor abdominal en el periumbilical
+310,3,1 1
+	El paciente sinti&#243; dolor abdominal en el hipogastrio
+311,3,1 2
+	El paciente sinti&#243; dolor abdominal en el cuadrante superior derecho (Signo
+	 de Murphy)
+312,3,1 1
+	El paciente sinti&#243; dolor abdominal en el cuadrante superior izquierdo
+313,3,1 1
+	El paciente sinti&#243; dolor abdominal en el cuadrante inferior derecho
+314,3,1 1
+	El paciente sinti&#243; dolor abdominal en el cuadrante inferior izquierdo
+315,3,1 1
+	El paciente presenta defensa muscular a la palpaci&#243;n
+316,3,1 1
+	El paciente presenta Signo Blumberg (descompresi&#243;n brusca)
+317,3,1 1
+	El paciente presenta Signo Psoas Positivo
+318,3,1 1
+	Se palparon orificios hernianos
+319,3,1 1
+	Se palparon orificios hernianos en el inguinal derecho
+320,3,1 1
+	Se palparon orificios hernianos en el inguinal izquierdo
+321,3,1 1
+	Se palparon orificios hernianos en el crural derecho
+322,3,1 1
+	Se palparon orificios hernianos en el crural izquierdo
+323,3,1 1
+	Se palparon orificios hernianos en el umbilical
+324,3,1 1
+	La hernia del inguinal derecho es reductible
+325,3,1 1
+	La hernia del inguinal derecho es no reductible
+326,3,1 1
+	El paciente presenta deformidades en las extremidades
+327,3,1 1
+	Se palparon eventracciones en cicatrices previas
+328,3,1 1
+	Se palparon eventracciones reductibles
+329,3,1 1
+	Se palparon eventracciones no reductibles
+330,3,1 1
+	Al paciente se le realiz&#243; tacto vaginal
+331,3,1 1
+	El tacto vaginal di&#243; normal
+332,3,1 1
+	Se palparon masas en el tacto vaginal
+333,3,1 1
+	La paciente presenta dolor a la movilizaci&#243;n del cuello
+334,3,1 1
+	Al paciente se le realiz&#243; tacto rectal
+335,3,1 1
+	El tacto rectal di&#243; normal
+336,3,1 1
+	Se palparon masas duras en el tacto rectal
+337,3,1 1
+	Se palparon masas blandas en el tacto rectal
+338,3,1 1
+	Hay sangre en las heces
+339,3,1 1
+	El paciente presenta sensibilidad aumentada perirectal
+340,3,1 1
+	El paciente presenta pr&#243;stata normal
+341,3,1 1
+	El paciente presenta pr&#243;stata agrandada
+342,3,1 1
+	El paciente presenta pr&#243;stata con consistencia el&#225;stica
+343,3,1 1
+	El paciente presenta pr&#243;stata con consistencia dura
+344,3,1 1
+	El paciente presenta pr&#243;stata con n&#243;dulos o irregular
+345,3,1 1
+	El paciente presenta pr&#243;stata dolorosa
+346,3,1 1
+	El paciente presenta ampolla rectal llena
+347,3,1 1
+	El paciente presenta ampolla rectal vac&#237;a
+348,3,1 1
+	El paciente presenta oleada asc&#237;tica
+349,3,1 1
+	El paciente presenta adenopat&#237;as inguinales
+350,3,1 1
+	Al paciente se le realiz&#243; auscultaci&#243;n del ABDOMEN
+351,3,1 1
+	El paciente presenta ruidos aumentados
+352,3,1 1
+	El paciente presenta ausencia de ruidos
+353,3,1 1
+	El paciente presenta ruido met&#225;lico
+354,3,1 1
+	El paciente presenta soplo abdominal
+355,3,1 1
+	La auscultaci&#243;n del abdomen es normal
+356,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en los GENITALES
+357,3,1 1
+	Al paciente se le realiz&#243; inspecci&#243;n en los GENITALES
+358,3,1 1
+	La inspecci&#243;n en los genitales di&#243; normal
+359,3,1 1
+	El paciente presenta &#250;lceras &#250;nicas en los genitales
+360,3,1 1
+	El paciente presenta &#250;lceras m&#250;ltiples en los genitales
+361,3,1 1
+	El paciente presenta ves&#237;culas muco-cut&#225;neas en los genitales
+362,3,1 1
+	El paciente presenta tumoraciones escrotales
+363,3,1 1
+	El paciente presenta aumento del volumen testicular
+364,3,1 1
+	El paciente presenta tumoraciones en el pene
+365,3,1 1
+	El paciente presenta test&#237;culo retra&#237;do y horizontalizado
+366,3,1 1
+	El paciente presenta quistes en los test&#237;culos
+367,3,1 1
+	El paciente presenta quistes en el epid&#237;dimo
+368,3,1 1
+	El paciente presenta quistes en el pene
+369,3,1 1
+	El paciente presenta quistes en el conducto deferente
+370,3,1 1
+	El paciente presenta uretrorrea
+371,3,1 1
+	El paciente presenta posici&#243;n anormal del meato
+372,3,1 1
+	El paciente presenta estenosis del prepucio
+373,3,1 1
+	El paciente presenta atrofia testicular
+374,3,1 1
+	La paciente presenta tumoraciones en los genitales
+375,3,1 1
+	La paciente presenta quistes en los genitales
+376,3,1 1
+	La paciente presenta leucorrea
+377,3,1 1
+	Al paciente se le realiz&#243; palpaci&#243;n de los GENITALES
+378,3,1 1
+	La palpaci&#243;n de los genitales fue normal
+379,3,1 1
+	Se palp&#243; ausencia de test&#237;culos
+380,3,1 1
+	Se palp&#243; asimetr&#237;a de test&#237;culos
+381,3,1 1
+	Se palparon masas en los test&#237;culos
+382,3,1 1
+	Se palparon masas en el epid&#237;dimo
+383,3,1 1
+	Se palparon masas en el pene
+384,3,1 1
+	Se palparon masas en el conducto deferente
+385,3,1 1
+	El paciente sinti&#243; dolor a la palpaci&#243;n de los test&#237;culos
+386,3,1 1
+	El paciente sinti&#243; dolor a la palpaci&#243;n del epid&#237;dimo
+387,3,1 1
+	El paciente sinti&#243; dolor a la palpaci&#243;n del pene
+388,3,1 1
+	El paciente sinti&#243; dolor a la palpaci&#243;n del conducto deferente
+389,3,1 1
+	Comod&#237;n de var 65
+390,3,1 1
+	El paciente presenta edema generalizado
+391,3,1 1
+	El paciente presenta maloclusi&#243;n dentaria
+392,3,1 1
+	El paciente tiene cuello de b&#250;falo
+393,3,1 1
+	Al paciente se le realiz&#243; una Transiluminaci&#243;n:
+394,3,1 1
+	La transiluminaci&#243;n di&#243; l&#237;quido
+395,3,1 1
+	La transiluminaci&#243;n di&#243; masa
+396,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en las EXTREMIDADES
+397,3,1 1
+	Al paciente se le realiz&#243; inspecci&#243;n en las EXTREMIDADES
+398,3,1 1
+	El paciente tiene color normal en las extremidades
+399,3,1 1
+	El paciente tiene palidez en las extremidades
+400,3,1 1
+	El paciente tiene hiperemia generalizada en las extremidades
+401,3,1 1
+	El paciente tiene cianosis en &#34;malla&#34; en las extremidades
+402,3,1 1
+	El paciente tiene cianosis-necrosis en las extremidades
+403,3,1 1
+	El paciente tiene tofos articulaciones
+404,3,1 2
+	El paciente tiene desviaci&#243;n cubital de articulaciones
+	 metacarpofal&#225;ngicas
+405,3,1 1
+	El paciente tiene n&#243;dulos de Heberden
+406,3,1 1
+	El paciente tiene n&#243;dulos de Bouchard
+407,3,1 1
+	El paciente tiene dedos en bot&#243;n
+408,3,1 1
+	El paciente tiene dedos en cuello de cisne
+409,3,1 1
+	El paciente tiene dedos en resorte
+410,3,1 1
+	El paciente tiene dedos en martillo
+411,3,1 1
+	El paciente tiene dedos en forma de 'salchicha'
+412,3,1 1
+	El paciente tiene signos inflamatorios articulares
+413,3,1 1
+	Tiene signos inflamatorios extraarticulares: venosos
+414,3,1 1
+	El paciente tiene signos inflamatorios extraarticulares: dermis
+415,3,1 1
+	Tiene signos inflamatorios extraarticulares: estr&#237;a ascendente
+416,3,1 1
+	El paciente tiene edema en Extremidades Inferiores
+417,3,1 1
+	El paciente tiene edema en esclavina
+418,3,1 1
+	El paciente tiene atrofia muscular en extremidades
+419,3,1 1
+	El paciente tiene acropaquias
+420,3,1 1
+	El paciente tiene v&#225;rices en extremidades
+421,3,1 1
+	El paciente tiene edema en Extremidades Superiores
+422,3,1 1
+	El paciente tiene ulceraciones en dedos
+423,3,1 1
+	El paciente tiene ulceraciones en pies
+424,3,1 1
+	El paciente tiene ulceraciones en piernas
+425,3,1 1
+	El paciente tiene retracciones palmares o atrofia interosea
+426,3,1 1
+	El paciente tiene sinovitis en extremidades
+427,3,1 1
+	El paciente tiene deformidad en articulaci&#243;n subtalar
+428,3,1 1
+	El paciente tiene esclerodactilia
+429,3,1 1
+	El paciente tiene Raynaud
+430,3,1 1
+	El paciente tiene eritema palmar
+431,3,1 1
+	Al paciente se le realiz&#243; palpaci&#243;n en las EXTREMIDADES
+432,3,1 1
+	Al paciente se le palparon los pulsos en las Extremidades Inferiores
+433,3,1 1
+	Los pulsos femorales est&#225;n presentes
+434,3,1 1
+	Los pulsos popl&#237;teos est&#225;n presentes
+435,3,1 1
+	Los pulsos pedios est&#225;n presentes
+436,3,1 1
+	Al paciente se le palparon los pulsos en las Extremidades Superiores
+437,3,1 1
+	Los pulsos humerales estan presentes
+438,3,1 1
+	Los pulsos radiales estan presentes
+439,3,1 1
+	Los pulsos cubitales estan presentes
+440,3,1 1
+	Al paciente se le palparon pulsos paradojicos
+441,3,1 1
+	La hernia inguinal izquierda es reductible
+442,3,1 1
+	La hernia inguinal izquierda es no reductible
+443,3,1 1
+	La hernia crural derecha es reductible
+444,3,1 1
+	La hernia crural derecha no reductible
+445,3,1 1
+	La hernia crural izquierda es reductible
+446,3,1 1
+	La hernia crural izquierda es no reductible
+447,3,1 1
+	El paciente sinti&#243; dolor en la masa gemelar
+448,3,1 1
+	El paciente sinti&#243; dolor en las articulaciones afectas
+449,3,1 1
+	El paciente sinti&#243; dolor en los  m&#250;sculos afectos
+450,3,1 1
+	Maniobra de Homans positiva
+451,3,1 1
+	El paciente presenta aumento de per&#237;metro con fovea en extremidades
+452,3,1 1
+	El paciente presenta aumento de per&#237;metro duro en extremidades
+453,3,1 1
+	El paciente presenta crujidos  en extremidades
+454,3,1 1
+	Se palpa aumento de per&#237;metro en extremidades
+455,3,1 1
+	El paciente presenta Movilidad articular
+456,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en la COLUMNA
+457,3,1 1
+	La exploraci&#243;n de la columna di&#243; normal
+458,3,1 1
+	El paciente presenta escoliosis en la columna cervical
+459,3,1 1
+	El paciente presenta escoliosis en la columna dorsal
+460,3,1 1
+	El paciente presenta escoliosis en la columna lumbar
+461,3,1 1
+	El paciente presenta hipercifosis en la columna cervical
+462,3,1 1
+	El paciente presenta hipercifosis en la columna dorsal
+463,3,1 1
+	El paciente presenta hipercifosis en la columna lumbar
+464,3,1 1
+	El paciente presenta hiperlordosis en la columna cervical
+465,3,1 1
+	El paciente presenta hiperlordosis en la columna dorsal
+466,3,1 1
+	El paciente presenta hiperlordosis en la columna lumbar
+467,3,1 1
+	El paciente presenta rigidez en la columna cervical
+468,3,1 1
+	El paciente presenta rigidez en la columna dorsal
+469,3,1 1
+	El paciente presenta rigidez en la columna lumbar
+470,3,1 1
+	El paciente no presenta dolor a la palpaci&#243;n de la columna
+471,3,1 1
+	El paciente presenta dolor a la palpaci&#243;n de la columna cervical
+472,3,1 1
+	El paciente presenta dolor a la palpaci&#243;n de la columna dorsal
+473,3,1 1
+	El paciente presenta dolor a la palpaci&#243;n de la columna lumbar
+474,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n DERMATOLOGICA
+475,3,1 1
+	El paciente presenta eritema en la dermis
+476,3,1 1
+	El paciente presenta cianosis en la dermis
+477,3,1 1
+	El paciente presenta equimosis en la dermis
+478,3,1 1
+	El paciente presenta telangiectasias en la dermis
+479,3,1 1
+	El paciente presenta spiders en la dermis o ara&#241;as vasculares
+480,3,1 1
+	El paciente presenta hipopigmentada la dermis
+481,3,1 1
+	El paciente presenta hiperpigmentada la dermis
+482,3,1 1
+	El paciente presenta acantosis nigricans
+483,3,1 1
+	El paciente presenta melanodermia generalizada
+484,3,1 1
+	El paciente presenta tatuajes
+485,3,1 1
+	El paciente presenta xantelasmas y xantomas
+486,3,1 1
+	El paciente presenta trastornos en fol&#237;culos pilosos
+487,3,1 1
+	El paciente presenta distribuci&#243;n feminoide del vello
+488,3,1 1
+	El paciente presenta hab&#243;n
+489,3,1 1
+	El paciente presenta m&#225;cula
+490,3,1 1
+	El paciente presenta p&#225;pula
+491,3,1 1
+	El paciente presenta ves&#237;cula en torax (distribuci&#243;n metam&#233;rica)
+492,3,1 1
+	El paciente presenta ampollas
+493,3,1 1
+	El paciente presenta tub&#233;rculo
+494,3,1 1
+	El paciente presenta n&#243;dulos
+495,3,1 1
+	El paciente presenta tumor
+496,3,1 1
+	El paciente presenta p&#250;stula
+497,3,1 1
+	El paciente presenta quiste
+498,3,1 1
+	El paciente presenta escamas
+499,3,1 1
+	El paciente presenta costra
+500,3,1 1
+	El paciente presenta abscesos
+501,3,1 1
+	El paciente presenta erosi&#243;n
+502,3,1 1
+	El paciente presenta escoriaci&#243;n
+503,3,1 1
+	El paciente presenta ulceraci&#243;n
+504,3,1 1
+	El paciente presenta fisura
+505,3,1 1
+	El paciente presenta atrofia
+506,3,1 1
+	El paciente presenta esclerosis
+507,3,1 1
+	El paciente presenta cicatriz
+508,3,1 1
+	El paciente presenta prurito
+509,3,1 1
+	El paciente presenta eritema nodoso
+510,3,1 1
+	El paciente presenta pioderma gangrenoso
+511,3,1 1
+	El paciente presenta dermatitis herpetiforme
+512,3,1 1
+	El paciente presenta piel engrosada
+513,3,1 1
+	El paciente presenta desaparici&#243;n pliegues
+514,3,1 1
+	El paciente presenta tirantez
+515,3,1 1
+	El paciente tiene subluxaci&#243;n de la cabeza metatarsiana
+516,3,1 1
+	Se palparon masas en el abdomen
+517,3,1 1
+	El paciente sinti&#243; dolor a la palpaci&#243;n del abdomen
+518,3,1 1
+	La hernia umbilical es reductible
+519,3,1 1
+	La hernia umbilical es no reductible
+520,3,1 1
+	El paciente presenta deformidades en los dedos
+521,3,1 1
+	El paciente presenta signos inflamatorios extraarticulares
+522,3,1 1
+	El paciente sinti&#243; dolor a la palpaci&#243;n de las extremidades
+523,3,1 1
+	El paciente presenta ulceraciones en las extremidades
+524,3,1 1
+	El paciente presenta deformidades en la columna
+525,3,1 1
+	El paciente presenta rigidez en la columna
+526,3,1 1
+	La palpaci&#243;n en la columna fue dolorosa
+527,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n NEUROLOGICA
+528,3,1 1
+	Peso
+529,3,1 1
+	Talla
+530,3,1 1
+	Temperatura
+531,3,1 1
+	Pulso
+532,3,1 1
+	Presi&#243;n arterial
+533,3,1 1
+	Estado de consciencia
+534,3,1 1
+	Orientaci&#243;n temporal-espacial
+535,3,1 1
+	Aspecto general
+536,3,1 1
+	Estado de hidrataci&#243;n
+537,3,1 1
+	Estado de nutrici&#243;n
+538,3,1 1
+	Coloraci&#243;n de piel y mucosa
+539,3,1 1
+	Frecuencia respiratoria (respiraciones/minuto)
+540,3,1 1
+	Lesiones cut&#225;neas (Dermatol&#243;gico)
+541,3,1 1
+	Palpaci&#243;n de axilas
+542,3,1 1
+	Palpaci&#243;n de mamas
+543,3,1 1
+	Palpaci&#243;n de costillas - cart&#237;lagos costales - estern&#243;n
+544,3,1 1
+	Palpaci&#243;n del latido de la punta cardiaca
+545,3,1 1
+	Tonos cardiacos
+546,3,1 1
+	Disminuci&#243;n murmullo vesicular
+547,3,1 1
+	Crepitantes
+548,3,1 1
+	Abolici&#243;n murmullo vesicular
+549,3,1 1
+	Area de soplos en auscultaci&#243;n cardiaca
+550,3,1 1
+	Tipo de soplos en auscultaci&#243;n cardiaca
+551,3,1 1
+	Irradiaci&#243;n de soplos en auscultaci&#243;n cardiaca
+552,3,1 1
+	Aumento intensidad de soplos en auscultaci&#243;n cardiaca
+553,3,1 1
+	Disminuci&#243;n intensidad de soplos en auscultaci&#243;n cardiaca
+554,3,1 1
+	Sonido de soplos en auscultaci&#243;n cardiaca
+555,3,1 1
+	Tonos cardiacos sobrea&#241;adidos
+556,3,1 1
+	Inspecci&#243;n genital MUJER
+557,3,1 1
+	Manchas anormales en inspecci&#243;n abdominal
+558,3,1 1
+	Inspecci&#243;n perianal (abdominal)
+559,3,1 1
+	Matidez en percusi&#243;n abdominal
+560,3,1 1
+	Hepatomegalia en palpaci&#243;n abdominal
+561,3,1 1
+	Tacto rectal de pr&#243;stata
+562,3,1 1
+	Ampolla rectal en tacto rectal
+563,3,1 1
+	Inspecci&#243;n genital normal (MUJER)
+564,3,1 1
+	Inspecci&#243;n genital, &#250;lceras &#250;nicas (MUJER)
+565,3,1 1
+	Inspecci&#243;n genital, &#250;lceras m&#250;ltiples (MUJER)
+566,3,1 1
+	Inspecci&#243;n genital, ves&#237;culas (MUJER)
+567,3,1 1
+	Inspecci&#243;n genital, tumoraciones (MUJER)
+568,3,1 1
+	Inspecci&#243;n genital, quistes (MUJER)
+569,3,1 1
+	Inspecci&#243;n genital normal ambos sexos
+570,3,1 1
+	Inspecci&#243;n genital, &#250;lceras &#250;nicas ambos sexos
+571,3,1 1
+	Inspecci&#243;n genital, &#250;lceras m&#250;ltiples ambos sexos
+572,3,1 1
+	Inspecci&#243;n genital, ves&#237;culas ambos sexos
+573,3,1 1
+	Inspecci&#243;n genital, tumoraciones ambos sexos
+574,3,1 1
+	Inspecci&#243;n genital, quistes ambos sexos
+575,3,1 1
+	Palpaci&#243;n de masas en genitales (HOMBRE)
+576,3,1 1
+	Dolor a la palpaci&#243;n en genitales (HOMBRE)
+577,3,1 1
+	Color en  inspecci&#243;n de extremidades
+578,3,1 1
+	Edema en extremidades
+579,3,1 1
+	Palpaci&#243;n pulsos en extremidades
+580,3,1 1
+	Palpaci&#243;n de columna
+581,3,1 1
+	Manchas en exploraci&#243;n dermatol&#243;gica
+582,3,1 1
+	Manchas vasculares en exploraci&#243;n dermatol&#243;gica
+583,3,1 1
+	Mel&#225;nicos en exploraci&#243;n dermatol&#243;gica
+584,3,1 1
+	Otros pigmentos en exploraci&#243;n dermatol&#243;gica
+585,3,1 1
+	Maniobra de Braggard positiva
+586,3,1 1
+	Maniobra de Lasague positiva
+587,3,1 1
+	Disminuci&#243;n murmullo vesicular hemitorax derecho
+588,3,1 1
+	Disminuci&#243;n murmullo vesicular hemitorax izquierdo
+589,3,1 1
+	Crepitantes hemitorax derecho
+590,3,1 1
+	Crepitantes hemitorax izquierdo
+591,3,1 1
+	Abolici&#243;n murmullo vesicular hemitorax derecho
+592,3,1 1
+	Abolici&#243;n murmullo vesicular hemitorax izquierdo
+593,3,1 1
+	El paciente presenta calcinosis en las extremidades
+594,3,1 1
+	El paciente presenta queratitis en la c&#243;rnea
+595,3,1 1
+	El paciente presenta boca seca
+596,3,1 1
+	El paciente presenta eritema heliotropo
+597,3,1 1
+	El paciente presenta Coiloniquias
+598,3,1 1
+	El paciente presenta eritema marginado
+599,3,1 1
+	El paciente presenta Queratoderma Blenorr&#225;gico
+600,3,1 1
+	El paciente presenta carditis
+601,3,1 1
+	El paciente presenta un soplo estenosis mitral
+602,3,1 1
+	El paciente presenta un soplo estenosis a&#243;rtica
+603,3,1 1
+	El paciente presenta edema en Extremidades Inferiores Unilateral
+604,3,1 1
+	El paciente presenta edema en Extremidades Inferiores Bilateral
+605,3,1 1
+	El paciente tiene pulso r&#237;tmico
+606,3,1 1
+	El paciente tiene pulso arr&#237;tmico
+607,3,1 1
+	El paciente presenta Petequias en la dermis
+608,3,1 1
+	El paciente presenta Petequias: localizadas: Extremidades Superiores
+609,3,1 1
+	El paciente presenta Petequias: localizadas: Extremidades Inferiores
+610,3,1 1
+	El paciente presenta Petequias: localizadas: Tronco
+611,3,1 1
+	El paciente presenta ictericia: Rub&#237;nica
+612,3,1 1
+	El paciente presenta ictericia: Mel&#225;nica
+613,3,1 1
+	El paciente presenta ictericia: Verd&#237;nica
+614,3,1 1
+	Se palpan latidos de la punta card&#237;aca desplazados hacia la derecha
+615,3,1 1
+	Masaje prost&#225;tico positivo
+616,3,1 1
+	El paciente presenta uretrorrea clara
+617,3,1 1
+	El paciente presenta eritema malar
+618,3,1 1
+	El paciente tiene aspecto rubicundo
+619,3,1 1
+	El paciente presenta uretrorrea blanquecina
+620,3,1 1
+	El paciente presenta uretrorrea purulenta
+621,3,1 1
+	El paciente presenta leucorrea clara
+622,3,1 1
+	El paciente presenta leucorrea blanquecina
+623,3,1 1
+	El paciente presenta leucorrea purulenta
+624,3,1 1
+	Sin focalidad neurol&#243;gica
+625,3,1 1
+	Cord&#243;n venoso duro
+626,3,1 1
+	El paciente tiene bocio difuso doloroso
+627,3,1 1
+	El paciente tiene n&#243;dulo tiroideo duro
+628,3,1 1
+	El paciente tiene n&#243;dulo tiroideo doloroso
+629,3,1 1
+	El paciente tiene bocio difuso duro
+630,3,1 1
+	El paciente tiene bocio difuso con calor
+631,3,1 1
+	El paciente tiene bocio difuso con rubor
+632,3,1 1
+	El paciente tiene n&#243;dulo tiroideo con calor
+633,3,1 1
+	El paciente tiene n&#243;dulo tiroideo con rubor
+634,3,1 1
+	El paciente presenta ausencia de vello axilar y p&#250;bico
+635,3,1 1
+	El paciente presenta piel seca, &#225;spera, fr&#237;a
+636,3,1 1
+	El paciente presenta estr&#237;as vinosas
+637,3,1 1
+	El paciente tiene estado de consciencia somnoliento
+638,3,1 1
+	Fascie (Exploraci&#243;n Gral)
+639,3,1 1
+	Cara de luna llena
+640,3,1 1
+	Facies Acromegalica (prognatismo)
+641,3,1 1
+	Hipotiroidea
+642,3,1 1
+	El paciente presenta hiperpigmentaci&#243;n: Puntos de presi&#243;n y pezones
+643,3,1 1
+	El paciente presenta hiperpigmentaci&#243;n: gluteos
+644,3,1 1
+	El paciente presenta hiperpigmentaci&#243;n: cicatrices recientes
+645,3,1 1
+	El paciente presenta hiperpigmentaci&#243;n: codos
+646,3,1 1
+	El paciente presenta hiperpigmentaci&#243;n: surcos de la mano
+647,3,1 1
+	El paciente presenta hiperpigmentaci&#243;n: parte posterior del cuello
+648,3,1 1
+	Adelgazamiento o p&#233;rdida de la mitad externa de las cejas
+649,3,1 1
+	El paciente presenta obesidad del tronco
+650,3,1 1
+	El paciente presenta vientre en batea
+651,3,1 1
+	El paciente presenta estr&#237;as abdominales purp&#250;reas
+652,3,1 1
+	El paciente tiene dedos largos y anchos en manos y pies
+653,3,1 1
+	El paciente tiene u&#241;as delgadas y fr&#225;giles
+654,3,1 1
+	El paciente tiene aspecto general plet&#243;rico
+655,3,1 1
+	La paciente tiene crecimiento bilateral en las mamas
+656,3,1 1
+	La paciente tiene aumento de pigmentaci&#243;n de ambas areolas
+657,3,1 1
+	El paciente tiene hiperpigmentaci&#243;n de la l&#237;nea media en el abdomen
+658,3,1 1
+	El paciente presenta leucorrea maloliente espumosa
+659,3,1 1
+	Se palparon tumoraciones en las mamas: Masa redonda
+660,3,1 1
+	Se palparon tumoraciones en las mamas: Masa firme movible
+661,3,1 1
+	Se palparon tumoraciones en las mamas: Masa no dolorosa
+662,3,1 2
+	El tacto vaginal di&#243; &#250;tero aumentado de tama&#241;o (signo de
+	 PISKACEC)
+663,3,1 1
+	El tacto vaginal di&#243; BUDIN positivo
+664,3,1 1
+	El tacto vaginal di&#243; GAUSS positivo
+665,3,1 1
+	El paciente presenta escarcha ur&#233;mica
+666,3,1 1
+	El paciente tiene meningismo
+667,3,1 1
+	El paciente tiene meningismo positivo
+668,3,1 1
+	El paciente tiene meningismo negativo
+669,3,1 1
+	Pares craneales
+670,3,1 1
+	I Par: Olfato
+671,3,1 1
+	II Par: Optico
+672,3,1 1
+	III, IV y Par: Oculomotores
+673,3,1 1
+	V Par: Trig&#233;mino
+674,3,1 1
+	VII Par: Facial
+675,3,1 1
+	VIII Par: Ac&#250;stico
+676,3,1 1
+	IX y X Par: Vago y Glosofar&#237;ngeo
+677,3,1 1
+	XI Par: Espinal
+678,3,1 1
+	XII Par: Hipogloso
+679,3,1 1
+	I Par: Olfato: Normal
+680,3,1 1
+	I Par: Olfato: Hip&#243;smia
+681,3,1 1
+	II Par: Optico: Agudeza visual
+682,3,1 1
+	II Par: Optico: Campos visuales
+683,3,1 1
+	II Par: Optico: Fondo ojo
+684,3,1 1
+	II Par: Optico: Agudeza visual: Normal
+685,3,1 1
+	II Par: Optico: Agudeza visual: Disminuida
+686,3,1 1
+	II Par: Optico: Campos visuales: Normal
+687,3,1 1
+	II Par: Optico: Campos visuales: Hemianopsia
+688,3,1 1
+	II Par: Optico: Campos visuales: Hemianopsia: temporal Ojo Derecho
+689,3,1 1
+	II Par: Optico: Campos visuales: Hemianopsia: nasal Ojo Izquierdo
+690,3,1 1
+	Desplazamiento del pilar amigdalar anterior
+691,3,1 1
+	El paciente presenta adenopat&#237;as cadenas laterales: izquierdo
+692,3,1 1
+	El paciente presenta adenopat&#237;as cadenas laterales: derecho
+693,3,1 1
+	II Par: Optico: Fondo ojo: Exudados
+694,3,1 1
+	III, IV y VI Par: Oculomotores: Movilidad ocular
+695,3,1 1
+	III, IV y VI Par: Oculomotores: Pupilas
+696,3,1 1
+	III, IV y VI Par: Oculomotores: Conjugaci&#243;n mirada
+697,3,1 1
+	III, IV y VI Par: Oculomotores: Acomodaci&#243;n
+698,3,1 1
+	III, IV y VI Par: Oculomotores: movilidad ocular: Normal
+699,3,1 1
+	III, IV y VI Par: Oculomotores: movilidad ocular: Par&#225;lisis III
+700,3,1 1
+	III, IV y VI Par: Oculomotores: movilidad ocular: Par&#225;lisis IV
+701,3,1 1
+	III, IV y VI Par: Oculomotores: movilidad ocular: Par&#225;lisis VI
+702,3,1 1
+	III, IV y VI Par: Oculomotores: Pupilas: Midri&#225;ticas
+703,3,1 1
+	III, IV y VI Par: Oculomotores: Pupilas: Mi&#243;ticas
+704,3,1 1
+	El paciente presenta adenopat&#237;as submandibulares: izquierdo
+705,3,1 1
+	III, IV y VI Par: Oculomotores: Pupilas: Hiporreactivas
+706,3,1 1
+	El paciente presenta adenopat&#237;as submandibulares: derecho
+707,3,1 1
+	III, IV y VI Par: Oculomotores: Conjugaci&#243;n mirada: Normal
+708,3,1 1
+	III, IV y VI Par: Oculomotores: Conjugaci&#243;n mirada: Anormal
+709,3,1 1
+	III, IV y VI Par: Oculomotores: Acomodaci&#243;n: Normal
+710,3,1 1
+	III, IV y VI Par: Oculomotores: Acomodaci&#243;n: Anormal
+711,3,1 1
+	V Par: Trig&#233;mino: Sensibilidad 1ra, 2da y 3ra Rama
+712,3,1 1
+	V Par: Trig&#233;mino: Reflejo corneal
+713,3,1 1
+	V Par: Trig&#233;mino: Fuerza maseteros
+714,3,1 1
+	V Par: Trig&#233;mino: Sensibilidad 1ra, 2da y 3ra R: Normal
+715,3,1 1
+	V Par: Trig&#233;mino: Sensibilidad 1ra, 2da y 3ra R: Hipoestesia
+716,3,1 1
+	V Par: Trig&#233;mino: Sensibilidad 1ra, 2da y 3ra R: Anestesia
+717,3,1 1
+	V Par: Trig&#233;mino: Reflejo corneal: Normal
+718,3,1 1
+	V Par: Trig&#233;mino: Reflejo corneal: Disminuido
+719,3,1 1
+	V Par: Trig&#233;mino: Reflejo corneal: Abolido
+720,3,1 1
+	V Par: Trig&#233;mino: Fuerza maseteros: Normal
+721,3,1 1
+	V Par: Trig&#233;mino: Fuerza maseteros: Anormal
+722,3,1 1
+	VII Par: Facial: movilidad Frente
+723,3,1 1
+	VII Par: Facial: movilidad Ojos
+724,3,1 1
+	VII Par: Facial: movilidad Bucal
+725,3,1 1
+	VII Par: Facial: movilidad Frente: Sim&#233;trica
+726,3,1 1
+	VII Par: Facial: movilidad Frente: Asim&#233;trica
+727,3,1 1
+	VII Par: Facial: movilidad Ojos: Sim&#233;trica
+728,3,1 1
+	VII Par: Facial: movilidad Ojos: Asim&#233;trica
+729,3,1 1
+	VII Par: Facial: movilidad Bucal: Sim&#233;trica
+730,3,1 1
+	VII Par: Facial: movilidad Bucal: Asim&#233;trica
+731,3,1 1
+	VIII Par: Ac&#250;stico: Agudeza auditiva
+732,3,1 1
+	VIII Par: Ac&#250;stico: Rinne
+733,3,1 1
+	VIII Par: Ac&#250;stico: Weber
+734,3,1 1
+	VIII Par: Ac&#250;stico: Nistagmo
+735,3,1 1
+	VIII Par: Ac&#250;stico: Barany
+736,3,1 1
+	VIII Par: Ac&#250;stico: Agudeza auditiva: Normal
+737,3,1 1
+	VIII Par: Ac&#250;stico: Agudeza auditiva: disminuida
+738,3,1 1
+	VIII Par: Ac&#250;stico: Agudeza auditiva: disminuida: Transmisi&#243;n
+739,3,1 1
+	VIII Par: Ac&#250;stico: Agudeza auditiva: disminuida: Percepci&#243;n
+740,3,1 1
+	VIII Par: Ac&#250;stico: Nistagmo: Horizontal
+741,3,1 1
+	VIII Par: Ac&#250;stico: Nistagmo: Vertical
+742,3,1 1
+	VIII Par: Ac&#250;stico: Nistagmo: Horizontal: Fatigable
+743,3,1 1
+	VIII Par: Ac&#250;stico: Nistagmo: Horizontal: No fatigable
+744,3,1 1
+	VIII Par: Ac&#250;stico: Nistagmo: Vertical: Fatigable
+745,3,1 1
+	VIII Par: Ac&#250;stico: Nistagmo: Vertical: No fatigable
+746,3,1 1
+	VIII Par: Ac&#250;stico: Nistagmo: Inicio retardado
+747,3,1 1
+	VIII Par: Ac&#250;stico: Nistagmo: Inicio inmediato
+748,3,1 1
+	VIII Par: Ac&#250;stico: Barany: Normal
+749,3,1 1
+	VIII Par: Ac&#250;stico: Barany: Anormal
+750,3,1 1
+	IX y X Par: Vago y Glosofar&#237;ngeo: Elevaci&#243;n &#250;vula
+751,3,1 1
+	IX y X Par: Vago y Glosofar&#237;ngeo: Reflejo nauseoso y tus&#237;geno
+752,3,1 2
+	IX y X Par: Vago y Glosofar&#237;ngeo: Elevaci&#243;n &#250;vula:
+	 Sim&#233;trica
+753,3,1 2
+	IX y X Par: Vago y Glosofar&#237;ngeo: Elevaci&#243;n &#250;vula:
+	 Asim&#233;trica
+754,3,1 2
+	IX y X Par: Vago y Glosofar&#237;ngeo: Reflejo nauseoso y tus&#237;geno:
+	 Presente
+755,3,1 2
+	IX y X Par: Vago y Glosofar&#237;ngeo: Reflejo nauseoso y tus&#237;geno:
+	 Ausente
+756,3,1 1
+	XI Par: Espinal: Girar cabeza
+757,3,1 1
+	XI Par: Espinal: Elevaci&#243;n hombros
+758,3,1 1
+	XI Par: Espinal: Girar cabeza: Normal
+759,3,1 1
+	XI Par: Espinal: Girar cabeza: Alterado
+760,3,1 1
+	XI Par: Espinal: Elevaci&#243;n hombros: Normal
+761,3,1 1
+	XI Par: Espinal: Elevaci&#243;n hombros: Alterado
+762,3,1 1
+	XII Par: Hipogloso: movilizaci&#243;n lengua
+763,3,1 1
+	XII Par: Hipogloso: Atrofias
+764,3,1 1
+	XII Par: Hipogloso: Fasciculaci&#243;n
+765,3,1 1
+	XII Par: Hipogloso: movilizaci&#243;n lengua: Normal
+766,3,1 1
+	XII Par: Hipogloso: movilizaci&#243;n lengua: Par&#225;lisis
+767,3,1 1
+	XII Par: Hipogloso: Atrofias: Ausente
+768,3,1 1
+	XII Par: Hipogloso: Atrofias: Presente
+769,3,1 1
+	XII Par: Hipogloso: Fasciculaci&#243;n: Ausente
+770,3,1 1
+	XII Par: Hipogloso: Fasciculaci&#243;n: Presente
+771,3,1 1
+	Motilidad
+772,3,1 1
+	Motilidad: Fuerza inspecci&#243;n
+773,3,1 1
+	Motilidad: Extremidad superior
+774,3,1 1
+	Motilidad: Extremidad inferior
+775,3,1 1
+	Motilidad: Reflejos
+776,3,1 1
+	Reflejo: Cut&#225;neo-plantar (signo de Babinski)
+777,3,1 1
+	Motilidad: Tono muscular
+778,3,1 1
+	Motilidad: Movimientos anormales
+779,3,1 1
+	Motilidad: Fuerza inspecci&#243;n: Masa muscular normal
+780,3,1 1
+	Motilidad: Fuerza inspecci&#243;n: Atrofia muscular localizada
+781,3,1 1
+	Motilidad: Fuerza inspecci&#243;n: Contracturas establecidas
+782,3,1 1
+	Motilidad: Extremidad superior: Fuerza normal
+783,3,1 1
+	Motilidad: Extremidad superior: Fuerza disminuida
+784,3,1 1
+	Motilidad: Extremidad superior: Fuerza disminuida: Distal
+785,3,1 1
+	Motilidad: Extremidad superior: Fuerza disminuida: Proximal
+786,3,1 2
+	Motilidad: Extremidad superior: Fuerza disminuida: Territorio nervioso
+	 delimitado
+787,3,1 1
+	Motilidad: Tono muscular: Normal
+788,3,1 1
+	Motilidad: Tono muscular: Atonia o Hipotonia
+789,3,1 1
+	Motilidad: Tono muscular: Hipertonia
+790,3,1 1
+	Motilidad: Extremidad inferior: Fuerza normal
+791,3,1 1
+	Motilidad: Extremidad inferior: Fuerza disminuida
+792,3,1 1
+	Motilidad: Extremidad inferior: Fuerza disminuida: Distal
+793,3,1 1
+	Motilidad: Extremidad inferior: Fuerza disminuida: Proximal
+794,3,1 2
+	Motilidad: Extremidad inferior: Fuerza disminuida: Territorio nervioso
+	 delimitado
+795,3,1 1
+	Motilidad: Reflejos: Bicipital: Anormal
+796,3,1 1
+	Motilidad: Reflejos: Bicipital: Normal
+797,3,1 1
+	Motilidad: Reflejos: Tricipital: Anormal
+798,3,1 1
+	Motilidad: Reflejos: Tricipital: Normal
+799,3,1 1
+	Motilidad: Reflejos: Estilo-radial: Anormal
+800,3,1 1
+	Motilidad: Reflejos: Estilo-radial: Normal
+801,3,1 1
+	Motilidad: Reflejos: Rotuliano: Anormal
+802,3,1 1
+	Motilidad: Reflejos: Rotuliano: Normal
+803,3,1 1
+	Motilidad: Reflejos: Aqu&#237;leo: Anormal
+804,3,1 1
+	Motilidad: Reflejos: Aqu&#237;leo: Normal
+805,3,1 1
+	Reflejo Cut&#225;neo-plantar: Presente
+806,3,1 1
+	Reflejo Cut&#225;neo-plantar: Ausente
+807,3,1 1
+	Motilidad: Movimientos anormales: Tic
+808,3,1 1
+	Motilidad: Movimientos anormales: Temblor
+809,3,1 1
+	Motilidad: Movimientos anormales: Distonia
+810,3,1 1
+	Motilidad: Movimientos anormales: Corea
+811,3,1 1
+	Motilidad: Movimientos anormales: Temblor: Focalizado
+812,3,1 1
+	Motilidad: Movimientos anormales: Temblor: Generalizado
+813,3,1 1
+	Motilidad: Reflejos: Bicipital
+814,3,1 1
+	Motilidad: Reflejos: Tricipital
+815,3,1 1
+	Motilidad: Reflejos: Estilo-radial
+816,3,1 1
+	Motilidad: Reflejos: Rotuliano o Patelar
+817,3,1 1
+	Motilidad: Reflejos: Aqu&#237;leo
+818,3,1 1
+	Sensibilidad
+819,3,1 1
+	Sensibilidad: Superficial
+820,3,1 1
+	Sensibilidad: Profunda
+821,3,1 1
+	Sensibilidad: Superficial: T&#225;ctil
+822,3,1 1
+	Sensibilidad: Superficial: Dolorosa
+823,3,1 1
+	Sensibilidad: Superficial: T&#233;rmica
+824,3,1 1
+	Sensibilidad: Superficial: T&#225;ctil: Anormal
+825,3,1 1
+	Sensibilidad: Superficial: T&#225;ctil: Normal
+826,3,1 1
+	Sensibilidad: Superficial: Dolorosa: Anormal
+827,3,1 1
+	Sensibilidad: Superficial: Dolorosa: Normal
+828,3,1 1
+	Sensibilidad: Superficial: T&#233;rmica: Anormal
+829,3,1 1
+	Sensibilidad: Superficial: T&#233;rmica: Normal
+830,3,1 1
+	Sensibilidad: Profunda: Vibratoria (parestesia)
+831,3,1 1
+	Sensibilidad: Profunda: Posicional (batiestesia)
+832,3,1 1
+	Sensibilidad: Profunda: Vibratoria: Anormal
+833,3,1 1
+	Sensibilidad: Profunda: Vibratoria: Normal
+834,3,1 1
+	Sensibilidad: Profunda: Posicional: Anormal
+835,3,1 1
+	Sensibilidad: Profunda: Posicional: Normal
+836,3,1 1
+	Marcha
+837,3,1 1
+	Marcha: Normal
+838,3,1 1
+	Marcha: Hemipl&#233;jica
+839,3,1 1
+	Marcha: Cerebelosa
+840,3,1 1
+	Marcha: Parkinsoniana (a peque&#241;os pasos o festinante)
+841,3,1 1
+	Marcha: Vestibular
+842,3,1 1
+	Marcha: De afect. nervios perif&#233;ricos
+843,3,1 1
+	Marcha: Inestable
+844,3,1 1
+	Taxia (Coordinaci&#243;n)
+845,3,1 1
+	Coordinaci&#243;n: Est&#225;tica: Romberg
+846,3,1 1
+	Coordinaci&#243;n: Din&#225;mica: Dedo-nariz
+847,3,1 1
+	Coordinaci&#243;n: Din&#225;mica: Tal&#243;n-rodilla
+848,3,1 1
+	Coordinaci&#243;n: Est&#225;tica: Romberg: Negativo
+849,3,1 1
+	Coordinaci&#243;n: Est&#225;tica: Romberg: Positivo
+850,3,1 1
+	Coordinaci&#243;n: Din&#225;mica: Dedo-nariz: Negativo
+851,3,1 1
+	Coordinaci&#243;n: Din&#225;mica: Dedo-nariz: Positivo
+852,3,1 1
+	Coordinaci&#243;n: Din&#225;mica: Tal&#243;n-rodilla: Negativo
+853,3,1 1
+	Coordinaci&#243;n: Din&#225;mica: Tal&#243;n-rodilla: Positivo
+854,3,1 1
+	El paciente presenta uretrorrea es maloliente y espumosa
+855,3,1 1
+	El paciente presenta uretrorrea es amarilla
+856,3,1 1
+	El paciente presenta leucorrea amarilla
+857,3,1 1
+	Incremento del vello sexual (barbilla, labio superior, abdomen pecho)
+858,3,1 1
+	Inspecci&#243;n genital, Clitoromegalia (MUJER)
+859,3,1 1
+	El paciente tiene cianosis generalizadas en las extremidades
+860,3,1 1
+	Disminuci&#243;n del murmullo vesicular es generalizada en ambos hemitorax
+861,3,1 1
+	La auscultaci&#243;n de crepitantes es generalizada en ambos hemitorax
+862,3,1 1
+	La abolici&#243;n del murmullo vesicular es generalizada en ambos hemitorax
+863,3,1 1
+	El paciente tiene pigmentaci&#243;n mel&#225;nica en las extremidades
+864,3,1 1
+	no se usa
+865,3,1 1
+	Adenopat&#237;as cadenas laterales izquierdo: blanda y m&#243;vil
+866,3,1 1
+	Adenopat&#237;as cadenas laterales izquierdo: dura y adherido
+867,3,1 1
+	Adenopat&#237;as cadenas laterales derecho: blanda y m&#243;vil
+868,3,1 1
+	Adenopat&#237;as cadenas laterales derecho: dura y adherido
+869,3,1 1
+	Adenopat&#237;as submandibulares izquierdo: blanda y m&#243;vil
+870,3,1 1
+	Adenopat&#237;as submandibulares izquierdo: dura y adherido
+871,3,1 1
+	Adenopat&#237;as submandibulares derecho: blanda y m&#243;vil
+872,3,1 1
+	Adenopat&#237;as submandibulares derecho: dura y adherido
+873,3,1 1
+	Adenopat&#237;as supraclavicular izquierdo: blanda y m&#243;vil
+874,3,1 1
+	Adenopat&#237;as supraclavicular izquierdo: dura y adherido
+875,3,1 1
+	Adenopat&#237;as supraclavicular derecho: blanda y m&#243;vil
+876,3,1 1
+	Adenopat&#237;as supraclavicular derecho: dura y adherido
+877,3,1 1
+	El paciente tiene edema en Extremidades Inferiores Unilateral
+878,3,1 1
+	El paciente tiene edema en Extremidades Inferiores Bilateral
+879,3,1 1
+	El paciente presenta ves&#237;cula (exploraci&#243;n dermatol&#243;gica)
+880,3,1 1
+	El paciente presenta exantema (exploraci&#243;n dermatol&#243;gica)
+881,3,1 1
+	El paciente presenta exantema en la cara
+882,3,1 1
+	El paciente presenta exantema en el cuello
+883,3,1 1
+	El paciente presenta exantema en el torax
+884,3,1 1
+	El paciente presenta exantema en la espalda alta
+885,3,1 1
+	Ritmo card&#237;aco
+886,3,1 1
+	El paciente tiene am&#237;gdalas anormales
+887,3,1 1
+	Se percibe matidez en el campo superior hemitorax derecho
+888,3,1 1
+	Se percibe matidez en el campo medio del hemitorax derecho
+889,3,1 1
+	Se percibe matidez en el campo inferior del hemitorax derecho
+890,3,1 1
+	Se percibe matidez en el campo superior del hemitorax izquierdo
+891,3,1 1
+	Se percibe matidez en el campo medio del hemitorax izquierdo
+892,3,1 1
+	Se percibe matidez en el campo inferior del hemitorax izquierdo
+893,3,1 1
+	Matidez hemitorax derecho
+894,3,1 1
+	Matidez hemitorax izquierdo
+895,3,1 1
+	La matidez es generalizada en ambos hemitorax
+896,3,1 1
+	El paciente presenta formaci&#243;n acuminada en el Conducto Auditivo Externo
+897,3,1 1
+	El paciente tiene presi&#243;n del trago dolorosa en el pabell&#243;n auricular
+898,3,1 1
+	El paciente tiene movilizaci&#243;n dolorosa en el pabell&#243;n auricular
+899,3,1 1
+	El paciente tiene hemorragia tras separaci&#243;n de exudados amigdalares
+900,3,1 1
+	El paciente tiene exudados amigdalares: unilateral
+901,3,1 1
+	El paciente tiene exudados amigdalares: bilateral
+902,3,1 1
+	Pseudomembranas adherentes blanca en regi&#243;n periamigdalares
+903,3,1 1
+	El paciente tiene lengua saburral
+904,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en la faringe
+905,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n de Rinofaringe o cavum
+906,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n de  Orofaringe
+907,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n de  Hipofaringe
+908,3,1 1
+	Al paciente presenta enrojecimeinto en la orofaringe
+909,3,1 1
+	Al paciente presenta edema en la orofaringe
+910,3,1 1
+	Al paciente presenta exudados en la orofaringe
+911,3,1 2
+	Al paciente presenta prominencia de fol&#237;culos linf&#225;ticos en la
+	 orofaringe
+912,3,1 2
+	El paciente presenta adenopat&#237;as en cadenas laterales izquierda: dura y
+	 m&#243;vil
+913,3,1 2
+	El paciente presenta adenopat&#237;as en cadenas laterales derecha: dura y
+	 m&#243;vil
+914,3,1 2
+	El paciente presenta adenopat&#237;as submandibulares izquierda: dura y
+	 m&#243;vil
+915,3,1 2
+	El paciente presenta adenopat&#237;as submandibulares derecha: dura y
+	 m&#243;vil
+916,3,1 2
+	El paciente presenta adenopat&#237;as supraclavicular izquierda: dura y
+	 m&#243;vil
+917,3,1 2
+	El paciente presenta adenopat&#237;as supraclavicular derecha: dura y
+	 m&#243;vil
+918,3,1 1
+	Al paciente se le realiz&#243; palpaci&#243;n pulso carot&#237;deo (cuello)
+919,3,1 1
+	El paciente presenta pulso en la car&#243;tida derecha
+920,3,1 1
+	El paciente presenta pulso en la car&#243;tida izquierda
+921,3,1 1
+	Presenta masas que provienen del &#225;tico (perforaci&#243;n del timpano)
+922,3,1 2
+	L&#237;nea del nivel horizontal (derrame del l&#237;quido de la caja)
+	 (Perforaci&#243;n del T&#237;mpano)
+923,3,1 2
+	Modificaci&#243;n de la orientaci&#243;n del t&#237;mpano (Perforaci&#243;n del
+	 T&#237;mpano)
+924,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en la laringe
+925,3,1 1
+	Al paciente se le realiz&#243; la laringoscop&#237;a indirecta (Laringe)
+926,3,1 1
+	Laringoscop&#237;a indirecta (Laringe): mucosa laringea
+927,3,1 1
+	Laringoscop&#237;a indirecta (Laringe): cuerdas vocales
+928,3,1 1
+	Laringoscop&#237;a indirecta (Laringe): epiglotes
+929,3,1 1
+	El paciente tiene la mucosa laringea: seca
+930,3,1 1
+	El paciente tiene la mucosa laringea: deslustrada
+931,3,1 1
+	El paciente tiene la mucosa laringea: enrojecida
+932,3,1 2
+	Tine la mucosa laringea: lesi&#243;n infiltrante, &#250;lceroinfiltrante o
+	 exof&#237;tica
+933,3,1 1
+	Tine las cuerdas vocales: tumefactas
+934,3,1 1
+	Tiene las cuerdas vocales: cilindroides
+935,3,1 1
+	Tiene las cuerdas vocales: pseudomixomatosa
+936,3,1 1
+	Tiene las cuerdas vocales: inmovilidad de una o ambas
+937,3,1 2
+	Tiene las cuerdas vocales: lesi&#243;n infiltrante, &#250;lceroinfiltrante o
+	 exof&#237;tica
+938,3,1 1
+	Tiene las cuerdas vocales: polipos
+939,3,1 1
+	Tiene las cuerdas vocales: n&#243;dulos
+940,3,1 1
+	Tiene la epiglotis: enrojecida
+941,3,1 1
+	Laringoscop&#237;a indirecta (Laringe): normal
+942,3,1 1
+	El paciente tiene la mucosa nasal edematosa y enrojecida
+943,3,1 1
+	El paciente tiene la mucosa nasal p&#225;lida y violacea
+944,3,1 1
+	El paciente tiene secresi&#243;n mucopurelenta
+945,3,1 1
+	El paciente tiene tumoraciones en una mama
+946,3,1 1
+	El paciente tiene tumoraciones en ambas mamas
+947,3,1 1
+	Se palparon tumoraciones en las mamas: Dura, fija
+948,3,1 1
+	Inspecci&#243;n genital: Sangrado vaginal
+949,3,1 1
+	Se palp&#243; induraci&#243;n uretral
+950,3,1 1
+	Motilidad: Reflejos: Rotuliano: Exaltado (Hiperreflexia)
+951,3,1 1
+	Motilidad: Reflejos: Rotuliano: Disminuido (Hiporreflexia)
+952,3,1 1
+	El paciente tiene papilas en la conjuntiva
+953,3,1 1
+	Ulceraciones en C&#243;rnea: centrales, blancas o amarillas
+954,3,1 1
+	Ulceraciones en C&#243;rnea: superficial con multiples abscesos
+955,3,1 1
+	Ulceraciones en C&#243;rnea: Dendr&#237;tica con ramificaciones colaterales
+956,3,1 1
+	C&#243;rnea: aumento del di&#225;metro
+957,3,1 1
+	El paciente presenta excavaci&#243;n papilar glaucomatosa
+958,3,1 1
+	P&#225;rpados
+959,3,1 1
+	El paciente presenta edema palpebral localizado
+960,3,1 1
+	El paciente presenta edema palpebral generalizado
+961,3,1 1
+	El paciente presenta enrojecimiento palpebral
+962,3,1 1
+	El paciente presenta enrojecimiento palpebral en el borde
+963,3,1 1
+	El paciente presenta enrojecimiento palpebral generalizado
+964,3,1 1
+	El paciente presenta N&#243;dulo palpebral
+965,3,1 1
+	El paciente presenta N&#243;dulo palpebral indoloro
+966,3,1 1
+	El paciente presenta N&#243;dulo palpebral adherido
+967,3,1 1
+	El paciente presenta N&#243;dulo palpebral en el tarso
+968,3,1 1
+	Opacidad del cristalino
+969,3,1 1
+	Regi&#243;n de sacos lagrimales
+970,3,1 1
+	Regi&#243;n de sacos lagrimales: aumentada de volumen
+971,3,1 1
+	Regi&#243;n de sacos lagrimales: enrojecida
+972,3,1 1
+	Regi&#243;n de sacos lagrimales: consistencia dura
+973,3,1 1
+	Regi&#243;n de sacos lagrimales: secreci&#243;n ante presi&#243;n
+974,3,1 1
+	Retina: Ingurgitaci&#243;n de las venas
+975,3,1 1
+	Craneo
+976,3,1 1
+	Craneo: Deformidad
+977,3,1 1
+	Craneo en torre
+978,3,1 1
+	Cara
+979,3,1 1
+	Cara: Deformidad
+980,3,1 1
+	Puente de la nariz deprimido
+981,3,1 1
+	Prominencia de huesos molares
+982,3,1 1
+	Vello seco, escaso
+983,3,1 1
+	Movilidad articular: Ausente
+984,3,1 1
+	Movilidad articular: Presente
+985,3,1 1
+	Movilidad articular: Disminuida
+986,3,1 1
+	El paciente presenta Hemartrosis
+987,3,1 1
+	Vasodilataci&#243;n en el borde palpebral
+988,3,1 1
+	Escamas en el borde palpebral
+989,3,1 1
+	Costra en el borde palpebral
+990,3,1 1
+	Punto de supuraci&#243;n
+991,3,1 1
+	Aumento de volumen de la raiz nasal
+992,3,1 1
+	Hiperemia en la conjuntiva localizada
+993,3,1 1
+	Hiperemia en la conjuntiva generalizada
+994,3,1 1
+	Hiperemia en la conjuntiva localizada con n&#243;dulo
+995,3,1 1
+	Hiperemia en la conjuntiva localizada sin n&#243;dulo
+996,3,1 1
+	Ves&#237;culas en la cara
+997,3,1 1
+	Palpaci&#243;n de extremidades: Signo de TINEL (Positivo)
+998,3,1 1
+	Palpaci&#243;n de extremidades: Signo de PHALEN (Positivo)
+999,3,1 1
+	Erupci&#243;n discoide
+1000,3,1 1
+	Ves&#237;culas en Palmas de las manos
+1001,3,1 1
+	Ves&#237;culas en Plantas de los pies
+1002,3,1 1
+	Puntos Pielorenoureterales superiores dolorosos
+1003,3,1 1
+	Puntos Pielorenoureterales medios dolorosos
+1004,3,1 1
+	Intermedio para 289 V 356
+1005,3,1 1
+	Trampa para que pregunte Tacto Vaginal
+1006,3,1 1
+	El paciente tiene signo de Trousseau
+1007,3,1 1
+	El paciente tiene signo de Chvostek
+1008,3,1 1
+	Pliegues escrotales borrados
+1009,3,1 1
+	Venas testiculares dilatadas
+1010,3,1 1
+	Petequias: Generalizadas
+1011,3,1 1
+	Petequias: Localizadas
+1012,3,1 1
+	El paciente presenta petequias: Localizadas: Gl&#250;teos
+1013,3,1 1
+	El paciente presenta Cloasma
+1014,3,1 1
+	Se detect&#243; Cistocele en inspecci&#243;n genital de MUJER
+1015,3,1 1
+	Se detect&#243; Rectocistocele en inspecci&#243;n genital de MUJER
+1016,3,1 1
+	Se detect&#243; Uretrocele en inspecci&#243;n genital de MUJER
+1017,3,1 1
+	Inspecci&#243;n Genital MUJER: Cuello Edematoso
+1018,3,1 1
+	Inspecci&#243;n Genital MUJER: Cuello Aumentado de tama&#241;o
+1019,3,1 1
+	Inspecci&#243;n Genital MUJER: Endoc&#233;rvix engrosado y produce pus
+1020,3,1 1
+	Inspecci&#243;n Genital MUJER: Endoc&#233;rvix con huevos de Naboth
+1021,3,1 1
+	El paciente presenta exoftalmos bilateral
+1022,3,1 1
+	El paciente presenta exoftalmos unilateral
+1023,3,1 1
+	Fascie Hipertiroidea
+1024,3,1 1
+	Marcha de Pato
+1025,3,1 1
+	Motilidad: Extremidad inferior: Fuerza disminuida Unilateral
+1026,3,1 1
+	Motilidad: Extremidad inferior: Fuerza disminuida Bilateral
+1027,3,1 1
+	Motilidad: Reflejos: Aqu&#237;leo: Exaltado (Hiperreflexia)
+1028,3,1 1
+	Motilidad: Reflejos: Aqu&#237;leo: Disminuido (Hiporreflexia)
+1029,3,1 1
+	El paciente tiene Sonido de Gorgoteo en el Cuello
+1030,3,1 2
+	El paciente presenta adenopat&#237;as supraclavicular izquierda: Signo de
+	 Troisier
+1031,3,1 1
+	El paciente presenta Signo de Cullen en el abdomen
+1032,3,1 1
+	El paciente presenta Signo de Turner en el abdomen
+1033,3,1 1
+	El paciente tiene estado de consciencia AGITADO
+1034,3,1 1
+	Al paciente se le realiz&#243; exploraci&#243;n en REGIONES TEMPORALES
+1035,3,1 1
+	El paciente presenta Atrofia Bitemporal
+1036,3,1 1
+	Se auscult&#243; Soplos en Area Hep&#225;tica
+1037,3,1 1
+	Parkisoniana (inexpresiva o de estatua)
+1038,3,1 1
+	El paciente presenta escases de pesta&#241;eo (signo de Stellwag)
+1039,3,1 1
+	Actitud
+1040,3,1 1
+	Actitud de pie
+1041,3,1 1
+	El paciente presenta actitud de pie parkisoniana
+1042,3,1 1
+	Motilidad: Movimientos anormales: Temblor: Focalizado: Extremidades Superiores
+1043,3,1 1
+	Motilidad: Movimientos anormales: Temblor: Focalizado: Extremidades Inferiores
+1044,3,1 1
+	Motilidad: Movimientos anormales: Temblor: Focalizado: Cabeza
+1045,3,1 2
+	Motilidad: Movimientos anormales: Temblor: Focalizado: Extremidades Superiores:
+	 Unilateral
+1046,3,1 2
+	Motilidad: Movimientos anormales: Temblor: Focalizado: Extremidades Superiores:
+	 Bilateral
+1047,3,1 2
+	Motilidad: Movimientos anormales: Temblor: Focalizado: Extremidades Inferiores:
+	 Unilateral
+1048,3,1 2
+	Motilidad: Movimientos anormales: Temblor: Focalizado: Extremidades Inferiores:
+	 Bilateral
+1049,3,1 2
+	Motilidad: Movimientos anormales: Temblor: Focalizado: Extremidades Superiores:
+	 Cuenta Monedas
+1050,3,1 1
+	Maniobras
+1051,3,1 1
+	Moviliza los miembros superiores de forma pasiva
+1052,3,1 1
+	Signo de Meyerson
+1053,3,1 1
+	Resistencia desde el comienzo (Maniobra)
+1054,3,1 1
+	Resistencia durante todo el movimiento, signo de la rueda dentada (Maniobra)
+1055,3,1 1
+	No hay resistencia (Maniobra)
+1056,3,1 1
+	Reflejos Osteotendinosos
+1057,3,1 1
+	Reflejos Cut&#225;neo Mucosos o superficiales
+1058,3,1 1
+	Reflejos Osteotendinosos a nivel de la porci&#243;n cef&#225;lica
+1059,3,1 1
+	Reflejos Osteotendinosos a nivel de los miembros superiores
+1060,3,1 1
+	Reflejos Osteotendinosos a nivel de los miembros inferiores
+1061,3,1 1
+	Reflejo del orbicular de los p&#225;rpados
+1062,3,1 1
+	Reflejo mandibular
+1063,3,1 1
+	Reflejo del orbicular de los p&#225;rpados normal
+1064,3,1 1
+	Reflejo del orbicular de los p&#225;rpados Anormal
+1065,3,1 1
+	Reflejo del orbicular de p&#225;rpados disminuidos, hiporreflexia
+1066,3,1 1
+	Reflejo del orbicular de los p&#225;rpados abolidos (arreflexia)
+1067,3,1 1
+	Reflejo del orbicular de p&#225;rpados: exaltados (hiperreflexia)
+1068,3,1 1
+	Reflejo mandibular normal
+1069,3,1 1
+	Reflejo mandibular Anormal
+1070,3,1 1
+	Reflejo mandibular disminuido (hiporreflexia)
+1071,3,1 1
+	Reflejo mandibular abolido (arreflexia)
+1072,3,1 1
+	Reflejo mandibular exaltados (hiperreflexia)
+1073,3,1 1
+	Reflejo Bicipital disminuido (hiporreflexia)
+1074,3,1 1
+	Reflejo Bicipital abolido (arreflexia)
+1075,3,1 1
+	Reflejo Bicipital exaltado (hiperreflexia)
+1076,3,1 1
+	Reflejo Tricipital disminuido (hiporreflexia)
+1077,3,1 1
+	Reflejo Tricipital abolido (arreflexia)
+1078,3,1 1
+	Reflejo Tricipital exaltado (hiperreflexia)
+1079,3,1 1
+	Reflejo Estilo-radial disminuido (hiporreflexia)
+1080,3,1 1
+	Reflejo Estilo-radial abolido (arreflexia)
+1081,3,1 1
+	Reflejo Estilo-radial exaltado (hiperreflexia)
+1082,3,1 1
+	Motilidad: Reflejos: Rotuliano: Abolido (Arreflexia)
+1083,3,1 1
+	Motilidad: Reflejos: Aqu&#237;leo: Abolido (Arreflexia)
+1084,3,1 1
+	Reflejos: Suced&#225;neos del Babinski
+1085,3,1 1
+	Reflejos: Cut&#225;neos abdominales
+1086,3,1 1
+	Maniobra de Oppenheim
+1087,3,1 1
+	Maniobra de Oppenheim Positiva
+1088,3,1 1
+	Maniobra de Oppenheim Negativa
+1089,3,1 1
+	Maniobra de Schaeffer
+1090,3,1 1
+	Maniobra de Schaeffer Positiva
+1091,3,1 1
+	Maniobra de Schaeffer Negativa
+1092,3,1 1
+	Maniobra de Gordon
+1093,3,1 1
+	Maniobra de Gordon Positiva
+1094,3,1 1
+	Maniobra de Gordon Negativa
+1095,3,1 1
+	Reflejo Cut&#225;neo abdominal superior
+1096,3,1 1
+	Reflejo Cut&#225;neo abdominal medio
+1097,3,1 1
+	Reflejo Cut&#225;neo abdominal inferior
+1098,3,1 1
+	Reflejo Cut&#225;neo abdominal superior normal
+1099,3,1 1
+	Reflejo Cut&#225;neo abdominal superior Anormal
+1100,3,1 1
+	Reflejo Cut&#225;neo abdominal superior disminuido, hiporreflexia
+1101,3,1 1
+	Reflejo Cut&#225;neo abdominal superior abolido (arreflexia)
+1102,3,1 1
+	Reflejo Cut&#225;neo abdominal superior exaltado, hiperreflexia
+1103,3,1 1
+	Reflejo Cut&#225;neo abdominal medio normal
+1104,3,1 1
+	Reflejo Cut&#225;neo abdominal medio Anormal
+1105,3,1 1
+	Reflejo Cut&#225;neo abdominal medio disminuido (hiporreflexia)
+1106,3,1 1
+	Reflejo Cut&#225;neo abdominal medio abolido (arreflexia)
+1107,3,1 1
+	Reflejo Cut&#225;neo abdominal medio exaltado (hiperreflexia)
+1108,3,1 1
+	Reflejo Cut&#225;neo abdominal inferior normal
+1109,3,1 1
+	Reflejo Cut&#225;neo abdominal inferior Anormal
+1110,3,1 1
+	Reflejo Cut&#225;neo abdominal inferior disminuido, hiporreflexia
+1111,3,1 1
+	Reflejo Cut&#225;neo abdominal inferior abolido (arreflexia)
+1112,3,1 1
+	Reflejo Cut&#225;neo abdominal inferior exaltado (hiperreflexia)
+1113,3,1 1
+	Taxia (Coordinaci&#243;n): Est&#225;tica
+1114,3,1 1
+	Taxia (Coordinaci&#243;n): Din&#225;mica
+1115,3,1 1
+	Coordinaci&#243;n: Est&#225;tica: Romberg sensibilizado
+1116,3,1 1
+	Coordinaci&#243;n: Est&#225;tica: Romberg sensibilizado: Negativo
+1117,3,1 1
+	Coordinaci&#243;n: Est&#225;tica: Romberg sensibilizado: Positivo
+1118,3,1 1
+	Sensibilidad: Profunda: Vibratoria: Anormal: Aumentada
+1119,3,1 1
+	Sensibilidad: Profunda: Vibratoria: Anormal: Disminuida
+1120,3,1 1
+	Sensibilidad: Profunda: Posicional: Anormal: Aumentada
+1121,3,1 1
+	Sensibilidad: Profunda: Posicional: Anormal: Disminuida
+1122,3,1 1
+	Sensibilidad: Profunda: A la Presi&#243;n
+1123,3,1 1
+	Sensibilidad: Profunda: Apreciaci&#243;n de pesos
+1124,3,1 1
+	Sensibilidad: Profunda: A la Presi&#243;n: Normal
+1125,3,1 1
+	Sensibilidad: Profunda: A la Presi&#243;n: Anormal
+1126,3,1 1
+	Sensibilidad: Profunda: Apreciaci&#243;n de pesos: Normal
+1127,3,1 1
+	Sensibilidad: Profunda: Apreciaci&#243;n de pesos: Anormal
+1128,3,1 1
+	El paciente tiene atrofia de los m&#250;sculos del cuello
+1129,3,1 1
+	El paciente presenta actitud en el lecho en gatillo de escopeta o fusil
+1130,3,1 1
+	Sensibilidad superficial t&#225;ctil: hipoestesia o anestesia
+1131,3,1 1
+	Sens. superficial t&#225;ctil: hipoestesia o anestesia unilateral
+1132,3,1 1
+	Sensibilidad superficial t&#225;ctil: hiperestesia
+1133,3,1 1
+	Sensibilidad superficial dolorosa: hipoestesia o anestesia
+1134,3,1 1
+	Sens. superf. dolorosa: hipoestesia o anestesia unilateral
+1135,3,1 1
+	Sensibilidad superficial dolorosa: hiperestesia
+1136,3,1 1
+	Sensibilidad superficial t&#233;rmica: hipoestesia o anestesia
+1137,3,1 1
+	Sens. superf. t&#233;rmica: hipoestesia o anestesia unilateral
+1138,3,1 1
+	Sensibilidad superficial t&#233;rmica: hiperestesia
+1139,3,1 1
+	Signo de Kerning
+1140,3,1 1
+	Signo de Kernig presente
+1141,3,1 1
+	Signo de Kerning ausente
+1142,3,1 1
+	Signo de Brudzinski
+1143,3,1 1
+	Signo de Brudzinski presente
+1144,3,1 1
+	Signo de Brudzinski ausente
+1145,3,1 1
+	Reflejo contralateral de Brudzinski
+1146,3,1 1
+	Reflejo contralateral de Brudzinski: presente
+1147,3,1 1
+	Reflejo contralateral de Brudzinski: ausente
+1148,3,1 1
+	Motilidad: Extremidad Inferior: Fuerza
+1149,3,1 1
+	Motilidad: Extremidad Superior: Fuerza
+1150,3,1 1
+	Motilidad: Extremidad Inferior: Maniobra de Barr&#233;
+1151,3,1 1
+	Motilidad: Extremidad Superior: Maniobra de Mingazzini
+1152,3,1 1
+	Maniobra de Barr&#233;: Normal
+1153,3,1 1
+	Maniobra de Barr&#233;: Paresia
+1154,3,1 1
+	Maniobra de Barr&#233;: Paresia: Miembro inferior derecho
+1155,3,1 1
+	Maniobra de Barr&#233;: Paresia: Miembro inferior izquierdo
+1156,3,1 1
+	Maniobra de Mingazzini: Normal
+1157,3,1 1
+	Maniobra de Mingazzini: Paresia
+1158,3,1 1
+	Maniobra de Mingazzini: Paresia: Miembro superior derecho
+1159,3,1 1
+	Maniobra de Mingazzini: Paresia: Miembro superior izquierdo
+1160,3,1 1
+	El paciente presenta seborrea o aumento de la grasa cut&#225;nea
+1161,3,1 1
+	El paciente presenta hiperhidrosis
+1162,3,1 1
+	Sensibilidad: Profunda: A la presi&#243;n: Anormal: Aumentada
+1163,3,1 1
+	Sensibilidad: Profunda: A la presi&#243;n: Anormal: Disminuida
+1164,3,1 1
+	II Par: Optico: Fondo ojo: Borramiento del borde de la papila
+1165,3,1 1
+	II Par: Optico: Fondo ojo: Elevancia del borde de la papila
+1166,3,1 1
+	II Par: Optico: Fondo ojo: Estrechamiento arterioral
+1167,3,1 1
+	V Par: Trig&#233;mino: Reflejo corneal: Disminuido unilateral
+1168,3,1 1
+	V Par: Trig&#233;mino: Reflejo corneal: Disminuido bilateral
+1169,3,1 1
+	V Par: Trig&#233;mino: Reflejo corneal: Abolido unilateral
+1170,3,1 1
+	V Par: Trig&#233;mino: Reflejo corneal: Abolido bilateral
+1171,3,1 1
+	Motilidad: Extremidad superior: Fuerza disminuida Unilateral
+1172,3,1 1
+	Motilidad: Extremidad superior: Fuerza disminuida Bilateral
+1173,3,1 1
+	Motilidad: Movimientos anormales: Convulsi&#243;n t&#243;nica
+1174,3,1 1
+	Motilidad: Movimientos anormales: Convulsi&#243;n t&#243;nica cl&#243;nica
+1175,3,1 1
+	XII Par: Hipogloso: Movilizaci&#243;n lengua: Par&#225;lisis: Mitad
+1176,3,1 1
+	XII Par: Hipogloso: Movilizaci&#243;n lengua: Par&#225;lisis: Completa
+1177,3,1 1
+	XII Par: Hipogloso: Atrofias: Presente: Mitad
+1178,3,1 1
+	XII Par: Hipogloso: Atrofias: Presente: Completa
+1179,3,1 1
+	Sens. superficial t&#225;ctil: hipoestesia o anestesia bilateral
+1180,3,1 1
+	Sens. superf. dolorosa: hipoestesia o anestesia bilateral
+1181,3,1 1
+	Sens. superficial t&#233;rmica: hipoestesia o anestesia bilateral
+1182,3,1 1
+	El paciente presenta actitud de pie hemipl&#233;jica
+1183,3,1 1
+	Actitud en el lecho
+1184,3,1 1
+	El paciente presenta actitud en el lecho hemipl&#233;jica
+1185,3,1 1
+	VII Par: Facial: Maniobra de Pierre-Marie-Foix
+1186,3,1 1
+	Maniobra de Pierre-Marie-Foix positiva
+1187,3,1 1
+	Maniobra de Pierre-Marie-Foix negativa
+1188,3,1 1
+	VII Par: Facial: Par&#225;lisis facial
+1189,3,1 1
+	VII Par: Facial: Par&#225;lisis facial central
+1190,3,1 1
+	VII Par: Facial: Par&#225;lisis facial perif&#233;rica
+1191,3,1 1
+	Movilidad Bucal asim&#233;trica: desviaci&#243;n de la comisura labial
+1192,3,1 1
+	Movilidad Bucal asim&#233;trica: salida de la saliva por un lado de la boca
+1193,3,1 1
+	Ves&#237;culas en cuero cabelludo
+1194,3,1 1
+	Ves&#237;culas en tronco (distribuci&#243;n centr&#237;peta o metam&#233;rica)
+1195,3,1 1
+	El paciente presenta exantema en el abdomen
+1196,3,1 1
+	IX y X Par: Vago y Glosofar&#237;ngeo: Cuerdas Vocales
+1197,3,1 1
+	IX y X Par: Vago y Glosofar&#237;ngeo: Cuerdas vocales: Normal
+1198,3,1 1
+	IX y X Par: Vago y Glosofar&#237;ngeo: Cuerdas vocales: Par&#225;lisis
+1199,3,1 1
+	Fascies tet&#225;nica de la risa sard&#243;nica
+1200,3,1 1
+	El paciente presenta hiperpigmentaci&#243;n: pies
+1201,3,1 1
+	El paciente presenta hiperpigmentaci&#243;n: abdomen
+1202,3,1 1
+	El paciente presenta hiperpigmentaci&#243;n: frente
+1203,3,1 1
+	El paciente presenta hiperpigmentaci&#243;n: manos
+1204,3,1 1
+	El paciente presenta exantema en las extremidades
+1205,3,1 1
+	El paciente presenta exantema en gl&#250;teos
+1206,3,1 1
+	El paciente presenta n&#243;dulos: subcut&#225;neos
+1207,3,1 1
+	El paciente presenta n&#243;dulos: subcut&#225;neos: bilaterales
+1208,3,1 2
+	El paciente presenta n&#243;dulos: subcut&#225;neos: superficie anterior de la
+	 pierna
+1209,3,1 2
+	El paciente presenta n&#243;dulos: subcut&#225;neos: superficie posterior de la
+	 pierna
+1210,3,1 1
+	El paciente presenta n&#243;dulos: subcut&#225;neos: localizado a otras zonas
+1211,3,1 2
+	El paciente presenta n&#243;dulos: subcut&#225;neos: localizado a otras zonas:
+	 tronco
+1212,3,1 2
+	El paciente presenta n&#243;dulos: subcut&#225;neos: bilaterales: localizado a
+	 otras zonas: extremidades
+1213,3,1 1
+	El paciente presenta piel engrosada: cara
+1214,3,1 1
+	El paciente presenta piel engrosada: manos
+1215,3,1 1
+	El paciente presenta piel engrosada: antebrazos
+1216,3,1 1
+	El paciente presenta piel engrosada: piernas
+1217,3,1 1
+	El paciente presenta piel engrosada: pies
+1218,3,1 1
+	El paciente presenta m&#225;cula: localizada
+1219,3,1 1
+	El paciente presenta m&#225;cula: generalizada
+1220,3,1 1
+	El paciente presenta m&#225;cula: localizada: alrededor de los ojos
+1221,3,1 1
+	El paciente presenta m&#225;cula: localizada: alrededor de la nariz
+1222,3,1 1
+	El paciente presenta m&#225;cula: localizada: en la espalda
+1223,3,1 1
+	Sensibilidad: Profunda: Esterognosia
+1224,3,1 1
+	Sensibilidad: Profunda: Esterognosia: Normal
+1225,3,1 1
+	Sensibilidad: Profunda: Esterognosia: Anormal
+1226,3,1 1
+	El paciente presenta exantema generalizado
+1227,3,1 1
+	V Par: Trig&#233;mino: Fuerza maseteros: Anormal: Trismos
+1228,3,1 1
+	El paciente presenta actitud en el lecho opist&#243;tonos o emprost&#243;tonos
+1229,3,1 1
+	El paciente presenta p&#225;pula: localizada
+1230,3,1 1
+	El paciente presenta p&#225;pula: generalizada
+1231,3,1 1
+	El paciente presenta p&#225;pula: localizada: alrededor de los ojos
+1232,3,1 1
+	El paciente presenta p&#225;pula: localizada: alrededor de la nariz
+1233,3,1 1
+	El paciente presenta p&#225;pula: localizada: en la espalda
+1234,3,1 1
+	Motilidad: Extremidad superior: Fuerza disminuida: Toda la extremidad
+1235,3,1 1
+	Motilidad: Extremidad inferior: Fuerza disminuida: Toda la extremidad
+1236,3,1 1
+	El paciente presenta m&#225;cula: localizada: Extremidad Inferior
+1237,3,1 1
+	El paciente presenta m&#225;cula: localizada: Extremidad Superior
+1238,3,1 1
+	El paciente presenta m&#225;cula: localizada: Tronco
+1239,3,1 1
+	El paciente presenta p&#225;pula: localizada: Extremidad Inferior
+1240,3,1 1
+	El paciente presenta p&#225;pula: localizada: Extremidad Superior
+1241,3,1 1
+	El paciente presenta p&#225;pula: localizada: Tronco
+1242,3,1 1
+	El paciente tiene ausencia pulso en extremidades superiores
+1243,3,1 1
+	El paciente presenta equimosis en la extremidad superior
+1244,3,1 1
+	El paciente presenta equimosis en la extremidad inferior
+1245,3,1 1
+	El paciente presenta equimosis en el tronco
+1246,3,1 1
+	El paciente presenta n&#243;dulos: subcut&#225;neos: unilaterales
+1247,3,1 2
+	El paciente presenta n&#243;dulos: subcut&#225;neos: bilaterales: localizado a
+	 otras zonas: trayecto arterial
+1248,3,1 1
+	El paciente tiene la mucosa nasal ulcerada
+1249,3,1 1
+	El paciente tiene el tabique nasal perforado, deformidad en silla de montar
+1250,3,1 1
+	El paciente presenta exantema localizado
+1251,3,1 1
+	El paciente presenta lesiones de Janeway
+1252,3,1 1
+	El paciente presenta petequias: Localizadas: Paladar
+1253,3,1 1
+	El paciente presenta petequias: Localizadas: Conjuntiva
+1254,3,1 1
+	El paciente presenta petequias: Localizadas: Mucosa Bucal
+1255,3,1 1
+	El paciente tiene n&#243;dulos de Osler
+1256,3,1 1
+	El paciente tiene hemorragias (en astilla)
+1257,3,1 1
+	El paciente presenta manchas de Roth
+1258,3,1 1
+	El paciente presenta exantema en las extremidades: antebrazos
+1259,3,1 1
+	El paciente presenta exantema en las extremidades: mu&#241;ecas
+1260,3,1 1
+	El paciente presenta exantema en las extremidades: palmas
+1261,3,1 1
+	El paciente presenta exantema en las extremidades: plantas
+1262,3,1 1
+	El paciente presenta exantema en las extremidades: tobillos
+1263,3,1 1
+	El paciente presenta hiperpigmentaci&#243;n: facial
+1264,3,1 1
+	El paciente tiene Ca&#237;da del pie
+1265,3,1 1
+	El paciente tiene Ca&#237;da de la mu&#241;eca
+1266,3,1 1
+	El paciente tiene erosi&#243;n pared anterior del t&#243;rax
+1267,3,1 1
+	El paciente tiene lengua con lesiones blanca la parte lateral
+1268,3,1 1
+	Cara: F&#237;stulas
+1269,3,1 1
+	Cara: Periastitis u osteomelitis
+1270,3,1 2
+	Al paciente se le realiz&#243; exploraci&#243;n en la rama vertical u
+	 horizontal del maxilar
+1271,3,1 1
+	La exploraci&#243;n en la rama vertical u horizontal del maxilar fue: normal
+1272,3,1 2
+	La exploraci&#243;n en la rama vertical u horizontal del maxilar fue:
+	 n&#243;dulos
+1273,3,1 2
+	Exploraci&#243;n en rama vertical u horizontal del maxilar fue: n&#243;dulos:
+	 duros
+1274,3,1 2
+	Exploraci&#243;n en rama vertical u horizontal del maxilar fue: n&#243;dulos:
+	 blandos
+1275,3,1 2
+	Exploraci&#243;n en rama vertical u horizontal del maxilar fue: n&#243;dulos:
+	 supuran
+1276,3,1 1
+	Regiones submaxilares
+1277,3,1 1
+	El paciente tiene desviaci&#243;n lateral de los dedos de los pies
+1278,3,1 1
+	El paciente tiene desviaci&#243;n radial de la mu&#241;eca
+1279,3,1 1
+	La sinovitis en extremidades es sim&#233;trica
+1280,3,1 1
+	Manchas en la piel, Hipopigmentada y Localizadas
+1281,3,1 1
+	Manchas en la piel, Hipopigmentada y Generalizadas
+1282,3,1 1
+	Manchas en la piel con Bordes bien definidos
+1283,3,1 1
+	Manchas en la piel con Bordes mal definidos
+1284,3,1 1
+	Manchas en la piel, Hipopigmentada y Localizadas en: Alrededor de la boca
+1285,3,1 1
+	Manchas en la piel, Hipopigmentada y Localizadas en: Alrededor de la nariz
+1286,3,1 1
+	Manchas en la piel, Hipopigmentada y Localizadas en: Alrededor de los ojos
+1287,3,1 1
+	Manchas en la piel, Hipopigmentada y Localizadas en: Alrededor del ombligo
+1288,3,1 1
+	Manchas en la piel, Hipopigmentada y Localizadas en: Alrededor de los pezones
+1289,3,1 1
+	Manchas en la piel, Hipopigmentada y Localizadas en: Alrededor del ano
+1290,3,1 2
+	Manchas en la piel, Hipopigmentada y Localizadas en: Superficie de flexi&#243;n
+	 de las mu&#241;ecas
+1291,3,1 2
+	Manchas en la piel, Hipopigmentada y Localizadas en: Superficies de
+	 extensi&#243;n de extremidades distales
+1292,3,1 1
+	Manchas en la piel, Hipopigmentada y Localizadas en: Cara
+1293,3,1 1
+	Manchas en la piel, Hipopigmentada y Localizadas en: Orejas
+1294,3,1 1
+	Manchas en la piel, Hipopigmentada y Localizadas en: Gl&#250;teos
+1295,3,1 1
+	Manchas en la piel, Hipopigmentada y Localizadas en: Rodillas y/o Codos
+1296,3,1 1
+	El paciente presenta P&#250;rpura en la dermis
+1297,3,1 1
+	El paciente presenta Malformaci&#243;n en la dermis (Angioma Plano)
+1298,3,1 1
+	El paciente presenta Manchas en la Piel de tipo Hemat&#243;geno
+1299,3,1 1
+	El paciente presenta Atrofia Muscular en Manos
+1300,3,1 1
+	El paciente presenta Atrofia Muscular en la Cara
+1301,3,1 1
+	El paciente presenta Reabsorci&#243;n y p&#233;rdida de falanges
+1302,3,1 1
+	M&#225;culas, N&#243;dulos, Placas o P&#225;pulas en Pabell&#243;n Auricular
+1303,3,1 1
+	Exploraci&#243;n de L&#243;bulos de las Orejas, Pabell&#243;n Auricular
+1304,3,1 1
+	L&#243;bulos de las Orejas Infiltrados
+1305,3,1 1
+	L&#243;bulos de las Orejas Colgando
+1306,3,1 1
+	L&#243;bulos de las Orejas Ausentes
+1307,3,1 1
+	El paciente presenta N&#243;dulos en la Cara (Mejillas,Nariz,Cejas)
+1308,3,1 1
+	El paciente presenta N&#243;dulos en las Orejas
+1309,3,1 1
+	El paciente presenta N&#243;dulos en los Gluteos
+1310,3,1 1
+	El paciente presenta N&#243;dulos en los Codos y/o Rodillas
+1311,3,1 1
+	El paciente presenta M&#225;culas en las manos
+1312,3,1 1
+	El paciente presenta M&#225;culas en la cara
+1313,3,1 1
+	El paciente presenta M&#225;culas en el cuello
+1314,3,1 1
+	El paciente presenta M&#225;culas en los genitales
+1315,3,1 1
+	El paciente presenta M&#225;culas en los gl&#250;teos
+1316,3,1 1
+	El paciente presenta M&#225;culas en las orejas
+1317,3,1 1
+	El paciente presenta Fascies Leonina
+1318,3,1 1
+	Nervios Perif&#233;ricos
+1319,3,1 1
+	Nervios Perif&#233;ricos: Inspecci&#243;n
+1320,3,1 1
+	Nervios Perif&#233;ricos: Palpaci&#243;n
+1321,3,1 1
+	Inspecci&#243;n de Nervios Prif&#233;ricos: Normal
+1322,3,1 1
+	Inspecci&#243;n de Nervios Prif&#233;ricos: Aumento de Volumen
+1323,3,1 1
+	Palpaci&#243;n de Nervios Perif&#233;ricos: Engrosados
+1324,3,1 1
+	Palpaci&#243;n de Nervios Perif&#233;ricos: Dolor Neur&#237;tico
+1325,3,1 1
+	Palpaci&#243;n de Nervios Perif&#233;ricos: Engrosados: Mediano
+1326,3,1 1
+	Palpaci&#243;n de Nervios Perif&#233;ricos: Engrosados: Cubital
+1327,3,1 1
+	Palpaci&#243;n de Nervios Perif&#233;ricos: Engrosados: Facial
+1328,3,1 2
+	Palpaci&#243;n de Nervios Perif&#233;ricos: Engrosados: Ci&#225;tico
+	 Popl&#237;teo Externo
+1329,3,1 1
+	Palpaci&#243;n de Nervios Perif&#233;ricos: Engrosados: Peroneo
+1330,3,1 1
+	Palpaci&#243;n de Nervios Perif&#233;ricos: Engrosados: Auricular Mayor
+1331,3,1 1
+	El paciente presenta Placas Eritematovesiculosas o Eritematocostrosas
+1332,3,1 1
+	El paciente presenta Placas Eritematoescamosas
+1333,3,1 1
+	El paciente presenta Placas Eritematoedematosas
+1334,3,1 1
+	El paciente presenta Placas Hiperquerat&#237;sicas
+1335,3,1 1
+	El paciente presenta Soluci&#243;n de Continuidad
+1336,3,1 1
+	El paciente presenta Dermografismo Blanco Presente
+1337,3,1 1
+	El paciente presenta Areas Liquenificadas
+1338,3,1 1
+	El paciente presenta Placas
+1339,3,1 1
+	El paciente presenta Fen&#243;meno de Koebner
+1340,3,1 1
+	El paciente presenta Signo de la Mancha de Esperma
+1341,3,1 1
+	El paciente presenta Signo de Auspitz o del Roc&#237;o Sangriento
+1342,3,1 1
+	El paciente presenta For&#250;nculos
+1343,3,1 1
+	El paciente presenta Placas Eritematoescamosas Localizadas
+1344,3,1 1
+	El paciente presenta Placas Eritematoescamosas Generalizadas
+1345,3,1 2
+	El paciente presenta Placas Eritematoescamosas Redondas y Bordes Bien
+	 Delimitados
+1346,3,1 2
+	El paciente presenta Placas Eritematoescamosas Localizadas en: Pliegues de
+	 codos/rodillas
+1347,3,1 1
+	El paciente presenta Placas Eritematoescamosas Localizadas en: Cuero cabelludo
+1348,3,1 2
+	El paciente presenta Placas Eritematoescamosas Localizadas en: Palmas de las
+	 manos y plantas de los pies
+1349,3,1 2
+	El paciente presenta Placas Eritematoescamosas Localizadas en: Pliegue
+	 intergl&#250;teos
+1350,3,1 1
+	El paciente presenta Placas Eritematoescamosas Localizadas en: Lecho subungueal
+1351,3,1 2
+	El paciente presenta Placas Eritematovesiculosas o Eritematocostrosas
+	 Localizadas
+1352,3,1 2
+	El paciente presenta Placas Eritematovesiculosas o Eritematocostrosas
+	 Generalizadas
+1353,3,1 2
+	El paciente presenta Placas Eritematovesiculosas o Eritematocostrosas
+	 Localizadas en Distribuci&#243;n Metam&#233;rica
+1354,3,1 1
+	N&#243;dulos Subcut&#225;neos: Inspecci&#243;n
+1355,3,1 1
+	N&#243;dulos Subcut&#225;neos: Palpaci&#243;n
+1356,3,1 1
+	N&#243;dulos Subcut&#225;neos: Inspecci&#243;n: Localizaci&#243;n
+1357,3,1 1
+	N&#243;dulos Subcut&#225;neos: Inspecci&#243;n: Coloraci&#243;n
+1358,3,1 1
+	N&#243;dulos Subcut&#225;neos: Inspecci&#243;n: Superficie
+1359,3,1 1
+	N&#243;dulos Subcut&#225;neos: Inspecci&#243;n: Coloraci&#243;n: Rojo/Violeta
+1360,3,1 2
+	N&#243;dulos Subcut&#225;neos: Inspecci&#243;n: Coloraci&#243;n: Rosado de
+	 Jam&#243;n
+1361,3,1 2
+	N&#243;dulos Subcut&#225;neos:Inspecci&#243;n:Coloraci&#243;n:Amarillo
+	 Acaramelado
+1362,3,1 1
+	N&#243;dulos Subcut&#225;neos: Inspecci&#243;n: Superficie: Ulcerosa
+1363,3,1 1
+	N&#243;dulos Subcut&#225;neos: Inspecci&#243;n: Superficie: Escamosa
+1364,3,1 1
+	N&#243;dulos Subcut&#225;neos: Inspecci&#243;n: Superficie: Deprimida
+1365,3,1 1
+	N&#243;dulos Subcut&#225;neos: Palpaci&#243;n: Dolorosos
+1366,3,1 1
+	N&#243;dulos Subcut&#225;neos: Palpaci&#243;n: Consistencia Dura
+1367,3,1 1
+	El paciente presenta P&#225;pulas en los pliegues de los codos/rodillas
+1368,3,1 1
+	El paciente presenta P&#225;pulas en el cuero cabelludo
+1369,3,1 1
+	El paciente presenta P&#225;pulas en los pliegues intergl&#250;teos
+1370,3,1 1
+	El paciente presenta P&#225;pulas en Lecho Subungueal
+1371,3,1 1
+	El paciente presenta P&#225;pulas en P&#225;lmas y Plantas
+1372,3,1 1
+	El paciente presenta eritema localizado
+1373,3,1 1
+	El paciente presenta eritema en placas
+1374,3,1 1
+	El paciente presenta eritema localizado en maleolo interior
+1375,3,1 1
+	El paciente presenta eritema localizado en dorso del pie
+1376,3,1 1
+	Ves&#237;culas en los Genitales
+1377,3,1 1
+	Ves&#237;culas en Conducto auditivo o pabell&#243;n auricular
+1378,3,1 1
+	Ves&#237;culas en la Lengua
+1379,3,1 1
+	El paciente presenta Eritrodermia
+1380,3,1 1
+	Ves&#237;culas en Plantas de los pies: Borde interno
+1381,3,1 1
+	Ves&#237;culas en Plantas de los pies: Regi&#243;n Metatarsiana
+1382,3,1 1
+	Ves&#237;culas en Plantas de los pies: Espacios interdigitales
+1383,3,1 1
+	El paciente presenta Escamas localizadas
+1384,3,1 1
+	El paciente presenta Escamas generalizadas
+1385,3,1 1
+	El paciente presenta Escamas localizadas en las plantas de los pies
+1386,3,1 1
+	El paciente presenta Escamas localizadas en las plantas de los pies (Bordes)
+1387,3,1 1
+	El paciente presenta Escamas localizadas en las plantas de los pies (Dorso)
+1388,3,1 1
+	El paciente presenta Escamas localizadas en las plantas de los pies (Dedos)
+1389,3,1 1
+	El paciente presenta Grietas interdigitales
+1390,3,1 1
+	El paciente presenta Macerado interdigital
+1391,3,1 1
+	El paciente presenta Grietas interdigital en Dedos de las manos
+1392,3,1 1
+	El paciente presenta Grietas interdigital en Dedos de los pies
+1393,3,1 1
+	El paciente presenta Macerado interdigital en Dedos de las manos
+1394,3,1 1
+	El paciente presenta Macerado interdigital en Dedos de los pies
+1395,3,1 1
+	Placas Eritematoescamosas de bordes netos activos y microvesiculosos
+1396,3,1 1
+	El paciente presenta Verrugas
+1397,3,1 1
+	El paciente presenta Verrugas localizadas
+1398,3,1 1
+	El paciente presenta Verrugas generalizadas
+1399,3,1 1
+	El paciente presenta Verrugas localizadas en: Perin&#233;
+1400,3,1 1
+	El paciente presenta Verrugas localizadas en: Borde del ano
+1401,3,1 1
+	El paciente presenta Verrugas localizadas en: Pene
+1402,3,1 1
+	El paciente presenta Verrugas localizadas en: Escroto
+1403,3,1 2
+	El paciente presenta Verrugas localizadas en: Vagina, Cl&#237;toris o Labios
+	 mayores
+1404,3,1 1
+	El paciente presenta U&#241;as descoloridas
+1405,3,1 1
+	El paciente presenta U&#241;as friables
+1406,3,1 1
+	El paciente presenta U&#241;as sin brillo
+1407,3,1 1
+	El paciente presenta U&#241;as rotas
+1408,3,1 1
+	El paciente presenta U&#241;as deformadas
+1409,3,1 1
+	El paciente presenta Verrugas en los genitales Inspecci&#243;n Masculina
+1410,3,1 1
+	El paciente presenta Verrugas en los genitales Inspecci&#243;n Femenina
+1411,3,1 1
+	El paciente presenta Verrugas en los genitales Palpaci&#243;n Masculina
+1412,3,1 1
+	El paciente presenta Verrugas en los genitales
+1413,3,1 1
+	Abdomen: Inspecci&#243;n perianal: Verrugas
+1414,3,1 1
+	Abdomen: Inspecci&#243;n perianal: Ulceras
+1415,3,1 1
+	El paciente presenta verrugas perianales
+1416,3,1 1
+	El paciente presenta manchas en la piel de color caf&#233; con leche
+1417,3,1 1
+	Las manchas hiperpigmentadas se localizan en las axilas
+1418,3,1 1
+	El paciente presenta Adenopat&#237;as Inguinales Firmes
+1419,3,1 1
+	El paciente presenta Adenopat&#237;as Inguinales Blandas
+1420,3,1 1
+	El paciente presenta Adenopat&#237;as Inguinales Dolorosas
+1421,3,1 1
+	El paciente presenta P&#225;pulas en los genitales
+1422,3,1 1
+	El paciente presenta P&#225;pulas en la cara
+1423,3,1 2
+	El paciente presenta M&#225;culas en las palmas de las manos y plantas de los
+	 pies
+1424,3,1 1
+	El paciente presenta Placas Papuloescamosas
+1425,3,1 1
+	El paciente presenta Placas Papuloescamosas Localizadas
+1426,3,1 1
+	El paciente presenta Placas Papuloescamosas Generalizadas
+1427,3,1 1
+	El paciente presenta Placas Papuloescamosas Localizadas en palmas y plantas
+1428,3,1 1
+	El paciente presenta Placas Papuloescamosas Localizadas en el Tronco
+1429,3,1 1
+	El paciente presenta Placas Papuloescamosas Localizadas en la Cara
+1430,3,1 1
+	El paciente presenta Placas Papuloescamosas Localizadas en el Cuero Cabelludo
+1431,3,1 1
+	El paciente presenta Placas Papuloescamosas Localizadas en los Genitales
+1432,3,1 1
+	El paciente presenta Placas Papuloescamosas Localizadas en Regi&#243;n Perianal
+1433,3,1 1
+	Placas alop&#233;cicas
+1434,3,1 1
+	El paciente presenta Signo Argyll - Robertson
+1435,3,1 1
+	El paciente presenta Marcha Taloneante
+1436,3,1 1
+	El paciente presenta Goma Sifil&#237;tico
+1437,3,1 2
+	El paciente tiene presi&#243;n arterial normal (Sist&#243;lica menor de 130 y
+	 Diast&#243;lica menor de 85)
+1438,3,1 2
+	El paciente tiene presi&#243;n arterial alta (Estad&#237;o I) Ligera:
+	 Sist&#243;lica de 140 a 159; y Diast&#243;lica de 90 a 99
+1439,3,1 2
+	El paciente tiene presi&#243;n arterial alta (Estad&#237;o II) Moderada:
+	 Sist&#243;lica de 160 a 179; y Diast&#243;lica de 100 a 109
+1440,3,1 2
+	El paciente tiene presi&#243;n arterial alta (Estad&#237;o III) Severa:
+	 Sist&#243;lica de 180 a 209; y Diast&#243;lica de 110 a 119
+1441,3,1 2
+	El paciente tiene presi&#243;n arterial alta (Estad&#237;o IV) Muy Severa:
+	 Sist&#243;lica mayor de 209; y Diast&#243;lica mayor de 119
+1442,3,1 2
+	Retinopat&#237;a Hipertensiva de Grado I: Estrechamiento arteriolar ligero y
+	 generalizado
+1443,3,1 2
+	Retinopat&#237;a Hipertensiva de Grado II: Estrechamiento arteriolar evidente
+	 con &#225;reas localizadas de vasoconstricci&#243;n
+1444,3,1 2
+	Retinopat&#237;a Hipertensiva de Grado III: Grado II m&#225;s Edema Re-
+	 tiniano, hemorragia o Exudados
+1445,3,1 1
+	Retinopat&#237;a Hipertensiva de Grado IV: Grado III m&#225;s Papiledema
+1446,3,1 2
+	El paciente presenta aumento reciente y significativo sobre valores
+	 pr&#233;vios hipertensos
+1447,3,1 2
+	El paciente presenta Hipertensi&#243;n Arterial resistente a un r&#233;gimen
+	 adecuado de tres f&#225;rmacos
+1448,3,1 2
+	Tratamiento farmacol&#243;gico antihipertensivo irregular, ausente o
+	 inapropiado
+1449,3,1 1
+	El paciente tiene pulso alternante
+1450,3,1 1
+	El paciente tiene actitud en lecho: Ortopnea
+1451,3,1 1
+	El paciente presenta Reflujo Hepatoyugular
+1452,3,1 1
+	Desnutrici&#243;n Energ&#233;tico - Proteica Grave (Grado III)
+1453,3,1 1
+	Desnutrici&#243;n Energ&#233;tico - Proteica Moderada (Grado II)
+1454,3,1 1
+	Desnutrici&#243;n Energ&#233;tico - Proteica Ligera (Grado I)
+1455,3,1 1
+	Bajo Peso o Delgado
+1456,3,1 1
+	Sobre Peso
+1457,3,1 1
+	Obeso con Riesgo Moderado
+1458,3,1 1
+	Obeso con Riesgo Elevado
+1459,3,1 1
+	Obeso con Riesgo MUY Alto
+1460,3,1 1
+	Relleno para la variable 3, pues hay que eliminarla
+1461,3,1 1
+	Relleno para la variable 360
+1462,3,1 1
+	Relleno para la variable 361
+1463,3,1 1
+	Funci&#243;n Interna de Peso y Talla

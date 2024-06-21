@@ -1,0 +1,334 @@
+1,14,1 1
+	El paciente presenta Sudoraci&#243;n Nocturna
+2,14,1 1
+	La Astenia es de menos de una semana
+3,14,1 1
+	La Astenia es de entre uno y tres meses
+4,14,1 1
+	La Astenia es de m&#225;s tres meses
+5,14,1 1
+	La Astenia comenz&#243; de forma brusca
+6,14,1 1
+	La Astenia comenz&#243; de forma gradual
+7,14,1 1
+	La Astenia se manifiesta de forma constante
+8,14,1 1
+	La Astenia se manifiesta de forma intermitente
+9,14,1 1
+	La Astenia se desencadena con el ejercicio
+10,14,1 1
+	La Astenia se desencadena con el stress o trastornos emocionales
+11,14,1 1
+	La Astenia se desencadena sin causas aparentes
+12,14,1 1
+	La Astenia disminuye con el reposo f&#237;sico
+13,14,1 1
+	La Astenia disminuye con la actividad f&#237;sica
+14,14,1 1
+	La Astenia no disminuye ni con el reposo ni con la actividad f&#237;sica
+15,14,1 1
+	La Astenia se relaciona con problemas familiares, personales o laborales
+16,14,1 1
+	La Fiebre es de menos de una semana
+17,14,1 1
+	La Fiebre es de entre una y tres semanas
+18,14,1 1
+	La Fiebre es de m&#225;s de tres semanas
+19,14,1 1
+	El comienzo de la Fiebre fue brusco
+20,14,1 1
+	El comienzo de la Fiebre fue gradual
+21,14,1 1
+	La Fiebre se manifiesta constantemente elevada
+22,14,1 1
+	La Fiebre se manifiesta con picos febriles bruscos
+23,14,1 2
+	La Fiebre se manifiesta con fiebre de d&#237;as de duraci&#243;n con
+	 per&#237;odos de remisi&#243;n
+24,14,1 1
+	Alg&#250;n otro miembro de la familia presenta Fiebre
+25,14,1 1
+	El paciente ha presentado recientemente contacto con personas con Fiebre
+26,14,1 1
+	Comod&#237;n de S&#237;ntomas Acompa&#241;antes de la Astenia
+27,14,1 1
+	Comod&#237;n de S&#237;ntomas Acompa&#241;antes de la Fiebre
+28,14,1 1
+	Comod&#237;n de Antecedentes Patol&#243;gicos Personales asociados a la Fiebre
+29,14,1 1
+	Comod&#237;n de &#34;Ha consumido...&#34; asociado a la Fiebre
+30,14,1 1
+	Comod&#237;n de &#34;Ha sufrido recientemente ...&#34; asociado a la Fiebre
+31,14,1 1
+	Existen evidencias de Sindrome Gripal
+32,14,1 1
+	CMBD de Sindrome Gripal (aporte de Fiebre)
+33,14,1 1
+	Existen evidencias de Varicela
+34,14,1 1
+	CMBD de Varicela (aporte de Fiebre)
+35,14,1 1
+	Existen evidencias de T&#233;tanos
+36,14,1 1
+	CMBD de T&#233;tanos (aporte de Fiebre)
+37,14,1 1
+	CMBD de T&#233;tanos (aporte de Movimientos Involuntarios)
+38,14,1 1
+	Existen evidencias de Fiebre Recurrente
+39,14,1 1
+	CMBD de Fiebre Recurrente (aporte de Fiebre)
+40,14,1 1
+	CMBD de Fiebre Recurrente (aporte de Fiebre)
+41,14,1 1
+	Existen evidencias de Mixoma Auricular
+42,14,1 1
+	CMBD de Mixoma Auricular (aporte de Fiebre)
+43,14,1 1
+	CMBD de Mixoma Auricular (aporte de Fiebre)
+44,14,1 1
+	Existen evidencias de Meningococemia
+45,14,1 1
+	CMBD de Meningococemia (aporte de Fiebre)
+46,14,1 1
+	CMBD de Meningococemia (aporte de Fiebre)
+47,14,1 1
+	Existen evidencias de Rickettsiosis
+48,14,1 1
+	CMBD de Rickettsiosis (aporte de Fiebre)
+49,14,1 1
+	CMBD de Rickettsiosis (aporte de Fiebre)
+50,14,1 1
+	Existen evidencias de Fiebre Botonosa
+51,14,1 1
+	CMBD de Fiebre Mediterranea Familiar
+52,14,1 1
+	Existen evidencias de Fiebre Q
+53,14,1 1
+	CMBD de Fiebre Q (aporte de Fiebre)
+54,14,1 1
+	Existen evidencias de Fiebre Tifoidea
+55,14,1 1
+	CMBD de Fiebre Tifoidea (aporte de Fiebre)
+56,14,1 1
+	CMBD de Fiebre Tifoidea (aporte de Fiebre)
+57,14,1 1
+	Existen evidencias de Difteria
+58,14,1 1
+	CMBD de Fiebre Difteria (aporte de Fiebre)
+59,14,1 1
+	Se cumplan al menos 2 de las Adenopat&#237;as localizadas
+60,14,1 1
+	Existen evidencias de Infecci&#243;n por virus VIH
+61,14,1 1
+	CMBD de Infecci&#243;n por virus VIH (aporte de Fiebre)
+62,14,1 1
+	CMBD de Infecci&#243;n por virus VIH (aporte de Fiebre)
+63,14,1 1
+	CMBD de Infecci&#243;n por virus VIH (aporte de Adenopat&#237;as)
+64,14,1 1
+	Existen evidencias de Paludismo
+65,14,1 1
+	CMBD de Paludismo (aporte de Fiebre)
+66,14,1 1
+	Existen evidencias de Rabia
+67,14,1 1
+	CMBD de Rabia (aporte de Fiebre)
+68,14,1 1
+	Existen evidencias de Porfirias
+69,14,1 1
+	CMBD de Porfiria (aporte de Dolor Abdominal)
+70,14,1 1
+	CMBD de Porfiria (aporte de Dolor Abdominal)
+71,14,1 1
+	Existen evidencias de Mononucleosis Infecciosa
+72,14,1 1
+	CMBD de Mononucleosis Infecciosa (aporte de Fiebre)
+73,14,1 1
+	CMBD de Mononucleosis Infecciosa (aporte de Fiebre)
+74,14,1 1
+	CMBD de Mononucleosis Infecciosa (aporte de Astenia)
+75,14,1 1
+	CMBD de Mononucleosis Infecciosa (aporte de Adenopatias)
+76,14,1 1
+	Existen evidencias de Endocarditis Infecciosa
+77,14,1 1
+	CMBD4 de SIDA por Adenopat&#237;as
+78,14,1 1
+	CMBD de Endocarditis Infecciosa (aporte de Fiebre)
+79,14,1 1
+	CMBD de Endocarditis Infecciosa (aporte de Fiebre)
+80,14,1 1
+	CMBD de Endocarditis Infecciosa (aporte de Fiebre)
+81,14,1 1
+	El paciente refiere tener Astenia por m&#225;s de 6 meses
+82,14,1 1
+	Existen evidencias de Brucelosis
+83,14,1 1
+	CMBD de Brucelosis (aporte de Fiebre)
+84,14,1 1
+	CMBD de Brucelosis (aporte de Fiebre)
+85,14,1 1
+	CMBD de Brucelosis (aporte de Dolor Lumbar)
+86,14,1 1
+	CMBD de Brucelosis (aporte de Astenia)
+87,14,1 1
+	CMBD de Brucelosis (aporte de Artralgias)
+88,14,1 1
+	Existen evidencias de Sarcoidosis
+89,14,1 1
+	CMBD de Sarcoidosis (aporte de Adenopatias)
+90,14,1 1
+	CMBD de Sarcoidosis (aporte de Artritis)
+91,14,1 1
+	Se cumplan al menos 2 de las Adenopat&#237;as localizadas
+92,14,1 2
+	Existen evidencias de Fiebre Mediterranea Familiar o Poliserositis
+	 Parox&#237;stica Familiar
+93,14,1 1
+	CMBD de Fiebre Mediterranea Familiar (aporte de Fiebre)
+94,14,1 1
+	CMBD2 de S&#237;ndrome Gripal
+95,14,1 1
+	Existen evidencias de Toxoplasmosis
+96,14,1 1
+	CMBD de Toxoplasmosis (aporte de Fiebre)
+97,14,1 1
+	CMBD de Toxoplasmosis (aporte de Astenia)
+98,14,1 1
+	Existen evidencias de Leismaniasis Visceral o Kala - Azar
+99,14,1 1
+	CMBD de Leismaniasis Visceral (aporte de Fiebre)
+100,14,1 1
+	CMBD de Leismaniasis Visceral (aporte de Astenia)
+101,14,1 1
+	Existen evidencias de Leptospirosis
+102,14,1 1
+	CMBD1 de Leptospirosis (aporte de Fiebre)
+103,14,1 1
+	CMBD2 de Leptospirosis (aporte de Fiebre)
+104,14,1 1
+	CMBD3 de Leptospirosis (aporte de Fiebre)
+105,14,1 1
+	Existen evidencias de Vasculitis
+106,14,1 1
+	CMBD1 de Vasculitis (aporte de Fiebre)
+107,14,1 1
+	CMBD de Granulomatosis Al&#233;rgica de Churg-Strauss
+108,14,1 1
+	Intermedio  de 74 V 75 V 76 V 77 V 78 V 79
+109,14,1 1
+	Intermedio  de 7 V 8
+110,14,1 1
+	CMBD de Sarcoidosis (aporte de Fiebre)
+111,14,1 1
+	La Fiebre se presenta todo el d&#237;a
+112,14,1 1
+	La Fiebre se presenta durante la noche y/o la tarde
+113,14,1 1
+	CMBD de Paludismo (aporte de Fiebre)
+114,14,1 1
+	CMBD3 de Fiebre Tifoidea (aporte de Fiebre)
+115,14,1 1
+	CMBD2 de Rabia (aporte de Fiebre)
+116,14,1 1
+	Existen evidencias de Sarcoidosis: S&#237;ndrome de Lofgren
+117,14,1 1
+	Existen evidencias de Sarcoidosis: S&#237;ndrome de Heerfordt-Waldenstrom
+118,14,1 1
+	CMBD de T&#233;tanos (aporte de Crisis Convulsiva)
+119,14,1 1
+	Existen evidencias de Poliarteritis Nodosa
+120,14,1 1
+	Existen evidencias de Grupo de Vasculitis por Hipersensibilidad
+121,14,1 1
+	Existen evidencias de Granulomatosis de Wegener
+122,14,1 1
+	Existen evidencias de Granulomatosis Linfomatosa
+123,14,1 1
+	Existen evidencias de Arteritis de C&#233;lulas Gigantes
+124,14,1 1
+	Enfermedad Constitucional
+125,14,1 1
+	Existen evidencias de S&#237;ndrome Linf&#225;tico Mucocut&#225;neo
+126,14,1 1
+	no se usa
+127,14,1 2
+	Adenopat&#237;as localizadas en 2 o m&#225;s sitios anat&#243;micos aparte de
+	 la Ingle
+128,14,1 1
+	Existen evidencias de Granulomatosis Al&#233;rgica de Churg-Strauss
+129,14,1 1
+	CMBD de Vasculitis por Hipersensibilidad (Enfermedad del Suero)
+130,14,1 1
+	Copia de 255{11,1}
+131,14,1 1
+	no se usa
+132,14,1 1
+	no se usa
+133,14,1 1
+	no se usa
+134,14,1 1
+	no se usa
+135,14,1 2
+	Existen evidencias de Arteritis de C&#233;lulas Gigantes: Arteritis de la
+	 Temporal o Enfermedad de Horton
+136,14,1 1
+	Existen evidencias de Arteritis de C&#233;lulas Gigantes: Arteritis de Takayasu
+137,14,1 1
+	CMBD de Mixoma Auricular (aporte de Fiebre)
+138,14,1 1
+	CMBD de Poliarteritis Nodosa (aporte de Fiebre)
+139,14,1 1
+	CMBD de Granulomatosis de Wegener (aporte de Fiebre)
+140,14,1 1
+	CMBD de Arteritis de Takayasu (aporte de Fiebre)
+141,14,1 1
+	El paciente presenta Hemorragias Lineales en U&#241;as
+142,14,1 1
+	El paciente presenta P&#225;pulas Dolorosas en Dedos
+143,14,1 1
+	La Fiebre se presenta en el per&#237;odo de Primavera-Verano
+144,14,1 1
+	El paciente presenta coloraci&#243;n rojiza en los dientes (Eritrodoncia)
+145,14,1 1
+	El paciente presenta Delirium
+146,14,1 1
+	Existen evidencias de Porfirias Hep&#225;ticas
+147,14,1 1
+	Existen evidencias de Porfirias Aguda Intermitente
+148,14,1 1
+	Existen evidencias de Porfirias Variegata
+149,14,1 1
+	Existen evidencias de Coproporfirias Hereditaria
+150,14,1 1
+	Existen evidencias de Porfirias Eritropoy&#233;ticas (Enfermedad de Gunther)
+151,14,1 1
+	Existen evidencias de Micosis Profunda
+152,14,1 1
+	no se usa
+153,14,1 1
+	no se usa
+154,14,1 1
+	Existen evidencias de Histoplasmosis
+155,14,1 1
+	Existen evidencias de Criptococosis o Torulosis
+156,14,1 1
+	Existen evidencias de Aspergilosis
+157,14,1 1
+	CMBD de micosis (Fiebre)
+158,14,1 1
+	CMBD1 de Aspergilitis
+159,14,1 1
+	CMBD2 de Aspergilitis
+160,14,1 1
+	no se usa
+161,14,1 1
+	no se usa
+162,14,1 1
+	CMBD1 de Criptococosis
+163,14,1 1
+	CMBD2 de Criptococosis
+164,14,1 1
+	no se usa
+165,14,1 1
+	CMBD4 de Criptococosis

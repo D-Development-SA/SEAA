@@ -1,0 +1,247 @@
+1,7,1 1 2
+	Desde cu&#225;ndo tiene las Adenopat&#237;as:
+		Menos de un mes (Agudas)
+		Un mes o m&#225;s (Cr&#243;nicas)
+2,7,1 1 2
+	C&#243;mo son las Adenopat&#237;as:
+		Generalizadas
+		Localizadas
+3,7,1 1 3
+	Las Adenopat&#237;as Auriculares se localizan en la(s) zona(s):
+		Preauricular
+		Infraauricular
+		Supraauricular
+4,7,1 1 3
+	Las Adenopat&#237;as Cervicales son:
+		Cadenas laterales y submandibulares
+		En la nuca
+		Supraclavicular
+5,7,1 1 6
+	Las Adenopat&#237;as se localizan en la(s) zona(s):
+		Auricular
+		Cervical
+		Axilar
+		Epitroclear
+		Inguinal
+		Popliteos
+6,7,1 1 2
+	Desde cu&#225;ndo ha notado la Hemorragia Superficial:
+		Menos de 15 d&#237;as (Aguda)
+		M&#225;s de 15 d&#237;as (Cr&#243;nica)
+7,7,1 1 2
+	Forma de aparici&#243;n de la Hemorragia Superficial:
+		Espont&#225;nea (sin trauma perceptible)
+		Secundaria a un traumatismo
+8,7,1 1 2
+	Desde cu&#225;ndo ha notado la Hemorragia Profunda:
+		Un mes o menos (Aguda)
+		M&#225;s de un mes (Cr&#243;nica)
+9,7,1 1 3
+	La Gingivorragia se localiza en:
+		Encias
+		Carrillos
+		Orofaringe
+10,7,1 1 4
+	Frecuencia y cantidad de la Menstruaci&#243;n:
+		Normal
+		Polimenorreica
+		Hipermenorreica
+		Hiperpolimenorreica
+11,7,1 1 9
+	Cu&#225;l(es) Antecedentes Familiares tiene el paciente:
+		Anemia Hemol&#237;tica o Hereditaria
+		Anemia Megalobl&#225;stica
+		Anemia Ferrop&#233;nica
+		Coagulopat&#237;as Hereditarias
+		Policitemias
+		Neoplasias Hematol&#243;gicas
+		Ictericia
+		Esplenectomia
+		Colicistectomia
+12,7,1 1 24
+	Las Adenopat&#237;as se acompa&#241;an de:
+		Palidez
+		Fiebre
+		Escalofrios
+		Astenia
+		P&#233;rdida de Peso
+		Sudoraci&#243;n
+		Tos
+		Disnea
+		Odinofagia
+		Disfagia
+		Diarreas
+		Rash Cut&#225;neo
+		Urticaria
+		Hemorragia Superficial
+		Hemorragia Profunda
+		Ep&#237;staxis
+		Otorragia
+		Gingivorragia
+		Hematuria
+		Rectorragia
+		Melena
+		Hematemesis
+		Metrorragia
+		Hemoptisis
+13,7,1 1 3
+	Localizaci&#243;n de la Hemorragia Superficial:
+		Extremidades Inferiores
+		Extremidades Superiores
+		Tronco
+14,7,1 1 9
+	Las Hemorragias se acompa&#241;an de:
+		Adenopatias
+		Palidez
+		Fiebre
+		Dolor Abdominal
+		Astenia
+		Dolor Articular
+		Diarreas
+		Dolor Oseo
+		Deformidad y/o Aumento de Volumen Articular
+15,7,1 1 26
+	La Palidez se acompa&#241;a de:
+		Adenopatias
+		Rectorragia
+		Melena
+		Hematuria
+		Ep&#237;staxis
+		Hemoptisis
+		Fatiga
+		Disnea
+		Palpitaciones
+		Mareo - V&#233;rtigo
+		Cefalea
+		Astenia
+		Anorexia
+		Ataxia
+		Fiebre
+		Alteraci&#243;n de la Sensibilidad
+		Dolor Adominal
+		Diarrea
+		Disfagia
+		Dolor Tor&#225;cico
+		Estomatitis Aptosa
+		Somnolencia Diurna
+		Ictericia
+		Deformidad Osea
+		Ulceras Maleolares
+		Dolor Oseo
+16,7,1 1 4
+	Tiene o ha tenido Tratamiento Farmacol&#243;gico reciente de:
+		Alopurinol
+		Antagonistas del folato
+		Antitiroideos
+		Fenilbutazona
+17,7,1 1 11
+	Tiene o ha tenido Tratamiento Farmacol&#243;gico reciente de:
+		Estr&#243;genos
+		Antiinflamatorios no esteroideos
+		Anticoagulantes
+		Sales de oro
+		Antagonistas del folato
+		Metildopa
+		Quinidina
+		Sulfamidicos
+		Rifampicina
+		Corticoides
+		Aspirina
+18,7,1 1 15
+	Tiene o ha tenido Tratamiento Farmacol&#243;gico reciente de:
+		Antagonistas del folato
+		Anticonceptivos orales
+		Metildopa
+		Cefalosporina
+		Levodopa
+		Carbamazepina
+		Rifampicina
+		Barbit&#250;ricos
+		Cloranfenicol
+		Sales de oro
+		Fenilbutazona
+		Quinidina
+		Aspirina
+		Corticoides
+		Anticoagulantes
+19,7,1 1 7
+	Tiene Antecedentes Personales de:
+		Enfermedades Hematol&#243;gicas
+		Hemorragias
+		Transfuciones de Sangre recientes
+		Enfermadades del H&#237;gado
+		Insuficiencia Renal Cr&#243;nica
+		Ulceras Cr&#243;nicas en las Piernas
+		Enfermedades del Tejido Conectivo
+20,7,1 2 3
+	Tiene Antecedentes Personales de las siguientes enfermedades Hematol&#243;gicas
+	 :
+		Enfermedades de la Sangre
+		Esplenectomia
+		Linfomas
+21,7,1 1 3
+	Tiene Antecedentes Personales de las siguientes Enfermedades de la Sangre :
+		Coagulopatias (Hemofilia, P&#250;rpura)
+		Anemias
+		Leucemias
+22,7,1 1 3
+	Tiene Antecedentes Personales de Anemia:
+		Hemol&#237;tica
+		Megalobl&#225;stica
+		Ferrop&#233;nica
+23,7,1 1 4
+	C&#243;mo es su dieta diaria:
+		Normal y eliquilibrada
+		Excluye alimentos (Dietas Peculiares)
+		Malos h&#225;bitos alimenticios
+		Insuficiente (Dieta Estricta)
+24,7,1 1 4
+	La Hemorragia se debe a:
+		Traumatismos
+		Accidente
+		Extracci&#243;n dentaria
+		Cirug&#237;a menor (amigdelectom&#237;a, circuncisi&#243;n, parto ...)
+25,7,1 2 4
+	Tiene Antecedentes Personales de las siguientes enfermedades del Tejido
+	 Conectivo:
+		Lupus Eritematoso Sist&#233;mico
+		Artritis Reumatoidea
+		Esclerodermia
+		Vasculitis
+26,7,1 1 5
+	Tiene Antecedentes Personales de:
+		Enfermedades Hematol&#243;gicas
+		Transfuciones de Sangre Recientes
+		Infecci&#243;n Recurrente
+		Enfermedades del Tejido Conectivo
+		Homosexualidad y/o Drogadicci&#243;n y/o Inmunodeprimido
+27,7,1 1 12
+	Tiene Antecedentes Personales de:
+		Enfermedades Hematol&#243;gicas
+		Hemorragias
+		Insuficiencia Renal Cr&#243;nica
+		Ulcera P&#233;ptica
+		Cirug&#237;a G&#225;strica
+		Cirug&#237;a Intestinal
+		Colelitiasis
+		Enfermedades del Tejido Conectivo
+		Malabsorci&#243;n Intestinal
+		Demencia
+		Neuropat&#237;a
+		Bebedor Habitual
+28,7,1 1 2
+	Forma de aparici&#243;n de la Hemorragia Profunda:
+		Espont&#225;nea (sin trauma perceptible)
+		Secundaria a un traumatismo
+29,7,1 1 2
+	Desde cu&#225;ndo ha notado la Gingivorragia:
+		Un mes o menos (Aguda)
+		M&#225;s de un mes (Cr&#243;nica)
+30,7,1 1 2
+	Forma de aparici&#243;n de la Gingivorragia:
+		Espont&#225;nea (sin trauma perceptible)
+		Secundaria a un traumatismo
+31,7,1 1 2
+	Desde cu&#225;ndo es la Palidez:
+		M&#225;s de un mes y menos de tres meses
+		Semanas - D&#237;as

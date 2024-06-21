@@ -1,0 +1,219 @@
+1,3,12 1
+	S&#237;ndrome Gripal
+2,3,12 1
+	T&#233;tanos
+3,3,12 1
+	Fiebre Recurrente
+4,3,12 1
+	Meningococemia
+5,3,12 1
+	Rickettsiosis
+6,3,12 1
+	Fiebre Botonosa
+7,3,12 1
+	Fiebre Q
+8,3,12 1
+	Fiebre Tifoidea
+9,3,12 1
+	Difteria
+10,3,12 1
+	Paludismo
+11,3,12 1
+	Rabia
+12,3,12 1
+	Porfiria
+13,3,12 1
+	Mononucleosis Infecciosa
+14,3,12 1
+	Endocarditis Infecciosa
+15,3,12 1
+	Brucelosis
+16,3,12 1
+	Sarcoidosis
+17,3,12 1
+	Infecci&#243;n por Virus de VIH
+18,3,12 1
+	Liesmaniasis Visceral o Kala Azar
+19,3,12 1
+	Toxoplasmosis
+20,3,12 1
+	Leptospirosis
+21,3,12 1
+	Granulomatosis de Wegener
+22,3,12 1
+	Intermedio de Otitis y Sinusitis
+23,3,12 1
+	Intermedio de Conjuntivitis e Iritis y Escleritis
+24,3,12 1
+	Intermedio de Hemoptisis y Dolor Toracico y Tos
+25,3,12 2
+	Intermedio de Glomerulonefritis y S&#237;ndrome Nefr&#243;tico e Insuficiencia
+	 Renal Cr&#243;nica
+26,3,12 1
+	Varicela
+27,3,12 1
+	Neumon&#237;a Varicel&#243;sica
+28,3,12 1
+	Intermedio para el paso del peso en Varicela
+29,3,12 1
+	S&#237;ndrome de Weil
+30,3,12 1
+	Intermedio para el paso del peso en meningococemia
+31,3,12 1
+	Mixoma Auricular
+32,3,12 1
+	Intermedio para el paso del peso en mixoma auricular
+33,3,12 1
+	Se cumplan al menos 3 problemas de vasculitis
+34,3,12 1
+	Copia de Polineuropat&#237;a (Neurol&#243;gico)
+35,3,12 1
+	Copia de Glomenulonefritis (Genito-Urinario)
+36,3,12 1
+	Copia de pericarditis (Cardiovascular)
+37,3,12 1
+	Copia de artritis (Osteomioarticular)
+38,3,12 1
+	Copia de miositis (Osteomioarticular)
+39,3,12 1
+	Vasculitis
+40,3,12 1
+	Antecedentes o diagn&#243;stico de Polineuropat&#237;a
+41,3,12 1
+	Antecedentes o diagn&#243;stico de Glomenulonefritis
+42,3,12 1
+	Antecedentes o diagn&#243;stico de Pericarditis
+43,3,12 1
+	Antecedentes o diagn&#243;stico de Artritis
+44,3,12 1
+	Antecedentes o diagn&#243;stico de Miositis
+45,3,12 1
+	Poliarteritis Nodosa
+46,3,12 1
+	Arteritis de Takayasu
+47,3,12 1
+	Fiebre Manchada de las monta&#241;as rocosas
+48,3,12 1
+	Tifus de Queensland
+49,3,12 1
+	Nefropat&#237;a secundaria a Endocarditis Infecciosa
+50,3,12 1
+	Fiebre Mediterranea o Poliserositis Parox&#237;stica Familiar
+51,3,12 1
+	Porfirias Hep&#225;ticas
+52,3,12 1
+	Porfirias Aguda Intermitente
+53,3,12 1
+	Porfirias Variegata
+54,3,12 1
+	Coproporfirias Hereditaria
+55,3,12 1
+	Porfirias Eritropoy&#233;ticas (Enfermedad de Gunther)
+56,3,12 1
+	Micosis Profunda
+57,3,12 1
+	Actinomicosis Cervicofacial
+58,3,12 1
+	Actinomicosis Tor&#225;cica
+59,3,12 1
+	Histoplasmosis
+60,3,12 1
+	Criptococosis o Torulosis
+61,3,12 1
+	Aspergilosis
+62,3,12 1
+	S&#237;ntoma &#243; Signo de Fiebre
+63,3,12 1
+	Copia de Infarto Agudo del Miocardio
+64,3,12 1
+	Copia de Enferemedad Cerebrovascular
+65,3,12 1
+	Granulomatosis Al&#233;rgica de Churg-Strauss
+66,3,12 1
+	Copia de Conjuntivitis Bacteriana Aguda
+67,3,12 1
+	Copia de Conjuntivitis Viral
+68,3,12 1
+	Copia de Conjuntivitis Al&#233;rgica
+69,3,12 1
+	Copia de Conjuntivitis Cr&#243;nica
+70,3,12 1
+	Copia de Conjuntivitis Folicular de las Piscinas
+71,3,12 1
+	Copia de Uve&#237;tis Anterior Aguda
+72,3,12 1
+	Copia de Uve&#237;tis Posterior
+73,3,12 1
+	Copia de Uve&#237;tis Anterior Cr&#243;nica
+74,3,12 1
+	Copia de Glomerulonefritis Aguda
+75,3,12 1
+	Copia de S&#237;ndrome Nefr&#243;tico
+76,3,12 1
+	Copia de Insuficiencia Renal Cr&#243;nica
+77,3,12 1
+	Arteritis de la Temporal o Enfermedad de Horton
+78,3,12 1
+	P&#250;rpura de Sch&#38;ouml;nlein-Henoch o P&#250;rpura Anafilactoide
+79,3,12 4
+	Vasculitis por Hipersensibilidad. Incluye: -Enfermedad del Suero y reacciones
+	 afines -P&#250;rpura de Henoch-Sch&#38;ouml;nlein -Crioglobulinemia Mixta
+	 Esencial con Vasculitis -Vasculitis Asociadas a Neoplasias -Vasculitis
+	 Asociadas a otras enfermedades primarias
+80,3,12 1
+	Copia de Lupus Eritematoso Sist&#233;mico
+81,3,12 1
+	Copia de Artritis Reumatoidea
+82,3,12 1
+	Copia de Examen F&#237;sico de P&#250;rpura de Henoch-Sch&#38;ouml;nlein
+83,3,12 1
+	Tromboangeitis Obliterante o Enfermedad de Buerger
+84,3,12 1
+	Copia de Par&#225;lisis Facial
+85,3,12 1
+	S&#237;ndrome de Lofgren
+86,3,12 1
+	S&#237;ndrome de Heerfordt-Waldenstrom
+87,3,12 10
+	Vasculitis. Probablemente: Grupo de la Poliarteritis Nodosa. Incluye:
+	 --Poliarteritis Nodosa Cl&#225;sica --Granulomatosis Al&#233;rgica de
+	 Churg-Strauss --Vasculitis Necrotizantes Sist&#233;micas, &#34;S&#237;ndrome
+	 Overlap&#34; Grupo de Vasculitis por Hipersensibilidad. Incluye: --Enfermedad
+	 del Suero y Reacciones Afines --P&#250;rpura de Henoch-Sch&#38;ouml;nlein
+	 --Crioglobulinemia Mixta Esencial con Vasculitis --Vasculitis Asociadas a
+	 Neoplasias --Vasculitis Asociadas a Otras Enfermedades Primarias
+	 Granulomatosis de Wegener Granulomatosis Linfomatosa Arteritis de C&#233;lulas
+	 Gigantes. Incluye: --Arteritis de la Temporal --Arteritis de Takayasu
+	 Tromboangeitis Obliterante (Enfermedad de Buerger) S&#237;ndrome Linf&#225;tico Mucocut&#225;neo
+88,3,12 1
+	Copia de Silicosis
+89,3,12 1
+	Copia de Mastopat&#237;a Fibroqu&#237;stica
+90,3,12 1
+	Copia de S&#237;ndrome de Cushing
+91,3,12 1
+	Copia de Faringitis Aguda
+92,3,12 1
+	Copia de Faringitis Cr&#243;nica
+93,3,12 1
+	Copia de Amigdalitis Cr&#243;nica
+94,3,12 2
+	Copia de &#34;Mantiene en las Extremidades Superiores la misma coloraci&#243;n
+	 durante los episodios?&#34; de Cardiovascular
+95,3,12 1
+	Copia de Linfomas Hodgkin y NO Hodgkin
+96,3,12 1
+	Copia de Linfoma Intestinal Primario
+97,3,12 1
+	Copia del Examen F&#237;sico de Neumonitis por Hipersensibilidad
+98,3,12 1
+	Copia del Examen F&#237;sico de Meningitis Aguda
+99,3,12 1
+	Copia del Examen F&#237;sico de Cefalea Secundaria a Meningitis Encefalitis
+100,3,12 1
+	Copia del Examen F&#237;sico de Meningitis Meningo-C&#243;cica
+101,3,12 4
+	Fiebre de Origen Desconocido. Descartar: Infecciones Neoplasias Enfermedades
+	 del Tejido Conectivo Enfermedades Granulomatosas Enfermedades Metab&#243;licas
+	 y Hereditarias Trastornos de la Termorregulaci&#243;n Fiebre de Origen
+	 Psic&#243;geno

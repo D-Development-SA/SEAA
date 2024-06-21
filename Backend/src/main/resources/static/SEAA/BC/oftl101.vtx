@@ -1,0 +1,249 @@
+1,10,1 1 2
+	Desde cu&#225;ndo presenta Enrojecimiento Ocular:
+		Menos de un mes
+		M&#225;s de un mes
+2,10,1 1 2
+	El Enrojecimiento Ocular se present&#243; hace:
+		Menos de 7 d&#237;as
+		M&#225;s de 7 d&#237;as
+3,10,1 1 2
+	El Enrojecimiento Ocular es:
+		Unilateral
+		Bilateral
+4,10,1 1 3
+	El Enrojecimiento Ocular es m&#225;s manifiesto:
+		Durante el d&#237;a
+		Durante la noche
+		Indiferente
+5,10,1 1 2
+	Desde cu&#225;ndo presenta Fotofobia:
+		Menos de un mes
+		M&#225;s de un mes
+6,10,1 1 2
+	La Fotofobia se present&#243; hace:
+		Menos de 7 d&#237;as
+		M&#225;s de 7 d&#237;as
+7,10,1 1 2
+	Desde cu&#225;ndo presenta Dolor Ocular:
+		Menos de un mes
+		M&#225;s de un mes
+8,10,1 1 2
+	El Dolor Ocular se present&#243; hace:
+		Menos de 7 d&#237;as
+		M&#225;s de 7 d&#237;as
+9,10,1 1 2
+	El Dolor Ocular es:
+		Unilateral
+		Bilateral
+10,10,1 1 2
+	Desde cu&#225;ndo presenta Ardor Ocular:
+		Menos de un mes
+		M&#225;s de un mes
+11,10,1 1 2
+	El Ardor Ocular se present&#243; hace:
+		Menos de 7 d&#237;as
+		M&#225;s de 7 d&#237;as
+12,10,1 1 2
+	El Ardor Ocular es:
+		Unilateral
+		Bilateral
+13,10,1 1 3
+	El Ardor Ocular es m&#225;s manifiesto:
+		Durante el d&#237;a
+		Durante la noche
+		Indiferente
+14,10,1 1 2
+	Desde cu&#225;ndo presenta Prurito Ocular:
+		Menos de un mes
+		M&#225;s de un mes
+15,10,1 1 2
+	El Prurito Ocular se present&#243; hace:
+		Menos de 7 d&#237;as
+		M&#225;s de 7 d&#237;as
+16,10,1 1 2
+	El Prurito Ocular es:
+		Unilateral
+		Bilateral
+17,10,1 1 3
+	El Prurito Ocular es m&#225;s manifiesto:
+		Durante el d&#237;a
+		Durante la noche
+		Indiferente
+18,10,1 1 2
+	Desde cu&#225;ndo presenta Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos:
+		Menos de un mes
+		M&#225;s de un mes
+19,10,1 1 2
+	La Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos se present&#243; hace:
+		Menos de 7 d&#237;as
+		M&#225;s de 7 d&#237;as
+20,10,1 1 2
+	La Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos es:
+		Unilateral
+		Bilateral
+21,10,1 1 3
+	La Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos es m&#225;s manifiesta:
+		Durante el d&#237;a
+		Durante la noche
+		Indiferente
+22,10,1 1 2
+	Desde cu&#225;ndo presenta Lagrimeo:
+		Menos de un mes
+		M&#225;s de un mes
+23,10,1 1 2
+	El Lagrimeo se present&#243; hace:
+		Menos de 7 d&#237;as
+		M&#225;s de 7 d&#237;as
+24,10,1 1 2
+	El Lagrimeo es:
+		Unilateral
+		Bilateral
+25,10,1 1 3
+	El Lagrimeo es m&#225;s manifiesto:
+		Durante el d&#237;a
+		Durante la noche
+		Indiferente
+26,10,1 1 2
+	Desde cu&#225;ndo presenta Secreci&#243;n Conjuntival en ojos:
+		Menos de un mes
+		M&#225;s de un mes
+27,10,1 1 2
+	La Secreci&#243;n Conjuntival en ojos se present&#243; hace:
+		Menos de 7 d&#237;as
+		M&#225;s de 7 d&#237;as
+28,10,1 1 2
+	La Secreci&#243;n Conjuntival en ojos es:
+		Unilateral
+		Bilateral
+29,10,1 1 3
+	La Secreci&#243;n Conjuntival en ojos es m&#225;s manifiesta:
+		Durante el d&#237;a
+		Durante la noche
+		Indiferente
+30,10,1 1 4
+	La Secreci&#243;n Conjuntival es:
+		Purulenta
+		Serosa
+		Seropurulenta
+		Hemorr&#225;gica
+31,10,1 1 2
+	El Edema en P&#225;rpados es:
+		Unilateral
+		Bilateral
+32,10,1 1 2
+	El Edema en P&#225;rpados apareci&#243;:
+		Rapidamente
+		Gradualmente
+33,10,1 1 4
+	Factores desencadenantes del Edema en P&#225;rpados:
+		Infecciones locales
+		Agente irritante local
+		Trastornos conjuntivales
+		Quemaduras
+34,10,1 1 4
+	El Edema en P&#225;rpados se acompa&#241;a de:
+		Dolor ocular
+		Enrojecimiento Ocular
+		Lagrimeo
+		Prurito Ocular
+35,10,1 1 2
+	Desde cu&#225;ndo presenta Disminuci&#243;n de la Agudeza Visual:
+		Menos de un mes
+		M&#225;s de un mes
+36,10,1 1 2
+	La Disminuci&#243;n de la Agudeza Visual se present&#243; hace:
+		Menos de 7 d&#237;as
+		M&#225;s de 7 d&#237;as
+37,10,1 1 2
+	La Disminuci&#243;n de la Agudeza Visual es:
+		Unilateral
+		Bilateral
+38,10,1 1 5
+	La Disminuci&#243;n de la Agudeza Visual se presenta como:
+		Visi&#243;n doble
+		Visi&#243;n borrosa
+		Visi&#243;n de bultos
+		Manchas delante de los ojos (Flotadores)
+		Halos luminosos
+39,10,1 1 2
+	Presenta Disminuci&#243;n de la Agudeza Visual para:
+		Visi&#243;n de lejos
+		Visi&#243;n de cerca
+40,10,1 1 15
+	Otros s&#237;ntomas acompa&#241;antes:
+		Cefalea
+		Dolor Articular
+		Uretrorrea
+		Fiebre
+		N&#225;useas
+		V&#243;mitos
+		Adenopatias
+		Astenia
+		Palidez
+		Rinorrea
+		Obstrucci&#243;n Nasal
+		Estornudos
+		Xerostomia
+		Eritema Malar
+		Fen&#243;meno de Fotosensibilidad
+41,10,1 1 16
+	Antecedentes Patol&#243;gicos Personales:
+		Hipertensi&#243;n Arterial
+		Enfermedades del Tejido Conectivo
+		Diabetes Mellitus
+		S&#237;filis
+		Gonorrea
+		Malnutrici&#243;n
+		Inmunodeprimido y/o Homosexual y/o Drogadicci&#243;n
+		Traumatismo Ocular Reciente
+		Traumatismo Ocular Pasado
+		Cirugia Ocular
+		Ulceras Genitales y/o Maleolares
+		Tuberculosis
+		Anemia
+		Miastenia Graves
+		Asma Bronquial
+		Enfermedades Al&#233;rgicas (At&#243;pia)
+42,10,1 1 4
+	Antecedentes Patol&#243;gicos Familiares:
+		Enfermedades del Tejido Conectivo
+		Hipertensi&#243;n Arterial
+		Diabetes Mellitus
+		Afecciones de la madre durante el embarazo
+43,10,1 1 5
+	Afecciones de la madre durante el embarazo:
+		Anoxia o Traumatismos en el Parto
+		S&#237;filis
+		Gonorrea
+		F&#225;rmacos en el embarazo
+		Rubeola
+44,10,1 1 9
+	Ha recibido Tratamiento Farmacol&#243;gico con:
+		Anfetaminas
+		Antipal&#250;dicos
+		Sulfamidas
+		Anticolin&#233;rgicos
+		Barbit&#250;ricos
+		Digital
+		Citost&#225;ticos
+		Ansiol&#237;ticos
+		Colirios en general
+45,10,1 1 12
+	S&#237;ntomas acompa&#241;antes Oftalmol&#243;gicos:
+		Enrojecimiento Ocular
+		Dolor Ocular
+		Prurito Ocular
+		Ardor Ocular
+		Lagrimeo
+		Fotofobia
+		Secreci&#243;n Conjuntival
+		Sensaci&#243;n de Cuerpo Extra&#241;o
+		Disminuci&#243;n de la Agudeza Visual
+		Estrabismo
+		Ptosis Palpebral
+		Edema Palpebral
+46,10,1 1 3
+	El Dolor Ocular es m&#225;s manifiesto:
+		Durante el d&#237;a
+		Durante la noche
+		Indiferente

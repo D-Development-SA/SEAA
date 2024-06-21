@@ -1,0 +1,334 @@
+1,13,1 1 2
+	Desde cu&#225;ndo ha notado Trastornos del Olfato:
+		Menos de un mes
+		M&#225;s de un mes
+2,13,1 1 2
+	Forma de instalaci&#243;n del Trastorno del Olfato:
+		Brusca
+		Progresiva
+3,13,1 1 4
+	Ha notado:
+		Disminuci&#243;n de la persepci&#243;n olfativa (Hiposmia)
+		Abolici&#243;n de la persepci&#243;n olfativa (Anosmia)
+		Aumento de la persepci&#243;n olfativa (Hiperosmia)
+		Persepci&#243;n de olores desagradables (Cacosmia)
+4,13,1 1 3
+	Los Trastornos del Olfato se presentan:
+		Desde la infancia
+		En la vida adulta
+		Como secuela de enfermedad o cirug&#237;a nasal
+5,13,1 1 3
+	Desde cu&#225;ndo ha notado Trastornos de la Degluci&#243;n:
+		Menos de 48 horas
+		Menos de un mes
+		M&#225;s de un mes
+6,13,1 1 0
+	No se usa
+7,13,1 1 2
+	Desde cu&#225;ndo ha notado la Sordera:
+		Menos de un mes
+		M&#225;s de un mes
+8,13,1 1 2
+	La Sordera es:
+		Unilateral
+		Bilateral
+9,13,1 1 5
+	La Sordera se present&#243;:
+		Desde el nacimiento
+		Durante la infancia
+		Siendo adulto
+		En relaci&#243;n con alg&#250;n traumatismo
+		Como secuela de enfermedades &#243;ticas
+10,13,1 1 3
+	Desde cu&#225;ndo ha tenido Rinorrea:
+		Menos de 48 horas
+		Menos de un mes
+		M&#225;s de un mes
+11,13,1 1 2
+	La Rinorrea es:
+		Unilateral
+		Bilateral
+12,13,1 1 3
+	La Rinorrea es:
+		L&#237;quida, clara y fluida
+		Mucopurulenta
+		Purulenta
+13,13,1 1 2
+	Desde cu&#225;ndo ha notado el Prurito Otico:
+		Menos de un mes
+		M&#225;s de un mes
+14,13,1 1 3
+	Desde cu&#225;ndo ha tenido Prurito Far&#237;ngeo:
+		Menos de 48 horas
+		Menos de un mes
+		M&#225;s de un mes
+15,13,1 1 3
+	El Prurito Far&#237;ngeo se presenta de forma:
+		Continua
+		Intermitente
+		Periodica
+16,13,1 1 2
+	Desde cu&#225;ndo tiene Otorrea:
+		Menos de un mes
+		M&#225;s de un mes
+17,13,1 1 3
+	La Otorrea es:
+		Mucosa
+		Purulenta
+		Clara
+18,13,1 1 3
+	Desde cu&#225;ndo ha tenido Otalgia:
+		Menos de 48 horas
+		Menos de un mes
+		M&#225;s de un mes
+19,13,1 1 4
+	La Otalgia se localiza:
+		En el interior del conducto auditivo
+		Por delante del oido
+		Por debajo del oido
+		Retroarticular
+20,13,1 1 2
+	Forma de comienzo de la Otalgia:
+		Brusca
+		Progresiva
+21,13,1 1 3
+	Desde cu&#225;ndo ha tenido Odinofagia:
+		Menos de 24 horas
+		Menos de un mes
+		M&#225;s de un mes
+22,13,1 1 2
+	La Odinofagia es:
+		Unilateral
+		Bilateral
+23,13,1 1 3
+	La Odinofagia se presenta ante:
+		S&#243;lidos
+		L&#237;quidos
+		Degluci&#243;n de saliva
+24,13,1 1 3
+	Desde cu&#225;ndo ha tenido Obstruci&#243;n Nasal:
+		Menos de 48 horas
+		Menos de un mes
+		M&#225;s de un mes
+25,13,1 1 2
+	La Obstruci&#243;n Nasal es:
+		Unilateral
+		Bilateral
+26,13,1 1 2
+	La Obstruci&#243;n Nasal es:
+		Parcial
+		Completa
+27,13,1 1 4
+	La Obstruci&#243;n Nasal aparece de forma:
+		Continua
+		Intermitente con per&#237;odos de mejor&#237;a
+		Con el uso o exposici&#243;n a inhalantes irritantes
+		Remite espontaneamente
+28,13,1 1 3
+	Desde cu&#225;ndo ha tenido Ep&#237;staxis:
+		Menos de 48 horas
+		Menos de un mes
+		M&#225;s de un mes
+29,13,1 1 2
+	La Ep&#237;staxis es:
+		Unilateral
+		Bilateral
+30,13,1 1 5
+	La Ep&#237;staxis se relaciona con:
+		Traumatismos Nasales
+		Hurgarse la Nariz
+		Cambios Bruscos de Temperatura
+		Cirug&#237;a Nasal
+		Catarro Nasal
+31,13,1 1 4
+	Desde cu&#225;ndo ha tenido Dolor Facial:
+		Horas - D&#237;as
+		Menos de un mes
+		M&#225;s de un mes
+		M&#225;s de un a&#241;o
+32,13,1 1 2
+	El Dolor Facial es:
+		Localizado
+		Generalizado
+33,13,1 1 9
+	El Dolor Facial se localiza en:
+		Regi&#243;n frontal
+		Regiones genianas
+		Orbitas
+		Periorbitario
+		Regi&#243;n naso-orbitaria
+		Regi&#243;n malar-nasal
+		Regi&#243;n mentoniana
+		Labios
+		Encias
+34,13,1 1 2
+	La forma de instalaci&#243;n del Dolor Facial es:
+		Brusca
+		Progresiva
+35,13,1 1 2
+	El Dolor Facial se localiza:
+		Unilateral
+		Bilateral
+36,13,1 1 2
+	Desde cu&#225;ndo tiene Disfon&#237;a:
+		Menos de un mes
+		M&#225;s de un mes
+37,13,1 1 3
+	La Disfon&#237;a apareci&#243; despu&#233;s de:
+		Hablar y/o gritar mucho
+		Una coriza
+		Una emoci&#243;n intensa
+38,13,1 1 3
+	La Disfon&#237;a se present&#243;:
+		Desde la infancia
+		En la pubertad
+		En la edad madura
+39,13,1 1 2
+	Desde cu&#225;ndo tiene Ac&#250;fenos:
+		Menos de un mes
+		M&#225;s de un mes
+40,13,1 1 4
+	Los Ac&#250;fenos se presentaron:
+		Siendo adulto
+		En relaci&#243;n con traumatismos
+		En relaci&#243;n con instrumentaciones quir&#250;rgicas
+		Como secuelas de enfermedades &#243;ticas
+41,13,1 1 20
+	Presenta alguno de los siguientes s&#237;ntomas de Otorrino:
+		Otorrea
+		Otorragia
+		Sordera
+		V&#233;rtigo-Mareo
+		Rinorrea
+		Obstruci&#243;n Nasal
+		Ac&#250;fenos
+		Disfon&#237;a
+		Otalgia
+		Odinofagia
+		Prurito Nasal
+		Prurito Otico
+		Estornudo
+		Ep&#237;staxis
+		Disgeusias
+		Prurito Far&#237;ngeo
+		Trastornos de la Degluci&#243;n
+		Dolor Facial
+		Trastornos del Olfato
+		Serostomia
+42,13,1 1 11
+	Presenta alguno de los siguientes s&#237;ntomas:
+		Cefalea
+		Disfagia
+		Disnea
+		Tos
+		Fiebre
+		Escalofrios
+		N&#225;useas
+		V&#243;mitos
+		Adenopat&#237;as
+		Halitosis
+		Afectaci&#243;n del Estado General
+43,13,1 1 22
+	Presenta alguno de los siguientes Antecedentes Patol&#243;gicos Personales:
+		Faringitis
+		Amigdalitis
+		Laringitis Cr&#243;nica
+		Neuralgia del Ganglio Geniculado
+		Neuralgias de Aur&#237;culos Temporales IX y X Par
+		Lesiones de la Par&#243;tida
+		Lesiones en la Base de la Lengua
+		Lesiones de la Faringe
+		Traumatismos Oticos y Peri&#243;ticos
+		Otitis Agudas y/o Cr&#243;nicas
+		Cauterizaciones, Extirp. de Cornetes y/o Cirug&#237;as del Tabique
+		Hipertensi&#243;n Arterial
+		Infecciones del Sistema Nervioso Central
+		S&#237;filis
+		Diabetes Mellitus
+		Intoxicaci&#243;n por Plomo o Mercurio
+		Cirug&#237;a de la Fosa Anterior del Craneo
+		Enfermedades del Tejido Conectivo
+		Ulceras Genitales y/o Maleolares
+		Malnutrici&#243;n
+		Inmunodeprimido
+		Cuerpo Extra&#241;o en O&#237;do
+44,13,1 1 3
+	Presenta alguno de los siguientes Antecedentes Patol&#243;gicos Familiares:
+		Otoesclerosis
+		Laberintopat&#237;as
+		Afecciones de la madre durante el embarazo
+45,13,1 1 4
+	Afecciones de la madre durante el embarazo:
+		Rubeola
+		Anoxia o Traumatismos en el Parto
+		S&#237;filis
+		Ingesta de f&#225;rmacos durante el embarazo
+46,13,1 1 5
+	Lleva o ha llevado recientemente Tratamiento con:
+		Vasocontrictores nasales
+		Gotas &#243;ticas
+		Estreptomicina
+		Imidazolina
+		Gotas nasales
+47,13,1 1 2
+	El paciente realiza Actividad Laboral en ambientes de:
+		Vapores t&#243;xicos
+		Irritantes inhalantes
+48,13,1 1 2
+	Existen Antecedentes recientes de:
+		Ba&#241;os en piscina, playas, rios, etc...
+		Manipulaciones &#243;ticas
+49,13,1 1 6
+	Lleva o ha llevado recientemente Tratamiento con:
+		Vasocontrictores nasales
+		Gotas &#243;ticas
+		Estreptomicina
+		Imidazolina
+		Gotas nasales
+		Anticoagulantes
+50,13,1 1 2
+	Desde cu&#225;ndo tiene Halitosis:
+		Menos de un mes
+		M&#225;s de un mes
+51,13,1 1 2
+	Desde cu&#225;ndo tiene Serostomia:
+		Menos de un mes
+		M&#225;s de un mes
+54,13,1 1 2
+	Los Ac&#250;fenos son:
+		Unilaterales
+		Bilaterales
+55,13,1 1 14
+	Presenta alguno de los siguientes s&#237;ntomas:
+		Cefalea
+		Disfagia
+		Disnea
+		Tos
+		Fiebre
+		Escalofrios
+		N&#225;useas
+		V&#243;mitos
+		Adenopat&#237;as
+		Halitosis
+		Afectaci&#243;n del Estado General
+		Ardor Ocular
+		Lagrimeo
+		Enrojecimiento Ocular
+56,13,1 1 2
+	C&#243;mo es el Dolor Facial:
+		Continuo y persistente
+		Accesos (parox&#237;sticos)
+57,13,1 1 3
+	Cu&#225;nto dura el Dolor Facial:
+		Segundos - minutos
+		Horas
+		D&#237;as
+58,13,1 1 7
+	El Dolor Facial se desencadena por:
+		Puntos dolorosos faciales
+		Movimientos faciales
+		Lavarse los dientes
+		Tomar alimentos o bebidas fr&#237;as
+		Masticaci&#243;n
+		Cambios posturales cef&#225;licos
+		Hablar

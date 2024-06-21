@@ -1,0 +1,361 @@
+1,3,9 1
+	Jaqueca o Migra&#241;a Com&#250;n
+2,3,9 1
+	Jaqueca o Migra&#241;a Cl&#225;sica
+3,3,9 1
+	Jaqueca o Migra&#241;a Hemipl&#233;jica
+4,3,9 1
+	Jaqueca o Migra&#241;a Basilar
+5,3,9 1
+	Jaqueca o Migra&#241;a Oftalmopl&#233;jica
+6,3,9 1
+	Cefalea Tensional
+7,3,9 1
+	Cefalea Secundaria a Neoplasia Cerebral
+8,3,9 1
+	Cefalea Secundaria a Hemorragia Cerebral
+9,3,9 1
+	Hemicranea Parox&#237;stica Cr&#243;nica
+10,3,9 1
+	Intermedio para enfermedades derivadas de Meningitis aguda
+11,3,9 1
+	Cefalea Postraum&#225;tica
+12,3,9 1
+	Cefalea Secundaria a Meningitis Encefalitis
+13,3,9 1
+	Cefalea Histam&#237;nica de Horton o en Racimos
+14,3,9 1
+	Cefalea Secundaria a F&#225;rmacos
+15,3,9 1
+	Cefalea Secundaria a Infecci&#243;n Extracerebral
+16,3,9 1
+	Demencia
+17,3,9 1
+	Meningitis Aguda
+18,3,9 1
+	Mareo Secundario a Trastornos del Ritmo Card&#237;aco
+19,3,9 1
+	Mareo Secundario a Insuficiencia Card&#237;aca
+20,3,9 1
+	V&#233;rtigo Posicional Parox&#237;stico
+21,3,9 1
+	Intermedio de Trastornos Metab&#243;licos
+22,3,9 1
+	V&#233;rtigo Laber&#237;ntico Agudo o Laberintitis Aguda
+23,3,9 1
+	V&#233;rtigo Laber&#237;ntico Secundario a F&#225;rmacos Otot&#243;xicos
+24,3,9 1
+	Mareo Secundario a F&#225;rmacos
+25,3,9 1
+	Neuronitis Vestibular
+26,3,9 1
+	V&#233;rtigo Secundario a Otitis O&#237;do Medio (Aguda o Cr&#243;nica)
+27,3,9 1
+	Mareo de Origen Psic&#243;geno
+28,3,9 1
+	V&#233;rtigo Secundario a Neurinoma del Ac&#250;stico
+29,3,9 1
+	V&#233;rtigo Secundario a Tumores Cerebelosos
+30,3,9 1
+	Isquemia en Territorio Vertebro-Basilar
+31,3,9 1
+	Mareo Secundario a Insuficiencia Vertebro-Basilar
+32,3,9 1
+	Mareo Secundario a Esclerosis M&#250;ltiple
+33,3,9 1
+	Mareo Secundario a Patolog&#237;a Cervical
+34,3,9 1
+	Mareo Secundario a F&#237;stula Laber&#237;ntica
+35,3,9 1
+	Mareo Secundario a Neuropat&#237;a Auton&#243;mica en Diabetes Mellitus
+36,3,9 1
+	Enfermedad Cerebrovascular
+37,3,9 1
+	Episodio de Amnesia Global Transitoria
+38,3,9 1
+	Crisis Convulsiva Secundaria a Enfermedad Cerebrovascular
+39,3,9 1
+	Temblor Secundario a Toma de Psicof&#225;rmacos
+40,3,9 1
+	Temblor Esencial Benigno
+41,3,9 1
+	Temblor Secundario a Ansiedad
+42,3,9 1
+	Temblor Secundario a Alcoholismo
+43,3,9 1
+	Temblor Secundario a F&#225;rmacos
+44,3,9 1
+	Temblor Secundario a Metabolopat&#237;a
+45,3,9 1
+	Temblor de Origen Cerebeloso
+46,3,9 1
+	Neuralgia del Trig&#233;mino o Tic Doloroso
+47,3,9 1
+	Neuralgia Facial Postherp&#233;tica
+48,3,9 1
+	Neuralgia de Origen Dentario
+49,3,9 1
+	Disfunci&#243;n Temporo Mandibular
+50,3,9 1
+	Neuralgia Facial At&#237;pica
+51,3,9 1
+	Temblor Senil
+52,3,9 1
+	Encefalopat&#237;a Subaguda (Complejo Demencia-SIDA)
+53,3,9 1
+	Mielopat&#237;a en Paciente VIH
+54,3,9 1
+	Absceso Epidural Espinal
+55,3,9 1
+	S&#237;ndrome Radicular Cervical con Mielopat&#237;a
+56,3,9 1
+	Mielitis Transversa
+57,3,9 1
+	Tumores Medulares
+58,3,9 1
+	Hipertensi&#243;n Endocraneal
+59,3,9 3
+	Epilepsia T&#243;nico-Cl&#243;nica Generalizada Idiop&#225;tica o Primaria:
+	 -Crisis de Gran Mal -Crisis de Peque&#241;o Mal: --Crisis de Ausencia --Crisis
+	 Miocl&#243;nicas --Crisis Aquin&#233;ticas
+60,3,9 3
+	Epilepsia T&#243;nico-Cl&#243;nica Generalizada Secundaria: -Crisis de Gran Mal
+	 -Crisis de Peque&#241;o Mal: --Crisis de Ausencia --Crisis Miocl&#243;nicas
+	 --Crisis Aquin&#233;ticas
+61,3,9 2
+	Convulsiones Parciales con Sintomatolog&#237;a Compleja (Epilepsia Temporal o
+	 Crisis Psicomotoras)
+62,3,9 1
+	Epilepsia T&#243;nico-Cl&#243;nica Generalizada
+63,3,9 1
+	Convulsiones Motoras con Sintomatolog&#237;a Elemental (Epilepsia Jacksoniana)
+64,3,9 2
+	Convulsiones Motoras con Sintomatolog&#237;a Elemental Secundaria (Epilepsia
+	 Jacksoniana)
+65,3,9 1
+	Esclerosis M&#250;ltiple
+66,3,9 1
+	Mononeuropat&#237;a Dolorosa Asim&#233;trica
+67,3,9 1
+	Par&#225;lisis Facial Perif&#233;rica o Par&#225;lisis de Bell
+68,3,9 1
+	Masa Intracraneal en paciente VIH
+69,3,9 1
+	Polirradiculoneuritis Aguda
+70,3,9 1
+	Siringomielia
+71,3,9 1
+	Enfermedad de Parkinson
+72,3,9 1
+	Neoplasia Cerebral
+73,3,9 1
+	Hematoma Subdural
+74,3,9 1
+	Polineuropat&#237;a Sensitivo Motora Cr&#243;nica
+75,3,9 1
+	Polineuropat&#237;a Sensitivo Motora Cr&#243;nica Alcoh&#243;lica
+76,3,9 1
+	Polineuropat&#237;a Sensitivo Motora Cr&#243;nica Diab&#233;tica
+77,3,9 1
+	Polineuropat&#237;a Sensitivo Motora Cr&#243;nica T&#243;xica
+78,3,9 2
+	Polineuropat&#237;a Sensitivo Motora Cr&#243;nica Secundaria a Toxicidad
+	 Farmacol&#243;gica
+79,3,9 1
+	Polineuropat&#237;a Sensitivo Motora Cr&#243;nica Paraneopl&#225;sica
+80,3,9 1
+	Intermedio para resolver el paso del peso en Parkinson
+81,3,9 1
+	Parkinsonismo Postencefal&#237;tico
+82,3,9 1
+	Parkinsonismo Secundario a Toma de Neurol&#233;pticos
+83,3,9 1
+	Mareo Secundario a Tap&#243;n de Cerumen
+84,3,9 1
+	Intermedio para paso del peso en Mareo secundario a tap&#243;n de cerumen
+85,3,9 1
+	Demencia de Causa Vascular
+86,3,9 1
+	Demencia Tipo Alzheimer
+87,3,9 1
+	Demencia Secundaria a D&#233;ficit de B12 y Acido F&#243;lico
+88,3,9 1
+	Demencia Alcoh&#243;lica
+89,3,9 1
+	Demencia Secundaria a F&#225;rmacos
+90,3,9 1
+	Demencia Secundaria a Hematoma Subdural
+91,3,9 1
+	Demencia Secundaria a Enfermedad de Parkinson
+92,3,9 1
+	Demencia Secundaria a Hipotiroidismo
+93,3,9 1
+	Enfermedad Creutzfeldt-Jakob
+94,3,9 1
+	Enfermedad de Huntington
+95,3,9 1
+	Demencia Secundaria a Tumor Cerebral
+96,3,9 1
+	Intermedio para el paso del peso en Mielitis Transversa
+97,3,9 1
+	S&#237;ndrome de Brown-S&#233;quard
+98,3,9 1
+	Siringobulbia
+99,3,9 1
+	Meningitis Meningo-C&#243;cica
+100,3,9 1
+	Intermedio para el paso del peso en Meningitis Aguda
+101,3,9 1
+	Meningitis Neumoc&#243;cica (S&#237;ndrome Pneumoniae)
+102,3,9 1
+	Meningitis por Hemofilo Influenza
+103,3,9 1
+	Meningitis por Nisseria Meningitidis
+104,3,9 1
+	Intermedio para repetir una regla en cefalea
+105,3,9 1
+	Intermedio para paso de peso en hipertensi&#243;n endocraneana
+106,3,9 1
+	Intermedio para Neoplasia Cerebral
+107,3,9 1
+	S&#237;ndrome Bulbar Lateral de Wallenberg
+108,3,9 1
+	Intermedio para el paso del peso en Hematoma Subdural
+109,3,9 1
+	Demencia Secundaria a Tumor
+110,3,9 1
+	Intermedio para Enfermedad Cerebrovascular
+111,3,9 1
+	Ictus Agudo
+112,3,9 1
+	S&#237;ndrome de la Arteria Cerebral Media
+113,3,9 1
+	S&#237;ndrome de la Arteria Cerebral Media Incompleta
+114,3,9 1
+	S&#237;ndrome de la Arteria Cerebral Anterior
+115,3,9 1
+	S&#237;ndrome de la Arteria Cerebral Posterior
+116,3,9 1
+	S&#237;ndrome Vertebro-Basilar
+117,3,9 1
+	Estado Lagunar
+118,3,9 1
+	Intermedio para pasar el peso en Par&#225;lisis Facial perif&#233;rica
+119,3,9 1
+	S&#237;ndrome de Ramsay-Hunt
+120,3,9 1
+	Intermedio para peso en Polineuropat&#237;a sensitivo motora cr&#243;nica
+121,3,9 1
+	Polineuropat&#237;a Sensitivo Motora Cr&#243;nica por Neoplasias
+122,3,9 1
+	Polineuropat&#237;a Sensitivo Motora Cr&#243;nica Secundaria a Colagenosis
+123,3,9 2
+	Polineuropat&#237;a Sensitivo Motora Cr&#243;nica por
+	 Endocrinometabolopat&#237;as
+124,3,9 1
+	Intermedio N1 para Ctx en Enfermedad Cerebrovascular
+125,3,9 1
+	Intermedio N2 para Ctx en Enfermedad Cerebrovascular
+126,3,9 1
+	Intermedio N3 para Ctx en Enfermedad Cerebrovascular
+127,3,9 1
+	Intermedio N4 para Ctx en Enfermedad Cerebrovascular
+128,3,9 1
+	Intermedio N5 para Ctx en Enfermedad Cerebrovascular
+129,3,9 1
+	Intermedio N6 para Ctx en Enfermedad Cerebrovascular
+130,3,9 1
+	Ataque Isqu&#233;mico Transitorio
+131,3,9 1
+	D&#233;ficit Neurol&#243;gico Isqu&#233;mico Residual
+132,3,9 1
+	Ictus en Evoluci&#243;n o Ictus Progresivo
+133,3,9 1
+	Ictus Establecido
+134,3,9 1
+	Se cumplan al menos 3 signos en la exploraci&#243;n
+135,3,9 3
+	Epilepsia T&#243;nico-Cl&#243;nica Generalizada Crisis de Gran Mal Crisis de
+	 Peque&#241;o Mal: -Crisis de Ausencia -Crisis Miocl&#243;nicas -Crisis
+	 Aquin&#233;ticas
+136,3,9 1
+	Copia de 34{3,7}
+137,3,9 1
+	Convulsiones Motoras Menores
+138,3,9 1
+	Epilepsia Parcial o Focal
+139,3,9 1
+	Temblor Familiar
+140,3,9 1
+	Intermedio para las epilepsias (regla que se repiten)
+141,3,9 1
+	Intermedio para las epilepsias (regla que se repiten)
+142,3,9 1
+	Intermedio para el paso del peso en epilepsias 389
+143,3,9 1
+	Intermedio para el paso del peso en epilepsias 393
+144,3,9 1
+	Intermedio para el paso del peso en epilepsias 391
+145,3,9 1
+	Intermedio para el paso del peso en epilepsias 395
+146,3,9 1
+	Intermedio para el paso del peso en temblor 361
+147,3,9 1
+	Copia de 35{3,7}
+148,3,9 1
+	Copia de 12{3,2}
+149,3,9 1
+	Copia de 20{3,2}
+150,3,9 1
+	Copia de 70{3,2}
+151,3,9 1
+	Copia de 149{3,2} V 150{3,2} V 151{3,2}
+152,3,9 1
+	Copia de 67{3,2}
+153,3,9 1
+	Copia de 45{3,2}
+154,3,9 1
+	Intermedio de 812{3,1} V 401{11,1}
+155,3,9 1
+	Copia de 9{3,11}
+156,3,9 1
+	Copia de 10{3,11}
+157,3,9 1
+	Copia de 11{3,11}
+158,3,9 1
+	Copia de 12{3,11}
+159,3,9 1
+	Copia de 14{3,11}
+160,3,9 2
+	Corea de Causas Probables: Corea de Sydenham Corea de Huntington Enfermedad de
+	 Wilson S&#237;ndrome de Lesch-Nyhan Ataxia-Telangiectasia
+161,3,9 2
+	Corea de Causas Probables: Corea de Huntington Enfermedad de Wilson Encefalitis
+	 Farmacol&#243;gica
+162,3,9 1
+	Corea de Causas Probables: De Origen Vascular Esencial Farmacol&#243;gica
+163,3,9 2
+	Atetosis de Causas Probables: Hipoxia Neonatal Enfermedad de Sydenham
+	 Enfermedad de Wilson Diston&#237;a Musculorum de Forhans
+164,3,9 2
+	Mioclonias de Causas Probables: S&#237;ndrome de West Enfermedad de
+	 Dep&#243;sito Polidistrofia Progresiva Neuroblastoma Cerebeloso
+165,3,9 3
+	Mioclonias de Causas Probables: Encefalopat&#237;a Metab&#243;lica Encefalitis
+	 Tumores Cerebelosos Epilepsia Miocl&#243;nica Enfermedad de Creutzfeldt-Jakob
+	 Intoxicaci&#243;n por Bismuto
+166,3,9 2
+	Diston&#237;a de Causas Probables: Diston&#237;a Muscular por Deformidad
+	 Enfermedad de Wilson Ataxia-Telangiectasia Enfermedad de Huntington
+167,3,9 2
+	Diston&#237;a de Causas Probables: Tort&#237;culis Espasm&#243;dica
+	 Farmacol&#243;gica (Fenotiacin, etc...) Enfermedad de Wilson Enfermedad de Huntington
+168,3,9 3
+	Tics de Causas Probables: Enfermedad de Lesch-Nyhan S&#237;ndrome de Gilles de
+	 la Tourette Postencefal&#237;tico Farmacol&#243;gica Diston&#237;a
+	 Parox&#237;stica
+169,3,9 2
+	Tics de Causas Probables: Postencefal&#237;tico Traumatismos Craneales
+	 Farmacol&#243;gica
+170,3,9 1
+	Neuropat&#237;a Perif&#233;rica en Paciente VIH

@@ -1,0 +1,42 @@
+<h1 *ngIf="showComplement" class="font-calibri ms-1">Conclusiones</h1>
+<div class="bg-green p-3">
+    <div class="d-flex mb-2">
+        <p class="me-5 fs-6">Fecha {{date | date: 'dd/MM/yyyy'}}</p>
+        <p class="ms-5 fs-6">Hora {{date | date: 'hh:mm:ss'}}</p>
+    </div>
+
+    <h1 *ngIf="question!.text === 'notConclusion';else conclusions">No se presentaron conclusiones</h1>
+    
+    <ng-template #conclusions>
+
+        <div *ngIf="question!.concluF" class="my-2">
+            <h4 class="ms-2">Conclusiones Finales</h4>
+            <ng-container *ngFor="let item of question?.concluF">
+                <p class="ms-3 font-calibri" [ngClass]="item.parti ? 'ms-4 mb-0 fs-5' : 'fs-4 my-0'">{{item.text}}</p>
+                <mat-divider *ngIf="item.parti" class="border-light"></mat-divider>
+            </ng-container>
+        </div>
+        <div *ngIf="question!.concluP" class="mt-2">
+            <h4 class="ms-2">Conclusiones Parciales</h4>
+            <ng-container *ngFor="let item of question?.concluP">
+                <p class="ms-3 font-calibri" [ngClass]="item.parti ? 'ms-4 mb-0 fs-5' : 'fs-4 my-0'">{{item.text}}</p>
+                <mat-divider *ngIf="item.parti" class="border-light"></mat-divider>
+            </ng-container>
+        </div>
+
+        <p *ngIf="!question!.concluF && !question!.concluP">Esta consulta no fue terminada. <strong>Por favor vea en más detalles</strong></p>
+
+    </ng-template>
+    
+    <div [ngClass]="showComplement ? 'mt-5' : ''" class="d-flex gap-3">
+        <button mat-stroked-button (click)="showQ()" class="font-calibri text-white">Ver detalles</button>
+        <button mat-stroked-button (click)="continueQuery.emit()" class="text-light">Continuar consulta</button>
+    </div>
+
+</div>
+<div *ngIf="showComplement" class="d-flex justify-content-center">
+    <div class="d-flex gap-5 mt-5 col-8">
+        <button (click)="clickNew.emit()" class="btn btn-primary btn-lg flex-grow-1">Nuevo</button>
+        <button (click)="clickSave.emit()" class="btn btn-success btn-lg flex-grow-1">Guardar</button>
+    </div>
+</div>

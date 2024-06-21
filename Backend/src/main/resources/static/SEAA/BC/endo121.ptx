@@ -1,0 +1,411 @@
+1,12,1 1
+	Tiempo que lleva Perdiendo Peso : De 1 a 3 meses
+2,12,1 1
+	Tiempo que lleva Perdiendo Peso : De 3 a 6 meses
+3,12,1 1
+	Tiempo que lleva Perdiendo Peso : M&#225;s de 6 meses
+4,12,1 1
+	Pierde Peso todav&#237;a
+5,12,1 1
+	Fluct&#250;a su Peso
+6,12,1 1
+	Mantiene su Apetito igual
+7,12,1 1
+	Mantiene su Apetito aumentado
+8,12,1 1
+	Mantiene su Apetito disminuido
+9,12,1 1
+	Consume r&#225;pido e incontrolablemente grandes cantidades de comida
+10,12,1 1
+	Siente gran temor por ser obeso
+11,12,1 1
+	Hace menos de 1 mes que toma m&#225;s L&#237;quido de lo Habitual
+12,12,1 1
+	Hace de 1 a 3 meses que toma m&#225;s L&#237;quido de lo Habitual
+13,12,1 1
+	Hace m&#225;s de 3 meses que toma m&#225;s L&#237;quido de lo Habitual
+14,12,1 1
+	Hace menos de 1 mes ha notado Aumento del Tama&#241;o de las Mamas
+15,12,1 1
+	Hace m&#225;s de 1 mes ha notado Aumento del Tama&#241;o de las Mamas
+16,12,1 1
+	Aumento de Tama&#241;o de las Mamas es: Unilateral
+17,12,1 1
+	Aumento de Tama&#241;o de las Mamas es: Bilateral
+18,12,1 1
+	Existen evidencias de Diabetes Ins&#237;pida
+19,12,1 1
+	CMBD de Diabetes Ins&#237;pida (Poliuria y Polidipsia)
+20,12,1 2
+	Intermedio que indica cu&#225;ndo aporta Vejiga Neur&#243;gena a Diabetes
+	 Mellitus
+21,12,1 1
+	Apareci&#243; la Obesidad: Desde la infancia
+22,12,1 1
+	Apareci&#243; la Obesidad: Cuando adulto
+23,12,1 1
+	Apareci&#243; la Obesidad: Con embarazo reciente
+24,12,1 1
+	El Aumento de Peso ha sido r&#225;pido (En d&#237;as)
+25,12,1 1
+	El Aumento de Peso ha sido en meses o a&#241;os
+26,12,1 1
+	Pierde Peso con un r&#233;gimen diet&#233;tico
+27,12,1 1
+	Gana Peso cuando abandona el r&#233;gimen diet&#233;tico
+28,12,1 1
+	Desde menos de 3 meses ha notado Vellos en Zonas que Normalmente no Tiene
+29,12,1 1
+	Desde m&#225;s de 3 meses ha notado Vellos en Zonas que Normalmente no Tiene
+30,12,1 1
+	Desde la pubertad ha notado Vellos en Zonas que Normalmente no Tiene
+31,12,1 2
+	En la cara se localizan Vellos, &#225;rea sensible a los efectos de los
+	 andr&#243;genos
+32,12,1 2
+	En el torax se localizan Vellos, &#225;rea sensible a los efectos de los
+	 andr&#243;genos
+33,12,1 2
+	En el abdomen bajo se localizan Vellos, &#225;rea sensible a los efectos de los
+	 andr&#243;genos
+34,12,1 1
+	Tiene Galactorrea desde: Un mes o menos
+35,12,1 1
+	Tiene Galactorrea desde: M&#225;s de un mes
+36,12,1 1
+	La Galactorrea es Espont&#225;nea
+37,12,1 1
+	La Galactorrea es S&#243;lo a presi&#243;n manual
+38,12,1 1
+	Esterilidad: Ausencia de la capacidad de concebir
+39,12,1 1
+	Esterilidad: P&#233;rdida de la capacidad de concebir
+40,12,1 1
+	Prominencia de los Globos Oculares desde: Un mes o menos
+41,12,1 1
+	Prominencia de los Globos Oculares desde: M&#225;s de un mes
+42,12,1 1
+	La prominencia de los Globos Oculares es unilateral
+43,12,1 1
+	La prominencia de los Globos Oculares es bilateral
+44,12,1 1
+	Tiene Trastornos Virilizantes desde: Tres meses o menos
+45,12,1 1
+	Tiene Trastornos Virilizantes desde: M&#225;s de tres meses
+46,12,1 1
+	Menstruaciones previas a aparici&#243;n de Trastornos Virilizantes
+47,12,1 1
+	Dolor en la Regi&#243;n Tiroidea desde: Un mes o menos
+48,12,1 1
+	Dolor en la Regi&#243;n Tiroidea desde: M&#225;s de un mes
+49,12,1 1
+	El Dolor en la Regi&#243;n Tiroidea se irradia
+50,12,1 1
+	Se acompa&#241;a de Signos Inflamatorios Locales
+51,12,1 1
+	El paciente est&#225; Cl&#237;nicamente Eutiroideo
+52,12,1 1
+	Abultamiento en la Regi&#243;n Anterior del Cuello: Un mes o menos
+53,12,1 1
+	Abultamiento en la Regi&#243;n Anterior del Cuello: M&#225;s de un mes
+54,12,1 1
+	El Abultamiento comenz&#243; en: Horas o d&#237;as (Agudo)
+55,12,1 1
+	El Abultamiento comenz&#243; en: D&#237;as o semanas (Subagudo)
+56,12,1 1
+	El Abultamiento comenz&#243; en: Meses o a&#241;os (Gradual insidioso)
+57,12,1 1
+	El volumen del Abultamiento: Se mantiene sin cambio
+58,12,1 1
+	El volumen del Abultamiento: Ha aumentado recientemente
+59,12,1 1
+	El volumen del Abultamiento: Aument&#243; r&#225;pidamente y con dolor
+60,12,1 1
+	Sudoraci&#243;n Profusa
+61,12,1 1
+	Comod&#237;n de la var 20
+62,12,1 2
+	Desde cu&#225;ndo tiene Hiperpigmentaci&#243;n de Piel y Mucosas: Un mes o
+	 menos
+63,12,1 2
+	Desde cu&#225;ndo tiene Hiperpigmentaci&#243;n de Piel y Mucosas: Entre uno y
+	 tres meses
+64,12,1 2
+	Desde cu&#225;ndo tiene Hiperpigmentaci&#243;n de Piel y Mucosas: Tres meses o
+	 m&#225;s
+65,12,1 1
+	La Hiperpigmentaci&#243;n de Piel y Mucosas es Generalizado
+66,12,1 1
+	La Hiperpigmentaci&#243;n de Piel y Mucosas es Localizado
+67,12,1 2
+	La Hiperpigmentaci&#243;n de Piel y Mucosas se localiza: Puntos de presi&#243;n
+	 y pezones
+68,12,1 1
+	La Hiperpigmentaci&#243;n de Piel y Mucosas se localiza: Gl&#250;teos
+69,12,1 1
+	La Hiperpigmentaci&#243;n de Piel y Mucosas se localiza: Cicatrices recientes
+70,12,1 2
+	La Hiperpigmentaci&#243;n de Piel y Mucosas localizada: Mucosa oral con manchas
+	 pardas
+71,12,1 2
+	Comod&#237;n de la variable 24, Tratamiento Farmacol&#243;gico asociado a
+	 Polidipsia
+72,12,1 2
+	Comod&#237;n de la variable 25, Tratamiento Farmacol&#243;gico asociado a
+	 Ginecomastia
+73,12,1 2
+	Comod&#237;n de la variable 27, Tratamiento Farmacol&#243;gico asociado a
+	 Hirsutismo
+74,12,1 1
+	Reglas regulares y predecibles
+75,12,1 2
+	Comod&#237;n de la variable 28, Tratamiento Farmacol&#243;gico asociado a
+	 Galactorrea
+76,12,1 2
+	Comod&#237;n de variable 29, Tratamiento Farmacol&#243;gico asociado a Bocio
+	 y/o n&#243;dulos tiroideos
+77,12,1 2
+	Comod&#237;n de la variable 30, Tratamiento Farmacol&#243;gico asociado a
+	 p&#233;rdida de peso
+78,12,1 2
+	Desde cu&#225;ndo tiene Aumento de Tama&#241;o de Manos y Pies: Tres meses o
+	 menos
+79,12,1 2
+	Desde cu&#225;ndo tiene Aumento de Tama&#241;o de Manos y Pies: De tres meses a
+	 un a&#241;o
+80,12,1 2
+	Desde cu&#225;ndo tiene Aumento de Tama&#241;o de Manos y Pies: M&#225;s de un
+	 a&#241;o
+81,12,1 1
+	Existen evidencias de Bocio Simple NO T&#243;xico
+82,12,1 1
+	CMBD de Bocio Simple NO T&#243;xico (Bocio y/o N&#243;dulo Tiroideo)
+83,12,1 1
+	CMBD de las 3 P (Poliuria, Polifagia y Polidipsia) de Diabetes Mellitus
+84,12,1 2
+	El paciente presenta P&#233;rdida de Peso Involuntario. Mayor del 10 % del Peso
+	 Corporal
+85,12,1 1
+	Existen evidencias de Hipotiroidismo
+86,12,1 1
+	CMBD de Hipotiroidismo (Debilidad Muscular)
+87,12,1 1
+	CMBD de Hipotiroidismo (Obesidad)
+88,12,1 1
+	CMBD de Hipotiroidismo (Estre&#241;imiento)
+89,12,1 1
+	Intermedio de 133 V 134
+90,12,1 1
+	no se usa
+91,12,1 1
+	no se usa
+92,12,1 1
+	Existen evidencias de Hipertiroidismo
+93,12,1 1
+	CMBD de Hipertiroidismo (Debilidad Muscular)
+94,12,1 1
+	CMBD de Hipertiroidismo (Bocio y/o N&#243;dulo Tiroideo)
+95,12,1 1
+	CMBD de Hipertiroidismo (P&#233;rdida de Peso)
+96,12,1 1
+	CMBD de Hipertiroidismo (Palpitaciones)
+97,12,1 1
+	CMBD de Hipertiroidismo (Temblor)
+98,12,1 1
+	CMBD de Hipertiroidismo (Prominencia Globos Oculares)
+99,12,1 1
+	Existen evidencias de Neoplasia de Tiroides
+100,12,1 1
+	CMBD de Neoplasia de Tiroides (Bocio y/o N&#243;dulo Tiroideo)
+101,12,1 1
+	no se usa
+102,12,1 1
+	Existen evidencias de Tiroiditis Subaguda (Quervain)
+103,12,1 1
+	CMBD de Tiroiditis Subaguda (Quervain) (Dolor Regi&#243;n Tiroidea)
+104,12,1 1
+	no se usa
+105,12,1 1
+	no se usa
+106,12,1 1
+	Existen evidencias de Tiroiditis de Hashimoto
+107,12,1 1
+	CMBD de Tiroiditis de Hashimoto (Bocio y/o N&#243;dulo Tiroideo)
+108,12,1 2
+	Existen evidencias de Insuficiencia Corticosuprarrenal Cr&#243;nica (Enfermedad
+	 de Addison)
+109,12,1 1
+	CMBD de Insuficiencia Corticosuprarrenal Cr&#243;nica (Debilidad Muscular)
+110,12,1 2
+	CMBD de Insuficiencia Corticosuprarrenal Cr&#243;nica (Hiperpigmentaci&#243;n
+	 Cut&#225;nea)
+111,12,1 1
+	CMBD de Insuficiencia Corticosuprarrenal Cr&#243;nica (Adelgazamiento)
+112,12,1 1
+	Existen evidencias del S&#237;ndrome de Cushing
+113,12,1 1
+	CMBD del S&#237;ndrome de Cushing (Obesidad)
+114,12,1 1
+	no se usa
+115,12,1 1
+	CMBD del S&#237;ndrome de Cushing (Debilidad Muscular)
+116,12,1 1
+	no se usa
+117,12,1 1
+	CMBD del S&#237;ndrome de Cushing (Amenorrea)
+118,12,1 1
+	Existen evidencias de Aldosteronismo Primario o S&#237;ndrome de Conn
+119,12,1 1
+	CMBD del S&#237;ndrome de Conn (Debilidad Muscular)
+120,12,1 1
+	no se usa
+121,12,1 1
+	CMBD del S&#237;ndrome de Conn (Poliuria)
+122,12,1 1
+	CMBD del S&#237;ndrome de Conn (Polidipsia)
+123,12,1 1
+	Existen evidencias del S&#237;ndrome de Bartter
+124,12,1 1
+	La Hiperpigmentaci&#243;n de Piel y Mucosas se localiza: Codos
+125,12,1 1
+	La Hiperpigmentaci&#243;n de Piel y Mucosas se localiza: Surcos de la mano
+126,12,1 1
+	no se usa
+127,12,1 1
+	Existen evidencias de Diabetes Mellitus
+128,12,1 1
+	CMBD de Diabetes Mellitus (Polifagia)
+129,12,1 1
+	CMBD de Diabetes Mellitus (Polifagia, Poliuria, Polidipsia)
+130,12,1 1
+	no se usa
+131,12,1 1
+	CMBD de S&#237;ndrome de Bartter (Debilidad Muscular)
+132,12,1 1
+	Existen evidencias de Insuficiencia Suprarrenal Secundaria (Addison Blanco)
+133,12,1 1
+	CMBD de Insuficiencia Suprarrenal Secundaria (Debilidad Muscular)
+134,12,1 1
+	CMBD de Insuficiencia Suprarrenal Secundaria (P&#233;rdida de Peso)
+135,12,1 1
+	Tiene Aumento de Tama&#241;o de la Nariz, Labios, Tejidos blandos de la cara
+136,12,1 1
+	Existen evidencias de Acromegalia
+137,12,1 1
+	CMBD de Acromegalia (Aumento de Tama&#241;o de Manos y Pies)
+138,12,1 1
+	CMBD de Acromegalia (Cefalea)
+139,12,1 1
+	Intermedio de Acromegalia y Gigantismo Hipofisario
+140,12,1 1
+	Existen evidencias de Gigantismo Hipofisario
+141,12,1 1
+	Existen evidencias de Feocromocitoma
+142,12,1 1
+	CMBD de Feocromocitoma (Palpitaciones)
+143,12,1 1
+	CMBD de Feocromocitoma (Cefalea)
+144,12,1 1
+	CMBD de Feocromocitoma  (Dolor Tor&#225;cico)
+145,12,1 1
+	CMBD del S&#237;ndrome de Cushing (Edema)
+146,12,1 1
+	Existen evidencias de S&#237;ndrome Virilizante &#243; Suprarrenal de la Mujer
+147,12,1 1
+	CMBD de S&#237;ndrome Virilizante (Hirsutismo)
+148,12,1 1
+	CMBD de S&#237;ndrome Virilizante (Amenorrea)
+149,12,1 1
+	CMBD de S&#237;ndrome Virilizante (Virilismo)
+150,12,1 1
+	Existen evidencias de Ginecomastia Secundaria a Medicamentos
+151,12,1 2
+	Existen evidencias de Ginecomastia por Deficiencia en la Producci&#243;n o
+	 Acci&#243;n de la Testosterona
+152,12,1 2
+	Existen evidencias de Ginecomastia por Aumento en Producci&#243;n de
+	 Estr&#243;genos
+153,12,1 1
+	CMBD de Ginecomastia (Ginecomastia)
+154,12,1 1
+	Comod&#237;n de la variable 33
+155,12,1 1
+	Comod&#237;n de la variable 32
+156,12,1 1
+	Comod&#237;n de la variable 34
+157,12,1 1
+	Comod&#237;n de la variable 35
+158,12,1 1
+	Comod&#237;n de la variable 36
+159,12,1 1
+	Comod&#237;n de la variable 37
+160,12,1 1
+	Comod&#237;n de la variable 38
+161,12,1 1
+	Comod&#237;n de la variable 39
+162,12,1 1
+	Comod&#237;n de la variable 40
+163,12,1 1
+	Comod&#237;n de la variable 41
+164,12,1 1
+	Comod&#237;n de la variable 42
+165,12,1 1
+	Comod&#237;n de la variable 43
+166,12,1 1
+	Comod&#237;n de la variable 44
+167,12,1 1
+	Comod&#237;n de la variable 45
+168,12,1 1
+	Comod&#237;n de la variable 46
+169,12,1 1
+	Comod&#237;n de la variable 26
+170,12,1 1
+	Comod&#237;n de la variable 47
+171,12,1 1
+	Comod&#237;n de la variable 48
+172,12,1 1
+	Comod&#237;n de la variable 49
+173,12,1 1
+	Comod&#237;n de la variable 50
+174,12,1 1
+	Comod&#237;n de la variable 51
+175,12,1 1
+	Comod&#237;n de la variable 52
+176,12,1 1
+	Comod&#237;n de la variable 53
+177,12,1 1
+	Comod&#237;n de la variable 54
+178,12,1 1
+	Comod&#237;n de la variable 55
+179,12,1 1
+	CMBD 2 de Tiroiditis Subaguda (Quervain)(Bocio y/o N&#243;dulo Tiroideo)
+180,12,1 1
+	CMBD de Hipotiroidismo (Edema)
+181,12,1 1
+	El volumen del Abultamiento: Aumento r&#225;pidamente y sin dolor
+182,12,1 1
+	Existen evidencias de Hipoparatiroidismo
+183,12,1 1
+	CMBD de Hipoparatiroidismo (Crisis Convulsiva)
+184,12,1 1
+	CMBD de Hipoparatiroidismo (Debilidad Muscular)
+185,12,1 1
+	CMBD de Hipoparatiroidismo (Tetania)
+186,12,1 1
+	Existen evidencias de Ginecomastia Fisiol&#243;gica
+187,12,1 1
+	CMBD de Ginecomastia Fisiol&#243;gica (Ginecomastia)
+188,12,1 1
+	Existen evidencias de Ginecomastia Senil
+189,12,1 1
+	Cu&#225;nto tiempo hace que Come M&#225;s de lo Habitual: Un mes o menos
+190,12,1 2
+	Cu&#225;nto tiempo hace que Come M&#225;s de lo Habitual : Un mes o m&#225;s y
+	 menos de 3 meses
+191,12,1 2
+	Cu&#225;nto tiempo hace que Come M&#225;s de lo Habitual : Tres meses o
+	 m&#225;s
+192,12,1 1
+	Se despierta en la noche con deseos de comer
+193,12,1 1
+	Prefiere alimentos dulces

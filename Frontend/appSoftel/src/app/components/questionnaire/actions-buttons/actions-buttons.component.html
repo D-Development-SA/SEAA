@@ -1,0 +1,6 @@
+<div class="d-flex mt-3" [ngClass]="col ? '':'col-8'">
+    <button [disabled]="disabled" (click)="emitAndDeactivate(clickNeither)" *ngIf="anotherButton && start" class="btn btn-primary me-3 flex-grow-1">{{textTerciary}}</button>
+    <button [disabled]="disabled" (click)="emitAndDeactivate(clickAcept)" class="d-flex justify-content-center btn btn-success flex-grow-1">{{textPrimary}} <mat-spinner *ngIf="disabled && spinner" class="ms-2" style="width: 10%;height: 20px;"></mat-spinner></button>
+    <button (click)="emitAndActivate()" class="btn btn-danger ms-3 flex-grow-1">Cancelar</button>
+    <button [disabled]="disabled" (click)="emitAndDeactivate(clickNeither)" *ngIf="anotherButton && !start" class="btn btn-secondary ms-3 flex-grow-1">{{textTerciary}}</button>
+</div>

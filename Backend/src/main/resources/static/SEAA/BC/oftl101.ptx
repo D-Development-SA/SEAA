@@ -1,0 +1,323 @@
+1,10,1 1
+	Enrojecimiento Ocular de menos de un mes
+2,10,1 1
+	Enrojecimiento Ocular de m&#225;s de un mes
+3,10,1 1
+	Enrojecimiento Ocular de menos de 7 d&#237;as
+4,10,1 1
+	Enrojecimiento Ocular de m&#225;s de 7 d&#237;as
+5,10,1 1
+	Enrojecimiento Ocular unilateral
+6,10,1 1
+	Enrojecimiento Ocular bilateral
+7,10,1 1
+	Enrojecimiento Ocular m&#225;s manifiesto durante el d&#237;a
+8,10,1 1
+	Enrojecimiento Ocular m&#225;s manifiesto durante la noche
+9,10,1 1
+	Enrojecimiento Ocular m&#225;s manifiesto indiferente
+10,10,1 1
+	Fotofobia de menos de un mes
+11,10,1 1
+	Fotofobia de m&#225;s de un mes
+12,10,1 1
+	Fotofobia de menos de 7 d&#237;as
+13,10,1 1
+	Fotofobia de m&#225;s de 7 d&#237;as
+14,10,1 1
+	Dolor Ocular de menos de un mes
+15,10,1 1
+	Dolor Ocular de m&#225;s de un mes
+16,10,1 1
+	Dolor Ocular de menos de 7 d&#237;as
+17,10,1 1
+	Dolor Ocular de m&#225;s de 7 d&#237;as
+18,10,1 1
+	Dolor Ocular unilateral
+19,10,1 1
+	Dolor Ocular bilateral
+20,10,1 1
+	Dolor Ocular que se irradia a zonas vecinas
+21,10,1 1
+	Ardor Ocular de menos de un mes
+22,10,1 1
+	Ardor Ocular de m&#225;s de un mes
+23,10,1 1
+	Ardor Ocular de menos de 7 d&#237;as
+24,10,1 1
+	Ardor Ocular de m&#225;s de 7 d&#237;as
+25,10,1 1
+	Ardor Ocular unilateral
+26,10,1 1
+	Ardor Ocular bilateral
+27,10,1 1
+	Ardor Ocular m&#225;s manifiesto durante el d&#237;a
+28,10,1 1
+	Ardor Ocular m&#225;s manifiesto durante la noche
+29,10,1 1
+	Ardor Ocular m&#225;s manifiesto indiferente
+30,10,1 2
+	El Ardor Ocular aparece o guarda relaci&#243;n con ambientes secos o irritantes
+	 qu&#237;micos
+31,10,1 1
+	Prurito Ocular de menos de un mes
+32,10,1 1
+	Prurito Ocular de m&#225;s de un mes
+33,10,1 1
+	Prurito Ocular de menos de 7 d&#237;as
+34,10,1 1
+	Prurito Ocular de m&#225;s de 7 d&#237;as
+35,10,1 1
+	Prurito Ocular unilateral
+36,10,1 1
+	Prurito Ocular bilateral
+37,10,1 1
+	Prurito Ocular m&#225;s manifiesto durante el d&#237;a
+38,10,1 1
+	Prurito Ocular m&#225;s manifiesto durante la noche
+39,10,1 1
+	Prurito Ocular m&#225;s manifiesto indiferente
+40,10,1 2
+	El Prurito Ocular aparece o guarda relaci&#243;n con ambientes secos o
+	 irritantes qu&#237;micos
+41,10,1 1
+	Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos de menos de un mes
+42,10,1 1
+	Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos de m&#225;s de un mes
+43,10,1 1
+	Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos de menos de 7 d&#237;as
+44,10,1 1
+	Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos de m&#225;s de 7 d&#237;as
+45,10,1 1
+	Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos unilateral
+46,10,1 1
+	Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos bilateral
+47,10,1 2
+	Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos m&#225;s manifiesto durante el
+	 d&#237;a
+48,10,1 2
+	Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos m&#225;s manifiesto durante la
+	 noche
+49,10,1 1
+	Sensaci&#243;n de Cuerpo Extra&#241;o en Ojos m&#225;s manifiesto indiferente
+50,10,1 1
+	Se produce recidiva del Enrojecimiento Ocular durante meses o a&#241;os
+51,10,1 1
+	La recidiva del Enrojecimiento Ocular ocurre en primavera
+52,10,1 1
+	Se produce recidiva del Ardor Ocular durante meses o a&#241;os
+53,10,1 1
+	La recidiva del Ardor Ocular ocurre en primavera
+54,10,1 1
+	Se produce recidiva del Prurito Ocular durante meses o a&#241;os
+55,10,1 1
+	La recidiva del Prurito Ocular ocurre en primavera
+56,10,1 1
+	Se produce recidiva de la Fotofobia Ocular durante meses o a&#241;os
+57,10,1 1
+	La recidiva de la Fotofobia ocurre en primavera
+58,10,1 1
+	El Dolor Ocular se intensifica con el parpadeo
+59,10,1 1
+	Lagrimeo de menos de un mes
+60,10,1 1
+	Lagrimeo de m&#225;s de un mes
+61,10,1 1
+	Lagrimeo de menos de 7 d&#237;as
+62,10,1 1
+	Lagrimeo de m&#225;s de 7 d&#237;as
+63,10,1 1
+	Lagrimeo unilateral
+64,10,1 1
+	Lagrimeo bilateral
+65,10,1 1
+	Lagrimeo m&#225;s manifiesto durante el d&#237;a
+66,10,1 1
+	Lagrimeo m&#225;s manifiesto durante la noche
+67,10,1 1
+	Lagrimeo m&#225;s manifiesto indiferente
+68,10,1 2
+	El Lagrimeo aparece o guarda relaci&#243;n con ambientes secos o irritantes
+	 qu&#237;micos
+69,10,1 1
+	Se produce recidiva del Lagrimeo durante meses o a&#241;os
+70,10,1 1
+	La recidiva del Lagrimeo ocurre en primavera
+71,10,1 1
+	Secreci&#243;n Conjuntival de menos de un mes
+72,10,1 1
+	Secreci&#243;n Conjuntival de m&#225;s de un mes
+73,10,1 1
+	Secreci&#243;n Conjuntival de menos de 7 d&#237;as
+74,10,1 1
+	Secreci&#243;n Conjuntival de m&#225;s de 7 d&#237;as
+75,10,1 1
+	Secreci&#243;n Conjuntival unilateral
+76,10,1 1
+	Secreci&#243;n Conjuntival bilateral
+77,10,1 1
+	Secreci&#243;n Conjuntival m&#225;s manifiesto durante el d&#237;a
+78,10,1 1
+	Secreci&#243;n Conjuntival m&#225;s manifiesto durante la noche
+79,10,1 1
+	Secreci&#243;n Conjuntival m&#225;s manifiesto indiferente
+80,10,1 2
+	La Secreci&#243;n Conjuntival aparece o guarda relaci&#243;n con ambientes
+	 secos o irritantes qu&#237;micos
+81,10,1 1
+	La Secreci&#243;n Conjuntival es purulenta
+82,10,1 1
+	La Secreci&#243;n Conjuntival es serosa
+83,10,1 1
+	La Secreci&#243;n Conjuntival es seropurulenta
+84,10,1 1
+	La Secreci&#243;n Conjuntival es hemorr&#225;gica
+85,10,1 1
+	Los ojos aparecen pegados al despertar
+86,10,1 1
+	Edema en P&#225;rpados unilateral
+87,10,1 1
+	Edema en P&#225;rpados bilateral
+88,10,1 1
+	Edema en P&#225;rpados que apareci&#243; rapidamente
+89,10,1 1
+	Edema en P&#225;rpados que apareci&#243; gradualmente
+90,10,1 1
+	Edema en P&#225;rpados desencadenado por infecciones locales
+91,10,1 1
+	Edema en P&#225;rpados desencadenado por agente irritante local
+92,10,1 1
+	Edema en P&#225;rpados desencadenado por trastornos conjuntivales
+93,10,1 1
+	Edema en P&#225;rpados desencadenado por quemaduras
+94,10,1 1
+	Comod&#237;n de S&#237;ntomas Acompa&#241;antes de Edema en P&#225;rpados
+95,10,1 1
+	Disminuci&#243;n de la Agudeza Visual de menos de un mes
+96,10,1 1
+	Disminuci&#243;n de la Agudeza Visual de m&#225;s de un mes
+97,10,1 1
+	Disminuci&#243;n de la Agudeza Visual de menos de 7 d&#237;as
+98,10,1 1
+	Disminuci&#243;n de la Agudeza Visual de m&#225;s de 7 d&#237;as
+99,10,1 1
+	Disminuci&#243;n de la Agudeza Visual unilateral
+100,10,1 1
+	Disminuci&#243;n de la Agudeza Visual bilateral
+101,10,1 1
+	Disminuci&#243;n de la Agudeza Visual: Visi&#243;n borrosa
+102,10,1 1
+	Disminuci&#243;n de la Agudeza Visual: Visi&#243;n de bultos
+103,10,1 1
+	Disminuci&#243;n de la Agudeza Visual: Visi&#243;n de manchas
+104,10,1 1
+	Disminuci&#243;n de la Agudeza Visual: Visi&#243;n de halos luminosos
+105,10,1 1
+	Disminuci&#243;n de la Agudeza Visual: Visi&#243;n doble
+106,10,1 1
+	Disminuci&#243;n de la Agudeza Visual para visi&#243;n de lejos
+107,10,1 1
+	Disminuci&#243;n de la Agudeza Visual para visi&#243;n de cerca
+108,10,1 1
+	La Sensaci&#243;n de Cuerpo Extra&#241;o se intensifica con el parpadeo
+109,10,1 1
+	Comod&#237;n de Otros S&#237;ntomas Acompa&#241;antes
+110,10,1 1
+	Comod&#237;n de Antecedentes Personales de S&#237;ntomas Oftalmol&#243;gicos
+111,10,1 1
+	Comod&#237;n de Antecedentes Familiares de S&#237;ntomas Oftalmol&#243;gicos
+112,10,1 1
+	Comod&#237;n de enfermedades de la madre
+113,10,1 2
+	Comod&#237;n de Antecedentes Farmacol&#243;gicos de S&#237;ntomas
+	 Oftalmol&#243;gicos
+114,10,1 1
+	CMBD de Orzuelo
+115,10,1 1
+	Existen evidencias de Orzuelo
+116,10,1 1
+	Existen evidencias de Orzuelo Externo
+117,10,1 1
+	Existen evidencias de Orzuelo Interno
+118,10,1 1
+	CMBD de Episcleritis
+119,10,1 1
+	Existen evidencias de Episcleritis
+120,10,1 1
+	CMBD de Blefaritis
+121,10,1 1
+	Existen evidencias de Blefaritis
+122,10,1 1
+	CMBD de Dacriocistitis Aguda
+123,10,1 1
+	Existen evidencias de Dacriocistitis Aguda
+124,10,1 1
+	CMBD de Dacriocistitis Cr&#243;nica
+125,10,1 1
+	Existen evidencias de Dacriocistitis Cr&#243;nica
+126,10,1 1
+	CMBD de Glaucoma de Angulo Abierto
+127,10,1 1
+	Existen evidencias de Glaucoma de Angulo Abierto
+128,10,1 1
+	Existen evidencias de Glaucoma de Angulo Abierto Juvenil
+129,10,1 1
+	CMBD de Glaucoma de Angulo Estrecho
+130,10,1 1
+	Existen evidencias de Glaucoma de Angulo Estrecho
+131,10,1 1
+	Existen evidencias de Glaucoma de Angulo Estrecho Juvenil
+132,10,1 1
+	CMBD de Catarata
+133,10,1 1
+	Existen evidencias de Catarata
+134,10,1 1
+	CMBD de Queratitis
+135,10,1 1
+	Existen evidencias de Queratitis Bacteriana
+136,10,1 1
+	Existen evidencias de Queratitis Viral
+137,10,1 1
+	Existen evidencias de Queratitis Mic&#243;tica
+138,10,1 1
+	CMBD de Conjuntivitis Aguda
+139,10,1 1
+	Existen evidencias de Conjuntivitis Bacteriana Aguda
+140,10,1 1
+	Existen evidencias de Conjuntivitis Viral Aguda
+141,10,1 1
+	CMBD de Conjuntivitis Al&#233;rgica
+142,10,1 1
+	Existen evidencias de Conjuntivitis Al&#233;rgica
+143,10,1 1
+	CMBD de Conjuntivitis Cr&#243;nica
+144,10,1 1
+	Existen evidencias de Conjuntivitis Cr&#243;nica
+145,10,1 1
+	CMBD de Glaucomas Secundarios
+146,10,1 1
+	Existen evidencias de Glaucomas Secundarios
+147,10,1 1
+	CMBD de Calacio
+148,10,1 1
+	Existen evidencias de Calacio
+149,10,1 1
+	CMBD de Uve&#237;tis Anterior Aguda
+150,10,1 1
+	Existen evidencias de Uve&#237;tis Anterior Aguda
+151,10,1 1
+	CMBD de Uve&#237;tis Posterior
+152,10,1 1
+	Existen evidencias de Uve&#237;tis Posterior
+153,10,1 1
+	Comod&#237;n de S&#237;ntomas Acompa&#241;antes Oftalmol&#243;gicos
+154,10,1 1
+	Dolor Ocular m&#225;s manifiesto durante el d&#237;a
+155,10,1 1
+	Dolor Ocular m&#225;s manifiesto durante la noche
+156,10,1 1
+	Dolor Ocular m&#225;s manifiesto indiferente
+157,10,1 1
+	CMBD de Uve&#237;tis Anterior Cr&#243;nica
+158,10,1 1
+	Existen evidencias de Uve&#237;tis Anterior Cr&#243;nica

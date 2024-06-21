@@ -1,0 +1,58 @@
+<div class="d-flex flex-column gap-2" style="scroll-behavior: smooth;">
+    <section class="d-flex gap-5 my-3">
+        <div
+            class="border border-success-subtle border-opacity-25 rounded px-3 d-flex justify-content-center flex-column">
+            <h1>Secciones</h1>
+            <mat-list>
+                <mat-list-item *ngFor="let info of list">
+                    <a mat-button (click)="goToElement(info.id)" matListItemTitle>
+                        <mat-icon>link</mat-icon>
+                        {{ info.title }}</a>
+                </mat-list-item>
+            </mat-list>
+        </div>
+        <div
+            class="d-flex flex-column justify-content-evenly border border-success-subtle border-opacity-25 rounded px-3">
+            <h3 class="mb-3">Informar al administrador (Sugerencias o quejas)</h3>
+            <div>
+                <form>
+                    <mat-form-field class="w-100">
+                        <mat-label>Contenido</mat-label>
+                        <textarea matInput rows="6" placeholder="Escribe algo aquí" [(ngModel)]="content"
+                                  name="content"></textarea>
+                        <mat-hint [align]="'end'" class="d-flex align-items-center me-2">Puede extender campo por el
+                            ícono
+                            <mat-icon class="fs-6">arrow_upward</mat-icon>
+                        </mat-hint>
+                    </mat-form-field>
+                    <div class="d-flex gap-2">
+                        <button mat-raised-button [disabled]="load" class="m-1 bg-green" (click)="send()">Enviar
+                        </button>
+                        <mat-spinner *ngIf="load"
+                                     style="align-self: flex-end; width: 3%;height: 25px;--mdc-circular-progress-active-indicator-color: #006633!important;"></mat-spinner>
+                    </div>
+                </form>
+                <p class="mt-5 text-secondary">*Nota: Esta información llegará como notificación al admin o responsable
+                    del sistema</p>
+            </div>
+        </div>
+    </section>
+
+  <mat-tab-group #tabGroup>
+    <mat-tab label="Guía de pasos" >
+      <app-step-guide #stepGuide></app-step-guide>
+    </mat-tab>
+    <mat-tab label="Información de ayuda">
+      <ng-container *ngFor="let info of infoList">
+          <section class="my-3" #element [attr.id]="info.id">
+              <h1>{{ info.title }}</h1>
+              <p>{{ info.content }}</p>
+          </section>
+          <mat-divider></mat-divider>
+      </ng-container>
+    </mat-tab>
+
+  </mat-tab-group>
+
+
+</div>

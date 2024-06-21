@@ -1,0 +1,1361 @@
+cardi81
+3
+//  Objetivos
+	30 99 101 105 112 120 123 126 130 141 142 145 150 151 152 153 155 157 163 173 178 201 219 223 226 227 229 199 252 260 287 
+//  Conclusiones Finales
+//  Proposiciones que van al BKB
+	109 2 4 7 8 10 14 15 16 18 19 20 22 28 29 31 32 37 39 41 42 46 47 48 56 63 64 65 66 67 68 69 70 78 80 81 82 96 97 98 99 101 103 104 105 107 112 120 123 126 127 130 134 139 141 142 145 150 151 152 153 155 157 158 163 173 178 181 186 189 190 191 192 193 199 201 212 219 223 225 226 227 229 230 231 232 233 234 238 246 252 257 258 260 263 268 269 270 271 272 273 278 279 281 282 283 284 285 286 287 
+//  Variables que van al BKB
+//  Proposiciones que se eliminan del BKB
+//  Variables que se eliminan del BKB
+//  PROPOSICIONES
+	1 /* Las Palpitaciones se presentan: Cont&#237;nuas */
+		C & -1.0 1  27{1,1} [0.01 1.0]
+	2 /* Las Palpitaciones se presentan: Recurrentes */
+		C & -1.0 1  27{1,1} [0.01 1.0]
+	3 /* Las Palpitaciones se presentan: Como un &#34;vuelco&#34; */
+		C & -1.0 1  27{1,1} [0.01 1.0]
+	4 /* Las Palpitaciones duran: Minutos a horas */
+		C & -1.0 1  27{1,1} [0.01 1.0]
+	5 /* Las Palpitaciones duran: D&#237;as a meses */
+		C & -1.0 1  27{1,1} [0.01 1.0]
+	6 /* Las Palpitaciones tienen ritmo: Regular */
+		C & -1.0 1  27{1,1} [0.01 1.0]
+	7 /* Las Palpitaciones tienen ritmo: Irregular */
+		C & -1.0 1  27{1,1} [0.01 1.0]
+	8 /* Las Palpitaciones tienen relaci&#243;n con: Estados de ansiedad */
+		C & -1.0 1  27{1,1} [0.01 1.0]
+	9 /* Las Palpitaciones tienen relaci&#243;n con: Ingesta de f&#225;rmacos o t&#243;xi */
+		C & -1.0 1  27{1,1} [0.01 1.0]
+	10 /* Las Palpitaciones tienen relaci&#243;n con: Ejercicio */
+		C & -1.0 1  27{1,1} [0.01 1.0]
+	11 /* Causa desencadenante del Cambio de la Coloraci&#243;n en Extremidades Superiores */
+		C & -1.0 1  72 [0.01 1.0]
+	12 /* Causa desencadenante del Cambio de la Coloraci&#243;n en Extremidades Superiores */
+		C & -1.0 1  72 [0.01 1.0]
+	13 /* Causa desencadenante del Cambio de la Coloraci&#243;n en Extremidades Superiores */
+		C & -1.0 1  72 [0.01 1.0]
+	14 /* Mantiene en las Extremidades Superiores la misma coloraci&#243;n durante los epi */
+		C & -1.0 1  72 [0.01 1.0]
+	15 /* Var&#237;a la Coloraci&#243;n en las Extremidades Superiores de Palidez a Eritem */
+		C & -1.0 2  14 [-1.0 -0.01] 72 [0.001 1.0]
+	16 /* Las Palpitaciones tienen relaci&#243;n con la ingesta de hormona tiroidea */
+		C & -1.0 1  9 [0.01 1.0]
+	17 /* Es el primer episodio de S&#237;ncope */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	18 /* Situaci&#243;n en que se produjo el S&#237;ncope: Ninguna especial */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	19 /* Situaci&#243;n en que se produjo el S&#237;ncope: Cambio postural brusco */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	20 /* Situaci&#243;n en que se produjo el S&#237;ncope: Giro cef&#225;lico */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	21 /* Situaci&#243;n en que se produjo el S&#237;ncope: Elevaci&#243;n del brazo */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	22 /* Situaci&#243;n en que se produjo el S&#237;ncope: Micci&#243;n o defecaci&#243;n */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	23 /* Situaci&#243;n en que se produjo el S&#237;ncope: Ambiente cerrado, caluroso, co */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	24 /* Situaci&#243;n en que se produjo el S&#237;ncope: Crisis de ansiedad o stress ag */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	25 /* Situaci&#243;n en que se produjo el S&#237;ncope: Acceso de tos */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	26 /* Situaci&#243;n en que se produjo el S&#237;ncope: Con ingesta de f&#225;rmacos */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	27 /* Situaci&#243;n en que se produjo el S&#237;ncope: Hiperventilaci&#243;n */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	28 /* Situaci&#243;n en que se produjo el S&#237;ncope: Ortostatismo prolongado */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	29 /* Situaci&#243;n en que se produjo el S&#237;ncope: Dec&#250;bito */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	30 /* Situaci&#243;n en que se produjo el S&#237;ncope: Ayuno */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	31 /* Situaci&#243;n en que se produjo el S&#237;ncope: Ejercicio */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	32 /* Situaciones predisponentes del S&#237;ncope: Fiebre */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	33 /* Situaciones predisponentes del S&#237;ncope: Diarrea */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	34 /* Situaciones predisponentes del S&#237;ncope: Hambre o fatiga */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	35 /* Situaciones predisponentes del S&#237;ncope: Ingesta de f&#225;rmacos */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	36 /* Situaciones predisponentes del S&#237;ncope: Hemorragia */
+		C & -1.0 1  29{1,1} [0.01 1.0]
+	37 /* Desde c&#250;ando tiene Dolor en las Extremidades Inferiores: Menos de 48 horas */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	38 /* Desde c&#250;ando tiene Dolor en las Extremidades Inferiores: M&#225;s de 48 hor */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	39 /* D&#243;nde se localiza el Dolor de las Extremidades Inferiores: Muslo */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	40 /* D&#243;nde se localiza el Dolor de las Extremidades Inferiores: Pantorrilla */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	41 /* D&#243;nde se localiza el Dolor de las Extremidades Inferiores: Pie */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	42 /* Ha tenido antecedente traum&#225;tico previo reciente en las Extremidades Inferi */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	43 /* Antecedente traum&#225;tico previo reciente en las Extremidades Inferiores: Heri */
+		C & -1.0 1  42 [0.01 1.0]
+	44 /* Antecedente traum&#225;tico previo reciente en las Extremidades Inferiores: Cont */
+		C & -1.0 1  42 [0.01 1.0]
+	45 /* C&#243;mo es el Dolor en las Extremidades Inferiores: Fijo */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	46 /* C&#243;mo es el Dolor en las Extremidades Inferiores: Irradiado */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	47 /* C&#243;mo se desencadena el Dolor en las Extremidades Inferiores: Espont&#225;ne */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	48 /* C&#243;mo se desencadena el Dolor en las Extremidades Inferiores: Al inicio de l */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	49 /* C&#243;mo se desencadena el Dolor en las Extremidades Inferiores: Deambulaci&#24 */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	50 /* C&#243;mo se desencadena el Dolor en las Extremidades Inferiores: Con la elevaci */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	51 /* C&#243;mo se desencadena el Dolor en las Extremidades Inferiores: Con el fr&#237 */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	52 /* C&#243;mo se desencadena el Dolor en las Extremidades Inferiores: Con la bipedes */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	53 /* C&#243;mo se desencadena el Dolor en las Extremidades Inferiores: Con flexoexten */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	54 /* C&#243;mo se alivia el Dolor en las Extremidades Inferiores: Espont&#225;neament */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	55 /* C&#243;mo se alivia el Dolor en las Extremidades Inferiores: Con el reposo */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	56 /* C&#243;mo se alivia el Dolor en las Extremidades Inferiores: Con cese de la deam */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	57 /* C&#243;mo se alivia el Dolor en las Extremidades Inferiores: Descenso de la extr */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	58 /* C&#243;mo se alivia el Dolor en las Extremidades Inferiores: Elevaci&#243;n de l */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	59 /* El Edema de Extremidades Inferiores deja fovea */
+	60 /* Intermedio de 14{2,1} V 175{1,1} V 345{2,1} V 353{2,1} V 97{2,1} */
+	61 /* Desde cu&#225;ndo tiene el Edema de las Extremidades Inferiores: Menos de 48 hor */
+		C & -1.0 1  28{1,1} [0.01 1.0]
+	62 /* Desde cu&#225;ndo tiene el Edema de las Extremidades Inferiores: M&#225;s de 48  */
+		C & -1.0 1  28{1,1} [0.01 1.0]
+	63 /* D&#243;nde se localiza el Edema de las Extremidades Inferiores: Zonas de declive */
+		C & -1.0 1  28{1,1} [0.01 1.0]
+	64 /* D&#243;nde se localiza el Edema de las Extremidades Inferiores: Otras localizaci */
+		C & -1.0 1  28{1,1} [0.01 1.0]
+	65 /* Factor desencadenante del Edema de las Extremidades Inferiores: Bipedestaci&#243 */
+		C & -1.0 1  28{1,1} [0.01 1.0]
+	66 /* Factor desencadenante del Edema de las Extremidades Inferiores: Traumatismo prev */
+		C & -1.0 1  28{1,1} [0.01 1.0]
+	67 /* Factor desencadenante del Edema de las Extremidades Inferiores: Infecci&#243;n l */
+		C & -1.0 1  28{1,1} [0.01 1.0]
+	68 /* Factor desencadenante del Edema de las Extremidades Inferiores: Picaduras de ins */
+		C & -1.0 1  28{1,1} [0.01 1.0]
+	69 /* Factor desencadenante del Edema de las Extremidades Inferiores: Agente irritante */
+		C & -1.0 1  28{1,1} [0.01 1.0]
+	70 /* Factor desencadenante del Edema de las Extremidades Inferiores: F&#225;rmacos */
+		C & -1.0 1  28{1,1} [0.01 1.0]
+	71 /* CMBD de caso especial de Infarto Agudo del Miocardio */
+	72 /* En qu&#233; extremidades es la Alteraci&#243;n en Coloraci&#243;n: Superiores */
+		C & -1.0 1  79{1,1} [0.01 1.0]
+	73 /* En qu&#233; extremidades es la Alteraci&#243;n en Coloraci&#243;n: Inferiores */
+		C & -1.0 1  79{1,1} [0.01 1.0]
+	74 /* La Alteraci&#243;n de Coloraci&#243;n en las Extremidades Superiores es Unilater */
+		C & -1.0 1  72 [0.01 1.0]
+	75 /* La Alteraci&#243;n de Coloraci&#243;n en las Extremidades Superiores es Bilatera */
+		C & -1.0 1  72 [0.01 1.0]
+	76 /* La Alteraci&#243;n de Coloraci&#243;n en las Extremidades Inferiores es Unilater */
+		C & -1.0 1  73 [0.01 1.0]
+	77 /* La Alteraci&#243;n de Coloraci&#243;n en las Extremidades Inferiores es Bilatera */
+		C & -1.0 1  73 [0.01 1.0]
+	78 /* La Alteraci&#243;n de Coloraci&#243;n en las Extremidades Inferiores es en la Re */
+		C & -1.0 1  73 [0.01 1.0]
+	79 /* La Alteraci&#243;n de Coloraci&#243;n en las Extremidades Inferiores es en Regi& */
+		C & -1.0 1  73 [0.01 1.0]
+	80 /* Coloraci&#243;n de la Piel de las Extremidades Inferiores: Cianosis */
+		C & -1.0 1  73 [0.01 1.0]
+	81 /* Coloraci&#243;n de la Piel de las Extremidades Inferiores: Palidez */
+		C & -1.0 1  73 [0.01 1.0]
+	82 /* Coloraci&#243;n de la Piel de las Extremidades Inferiores: Eritema */
+		C & -1.0 1  73 [0.01 1.0]
+	83 /* La Piel de las Extremidades Inferiores es necr&#243;tica */
+		C & -1.0 1  79{1,1} [0.01 1.0]
+	84 /* Mantiene en las Extremidades Inferiores la misma Coloraci&#243;n durante los epi */
+		C & -1.0 1  73 [0.01 1.0]
+	85 /* Var&#237;a la Coloraci&#243;n en las Extremidades Inferiores de Palidez a Eritem */
+		C & -1.0 2  73 [0.01 1.0] 84 [-1.0 -0.01]
+	86 /* Var&#237;a la Coloraci&#243;n en las Extremidades Inferiores de Palidez a Necros */
+		C & -1.0 2  73 [0.01 1.0] 84 [-1.0 -0.01]
+	87 /* Var&#237;a la Coloraci&#243;n en las Extremidades Inferiores de Palidez a Cianos */
+		C & -1.0 2  73 [0.01 1.0] 84 [-1.0 -0.01]
+	88 /* Causa desencadenante del Cambio de Coloraci&#243;n en Extremidades Inferiores: F */
+		C & -1.0 1  73 [0.01 1.0]
+	89 /* Causa desencadenante del Cambio de Coloraci&#243;n en Extremidades Inferiores: C */
+		C & -1.0 1  73 [0.01 1.0]
+	90 /* Causa desencadenante del Cambio de Coloraci&#243;n en Extremidades Inferiores: E */
+		C & -1.0 1  73 [0.01 1.0]
+	91 /* CMBD 2 para Fen&#243;meno de Raynaud */
+	92 /* Comod&#237;n para Ingesta de f&#225;rmacos previa */
+		V 24 U
+	93 /* La Piel de las Extremidades Superiores es Necr&#243;tica */
+		C & -1.0 1  72{1,1} [0.01 1.0]
+	94 /* El paciente refiere tener Hiperemia */
+	95 /* El paciente refiere Signos Inflamatorios Locales Venosos en Extremidades Inferio */
+		C & -1.0 1  193 [0.01 1.0]
+	96 /* El paciente refiere tener Ulceras en los Dedos de los Pies */
+		C & -1.0 1  189 [0.01 1.0]
+	97 /* El paciente refiere tener Raynaud en Extremidades Inferiores */
+	98 /* El paciente tiene Hiperestesia en Extremidades Inferiores */
+	99 /* Existen evidencias de Tromboangeitis Obliterante */
+	100 /* CMBD de Tromboangeitis Obliterante */
+	101 /* Existen evidencias de Tromboflebitis Superficial */
+	102 /* CMBD de Tromboflebitis Superficial */
+	103 /* Comod&#237;n de la variable 29 */
+		V 29 U
+	104 /* El paciente tiene V&#225;rices en las Extremidades Inferiores */
+	105 /* Existen evidencias de Trombosis Venosa Profunda */
+	106 /* CMBD de Trombosis Venosa Profunda (Dolor) */
+	107 /* Coloraci&#243;n de la Piel de las Extremidades Inferiores: Mel&#225;nica */
+		C & -1.0 1  73 [0.01 1.0]
+	108 /* Intermedio de 49 &#38; (55 V 56) */
+	109 /* Intermedio de 95 V 26{1,1} */
+	110 /* CMBD de Trombosis Venosa Profunda (Edema) */
+	111 /* Intermedio de 41{1,1} V 9{2,1} V 103{2,1} V 13{2,1} V 14{2,1} V 175{1,1} V 359{2 */
+	112 /* Existen evidencias de Arritmia Card&#237;aca */
+	113 /* El paciente refiere tener S&#237;ncope Brusco sin m&#225;s S&#237;ntomas Acompa& */
+	114 /* El paciente refiere tener Sensaci&#243;n de &#34;Vuelco&#34; en T&#243;rax */
+	115 /* El paciente refiere tener Aura Previa */
+	116 /* Intermedio de 82 V 95 V 96 */
+	117 /* El Edema en las Extremidades Inferiores disminuye con la elevaci&#243;n del miem */
+		C & -1.0 1  28{1,1} [0.01 1.0]
+	118 /* El paciente refiere tener Sensaci&#243;n de Hambre y Sudoraci&#243;n */
+	119 /* El paciente refiere tener Disnea Parox&#237;stica Nocturna */
+	120 /* Existen evidencias de Edema Agudo de Pulm&#243;n */
+	121 /* CMBD de Edema Agudo de Pulm&#243;n */
+	122 /* Intermedio de 356{2,1} V 357{2,1} V 358{2,1} */
+	123 /* Existen evidencias de Insuficiencia Card&#237;aca */
+	124 /* CMBD 1 de Insuficiencia Card&#237;aca */
+	125 /* Intermedio de 36{5,1} V 31{5,1} */
+	126 /* Existen evidencias de Pericarditis Aguda */
+	127 /* CMBD de Pericarditis Aguda */
+	128 /* Intermedio de 88{5,1} V 91{5,1} */
+	129 /* Intermedio de 41{1,1} V 40{1,1} */
+	130 /* Existen evidencias de Pericarditis Constrictiva */
+	131 /* CMBD de Pericarditis Constrictiva (Disnea) */
+	132 /* El paciente presenta Aura Previa, Convulsiones, Relajaci&#243;n de Esf&#237;nter */
+	133 /* Intermedio de 101{2,1} V 20{2,1} V 13{2,1} V 103{2,1} */
+	134 /* El paciente refiere tener Ulceras en el Pie */
+		C & -1.0 1  189 [0.01 1.0]
+	135 /* El paciente refiere tener Ulceras en la Pierna */
+		C & -1.0 1  189 [0.01 1.0]
+	136 /* CMBD de caso especial de Angina de Pecho (Angor) */
+	137 /* CMBD 2 de Insuficiencia Card&#237;aca con Edema */
+	138 /* El paciente presenta Dolor Far&#237;ngeo, Mareo y Bradicardia */
+	139 /* El paciente presenta Frialdad en Extremidades, Entumecimiento, Parestesias gener */
+	140 /* El paciente refiere Signos Inflamatorios Locales no vasculares en Extremidades i */
+		C & -1.0 1  193 [0.01 1.0]
+	141 /* Existen evidencias de Isquemia Aguda de Extremidades Inferiores */
+	142 /* Existen evidencias de Isquemia Cr&#243;nica de Extremidades Inferio- res grado I */
+	143 /* CMBD de Claudicaci&#243;n Intermitente en Extremidades Inferiores */
+	144 /* Intermedio de 55 V 56 */
+	145 /* Existen evidencias de Isquemia Cr&#243;nica de Extremidades Inferiores grado III */
+	146 /* CMBD de Isquemia Cr&#243;nica de Extremidades Inferiores */
+	147 /* Intermedio de S&#237;ncope Brusco sin mas S&#237;ntomas Acompa&#241;antes */
+	148 /* Intermedio de 186 V 190 V 80 */
+	149 /* Intermedio de 1{2,1} V 97{2,1} */
+	150 /* Existen evidencias de Lipotimia. Hipotensi&#243;n Ortost&#225;tica */
+	151 /* Existen evidencias de Lipotimia de Probable Origen Emocional */
+	152 /* Existen evidencias de S&#237;ncope Miccional */
+	153 /* Existen evidencias de S&#237;ncope Tus&#237;geno */
+	154 /* Intermedio de 19 V 23 V 28 */
+	155 /* Existen evidencias de Linfedema */
+	156 /* CMBD de Linfedema */
+	157 /* Existen evidencias de Angina de Pecho (Angor) */
+	158 /* CMBD de Angor */
+	159 /* Intermedio de 1{2,1} V 14{2,1} V 175{2,1} V 345{2,1} V 353{2,1} V 97{2,1} */
+	160 /* Intermedio de 355{2,1} V 356{2,1} */
+	161 /* Intermedio de 87{5,1} V 240{5,1} */
+	162 /* Intermedio caso especial de Angina de Pecho (Angor) */
+	163 /* Existen evidencias de Infarto Agudo del Miocardio */
+	164 /* CMBD de Infarto Agudo del Miocardio */
+	165 /* Intermedio caso especial de Infarto Agudo del Miocardio */
+	166 /* CMBD #2 de Angina de Pecho (Angor) */
+	167 /* CMBD #3 de Angina de Pecho (Angor) */
+	168 /* Intermedio de (166 y 167) &#38; 87{5,1} */
+	169 /* CMBD #2 de Infarto Agudo del Miocardio */
+	170 /* CMBD #3 de Infarto Agudo del Miocardio */
+	171 /* Intermedio de 169 y 170 */
+	172 /* C&#243;mo es la Alteraci&#243;n de la Coloraci&#243;n en las Extremidades Superi */
+		C & -1.0 1  72 [0.01 1.0]
+	173 /* Existen evidencias de Insuficiencia Venosa Perif&#233;rica */
+	174 /* CMBD de Insuficiencia Venosa Perif&#233;rica con Dolor en Extremidades Inferiore */
+	175 /* CMBD de Insuficiencia Venosa Perif&#233;rica con Edema en Extremidades Inferiore */
+	176 /* Intermedio 134 V 135 */
+	177 /* Intermedio 65 V 117 */
+	178 /* Existen evidencias de S&#237;ndrome de Robo de la Subclavia */
+	179 /* C&#243;mo es la Alteraci&#243;n de la Coloraci&#243;n en las Extremidades Superi */
+		C & -1.0 1  72 [0.01 1.0]
+	180 /* El tiempo de duraci&#243;n del Dolor Tor&#225;cico est&#225; entre 30 minutos y  */
+		C & -1.0 1  237{5,1} [0.001 1.0]
+	181 /* El paciente presenta P&#233;rdida de Fuerza en un hemicuerpo */
+	182 /* Intermedio de 1 V 2 V 3 */
+	183 /* Intermedio de 25{1,1} V 22{1,1} V 29{1,1} V 113{1,1} */
+	184 /* El paciente presenta Dolor Far&#237;ngeo */
+	185 /* El paciente presenta Bradicardia */
+	186 /* El paciente presenta Frialdad en Extremidades Inferiores */
+	187 /* CMBD de Eritromelalgia */
+	188 /* Intermedio de 25{1,1} V 27{1,1} V 114 */
+	189 /* El paciente presenta Ulceras en las Extremidades Inferiores */
+	190 /* El paciente presenta Hipoestesia o Anestesia en Extremidades Inferiores */
+	191 /* El paciente presenta P&#233;rdida de Fuerza en Extremidades Inferiores */
+	192 /* D&#243;nde se localiza el Dolor de las Extremidades Inferiores: Pierna */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	193 /* El paciente presenta Signos Inflamatorios Locales en Extremidades Inferiores */
+	194 /* El paciente presenta Prurito en Extremidades */
+	195 /* El paciente presenta Calor Local en Extremidades */
+	196 /* Comod&#237;n de la variable 28 */
+		V 28 U
+	197 /* Comod&#237;n de la variable 15 */
+		V 15 U
+	198 /* Comod&#237;n de la variable 14 */
+		V 14 U
+	199 /* Existen evidencias de Eritromelalgia */
+	200 /* Comod&#237;n de la variable 16 */
+		V 16 U
+	201 /* Existen evidencias de Linfangitis */
+	202 /* Intermedio de 68{5,1} V 70{5,1} */
+	203 /* Intermedio de 20{5,1} V 21{5,1} */
+	204 /* Intermedio de 21{1,1} &#38; (10{5,1} V 15{5,1}) */
+	205 /* Intermedio de 357{2,1} V 358{2,1} */
+	206 /* Intermedio de 356{2,1} V 357{2,1} V 358{2,1} */
+	207 /* Intermedio de 22{1,1} V 28{1,1} */
+	208 /* CMBD de Eritema Pernio */
+	209 /* Intermedio de 32 V 33 */
+	210 /* Intermedio de 13{9,1} V 12{9,1} */
+	211 /* Intermedio de 78{5,1} V 161 V 45{1,1} */
+	212 /* Forma de comienzo del Dolor en las Extremidades Inferiores: Lenta (Meses-a&#241; */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	213 /* Intermedio de 113 V 181 */
+	214 /* Intermedio de 39 V 40 V 41 */
+	215 /* CMBD de Dolor Extremidades Superiores para Isquemia Aguda de Extremidades Superi */
+	216 /* El paciente presenta Dolor en Extremidades */
+	217 /* El paciente presenta Sudoraci&#243;n en Extremidades */
+		C & -1.0 1  43{1,1} [0.01 1.0]
+	218 /* D&#243;nde se localiza el Dolor de las Extremidades Superiores: Brazo */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	219 /* Existen evidencias del Fen&#243;meno de Raynaud */
+	220 /* CMBD del Fen&#243;meno de Raynaud */
+	221 /* Intermedio de 216 V 194 */
+	222 /* Intermedio de 81 V 268 V 85 V 15 V 87 V 277 */
+	223 /* Existen evidencias de Acrocian&#243;sis */
+	224 /* CMBD de Acrocian&#243;sis */
+	225 /* Existe evidencias de Aneurisma Disecante de Aorta Tor&#225;cica */
+	226 /* Existen evidencias de L&#237;vedo-Reticularis */
+	227 /* Existen evidencias de Vasoespasmo Secundario a Ingesta Farmacol&#243;gica */
+	228 /* CMBD de Vasoespasmo Secundario a Ingesta Farmacol&#243;gica */
+	229 /* Existen evidencias de Eritema Pernio */
+	230 /* D&#243;nde se localiza el Dolor de las Extremidades Superiores: Antebrazo */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	231 /* D&#243;nde se localiza el Dolor de las Extremidades Superiores: Mano */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	232 /* Desde c&#250;ando tiene Dolor en las Extremidades Superiores: Menos de 48 horas */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	233 /* Desde c&#250;ando tiene Dolor en las Extremidades Superiores: M&#225;s de 48 hor */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	234 /* Ha tenido antecedente traum&#225;tico previo reciente en las Extremidades Superi */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	235 /* Antecedente traum&#225;tico previo reciente en las Extremidades Superiores: Heri */
+		C & -1.0 1  234 [0.01 1.0]
+	236 /* Antecedente traum&#225;tico previo reciente en las Extremidades Superiores: Cont */
+		C & -1.0 1  234 [0.01 1.0]
+	237 /* C&#243;mo es el Dolor en las Extremidades Superiores: Fijo */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	238 /* C&#243;mo es el Dolor en las Extremidades Superiores: Irradiado */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	239 /* C&#243;mo se desencadena el Dolor en las Extremidades Superiores: Espont&#225;ne */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	240 /* C&#243;mo se desencadena el Dolor en las Extremidades Superiores: Con la elevaci */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	241 /* C&#243;mo se desencadena el Dolor en las Extremidades Superiores: Con el frio */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	242 /* C&#243;mo se alivia el Dolor en las Extremidades Superiores: Espont&#225;neament */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	243 /* C&#243;mo se alivia el Dolor en las Extremidades Superiores: Con el reposo */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	244 /* C&#243;mo se alivia el Dolor en las Extremidades Superiores: Descenso de la extr */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	245 /* C&#243;mo se alivia el Dolor en las Extremidades Superiores: Elevaci&#243;n de l */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	246 /* El paciente refiere tener Ulceras en Extremidades Superiores */
+	247 /* El paciente refiere tener Ulceras en los Dedos de la Mano */
+		C & -1.0 1  246 [0.01 1.0]
+	248 /* El paciente refiere tener Ulceras en la Mano */
+		C & -1.0 1  246 [0.01 1.0]
+	249 /* El paciente refiere tener Ulceras en el Brazo */
+		C & -1.0 1  246 [0.01 1.0]
+	250 /* Comod&#237;n de la variable 38 */
+		V 38 U
+	251 /* CMBD de Dolor Extremidades Superiores para Fenomeno de Reynaud */
+	252 /* Existen evidencias de Isquemia Aguda de Extremidades Superiores */
+	253 /* CMBD de Pericarditis Constrictiva por S&#237;ncope */
+	254 /* CMBD de Pericarditis Constrictiva por Edema en Extremidades Inferiores */
+	255 /* Hint de Pericarditis Constrictiva */
+	256 /* El Dolor de Extremidades Superiores es Unilateral */
+	257 /* Las Palpitaciones tienen relaci&#243;n con: El reposo */
+		C & -1.0 1  27{1,1} [0.01 1.0]
+	258 /* Las Palpitaciones se presentan: Epis&#243;dicas */
+		C & -1.0 1  27{1,1} [0.01 1.0]
+	259 /* CMBD de Tromboflebitis Superficial (Dolor Extremidades Superiores) */
+	260 /* Existen evidencias de S&#237;ndrome Postfleb&#237;ticos */
+	261 /* CMBD de  S&#237;ndrome Postfleb&#237;ticos (Edema en Extremidades Inferiores) */
+	262 /* CMBD de Aneurisma Disecante de Aorta Tor&#225;cica (Dolor Tor&#225;xico) */
+	263 /* Forma de comienzo del Dolor en las Extremidades Inferiores: Aguda (horas-d&#237; */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	264 /* El Edema en las Extremidades Inferiores apareci&#243; R&#225;pidamente */
+		C & -1.0 1  28{1,1} [0.01 1.0]
+	265 /* El Edema en las Extremidades Inferiores apareci&#243; Gradualmente */
+		C & -1.0 1  28{1,1} [0.01 1.0]
+	266 /* Factores desencadenantes del Edema en Extremidades Inferiores: Ciclos menstruale */
+		C & -1.0 2  6{1,1} [0.01 1.0] 28{1,1} [0.01 1.0]
+	267 /* Factores desencadenantes del Edema en Extremidades Inferiores: Elevada temperatu */
+		C & -1.0 1  28{1,1} [0.01 1.0]
+	268 /* Coloraci&#243;n de la Piel de las Extremidades Superiores: Palidez */
+		C & -1.0 1  72 [0.01 1.0]
+	269 /* Coloraci&#243;n de la Piel de las Extremidades Superiores: Cianosis */
+		C & -1.0 1  72 [0.01 1.0]
+	270 /* Coloraci&#243;n de la Piel de las Extremidades Superiores: Eritema */
+		C & -1.0 1  72{1,1} [0.01 1.0]
+	271 /* El paciente presenta Signos Inflamatorios Locales en las Extremidades Superiores */
+	272 /* El paciente presenta Frialdad en Extremidades Superiores */
+	273 /* El paciente presenta Hipoestesia o Anestesia en Extremidades Superiores */
+	274 /* El paciente tiene Signos Inflamatorios Locales venosos en Extremidades Superiore */
+		C & -1.0 1  271 [0.01 1.0]
+	275 /* Comod&#237;n de la variable 42 */
+		V 5 U
+	276 /* Comod&#237;n de la variable 21 */
+		V 21 U
+	277 /* Var&#237;a la coloraci&#243;n en las Extremidades Inferiores: Palidez a Cianosis */
+		C & -1.0 2  14 [-1.0 -0.01] 72 [0.01 1.0]
+	278 /* C&#243;mo se desencadena el Dolor en las Extremidades Inferiores: Con exacerbaci */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	279 /* C&#243;mo se alivia el Dolor en las Extremidades Inferiores: Con Colchisina */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	280 /* Forma de comienzo del Dolor en las Extremidades Superiores: Lenta (meses - a&#24 */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	281 /* Forma de comienzo del Dolor en las Extremidades Superiores: Aguda (horas - d&#23 */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	282 /* C&#243;mo se desencadena el Dolor en las Extremidades Superiores: Con la presi&# */
+		C & -1.0 1  174{1,1} [0.01 1.0]
+	283 /* D&#243;nde se localiza el Dolor de las Extremidades Inferiores: En toda la extre */
+		C & -1.0 1  78{1,1} [0.01 1.0]
+	284 /* El paciente presenta Entumecimiento, Hormigueo o Calambres en Extremidades Super */
+	285 /* El paciente presenta Frialdad en Extremidades Superiores */
+	286 /* El paciente presenta Entumecimiento, Hormigueo o Calambres en Extremidades Infer */
+	287 /* Existen evidencias de Hipertemsi&#243;n Arterial */
+	288 /* CMBD1 de Hipertensi&#243;n Arterial */
+	289 /* CMBD2 de Hipertensi&#243;n Arterial */
+		F 1 U
+	290 /* Se cumple UN Antecedente Patol&#243;gico Personal que apunta a Hipertensi&#243;n */
+		F 2 U
+	291 /* Se cumplen DOS Antecedentes Patol&#243;gicos Personales que apuntan a Hipertensi */
+		F 3 U
+	292 /* Se cumplen TRES O MAS Antecedentes Patol&#243;gicos Personales que apuntan a Hip */
+		F 4 U
+	293 /* Intermedio de Antecedentes Patol&#243;gicos Personales para Insuficiencia Card&# */
+	294 /* CMBD 2 de Insuficiencia Card&#237;aca */
+	295 /* CMBD 5 de Insuficiencia Card&#237;aca */
+	296 /* Hint de Insuficiencia Card&#237;aca */
+	297 /* Algoritmo para Infarto Agudo del Miocardio y Angina de Pecho (Angor) */
+//  REGLAS
+	31{1,1} V 101{1,1} V 162{1,1} V 163{1,1} V 302{1,1} V 82{1,1} V 39{1,1} V 113{1,1} V 29{1,1} V 27{1,1}  => 287 0.001;
+	31{1,1}  => 288 1.0;
+	288  => 287 0.4;
+	289  => 287 0.4;
+	94{11,1}  => 287 0.05;
+		C V 0.0 2  288 [0.001 1.0] 289 [0.001 1.0]
+	451{11,1}  => 287 0.05;
+		C V 0.0 2  288 [0.001 1.0] 289 [0.001 1.0]
+	107{11,1} V 108{11,1} V 109{11,1}  => 287 0.1;
+		C V 0.0 2  288 [0.001 1.0] 289 [0.001 1.0]
+	121{11,1}  => 287 0.05;
+		C V 0.0 2  288 [0.001 1.0] 289 [0.001 1.0]
+	29{1,1} V 155{1,1} V 185{1,1} V 114{1,1} V 255{1,1} V 30{1,1} V 157{1,1} V 33{1,1} V 113{1,1} V 246{1,1}  => 287 0.1;
+		C V 0.0 2  288 [0.001 1.0] 289 [0.001 1.0]
+	345{2,1}  => 287 0.2;
+		C V 0.0 2  288 [0.001 1.0] 289 [0.001 1.0]
+	352{2,1} V 947{2,1}  => 287 0.1;
+		C V 0.0 2  288 [0.001 1.0] 289 [0.001 1.0]
+	206{1,1}  => 287 0.1;
+		C V 0.0 2  288 [0.001 1.0] 289 [0.001 1.0]
+	543{2,1}  => 287 0.05;
+		C V 0.0 2  288 [0.001 1.0] 289 [0.001 1.0]
+	290  => 287 0.1;
+		C V 0.0 2  288 [0.001 1.0] 289 [0.001 1.0]
+	291  => 287 0.15;
+		C V 0.0 2  288 [0.001 1.0] 289 [0.001 1.0]
+	292  => 287 0.15;
+		C V 0.0 2  288 [0.001 1.0] 289 [0.001 1.0]
+	1{2,1} V 2{2,1} V 693{2,1}  => 287 0.1;
+		C V 0.0 2  288 [0.001 1.0] 289 [0.001 1.0]
+	933{2,1}  => 287 0.1;
+		C V 0.0 2  288 [0.001 1.0] 289 [0.001 1.0]
+	779{2,1}  => 287 0.1;
+		C V 0.0 2  288 [0.001 1.0] 289 [0.001 1.0]
+	51{2,1} V 696{2,1} V 377{2,1} V 510{2,1} V 64{2,1} V 686{2,1} V 483{2,1} V 73{2,1} V 948{2,1}  => 287 0.1;
+		C V 0.0 2  288 [0.001 1.0] 289 [0.001 1.0]
+	1{9,1} & 28{1,1}  => 61 1.0;
+	-1{9,1} & 28{1,1}  => 61 -1.0;
+	(2{9,1} V 3{9,1} )& 28{1,1}  => 62 1.0;
+	(-2{9,1} & -3{9,1} )& 28{1,1}  => 62 -1.0;
+	27{9,1} & 28{1,1}  => 59 1.0;
+	-27{9,1} & 28{1,1}  => 59 -1.0;
+	78{1,1} V 174{1,1}  => 216 1.0;
+	115 V 33{1,1} V 251{1,1}  => 132 1.0;
+	-115 & -33{1,1} & -251{1,1}  => 132 -1.0;
+	184 & 113{1,1} & 185  => 138 1.0;
+	-184 V -113{1,1} V -185  => 138 -1.0;
+	186 V 284 V 285 V 286 V 253{11,1}  => 139 1.0;
+	-186 & -284 & -285 & -286 & -253{11,1}  => 139 -1.0;
+	40{1,1} V 78{1,1}  => 99 0.001;
+	78{1,1} & 242{1,1} & -6{1,1} & 1{2,1} & 41  => 100 1.0;
+	-78{1,1} V -242{1,1} V 6{1,1} V -1{2,1} V -41  => 100 -1.0;
+	49 & (55 V 56 ) => 108 1.0;
+	-49 V (-55 & -56 ) => 108 -1.0;
+	95 V 26{1,1}  => 109 1.0;
+	-95 & -26{1,1}  => 109 -1.0;
+	82 V 95 V 96  => 116 1.0;
+	-82 & -95 & -96  => 116 -1.0;
+	100  => 99 0.4;
+	106{14,1}  => 99 0.4;
+	108  => 99 0.1;
+		C V 0.0 2  100 [0.001 1.0] 106{14,1} [0.001 1.0]
+	82  => 99 0.1;
+		C V 0.0 2  100 [0.001 1.0] 106{14,1} [0.001 1.0]
+	109  => 99 0.15;
+		C V 0.0 2  100 [0.001 1.0] 106{14,1} [0.001 1.0]
+	96  => 99 0.15;
+		C V 0.0 2  100 [0.001 1.0] 106{14,1} [0.001 1.0]
+	97  => 99 0.15;
+		C V 0.0 2  100 [0.001 1.0] 106{14,1} [0.001 1.0]
+	95  => 99 0.1;
+		C V 0.0 2  100 [0.001 1.0] 106{14,1} [0.001 1.0]
+	49  => 99 0.1;
+		C V 0.0 2  100 [0.001 1.0] 106{14,1} [0.001 1.0]
+	78{1,1} & 242{1,1} & -6{1,1} & 1{2,1} & 40 & (108 V 116 ) => 99 0.5;
+	237{2,1}  => 99 0.001;
+		C V 0.0 2  100 [0.001 1.0] 106{14,1} [0.001 1.0]
+	78{1,1} V 174{1,1}  => 101 0.001;
+	81  => 101 -1.0;
+		C & 0.0 1  102 [0.8 1.0]
+	78{1,1} & 95 & (39 V 40 V 41 ) => 102 1.0;
+	-78{1,1} V -95 V (-39 & -40 & -41 ) => 102 -1.0;
+	102  => 101 0.4;
+	102 & 45  => 101 0.45;
+	102 & 98  => 101 0.45;
+	102 & 104  => 101 0.6;
+	102 & 359{2,1}  => 101 0.55;
+	102 & 45 & 98  => 101 0.5;
+	102 & 45 & 104  => 101 0.65;
+	102 & 45 & 359{2,1}  => 101 0.6;
+	102 & 45 & 98 & 104  => 101 0.7;
+	102 & 45 & 98 & 359{2,1}  => 101 0.7;
+	102 & 45 & 98 & 104 & 359{2,1}  => 101 0.75;
+	174{1,1} & 237 & 274  => 259 1.0;
+	259  => 101 0.4;
+	259 & 242  => 101 0.5;
+	259 & 61{2,1}  => 101 0.45;
+	259 & 61{2,1} & 242  => 101 0.55;
+	171{1,1} & 271 & 274  => 101 0.75;
+	171{1,1} & 271 & 274 & 242  => 101 0.8;
+	78{1,1} V 28{1,1}  => 105 0.001;
+	78{1,1} & (39 V 40 )& (14{2,1} V 175{1,1} V 9{2,1} V 103{2,1} V 13{2,1} V 359{2,1} V 19{2,1} ) => 106 1.0;
+	-78{1,1} V (-39 & -40 )V (-14{2,1} & -175{1,1} & -9{2,1} & -103{2,1} & -13{2,1} & -359{2,1} & -19{2,1} ) => 106 -1.0;
+	106  => 105 0.3;
+	106 & 41{1,1}  => 105 0.45;
+	106 & 13{9,1}  => 105 0.5;
+	106 & 80  => 105 0.6;
+	106 & 20{5,1}  => 105 0.65;
+	106 & 41{1,1} & 13{9,1}  => 105 0.55;
+	106 & 41{1,1} & 80  => 105 0.65;
+	106 & 41{1,1} & 20{5,1}  => 105 0.7;
+	106 & 13{9,1} & 80  => 105 0.7;
+	106 & 13{9,1} & 20{5,1}  => 105 0.75;
+	106 & 80 & 20{5,1}  => 105 0.8;
+	106 & 41{1,1} & 13{9,1} & 80  => 105 0.75;
+	106 & 41{1,1} & 13{9,1} & 20{5,1}  => 105 0.8;
+	106 & 13{9,1} & 80 & 20{5,1}  => 105 0.9;
+	106 & 41{1,1} & 13{9,1} & 80 & 20{5,1}  => 105 0.95;
+	28{1,1} & 13{9,1} & (63 V 64 ) => 110 1.0;
+	-28{1,1} V -13{9,1} V (-63 & -64 ) => 110 -1.0;
+	41{1,1} V 9{2,1} V 103{2,1} V 13{2,1} V 14{2,1} V 175{1,1} V 359{2,1} V 19{2,1}  => 111 1.0;
+	-41{1,1} & -9{2,1} & -103{2,1} & -13{2,1} & -14{2,1} & -175{1,1} & -359{2,1} & -19{2,1}  => 111 -1.0;
+	110  => 105 0.4;
+	110 & 111  => 105 0.6;
+	110 & -117  => 105 0.45;
+	110 & 80  => 105 0.6;
+	110 & 20{5,1}  => 105 0.6;
+	110 & 111 & -117  => 105 0.65;
+	110 & 111 & 80  => 105 0.7;
+	110 & 111 & 20{5,1}  => 105 0.7;
+	110 & 80 & 20{5,1}  => 105 0.65;
+	110 & 111 & -117 & 80  => 105 0.75;
+	110 & -117 & 80 & 20{5,1}  => 105 0.7;
+	110 & 111 & -117 & 80 & 20{5,1}  => 105 0.8;
+	11{2,1}  => 105 -0.2;
+		C V 0.0 2  106 [0.8 1.0] 110 [0.8 1.0]
+	67  => 105 -0.2;
+		C & 0.0 1  110 [0.8 1.0]
+	68  => 105 -0.4;
+		C & 0.0 1  110 [0.8 1.0]
+	69  => 105 -0.4;
+		C & 0.0 1  110 [0.8 1.0]
+	14{2,1} V 175{1,1}  => 105 0.1;
+		C & 0.0 1  106 [0.8 1.0]
+	27{1,1} V 25{1,1} V 29{1,1} V 22{1,1}  => 112 0.001;
+	19 V 20 V 21 V 22 V 25 V 23 V 27 V 132 V 118  => 112 -0.4;
+		C & 0.0 1  29{1,1} [0.01 1.0]
+	64{5,1} V 67{5,1} V 82{5,1} V 83{5,1} V 84{5,1} V 85{5,1} V 86{5,1} V 89{5,1}  => 112 -0.3;
+		C & 0.0 1  25{1,1} [0.01 1.0]
+	18{5,1} V 29{5,1} V 30{5,1} V 32{5,1}  => 112 -0.4;
+		C & 0.0 1  22{1,1} [0.01 1.0]
+	1 V 2 V 3  => 182 1.0;
+	-1 & -2 & -3  => 182 -1.0;
+	25{1,1} V 22{1,1} V 29{1,1} V 113{1,1}  => 183 1.0;
+	-25{1,1} & -22{1,1} & -29{1,1} & -113{1,1}  => 183 -1.0;
+	183  => 112 0.1;
+	8  => 112 -0.2;
+	9  => 112 0.1;
+	10  => 112 -0.1;
+	27{1,1} & 182  => 112 0.4;
+	29{1,1} & -25{1,1} & -27{1,1} & -114 & -31{1,1} & -132 & -118 & -181 & -186 & -272 & -253{11,1} & -184 & -113{1,1} & -185 & -22{1,1}  => 113 1.0;
+	-29{1,1} V 25{1,1} V 27{1,1} V 114 V 31{1,1} V 132 V 118 V 181 V 186 V 272 V 253{11,1} V 184 V 113{1,1} V 185 V 22{1,1}  => 113 -1.0;
+	113  => 112 0.4;
+	25{1,1} V 27{1,1} V 114  => 188 1.0;
+	-25{1,1} & -27{1,1} & -114  => 188 -1.0;
+	29{1,1} & 188  => 112 0.4;
+	68{5,1} V 70{5,1}  => 202 1.0;
+	-68{5,1} & -70{5,1}  => 202 -1.0;
+	25{1,1} & 65{5,1} & 202 & 27{1,1}  => 112 0.4;
+	20{5,1} V 21{5,1}  => 203 1.0;
+	-20{5,1} & -21{5,1}  => 203 -1.0;
+	22{1,1} & 16{5,1} & 203 & 27{1,1}  => 112 0.4;
+	22{1,1} V 45{1,1} V 24{1,1}  => 120 0.001;
+	22{1,1} & 16{5,1} & 20{5,1}  => 121 1.0;
+	-22{1,1} V -16{5,1} V -20{5,1}  => 121 -1.0;
+	356{2,1} V 357{2,1} V 358{2,1}  => 122 1.0;
+	-356{2,1} & -357{2,1} & -358{2,1}  => 122 -1.0;
+	121  => 120 0.4;
+	121 & 24{1,1}  => 120 0.45;
+	121 & 45{1,1}  => 120 0.55;
+	121 & 345{2,1}  => 120 0.5;
+	121 & 122  => 120 0.6;
+	121 & 24{1,1} & 45{1,1}  => 120 0.65;
+	121 & 24{1,1} & 345{2,1}  => 120 0.55;
+	121 & 24{1,1} & 122  => 120 0.65;
+	121 & 45{1,1} & 345{2,1}  => 120 0.7;
+	121 & 45{1,1} & 122  => 120 0.75;
+	121 & 345{2,1} & 122  => 120 0.75;
+	121 & 24{1,1} & 45{1,1} & 345{2,1}  => 120 0.8;
+	121 & 24{1,1} & 45{1,1} & 122  => 120 0.85;
+	121 & 45{1,1} & 345{2,1} & 122  => 120 0.9;
+	121 & 24{1,1} & 45{1,1} & 345{2,1} & 122  => 120 0.95;
+	18{5,1}  => 120 -1.0;
+		C & 0.0 1  121 [0.8 1.0]
+	26{5,1}  => 120 0.05;
+		C & 0.0 1  121 [0.8 1.0]
+	28{5,1} V 29{5,1} V 32{5,1} V 96{5,1} V 87{1,1}  => 120 -0.2;
+		C & 0.0 1  121 [0.8 1.0]
+	22{1,1} V 21{1,1} V 28{1,1}  => 296 1.0;
+	296  => 123 0.001;
+	123{1,1} & 48{1,1} & (175{1,1} V 14{2,1} ) => 123 -0.05;
+		C V 0.0 1  124 [0.001 1.0]
+	36{5,1} V 31{5,1}  => 125 1.0;
+	21{1,1} & (10{5,1} V 15{5,1} ) => 204 1.0;
+	356{2,1} V 357{2,1} V 358{2,1}  => 206 1.0;
+	356{2,1} V 357{2,1} V 345{2,1} V 98{2,1} V 99{2,1} V 211{2,1} V 643{2,1} V 931{2,1} V 790{2,1} V 372{2,1} V 788{2,1}  => 293 1.0;
+	22{1,1} & 19{5,1}  => 124 1.0;
+	204 & 293  => 294 1.0;
+	28{1,1} & 12{9,1} & 62 & 63 & 65 & 117 & 59  => 137 1.0;
+	12{9,1} & 22{1,1}  => 295 1.0;
+	358{2,1}  => 123 0.4;
+	137  => 123 0.4;
+	294  => 123 0.4;
+	124  => 123 0.4;
+	295  => 123 0.4;
+	-294 & 293  => 123 0.6;
+		C V 0.0 4  124 [0.001 1.0] 137 [0.001 1.0] 295 [0.001 1.0] 358{2,1} [0.001 1.0]
+	125  => 123 0.1;
+		C V 0.0 5  124 [0.001 1.0] 137 [0.001 1.0] 294 [0.001 1.0] 295 [0.001 1.0] 358{2,1} [0.001 1.0]
+	47{1,1}  => 123 0.05;
+		C V 0.0 5  124 [0.001 1.0] 137 [0.001 1.0] 294 [0.001 1.0] 295 [0.001 1.0] 358{2,1} [0.001 1.0]
+	28{1,1}  => 123 0.1;
+		C V 0.0 4  124 [0.001 1.0] 294 [0.001 1.0] 295 [0.001 1.0] 358{2,1} [0.001 1.0]
+	239{5,1}  => 123 0.1;
+		C V 0.0 5  124 [0.001 1.0] 137 [0.001 1.0] 294 [0.001 1.0] 295 [0.001 1.0] 358{2,1} [0.001 1.0]
+	22{5,1} V 23{5,1} V 24{5,1} V 25{5,1}  => 123 0.1;
+		C V 0.0 5  124 [0.001 1.0] 137 [0.001 1.0] 294 [0.001 1.0] 295 [0.001 1.0] 358{2,1} [0.001 1.0]
+	29{5,1}  => 123 -0.1;
+		C V 0.0 5  124 [0.001 1.0] 137 [0.001 1.0] 294 [0.001 1.0] 295 [0.001 1.0] 358{2,1} [0.001 1.0]
+	33{5,1}  => 123 -0.1;
+		C V 0.0 5  124 [0.001 1.0] 137 [0.001 1.0] 294 [0.001 1.0] 295 [0.001 1.0] 358{2,1} [0.001 1.0]
+	25{1,1}  => 126 0.001;
+	89{5,1} V 90{5,1} V 64{5,1} V 236{5,1}  => 126 -1.0;
+	25{1,1} & 65{5,1} & (82{5,1} V 83{5,1} V 84{5,1} ) => 127 1.0;
+	-25{1,1} V -65{5,1} V (-82{5,1} & -83{5,1} & -84{5,1} ) => 127 -1.0;
+	127  => 126 0.4;
+	88{5,1} V 91{5,1}  => 128 1.0;
+	-88{5,1} & -91{5,1}  => 128 -1.0;
+	127 & 128  => 126 0.75;
+	127 & 78{5,1}  => 126 0.6;
+	127 & 19{5,1}  => 126 0.5;
+	41{1,1} V 40{1,1}  => 129 1.0;
+	-41{1,1} & -40{1,1}  => 129 -1.0;
+	127 & 129  => 126 0.5;
+	127 & 128 & 78{5,1}  => 126 0.85;
+	127 & 128 & 19{5,1}  => 126 0.8;
+	127 & 128 & 129  => 126 0.8;
+	127 & 78{5,1} & 19{5,1}  => 126 0.7;
+	127 & 78{5,1} & 129  => 126 0.65;
+	127 & 19{5,1} & 129  => 126 0.55;
+	127 & 128 & 78{5,1} & 19{5,1}  => 126 0.9;
+	127 & 128 & 78{5,1} & 129  => 126 0.9;
+	127 & 128 & 19{5,1} & 129  => 126 0.85;
+	127 & 78{5,1} & 19{5,1} & 129  => 126 0.75;
+	127 & 128 & 78{5,1} & 19{5,1} & 129  => 126 0.95;
+	70{5,1}  => 126 -0.2;
+	73{5,1}  => 126 -0.2;
+	85{5,1}  => 126 -0.2;
+	3{5,1}  => 126 0.05;
+	22{1,1} V 28{1,1} V 12{1,1} V 29{1,1}  => 255 1.0;
+	255  => 130 0.001;
+	16{5,1} V 20{5,1} V 21{5,1} V 29{5,1} V 32{5,1} V 13{9,1} V 61 V 64  => 130 -1.0;
+	11{1,1}  => 130 -0.2;
+		C V 0.0 1  131 [0.8 1.0]
+	22{1,1} & 19{5,1} & 18{5,1} & 28{5,1}  => 131 1.0;
+	-22{1,1} V -19{5,1} V -18{5,1} V -28{5,1}  => 131 -1.0;
+	22{1,1} V 28{1,1}  => 207 1.0;
+	-22{1,1} & -28{1,1}  => 207 -1.0;
+	131  => 130 0.4;
+	131 & 28{1,1}  => 130 0.5;
+	131 & 47{1,1}  => 130 0.45;
+	101{2,1} V 20{2,1} V 13{2,1} V 103{2,1}  => 133 1.0;
+	-101{2,1} & -20{2,1} & -13{2,1} & -103{2,1}  => 133 -1.0;
+	131 & 133  => 130 0.45;
+	131 & 28{1,1} & 47{1,1}  => 130 0.6;
+	131 & 28{1,1} & 133  => 130 0.55;
+	131 & 47{1,1} & 133  => 130 0.5;
+	131 & 28{1,1} & 47{1,1} & 133  => 130 0.65;
+	131 & 28{1,1} & 29{1,1}  => 130 0.55;
+	131 & 47{1,1} & 29{1,1}  => 130 0.5;
+	131 & 133 & 29{1,1}  => 130 0.5;
+	131 & 28{1,1} & 47{1,1} & 29{1,1}  => 130 0.65;
+	131 & 28{1,1} & 133 & 29{1,1}  => 130 0.6;
+	131 & 47{1,1} & 133 & 29{1,1}  => 130 0.55;
+	131 & 28{1,1} & 47{1,1} & 133 & 29{1,1}  => 130 0.7;
+	26{5,1}  => 130 -0.2;
+	239{5,1}  => 130 -0.4;
+	12{1,1}  => 130 0.05;
+		C V 0.0 1  131 [0.8 1.0]
+	28{1,1} & 12{9,1} & 62 & 63 & 12{1,1}  => 254 1.0;
+	254  => 130 0.4;
+	254 & 47{1,1}  => 130 0.45;
+	66 V 67 V 68 V 69  => 130 -0.2;
+		C V 0.0 1  254 [0.8 1.0]
+	29{1,1} & 31 & 22{1,1} & 28{1,1}  => 253 1.0;
+	253  => 130 0.4;
+	253 & 47{1,1}  => 130 0.45;
+	253 & 12{1,1}  => 130 0.45;
+	66{4,1} & 67{4,1} & 207  => 130 0.4;
+	66{4,1} & 67{4,1} & 207 & 111{2,1}  => 130 0.45;
+	78{1,1}  => 141 0.001;
+	39 & (-40 V -41 ) => 141 -1.0;
+	78{1,1} & 37 & 186  => 141 0.4;
+	78{1,1} & 37 & 81  => 141 0.4;
+	78{1,1} & 37 & 80  => 141 0.4;
+	78{1,1} & 37 & 186 & 81  => 141 0.6;
+	78{1,1} & 37 & 186 & 80  => 141 0.6;
+	37 & 45 & 47 & (81 V 186 V 80 ) => 141 0.8;
+	78{1,1}  => 142 0.001;
+	(210{1,1} V 206{1,1} )& 38 & 40 & 49  => 143 1.0;
+	(-210{1,1} & -206{1,1} )V -38 V -40 V -49  => 143 -1.0;
+	55 V 56  => 144 1.0;
+	-55 & -56  => 144 -1.0;
+	143  => 142 0.4;
+	143 & 144  => 142 0.6;
+	143 & 1{2,1}  => 142 0.75;
+	143 & 97{2,1}  => 142 0.75;
+	143 & 345{2,1}  => 142 0.6;
+	143 & 361{2,1}  => 142 0.8;
+	143 & 144 & 1{2,1}  => 142 0.9;
+	143 & 144 & 97{2,1}  => 142 0.85;
+	143 & 144 & 345{2,1}  => 142 0.8;
+	143 & 144 & 361{2,1}  => 142 0.9;
+	143 & 144 & 1{2,1} & 97{2,1}  => 142 0.95;
+	143 & 144 & 1{2,1} & 361{2,1}  => 142 0.99;
+	143 & 144 & 97{2,1} & 345{2,1}  => 142 0.95;
+	143 & 144 & 97{2,1} & 361{2,1}  => 142 0.99;
+	143 & 144 & 1{2,1} & 97{2,1} & 345{2,1}  => 142 0.99;
+	80 V 83  => 142 -1.0;
+	82  => 142 -0.2;
+		C V 0.0 1  143 [0.8 1.0]
+	50  => 142 -0.15;
+		C V 0.0 1  143 [0.8 1.0]
+	78{1,1}  => 145 0.001;
+	186 V 190 V 80  => 148 1.0;
+	-186 & -190 & -80  => 148 -1.0;
+	1{2,1} V 97{2,1}  => 149 1.0;
+	-1{2,1} & -97{2,1}  => 149 -1.0;
+	78{1,1} & -58{1,1} & 38 & (40 V 41 ) => 146 1.0;
+	-78{1,1} V 58{1,1} V -38 V (-40 & -41 ) => 146 -1.0;
+	146  => 145 0.3;
+	146 & 50  => 145 0.4;
+	146 & 148  => 145 0.45;
+	146 & 50 & 148  => 145 0.55;
+	146 & 50 & 189  => 145 0.5;
+	146 & 50 & 149  => 145 0.65;
+	146 & 50 & 345{2,1}  => 145 0.6;
+	146 & 148 & 189  => 145 0.5;
+	146 & 148 & 149  => 145 0.55;
+	146 & 148 & 345{2,1}  => 145 0.55;
+	146 & 149 & 345{2,1}  => 145 0.4;
+	146 & 50 & 148 & 189  => 145 0.6;
+	146 & 50 & 148 & 149  => 145 0.7;
+	146 & 50 & 148 & 345{2,1}  => 145 0.65;
+	146 & 50 & 149 & 345{2,1}  => 145 0.7;
+	146 & 148 & 149 & 345{2,1}  => 145 0.7;
+	146 & 50 & 148 & 189 & 149  => 145 0.8;
+	146 & 50 & 148 & 189 & 345{2,1}  => 145 0.75;
+	146 & 50 & 148 & 149 & 345{2,1}  => 145 0.8;
+	146 & 50 & 148 & 189 & 149 & 345{2,1}  => 145 0.85;
+	361{2,1}  => 145 0.1;
+	58  => 145 0.5;
+	29{1,1}  => 150 0.001;
+	29 V 132 V 181  => 150 -1.0;
+	29{1,1} & -25{1,1} & -27{1,1} & -114 & -31{1,1} & -132 & -118 & -181 & -185 & -22{1,1}  => 147 1.0;
+	-29{1,1} V 25{1,1} V 27{1,1} V 114 V 31{1,1} V 132 V 118 V 181 V 185 V 22{1,1}  => 147 -1.0;
+	19 V 23 V 28  => 154 1.0;
+	-19 & -23 & -28  => 154 -1.0;
+	32 V 33  => 209 1.0;
+	-32 & -33  => 209 -1.0;
+	154  => 150 0.4;
+	154 & 209  => 150 0.6;
+	154 & 147  => 150 0.5;
+	154 & 209 & 147  => 150 0.65;
+	29{1,1} & (25{1,1} V 27{1,1} V 114 V 31{1,1} V 132 V 118 V 181 V 185 V 22{1,1} ) => 150 -0.5;
+	20  => 150 -0.2;
+	31  => 150 -0.2;
+	25{1,1}  => 150 -0.2;
+		C V 0.0 1  154 [0.8 1.0]
+	27{1,1}  => 150 -0.2;
+		C V 0.0 1  154 [0.8 1.0]
+	138  => 150 -0.2;
+		C V 0.0 1  154 [0.8 1.0]
+	21  => 150 -0.3;
+	29{1,1}  => 152 0.001;
+	22  => 152 0.6;
+	29{1,1}  => 153 0.001;
+	25  => 153 0.6;
+	29{1,1}  => 151 0.001;
+	29{1,1} & 24  => 151 0.5;
+	29{1,1} & 139  => 151 0.5;
+	28{1,1}  => 155 0.001;
+	189  => 155 -0.1;
+	104  => 155 -0.2;
+	11{1,1}  => 155 -0.2;
+	28{1,1} & (13{9,1} V 12{9,1} )& 62 & 117  => 156 1.0;
+	-28{1,1} V (-13{9,1} & -12{9,1} )V -62 V -117  => 156 -1.0;
+	156  => 155 0.4;
+	156 & 64  => 155 0.5;
+	156 & -59  => 155 0.55;
+	156 & 64 & -59  => 155 0.65;
+	13{9,1} V 12{9,1}  => 210 1.0;
+	-13{9,1} & -12{9,1}  => 210 -1.0;
+	25{1,1}  => 157 0.001;
+	82{5,1} V 83{5,1} V 84{5,1} V 85{5,1} V 86{5,1} V 89{5,1} V 91{5,1}  => 157 -0.5;
+	180  => 157 -0.15;
+	76{5,1} V 238{5,1}  => 157 -0.5;
+	58{1,1} & 6{1,1}  => 157 -0.5;
+		C & 0.0 3  1{2,1} [-1.0 -0.1] 9{2,1} [-1.0 -0.1] 158 [0.01 1.0]
+	1{2,1} V 14{2,1} V 175{1,1} V 345{2,1} V 353{2,1} V 97{2,1}  => 159 1.0;
+	-1{2,1} & -14{2,1} & -175{1,1} & -345{2,1} & -353{2,1} & -97{2,1}  => 159 -1.0;
+	355{2,1} V 356{2,1}  => 160 1.0;
+	-355{2,1} & -356{2,1}  => 160 -1.0;
+	87{5,1} V 240{5,1}  => 161 1.0;
+	-87{5,1} & -240{5,1}  => 161 -1.0;
+	(931{2,1} V 356{2,1} V 355{2,1} V 358{2,1} V 345{2,1} )& 25{1,1} & -58{1,1}  => 297 1.0;
+	(25{1,1} & 65{5,1} & (68{5,1} V 70{5,1} )& (71{5,1} V 74{5,1} )& (237{5,1} V 236{5,1} ))V 297  => 158 1.0;
+	158  => 157 0.4;
+	158 & 78{5,1}  => 157 0.6;
+	158 & 161  => 157 0.7;
+	158 & 90{5,1}  => 157 0.6;
+	158 & 45{1,1}  => 157 0.7;
+	158 & 159  => 157 0.65;
+	158 & 160  => 157 0.8;
+	158 & 78{5,1} & 161  => 157 0.8;
+	158 & 78{5,1} & 90{5,1}  => 157 0.8;
+	158 & 78{5,1} & 45{1,1}  => 157 0.75;
+	158 & 78{5,1} & 159  => 157 0.7;
+	158 & 161 & 90{5,1}  => 157 0.8;
+	158 & 161 & 45{1,1}  => 157 0.8;
+	158 & 161 & 159  => 157 0.8;
+	158 & 161 & 160  => 157 0.85;
+	158 & 90{5,1} & 45{1,1}  => 157 0.75;
+	158 & 90{5,1} & 159  => 157 0.75;
+	158 & 90{5,1} & 160  => 157 0.85;
+	158 & 45{1,1} & 159  => 157 0.75;
+	158 & 159 & 160  => 157 0.85;
+	158 & 78{5,1} & 161 & 90{5,1}  => 157 0.9;
+	158 & 78{5,1} & 161 & 45{1,1}  => 157 0.85;
+	158 & 78{5,1} & 161 & 159  => 157 0.85;
+	158 & 78{5,1} & 161 & 160  => 157 0.95;
+	158 & 78{5,1} & 90{5,1} & 45{1,1}  => 157 0.85;
+	158 & 78{5,1} & 90{5,1} & 160  => 157 0.9;
+	158 & 78{5,1} & 45{1,1} & 159  => 157 0.8;
+	158 & 78{5,1} & 45{1,1} & 160  => 157 0.85;
+	158 & 78{5,1} & 159 & 160  => 157 0.9;
+	158 & 161 & 90{5,1} & 45{1,1}  => 157 0.85;
+	158 & 161 & 90{5,1} & 159  => 157 0.85;
+	158 & 161 & 90{5,1} & 160  => 157 0.95;
+	158 & 161 & 45{1,1} & 159  => 157 0.85;
+	158 & 161 & 45{1,1} & 160  => 157 0.9;
+	158 & 161 & 159 & 160  => 157 0.9;
+	158 & 90{5,1} & 45{1,1} & 159  => 157 0.8;
+	158 & 90{5,1} & 45{1,1} & 160  => 157 0.9;
+	158 & 90{5,1} & 159 & 160  => 157 0.9;
+	158 & 45{1,1} & 159 & 160  => 157 0.9;
+	158 & 78{5,1} & 161 & 90{5,1} & 45{1,1}  => 157 0.99;
+	158 & 78{5,1} & 161 & 90{5,1} & 159  => 157 0.95;
+	158 & 78{5,1} & 161 & 90{5,1} & 160  => 157 0.99;
+	158 & 78{5,1} & 161 & 45{1,1} & 159  => 157 0.95;
+	158 & 78{5,1} & 161 & 45{1,1} & 160  => 157 0.99;
+	158 & 78{5,1} & 161 & 159 & 160  => 157 0.99;
+	158 & 78{5,1} & 90{5,1} & 45{1,1} & 159  => 157 0.95;
+	158 & 78{5,1} & 90{5,1} & 45{1,1} & 160  => 157 0.99;
+	158 & 78{5,1} & 90{5,1} & 159 & 160  => 157 0.99;
+	158 & 161 & 90{5,1} & 45{1,1} & 159  => 157 0.95;
+	158 & 161 & 90{5,1} & 45{1,1} & 160  => 157 0.99;
+	-58{1,1}  => 157 0.1;
+		C V 0.0 1  136 [0.8 1.0]
+	-6{1,1}  => 157 0.1;
+		C V 0.0 1  136 [0.8 1.0]
+	72{5,1}  => 157 -0.1;
+	161{4,1}  => 157 0.1;
+		C V 0.0 1  136 [0.8 1.0]
+	20{5,1}  => 157 0.05;
+	350{2,1}  => 157 0.05;
+		C V 0.0 3  158 [0.8 1.0] 162 [0.8 1.0] 168 [0.8 1.0]
+	351{2,1}  => 157 0.05;
+		C V 0.0 3  158 [0.8 1.0] 162 [0.8 1.0] 168 [0.8 1.0]
+	352{2,1}  => 157 0.05;
+		C V 0.0 3  158 [0.8 1.0] 162 [0.8 1.0] 168 [0.8 1.0]
+	65{5,1} & (68{5,1} V 70{5,1} )& 73{5,1} & (237{5,1} V 236{5,1} ) => 166 1.0;
+	-65{5,1} V (-68{5,1} & -70{5,1} )V -73{5,1} V (-237{5,1} & -236{5,1} ) => 166 -1.0;
+	67{5,1} & (68{5,1} V 70{5,1} )& (71{5,1} V 73{5,1} V 74{5,1} )& (237{5,1} V 236{5,1} ) => 167 1.0;
+	-67{5,1} V (-68{5,1} & -70{5,1} )V (-71{5,1} & -73{5,1} & -74{5,1} )V (-237{5,1} & -236{5,1} ) => 167 -1.0;
+	(166 V 167 )& 87{5,1}  => 168 1.0;
+	(-166 & -167 )V -87{5,1}  => 168 -1.0;
+	168  => 157 0.4;
+	168 & 78{5,1}  => 157 0.5;
+	168 & 161  => 157 0.6;
+	168 & 90{5,1}  => 157 0.5;
+	168 & 45{1,1}  => 157 0.6;
+	168 & 159  => 157 0.55;
+	168 & 160  => 157 0.7;
+	168 & 78{5,1} & 161  => 157 0.7;
+	168 & 78{5,1} & 90{5,1}  => 157 0.7;
+	168 & 78{5,1} & 45{1,1}  => 157 0.65;
+	168 & 78{5,1} & 159  => 157 0.6;
+	168 & 161 & 90{5,1}  => 157 0.7;
+	168 & 161 & 45{1,1}  => 157 0.7;
+	168 & 161 & 159  => 157 0.7;
+	168 & 161 & 160  => 157 0.75;
+	168 & 90{5,1} & 45{1,1}  => 157 0.65;
+	168 & 90{5,1} & 159  => 157 0.65;
+	168 & 90{5,1} & 160  => 157 0.75;
+	168 & 45{1,1} & 159  => 157 0.65;
+	168 & 159 & 160  => 157 0.75;
+	168 & 78{5,1} & 161 & 90{5,1}  => 157 0.8;
+	168 & 78{5,1} & 161 & 45{1,1}  => 157 0.75;
+	168 & 78{5,1} & 161 & 159  => 157 0.75;
+	168 & 78{5,1} & 161 & 160  => 157 0.85;
+	168 & 78{5,1} & 90{5,1} & 45{1,1}  => 157 0.75;
+	168 & 78{5,1} & 90{5,1} & 160  => 157 0.8;
+	168 & 78{5,1} & 45{1,1} & 159  => 157 0.7;
+	168 & 78{5,1} & 45{1,1} & 160  => 157 0.75;
+	168 & 78{5,1} & 159 & 160  => 157 0.8;
+	168 & 161 & 90{5,1} & 45{1,1}  => 157 0.75;
+	168 & 161 & 90{5,1} & 159  => 157 0.75;
+	168 & 161 & 90{5,1} & 160  => 157 0.85;
+	168 & 161 & 45{1,1} & 159  => 157 0.75;
+	168 & 161 & 45{1,1} & 160  => 157 0.8;
+	168 & 161 & 159 & 160  => 157 0.8;
+	168 & 90{5,1} & 45{1,1} & 159  => 157 0.7;
+	168 & 90{5,1} & 45{1,1} & 160  => 157 0.8;
+	168 & 90{5,1} & 159 & 160  => 157 0.8;
+	168 & 45{1,1} & 159 & 160  => 157 0.8;
+	168 & 78{5,1} & 161 & 90{5,1} & 45{1,1}  => 157 0.89;
+	168 & 78{5,1} & 161 & 90{5,1} & 159  => 157 0.85;
+	168 & 78{5,1} & 161 & 90{5,1} & 160  => 157 0.89;
+	168 & 78{5,1} & 161 & 45{1,1} & 159  => 157 0.85;
+	168 & 78{5,1} & 161 & 45{1,1} & 160  => 157 0.89;
+	168 & 78{5,1} & 161 & 159 & 160  => 157 0.89;
+	168 & 78{5,1} & 90{5,1} & 45{1,1} & 159  => 157 0.85;
+	168 & 78{5,1} & 90{5,1} & 45{1,1} & 160  => 157 0.89;
+	168 & 78{5,1} & 90{5,1} & 159 & 160  => 157 0.89;
+	168 & 161 & 90{5,1} & 45{1,1} & 159  => 157 0.85;
+	168 & 161 & 90{5,1} & 45{1,1} & 160  => 157 0.89;
+	14{2,1} V 175{1,1} V 345{2,1} V 353{2,1} V 97{2,1}  => 60 1.0;
+	158 V 168  => 136 1.0;
+	58{1,1} & 6{1,1} & 136 & 1{2,1} & 9{2,1}  => 162 1.0;
+	78{5,1} V 161 V 45{1,1}  => 211 1.0;
+	162  => 157 0.4;
+	162 & 211  => 157 0.6;
+	162 & 60  => 157 0.55;
+	162 & 160  => 157 0.8;
+	162 & 211 & 60  => 157 0.75;
+	162 & 211 & 160  => 157 0.85;
+	162 & 60 & 160  => 157 0.95;
+	25{1,1} V 20{1,1}  => 163 0.001;
+	64{5,1} V 83{5,1} V 84{5,1} V 85{5,1} V 86{5,1} V 89{5,1} V 91{5,1}  => 163 -0.5;
+	58{1,1} & 6{1,1}  => 163 -0.5;
+		C & 0.0 3  1{2,1} [-1.0 -0.1] 9{2,1} [-1.0 -0.1] 71 [-1.0 -0.1]
+	(25{1,1} & 62{5,1} & 65{5,1} & 68{5,1} & (71{5,1} V 74{5,1} ))V 297  => 164 1.0;
+	(-25{1,1} V -62{5,1} V -65{5,1} V -68{5,1} V (-71{5,1} & -74{5,1} ))& -297  => 164 -1.0;
+	164  => 163 0.4;
+	164 & 78{5,1}  => 163 0.6;
+	164 & 90{5,1}  => 163 0.6;
+	164 & 45{1,1}  => 163 0.7;
+	164 & 159  => 163 0.65;
+	164 & 160  => 163 0.8;
+	164 & 78{5,1} & 90{5,1}  => 163 0.8;
+	164 & 78{5,1} & 45{1,1}  => 163 0.75;
+	164 & 78{5,1} & 159  => 163 0.7;
+	164 & 90{5,1} & 45{1,1}  => 163 0.75;
+	164 & 90{5,1} & 159  => 163 0.75;
+	164 & 90{5,1} & 160  => 163 0.85;
+	164 & 45{1,1} & 159  => 163 0.75;
+	164 & 159 & 160  => 163 0.85;
+	164 & 78{5,1} & 90{5,1} & 45{1,1}  => 163 0.85;
+	164 & 78{5,1} & 90{5,1} & 160  => 163 0.9;
+	164 & 78{5,1} & 45{1,1} & 159  => 163 0.8;
+	164 & 78{5,1} & 45{1,1} & 160  => 163 0.85;
+	164 & 78{5,1} & 159 & 160  => 163 0.9;
+	164 & 90{5,1} & 45{1,1} & 159  => 163 0.8;
+	164 & 90{5,1} & 45{1,1} & 160  => 163 0.9;
+	164 & 90{5,1} & 159 & 160  => 163 0.9;
+	164 & 45{1,1} & 159 & 160  => 163 0.9;
+	164 & 78{5,1} & 90{5,1} & 45{1,1} & 159  => 163 0.95;
+	164 & 78{5,1} & 90{5,1} & 45{1,1} & 160  => 163 0.99;
+	164 & 78{5,1} & 90{5,1} & 159 & 160  => 163 0.99;
+	-6{1,1}  => 163 0.1;
+		C V 0.0 1  71 [0.8 1.0]
+	-58{1,1}  => 163 0.1;
+		C V 0.0 1  71 [0.8 1.0]
+	20{5,1}  => 163 0.05;
+	350{2,1}  => 163 0.05;
+		C V 0.0 3  164 [0.8 1.0] 165 [0.8 1.0] 171 [0.8 1.0]
+	351{2,1}  => 163 0.05;
+		C V 0.0 3  164 [0.8 1.0] 165 [0.8 1.0] 171 [0.8 1.0]
+	352{2,1}  => 163 0.05;
+		C V 0.0 3  164 [0.8 1.0] 165 [0.8 1.0] 171 [0.8 1.0]
+	63{5,1} & 65{5,1} & 68{5,1} & (71{5,1} V 74{5,1} )& 159  => 163 0.4;
+	20{1,1} & -58{1,1} & 132{4,1} & 138{4,1} & 161{4,1} & 151{4,1} & 45{1,1}  => 163 0.4;
+	62{5,1} & 65{5,1} & 68{5,1} & 73{5,1}  => 170 1.0;
+	-62{5,1} V -65{5,1} V -68{5,1} V -73{5,1}  => 170 -1.0;
+	62{5,1} & 67{5,1} & 68{5,1} & (71{5,1} V 73{5,1} V 74{5,1} ) => 169 1.0;
+	-62{5,1} V -67{5,1} V -68{5,1} V (-71{5,1} & -73{5,1} & -74{5,1} ) => 169 -1.0;
+	169 V 170  => 171 1.0;
+	-169 & -170  => 171 -1.0;
+	171  => 163 0.4;
+	171 & 78{5,1}  => 163 0.5;
+	171 & 90{5,1}  => 163 0.5;
+	171 & 45{1,1}  => 163 0.6;
+	171 & 159  => 163 0.55;
+	171 & 160  => 163 0.7;
+	171 & 78{5,1} & 90{5,1}  => 163 0.7;
+	171 & 78{5,1} & 45{1,1}  => 163 0.65;
+	171 & 78{5,1} & 159  => 163 0.6;
+	171 & 90{5,1} & 45{1,1}  => 163 0.65;
+	171 & 90{5,1} & 159  => 163 0.65;
+	171 & 90{5,1} & 160  => 163 0.75;
+	171 & 45{1,1} & 159  => 163 0.65;
+	171 & 159 & 160  => 163 0.75;
+	171 & 78{5,1} & 90{5,1} & 45{1,1}  => 163 0.75;
+	171 & 78{5,1} & 90{5,1} & 160  => 163 0.8;
+	171 & 78{5,1} & 45{1,1} & 159  => 163 0.7;
+	171 & 78{5,1} & 45{1,1} & 160  => 163 0.75;
+	171 & 78{5,1} & 159 & 160  => 163 0.8;
+	171 & 90{5,1} & 45{1,1} & 159  => 163 0.7;
+	171 & 90{5,1} & 45{1,1} & 160  => 163 0.8;
+	171 & 90{5,1} & 159 & 160  => 163 0.8;
+	171 & 45{1,1} & 159 & 160  => 163 0.8;
+	171 & 78{5,1} & 90{5,1} & 45{1,1} & 159  => 163 0.85;
+	171 & 78{5,1} & 90{5,1} & 45{1,1} & 160  => 163 0.89;
+	171 & 78{5,1} & 90{5,1} & 159 & 160  => 163 0.89;
+	164 V 171  => 71 1.0;
+	58{1,1} & 6{1,1} & 71 & 1{2,1} & 9{2,1}  => 165 1.0;
+	-58{1,1} V -6{1,1} V -71 V -1{2,1} V -9{2,1}  => 165 -1.0;
+	60  => 163 0.15;
+		C & 0.0 1  165 [0.8 1.0]
+	(237{5,1} & -180 )V 236{5,1}  => 163 -0.1;
+	238 V 180  => 163 0.15;
+		C V 0.0 2  164 [0.001 1.0] 171 [0.001 1.0]
+	78{1,1} V 28{1,1}  => 173 0.001;
+	134 V 135  => 176 1.0;
+	-134 & -135  => 176 -1.0;
+	78{1,1} & 12{9,1} & 38  => 174 1.0;
+	-78{1,1} V -12{9,1} V -38  => 174 -1.0;
+	174  => 173 0.4;
+	174 & 52  => 173 0.45;
+	174 & 58  => 173 0.5;
+	174 & 176  => 173 0.5;
+	174 & 104  => 173 0.5;
+	174 & (14{2,1} V 175{1,1} ) => 173 0.5;
+	174 & 52 & 58  => 173 0.55;
+	174 & 52 & 176  => 173 0.55;
+	174 & 52 & 104  => 173 0.55;
+	174 & 52 & (14{2,1} V 175{1,1} ) => 173 0.55;
+	174 & 58 & 176  => 173 0.55;
+	174 & 58 & 104  => 173 0.55;
+	174 & 58 & (14{2,1} V 175{1,1} ) => 173 0.55;
+	174 & 176 & 104  => 173 0.6;
+	174 & 176 & (14{2,1} V 175{1,1} ) => 173 0.55;
+	174 & 52 & 58 & 176  => 173 0.7;
+	174 & 52 & 58 & 104  => 173 0.6;
+	174 & 52 & 58 & (14{2,1} V 175{1,1} ) => 173 0.6;
+	174 & 52 & 176 & 104  => 173 0.65;
+	174 & 52 & 176 & (14{2,1} V 175{1,1} ) => 173 0.65;
+	174 & 52 & 58 & 176 & 104  => 173 0.75;
+	174 & 52 & 58 & 176 & (14{2,1} V 175{1,1} ) => 173 0.75;
+	78{1,1} & 38 & 52 & 58 & 104  => 173 0.4;
+		C & 0.0 1  174 [-1.0 -0.1]
+	78{1,1} & 38 & 52 & 58 & 104 & 176  => 173 0.6;
+		C & 0.0 1  174 [-1.0 -0.1]
+	65 V 117  => 177 1.0;
+	-65 & -117  => 177 -1.0;
+	28{1,1} & 62 & 63 & 12{9,1}  => 175 1.0;
+	-28{1,1} V -62 V -63 V -12{9,1}  => 175 -1.0;
+	175  => 173 0.5;
+	175 & 177  => 173 0.6;
+	175 & 189  => 173 0.6;
+	175 & 104  => 173 0.6;
+	175 & (14{2,1} V 175{1,1} ) => 173 0.55;
+	175 & 177 & 189  => 173 0.7;
+	175 & 177 & 104  => 173 0.7;
+	175 & 177 & (14{2,1} V 175{1,1} ) => 173 0.65;
+	175 & 189 & 104  => 173 0.7;
+	175 & 189 & (14{2,1} V 175{1,1} ) => 173 0.7;
+	175 & 177 & 189 & 104  => 173 0.75;
+	-58{1,1}  => 173 0.05;
+	6{1,1}  => 173 0.05;
+	29{1,1}  => 178 0.001;
+	113 V 181  => 213 1.0;
+	-113 & -181  => 213 -1.0;
+	29{1,1} & 21  => 178 0.4;
+	29{1,1} & 21 & 213  => 178 0.6;
+	78{1,1}  => 201 0.001;
+	39 V 40 V 41  => 214 1.0;
+	78{1,1} & 214 & 140  => 201 1.0;
+	79{1,1} V 174{1,1}  => 219 0.001;
+	216 V 194  => 221 1.0;
+	81 V 268 V 85 V 15 V 87 V 277  => 222 1.0;
+	79{1,1} & (75 V 77 )& (88 V 11 ) => 220 1.0;
+	-79{1,1} V (-75 & -77 )V (-88 & -11 ) => 220 -1.0;
+	220  => 219 0.4;
+	220 & (81 V 268 ) => 219 0.5;
+	220 & (85 V 15 ) => 219 0.6;
+	220 & 221  => 219 0.55;
+	220 & 221 & 222  => 219 0.7;
+	79{1,1} & (88 V 11 )& (85 V 15 V 87 V 277 ) => 91 1.0;
+	-79{1,1} V (-88 & -11 )V (-85 & -15 & -87 & -277 ) => 91 -1.0;
+	91  => 219 0.4;
+	91 & 221  => 219 0.6;
+	174{1,1} & 231 & 241  => 251 1.0;
+	-174{1,1} V -231 V -241  => 251 -1.0;
+	251  => 219 0.4;
+	251 & 6{1,1} & 58{1,1}  => 219 0.5;
+	251 & (268 V 272 V 270 ) => 219 0.6;
+	251 & -256  => 219 0.5;
+	256  => 219 -0.2;
+		C & 0.0 1  251 [0.8 1.0]
+	84  => 219 -0.1;
+	6{1,1}  => 219 0.05;
+		C & 0.0 3  91 [0.8 1.0] 220 [0.8 1.0] 251 [0.8 1.0]
+	79{1,1}  => 223 0.001;
+	79{1,1} & (80 V 269 )& (75 V 77 )& (88 V 11 ) => 224 1.0;
+	-79{1,1} V (-80 & -269 )V (-75 & -77 )V (-88 & -11 ) => 224 -1.0;
+	224  => 223 0.4;
+	224 & (14 V 84 ) => 223 0.45;
+	224 & 217  => 223 0.6;
+	224 & (14 V 84 )& 217  => 223 0.7;
+	79{1,1}  => 226 0.001;
+	79{1,1} & 80  => 226 0.4;
+	79{1,1} & 6{1,1} & 80  => 226 0.45;
+	79{1,1} & 6{1,1} & 80 & 77  => 226 0.5;
+	79{1,1} & 6{1,1} & 80 & 77 & 88  => 226 0.55;
+	79{1,1}  => 227 0.001;
+	(75 V 77 )& (80 V 269 V 81 V 268 V 83 V 93 )& (216 V 186 V 272 )& (517{2,1} V 554{2,1} V 567{2,1} ) => 228 1.0;
+	(-75 & -77 )V (-80 & -269 & -81 & -268 & -83 & -93 )V (-216 & -186 & -272 )V (-517{2,1} & -554{2,1} & -567{2,1} ) => 228 -1.0;
+	79{1,1} & 228  => 227 0.7;
+	79{1,1}  => 229 0.001;
+	(172 V 78 )& (82 V 270 V 83 V 93 )& (88 V 11 )& (216 V 194 V 9{9,1} ) => 208 1.0;
+	(-172 & -78 )V (-82 & -270 & -83 & -93 )V (-88 & -11 )V (-216 & -194 & -9{9,1} ) => 208 -1.0;
+	79{1,1} & 208  => 229 0.7;
+	79{1,1}  => 199 0.001;
+	79{1,1} & (72 V 73 )& (82 V 270 )& (89 V 90 V 12 V 13 ) => 187 1.0;
+	-79{1,1} V (-72 & -73 )V (-82 & -270 )V (-89 & -90 & -12 & -13 ) => 187 -1.0;
+	187  => 199 0.4;
+	187 & 216  => 199 0.45;
+	187 & 216 & 195  => 199 0.5;
+	187 & 194  => 199 0.5;
+	174{1,1}  => 252 0.001;
+	174{1,1} & 272 & (268 V 269 ) => 215 1.0;
+	-174{1,1} V -272 V (-268 & -269 ) => 215 -1.0;
+	215  => 252 0.4;
+	215 & 273  => 252 0.45;
+	215 & 246  => 252 0.5;
+	233  => 252 -0.05;
+		C & 0.0 1  215 [0.8 1.0]
+	239  => 252 0.05;
+	-256  => 252 -1.0;
+	28{1,1} V 73{1,1}  => 260 0.001;
+	28{1,1} & 59 & 62 & 462{2,1}  => 261 1.0;
+	261  => 260 0.4;
+	261 & 189  => 260 0.5;
+	73{1,1} & 107 & 78 & 28{1,1} & 462{2,1}  => 260 0.6;
+	25{1,1}  => 225 0.001;
+	25{1,1} & 62{5,1} & (65{5,1} V 67{5,1} )& 68{5,1} & -58{1,1}  => 262 1.0;
+	262  => 225 0.35;
+	345{2,1} V 546{2,1}  => 225 0.1;
+		C & 0.0 1  262 [0.8 1.0]
+	6{1,1}  => 225 -0.1;
+		C & 0.0 1  262 [0.8 1.0]
+	45{1,1}  => 225 0.1;
+		C & 0.0 1  262 [0.8 1.0]
+//  VARIABLES
+	S T S S 4 1 NULL 2 NULL 3 NULL 258 NULL 
+		C & -1.0 1  27{1,1} [0.01 1.0] 
+	S T S S 2 4 NULL 5 NULL 
+		C & -1.0 1  27{1,1} [0.01 1.0] 
+	S T S N 2 6 NULL 7 NULL 
+		C & -1.0 1  27{1,1} [0.01 1.0] 
+	M T S S 4 8 NULL 9 NULL 10 NULL 257 NULL 
+		C & -1.0 1  27{1,1} [0.01 1.0] 
+	N T S S 4 269 NULL 268 NULL 270 NULL 93 NULL 
+		C & -1.0 1  72 [0.01 1.0] 
+	M T S S 14 18 NULL 19 NULL 20 NULL 21 NULL 22 NULL 23 NULL 24 NULL 25 NULL 26 NULL 27 NULL 28 NULL 29 NULL 30 NULL 31 NULL 
+		C & -1.0 1  29{1,1} [0.01 1.0] 
+	M T S S 5 32 NULL 33 NULL 34 NULL 35 NULL 36 NULL 
+		C & -1.0 1  29{1,1} [0.01 1.0] 
+	S T S S 2 37 NULL 38 NULL 
+		C & -1.0 1  78{1,1} [0.01 1.0] 
+	M T S S 5 39 NULL 40 NULL 41 NULL 192 NULL 283 NULL 
+		C & -1.0 1  78{1,1} [0.01 1.0] 
+	M T S S 2 43 NULL 44 NULL 
+		C & -1.0 1  78{1,1} [0.01 1.0] 
+	S T S S 2 45 NULL 46 NULL 
+		C & -1.0 1  78{1,1} [0.01 1.0] 
+	M T S S 8 47 NULL 48 NULL 49 NULL 50 NULL 51 NULL 52 NULL 53 NULL 278 NULL 
+		C & -1.0 1  78{1,1} [0.01 1.0] 
+	M T S S 6 54 NULL 55 NULL 56 NULL 57 NULL 58 NULL 279 NULL 
+		C & -1.0 1  78{1,1} [0.01 1.0] 
+	N T S S 12 81 NULL 186 NULL 190 NULL 98 NULL 82 NULL 80 NULL 193 NULL 36{1,1} NULL 191 NULL 189 NULL 104 NULL 97 NULL 
+	N T S S 16 25{1,1} NULL 27{1,1} NULL 114 NULL 31{1,1} NULL 115 NULL 33{1,1} NULL 251{1,1} NULL 118 NULL 181 NULL 186 NULL 272 NULL 185{1,1} NULL 184 NULL 113{1,1} NULL 185 NULL 22{1,1} NULL 
+	N T S S 6 216 NULL 194 NULL 217 NULL 9{9,1} NULL 186 NULL 195 NULL 
+	S T S S 2 95 NULL 140 NULL 
+		C & -1.0 1  193 [0.01 1.0] 
+	M T S S 2 72 NULL 73 NULL 
+		C & -1.0 1  79{1,1} [0.01 1.0] 
+	S T S S 2 74 NULL 75 NULL 
+		C & -1.0 1  72 [0.01 1.0] 
+	S T S S 2 76 NULL 77 NULL 
+		C & -1.0 1  73 [0.01 1.0] 
+	N T S S 5 80 NULL 81 NULL 82 NULL 83 NULL 107 NULL 
+		C & -1.0 1  73 [0.01 1.0] 
+	S T S S 3 85 NULL 86 NULL 87 NULL 
+		C & -1.0 2  73 [0.001 1.0]  84 [-1.0 -0.01] 
+	M T S S 3 88 NULL 89 NULL 90 NULL 
+		C & -1.0 1  73 [0.01 1.0] 
+	N T S S 3 517{2,1} NULL 554{2,1} NULL 567{2,1} NULL 
+	M T S S 3 96 NULL 134 NULL 135 NULL 
+		C & -1.0 1  189 [0.01 1.0] 
+	S T S S 2 172 NULL 179 NULL 
+		C & -1.0 1  72 [0.01 1.0] 
+	S T S S 2 78 NULL 79 NULL 
+		C & -1.0 1  73 [0.01 1.0] 
+	N T S S 5 25{1,1} NULL 22{1,1} NULL 113{1,1} NULL 29{1,1} NULL 43{1,1} NULL 
+	N T S S 10 81 NULL 186 NULL 190 NULL 98 NULL 82 NULL 80 NULL 193 NULL 191 NULL 189 NULL 104 NULL 
+		C & -1.0 1  28{1,1} [0.01 1.0] 
+	S T S S 2 63 NULL 64 NULL 
+		C & -1.0 1  28{1,1} [0.01 1.0] 
+	M T S S 8 65 NULL 66 NULL 67 NULL 68 NULL 69 NULL 70 NULL 266 NULL 267 NULL 
+		C & -1.0 1  28{1,1} [0.01 1.0] 
+	M T S S 3 218 NULL 230 NULL 231 NULL 
+		C & -1.0 1  174{1,1} [0.01 1.0] 
+	S T S S 2 232 NULL 233 NULL 
+		C & -1.0 1  174{1,1} [0.01 1.0] 
+	M T S S 2 235 NULL 236 NULL 
+		C & -1.0 1  174{1,1} [0.01 1.0] 
+	S T S S 2 237 NULL 238 NULL 
+		C & -1.0 1  174{1,1} [0.01 1.0] 
+	M T S S 4 239 NULL 240 NULL 241 NULL 282 NULL 
+		C & -1.0 1  174{1,1} [0.01 1.0] 
+	M T S S 4 242 NULL 243 NULL 244 NULL 245 NULL 
+		C & -1.0 1  174{1,1} [0.01 1.0] 
+	N T S S 8 268 NULL 272 NULL 273 NULL 270 NULL 269 NULL 271 NULL 11{9,1} NULL 246 NULL 
+	M T S S 3 247 NULL 248 NULL 249 NULL 
+		C & -1.0 1  246 [0.01 1.0] 
+	M T S S 3 11 NULL 12 NULL 13 NULL 
+		C & -1.0 1  72 [0.01 1.0] 
+	S T S S 2 264 NULL 265 NULL 
+		C & -1.0 1  28{1,1} [0.01 1.0] 
+	S T S S 2 15 NULL 277 NULL 
+		C & -1.0 2  14 [-1.0 -0.01]  72 [0.01 1.0] 
+	S T S S 2 212 NULL 263 NULL 
+		C & -1.0 1  78 [0.01 1.0] 
+	S T S S 2 280 NULL 281 NULL 
+		C & -1.0 1  78 [0.01 1.0] 
+	S I G ">=,0,2,2,1,[,],0.001,1,9" 
+	S I G "=,0,1,1,1,[,],0.001,1,12" 
+	S I G "=,0,2,2,1,[,],0.001,1,12" 
+	S I G ">=,0,3,3,1,[,],0.001,1,12" 
+//  PROGRAMAS EXTERNOS
+//  FUNCIONES INTERNAS
+	FP 10 VI45 PI101{10,1} PI162{1,1} PI163{1,1} PI302{1,1} PI82{1,1} PI39{1,1} PI113{1,1} PI29{1,1} PI27{1,1} 
+	FP 13 VI46 PI97{2,1} PI927{2,1} PI367{2,1} PI14{2,1} PI928{2,1} PI929{2,1} PI930{2,1} PI599{2,1} PI47{2,1} PI931{2,1} PI932{2,1} PI790{2,1} 
+	FP 13 VI47 PI97{2,1} PI927{2,1} PI367{2,1} PI14{2,1} PI928{2,1} PI929{2,1} PI930{2,1} PI599{2,1} PI47{2,1} PI931{2,1} PI932{2,1} PI790{2,1} 
+	FP 13 VI48 PI97{2,1} PI927{2,1} PI367{2,1} PI14{2,1} PI928{2,1} PI929{2,1} PI930{2,1} PI599{2,1} PI47{2,1} PI931{2,1} PI932{2,1} PI790{2,1} 
+//  RELACIONES PADRE-HIJOS
+27{1,1}P[0.01 1.0], -1, -4, -6, -16, -196;
+29{1,1}P[0.01 1.0], -17, -18, -197, -32;
+78{1,1}P[0.01 1.0], -37, -39, -43, -45, -47, -54, -198, -95, -96;
+174{1,1}P[0.01 1.0], -232, -256, -218, -235, -237, -239, -242, -250, -274, -247;
+79{1,1}P[0.01 1.0], -72, -74, -172, -275, -15, -11, -76, -78, -276, -85, -88, -200, -92;
+384{9,1}P[0.01 1.0], -63, -264, -117, -65, -103;
+//  REGLAS DE CONCLUSIONES
+	=> RP 99 [0.001 1];
+	=> RP 101 [0.001 1];
+	=> RP 105 [0.001 1];
+	=> RP 112 [0.001 1];
+	=> RP 120 [0.001 1];
+	=> RP 123 [0.001 1];
+	=> RP 126 [0.001 1];
+	=> RP 130 [0.001 1];
+	=> RP 141 [0.001 1];
+	=> RP 142 [0.001 1];
+	=> RP 145 [0.001 1];
+	=> RP 150 [0.001 1];
+	=> RP 151 [0.001 1];
+	=> RP 152 [0.001 1];
+	=> RP 153 [0.001 1];
+	=> RP 155 [0.001 1];
+	=> RP 157 [0.001 1];
+	=> RP 163 [0.001 1];
+	=> RP 173 [0.001 1];
+	=> RP 178 [0.001 1];
+	=> RP 201 [0.001 1];
+	=> RP 219 [0.001 1];
+	=> RP 223 [0.001 1];
+	=> RP 225 [0.001 1];
+	=> RP 226 [0.001 1];
+	=> RP 227 [0.001 1];
+	=> RP 229 [0.001 1];
+	=> RP 199 [0.001 1];
+	=> RP 252 [0.001 1];
+	=> RP 260 [0.001 1];
+	=> RP 287 [0.001 1];
+//  RELACIONES PADRE - HIJOS EN CONCLUSIONES
+//  PROPOSICIONES QUE NO VAN AL SISTEMA EXPLICATORIO
+//  FIN

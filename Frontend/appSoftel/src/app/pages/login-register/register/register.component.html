@@ -1,0 +1,112 @@
+<div class="p-4 h-100 d-flex flex-column justify-content-between">
+    <div class="text-center">
+        <h1 class="font-calibri">
+            Registrarse
+        </h1>
+        <p class="font-calibri-light fs-5 m-0">Inserte los datos correspondientes</p>
+    </div>
+    <div class="d-flex flex-column px-3">
+        <form class="col g-2 ms-4">
+            <div>
+                <div class="d-flex justify-content-between">
+                    <label>
+                        Nombre:
+                    </label>
+                    <label *ngIf="!validName" class="text-danger fs-small">
+                        *Nombre incorrecto
+                    </label>
+                </div>
+                <input type="text"
+                        class="form-control"
+                         placeholder="Usuario ej. Pedro"
+                         [(ngModel)]="user.name" name="name"
+                         (ngModelChange)="validateName()">
+            </div>
+
+            <div class="mt-2">
+                <div class="d-flex justify-content-between">
+                    <label>
+                        Apellidos:
+                    </label>
+                    <label *ngIf="!validLastName" class="text-danger fs-small">
+                        *Apellidos incorrectos
+                    </label>
+                </div>
+                <input type="text"
+                        class="form-control"
+                        placeholder="Apellidos ej. Vega Espinosa"
+                        [(ngModel)]="user.lastName"
+                        name="lastName"
+                        (ngModelChange)="validateLastName()">
+            </div>
+
+            <div class="mt-2">
+                <div class="d-flex justify-content-between">
+                    <label>
+                        Contraseña:
+                    </label>
+                    <label  *ngIf="!validPassword" class="text-danger fs-small">
+                        *Debe contener Mayus,minus,dígitos y &#64;#$%&*._+
+                    </label>
+                </div>
+                <div class="position-relative">
+                    <input [type]="togglePassword ? 'text' : 'password'"
+                        class="form-control"
+                        placeholder="Min 8 caracteres"
+                        [(ngModel)]="user.password"
+                        name="password"
+                        (ngModelChange)="validatePassword()">
+                    <div (click)="togglePassword = !togglePassword" class="position-absolute bottom-0 end-0 z-1 me-2">
+                        <mat-icon class="h-100 w-100">{{togglePassword ? 'visibility' : 'visibility_off'}}</mat-icon>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mt-2">
+                <div class="d-flex justify-content-between">
+                    <label>
+                        Confirmar contraseña:
+                    </label>
+                    <label *ngIf="!validConfirmPassword" class="text-danger fs-small">
+                        *No coinciden las contraseñas
+                    </label>
+                </div>
+                <div class="position-relative">
+                    <input [type]="toggleConfirmPassword ? 'text' : 'password'"
+                        class="form-control"
+                        placeholder="Contraseña"
+                        [(ngModel)]="confirmPassword"
+                        name="confirmPassword"
+                        (ngModelChange)="validateConfirmPassword()">
+                    <div (click)="toggleConfirmPassword = !toggleConfirmPassword" class="position-absolute bottom-0 end-0 z-1 me-2">
+                        <mat-icon class="h-100 w-100">{{toggleConfirmPassword ? 'visibility' : 'visibility_off'}}</mat-icon>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-2">
+                <div class="d-flex justify-content-between">
+                    <label>
+                        Teléfono:
+                    </label>
+                    <label *ngIf="!validPhoneNumber" class="text-danger fs-small">
+                        *Mínimo y máximo 8 dígitos
+                    </label>
+                </div>
+                <div class="input-group">
+                    <span class="input-group-text">+53</span>
+                    <input type="number"
+                            class="form-control"
+                            placeholder="Número de teléfono"
+                            [(ngModel)]="user.phoneNumber"
+                            name="phoneNumber"
+                            (ngModelChange)="validatePhoneNumber()"
+                            (keydown.enter)="button.disabled ? '' : register()">
+                </div>
+            </div>
+        </form>
+    </div>
+    <button #button [disabled]="load || !(validConfirmPassword && validLastName && validName && validPassword && validPhoneNumber)" class="btn btn-outline-success btn-pers rounded-pill w-50 d-flex align-items-center justify-content-center" (click)="register()">
+        Registrar
+        <mat-spinner style="--mdc-circular-progress-active-indicator-color: #006633!important;" class="w-25 h-100" *ngIf="load"></mat-spinner>
+    </button>
+</div>

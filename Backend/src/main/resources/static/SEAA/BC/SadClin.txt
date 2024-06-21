@@ -1,0 +1,11 @@
+SadClin
+SADClin
+El Sistema de Apoyo al Diagn&#243;stico Cl&#237;nico en  Asistencia Primaria (SADClin) es un sistema consultante inteligente, destinado al m&#233;dico de cabecera y cuyo  prop&#243;sito es AUXILIARLO en el diagn&#243;stico cl&#237;nico de m&#225;s de 700  enfermedades y s&#237;ndromes que abarcan los diferentes aparatos comprendidos en la  anatom&#237;a humana (Digestivo, Respiratorio, Cardiovascular, Locomotor, Endocrino,  Neurol&#243;gico, etc.).
+SADClin es un sistema experto basado en el conocimiento y de ning&#250;n modo pretende suplantar al especialista humano sino por el contrario, auxiliarle en su actividad diaria como un &#34;colega&#34; inteligente; siempre met&#243;dico, sistem&#225;tico y con el mismo nivel de objetividad.
+A partir de los s&#237;ntomas iniciales  referidos por el paciente como motivo de la consulta, de los antecedentes  personales, de los antecedentes familiares  y del interrogatorio  correspondiente a la investigaci&#243;n semiol&#243;gica de los mismos, as&#237; como  eventualmente de otros s&#237;ntomas revelados durante el proceso, el sistema  confirma un conjunto de diagn&#243;sticos presuntivos. Estos orientan  la fase de examen f&#237;sico del paciente, en la cual se deben introducir los signos que confirmar&#225;n/desconfirmar&#225;n  dichos diagn&#243;sticos. De aqu&#237; emerge un conjunto de diagn&#243;sticos plausibles, caracterizados por su grado de certidumbre, los cuales son presentados al  m&#233;dico para su consideraci&#243;n. O sea, se puede decir que SADClin trata de simular el comportamiento de un doctor durante la  consulta a un paciente, pues la estrategia que sigue y la forma en que  subdivide el problema para su soluci&#243;n, han sido extraidas de expertos en  Medicina Interna con larga y amplia experiencia; y reflejan la forma de razonar  de un m&#233;dico durante la consulta a un paciente de manera estandar.
+El producto que aqu&#237; se presenta es  amigable al usuario, f&#225;cil de manipular y difiere de otros similares en el mercado; pues  es &#233;l quien gu&#237;a la consulta, haciendo las preguntas  correspondientes de forma similar a como lo hace un doctor durante la consulta  real.
+
+
+
+
+

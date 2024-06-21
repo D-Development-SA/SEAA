@@ -1,0 +1,671 @@
+1,5,1 1
+	Desde cu&#225;ndo Tose: Un mes o menos
+2,5,1 1
+	Desde cu&#225;ndo Tose: M&#225;s de un mes
+3,5,1 1
+	Existen S&#237;ntomas Respiratorios de V&#237;as Altas
+4,5,1 1
+	CMBD Fibrosis Qu&#237;stica (Tos)
+5,5,1 1
+	CMBD de Hipertension Primaria (Disnea)
+6,5,1 1
+	La Tos es seca
+7,5,1 1
+	La Tos tiene relaci&#243;n con ejercicio y/o fr&#237;o
+8,5,1 1
+	La Tos tiene relaci&#243;n con inhalaci&#243;n sustancias irritantes
+9,5,1 1
+	La Tos tiene relaci&#243;n con cambios posturales
+10,5,1 1
+	La Tos tiene relaci&#243;n con el dec&#250;bito
+11,5,1 1
+	La Tos tiene relaci&#243;n con ingesta de aspirina o AINE
+12,5,1 1
+	La Tos no tiene relaci&#243;n con nada
+13,5,1 1
+	En qu&#233; momento del d&#237;a Tose m&#225;s: Indiferente
+14,5,1 1
+	En qu&#233; momento del d&#237;a Tose m&#225;s: Ma&#241;ana tras levantarse
+15,5,1 1
+	En qu&#233; momento del d&#237;a Tose m&#225;s: Nocturna
+16,5,1 1
+	Desde cu&#225;ndo tiene Disnea: Menos de 48 horas
+17,5,1 1
+	Desde cu&#225;ndo tiene Disnea: 48 horas-semanas (hasta 4)
+18,5,1 1
+	Desde cu&#225;ndo tiene Disnea: M&#225;s de 1 mes
+19,5,1 1
+	La Disnea es progresiva
+20,5,1 1
+	Modo de presentaci&#243;n de Disnea: Brusca
+21,5,1 1
+	Modo de presentaci&#243;n de Disnea: Intermitente
+22,5,1 1
+	Grado de Disnea: Al subir una cuesta o 2 pisos
+23,5,1 1
+	Grado de Disnea: Al subir 1 piso
+24,5,1 1
+	Grado de Disnea: Al andar en terreno llano
+25,5,1 1
+	Grado de Disnea: Al realizar actividades habituales
+26,5,1 1
+	Grado de Disnea: En reposo
+27,5,1 1
+	No existe ning&#250;n grado de Disnea
+28,5,1 1
+	La Disnea se relaciona con: Ejercicio
+29,5,1 1
+	La Disnea se relaciona con: Inhalaci&#243;n sustancias irritantes
+30,5,1 1
+	La Disnea se relaciona con: Cambios posturales
+31,5,1 1
+	La Disnea se relaciona con: Dec&#250;bito
+32,5,1 1
+	La Disnea se relaciona con: Ingesta de aspirina o AINE
+33,5,1 1
+	La Disnea se relaciona con: Estado emocional
+34,5,1 1
+	La Disnea no tiene relaci&#243;n con nada
+35,5,1 1
+	La Disnea se presenta por la ma&#241;ana (Asearse, Vestirse)
+36,5,1 1
+	La Disnea tiene relaci&#243;n con el momento del d&#237;a: Nocturna
+37,5,1 1
+	La Disnea tiene relaci&#243;n con el momento del d&#237;a
+38,5,1 1
+	Desde cu&#225;ndo Expectora: Un mes o menos
+39,5,1 1
+	Desde cu&#225;ndo Expectora: M&#225;s de un mes
+40,5,1 1
+	La Expectoraci&#243;n es mucosa
+41,5,1 1
+	La Expectoraci&#243;n es purulenta
+42,5,1 1
+	La Expectoraci&#243;n es f&#233;tida
+43,5,1 1
+	Comod&#237;n de la variable 32
+44,5,1 1
+	La Expectoraci&#243;n es espesa y adherente
+45,5,1 1
+	La Expectoraci&#243;n es escasa
+46,5,1 1
+	La Expectoraci&#243;n es muy abundante
+47,5,1 1
+	La Expectoraci&#243;n es moderada
+48,5,1 1
+	La Expectoraci&#243;n no tiene relaci&#243;n con el momento del d&#237;a
+49,5,1 1
+	La Expectoraci&#243;n es matutina
+50,5,1 1
+	La Expectoraci&#243;n se relaciona con cambios posturales
+51,5,1 1
+	Desde cu&#225;ndo tiene Hemoptisis: 2 semana o menos
+52,5,1 1
+	Desde cu&#225;ndo tiene Hemoptisis: M&#225;s de 2 semana
+53,5,1 1
+	Cantidad de sangre (Hemoptisis): Escaso (Estr&#237;as)
+54,5,1 1
+	Cantidad de sangre (Hemoptisis): Franca
+55,5,1 1
+	La Hemoptisis se presenta de forma persistente
+56,5,1 1
+	La Hemoptisis se presenta de forma intermitente
+57,5,1 1
+	Comod&#237;n de Hemorragias extrapulmonares
+58,5,1 1
+	CMBD de Neumonia Bacteriana (Hemoptisis)
+59,5,1 1
+	CMBD de Traqueobronquitis Aguda (Expectoraci&#243;n)
+60,5,1 1
+	La Disnea se relaciona con: Fr&#237;o
+61,5,1 1
+	Existen hemorragias extrapulmonares
+62,5,1 1
+	Desde cu&#225;ndo tiene Dolor Tor&#225;cico: Menos de 48 horas
+63,5,1 1
+	Desde cu&#225;ndo tiene Dolor Tor&#225;cico: Entre 2 d&#237;as y 1 mes
+64,5,1 1
+	Desde cu&#225;ndo tiene Dolor Tor&#225;cico: M&#225;s de 1 mes
+65,5,1 1
+	El Dolor Tor&#225;cico es retroesternal
+66,5,1 1
+	El Dolor Tor&#225;cico es en el hemitorax derecho y/o izquierdo
+67,5,1 1
+	El Dolor Tor&#225;cico es dorsal
+68,5,1 1
+	Modo de presentaci&#243;n del Dolor Tor&#225;cico: Brusco
+69,5,1 1
+	Modo de presentaci&#243;n del Dolor Tor&#225;cico: Lentamente progresivo
+70,5,1 1
+	Modo de presentaci&#243;n del Dolor Tor&#225;cico: Recurrente
+71,5,1 1
+	Caracter&#237;sticas del Dolor Tor&#225;cico: Opresivo
+72,5,1 1
+	Caracter&#237;sticas del Dolor Tor&#225;cico: Punzante
+73,5,1 1
+	Caracter&#237;sticas del Dolor Tor&#225;cico: Quemante
+74,5,1 1
+	Caracter&#237;sticas del Dolor Tor&#225;cico: Profundo
+75,5,1 1
+	Tiempo de duraci&#243;n del Dolor Tor&#225;cico: Corta duraci&#243;n
+76,5,1 1
+	Tiempo de duraci&#243;n del Dolor Tor&#225;cico: D&#237;as
+77,5,1 1
+	CMBD TBC Pulmonar (Tos)
+78,5,1 1
+	El Dolor Tor&#225;cico se irradia: De retroesternal a hombro, espalda o brazos?
+79,5,1 1
+	El Dolor Tor&#225;cico se irradia: Metam&#233;rica
+80,5,1 1
+	El Dolor Tor&#225;cico se irradia: De base pulmonar hacia hombro
+81,5,1 1
+	El Dolor Tor&#225;cico se irradia
+82,5,1 2
+	El Dolor Tor&#225;cico se desencadena o agudiza con: MovimienTos respiratorios
+	 (inspiraci&#243;n/expiraci&#243;n)
+83,5,1 1
+	El Dolor Tor&#225;cico se desencadena o agudiza con la Tos
+84,5,1 1
+	El Dolor Tor&#225;cico se desencadena o agudiza con: MovimienTos del tronco
+85,5,1 2
+	El Dolor Tor&#225;cico se desencadena o agudiza con: Presi&#243;n sobre pared
+	 tor&#225;cica
+86,5,1 1
+	El Dolor Tor&#225;cico se desencadena o agudiza con: Degluci&#243;n
+87,5,1 1
+	El Dolor Tor&#225;cico se desencadena o agudiza con: Ejercicio
+88,5,1 1
+	El Dolor Tor&#225;cico se desencadena o agudiza con: El dec&#250;bito
+89,5,1 1
+	El Dolor Tor&#225;cico se alivia con: Ingesta de leche y/o alcalinos
+90,5,1 1
+	El Dolor Tor&#225;cico se alivia con: Nitroglicerina sublingual
+91,5,1 1
+	El Dolor Tor&#225;cico se alivia con: Flexi&#243;n del tronco
+92,5,1 1
+	El Dolor Tor&#225;cico no se alivia con nada
+93,5,1 1
+	Tiempo de duraci&#243;n del Dolor Tor&#225;cico: Semanas - Meses
+94,5,1 1
+	CMBD TBC Pulmonar (Dolor Tor&#225;cico)
+95,5,1 1
+	La Tos tiene relaci&#243;n con la Aspiraci&#243;n de un Cuerpo Extra&#241;o
+96,5,1 1
+	La Disnea tiene relaci&#243;n con la Aspiraci&#243;n de un Cuerpo Extra&#241;o
+97,5,1 1
+	CMBD Neumonitis por Hipersensibilidad (Tos)
+98,5,1 1
+	CMBD Asma Bronquial (Expectoraci&#243;n)
+99,5,1 1
+	CMBD Asma Bronquial (Dolor Tor&#225;xico)
+100,5,1 1
+	El Dolor Tor&#225;cico dorsal se localiza en: Regi&#243;n central dorsal
+101,5,1 1
+	Intermedio 4 Asma Bronquial
+102,5,1 1
+	CMBD de Hiperventilaci&#243;n Pulmonar (S&#237;ncope)
+103,5,1 1
+	El Dolor Tor&#225;cico dorsal se localiza en: Hemit&#243;rax
+104,5,1 2
+	Intermedio de Antecedentes personales de Inmunosupresores, Drogadicto,
+	 Homosexual, Inmunodeprimido, HIV
+105,5,1 2
+	Antecedentes personales de Inmunosupresores, es Drogadicto u Homosexual o
+	 Corticoides
+106,5,1 1
+	Comod&#237;n de la variable 33
+107,5,1 1
+	CMBD Neumotorax  y Tromboembolismo Pulmonar Agudo (Disnea)
+108,5,1 1
+	CMBD de S&#237;ndrome Carcinoide (Tos)
+109,5,1 1
+	CMBD de Neumotorax (Dolor Tor&#225;cico)
+110,5,1 1
+	CMBD de Neoplasia Pulmonar (Tos)
+111,5,1 1
+	CMBD de Neoplasia Pulmonar (Hemoptisis)
+112,5,1 1
+	CMBD de Neoplasia Pulmonar (Dolor Tor&#225;cico)
+113,5,1 1
+	CMBD Neoplasia Pulmonar (Disnea)
+114,5,1 1
+	CMBD de Traqueobronquitis Aguda (Tos)
+115,5,1 1
+	Existen evidencias de Bronquiectasias
+116,5,1 1
+	Existen evidencias de Enfermedad Pulmonar Obstructiva Cr&#243;nica
+117,5,1 1
+	Existen evidencias de Asma Bronquial
+118,5,1 1
+	Existen evidencias de Traqueobronquitis Aguda
+119,5,1 1
+	Existen evidencias de Neumon&#237;a At&#237;pica
+120,5,1 1
+	Existen evidencias de Tuberculosis Pulmonar
+121,5,1 1
+	Existen evidencias de Bronquiectasia Infectada
+122,5,1 1
+	Existen evidencias de Hemoptisis por Bronquiectasia
+123,5,1 1
+	Existen evidencias de Neumon&#237;a Bacteriana
+124,5,1 1
+	Existen evidencias de Neoplasia Pulmonar
+125,5,1 1
+	Existen evidencias de Neumotorax
+126,5,1 1
+	CMBD de Neumopat&#237;a Intersticial (Tos)
+127,5,1 1
+	Intermedio de (16 V 17) &#38; 20
+128,5,1 1
+	Existen evidencias de Neumonitis de Hipersensibilidad
+129,5,1 1
+	Existen evidencias de Tromboembolismo Pulmonar Agudo (TEPA)
+130,5,1 1
+	Intermedio 1 para algunos s&#237;ntomas Respiratorios de V&#237;as Altas
+131,5,1 1
+	Existen evidencias de Insuficiencia Respiratoria Aguda
+132,5,1 1
+	Existen evidencias de Derrame Pleural
+133,5,1 1
+	Existen evidencias de Dolor Tor&#225;cico de Pared
+134,5,1 1
+	Existen evidencias de Neumonitis por Radiaci&#243;n
+135,5,1 1
+	Existen evidencias de Hiperventilaci&#243;n Emocional
+136,5,1 1
+	Existen evidencias de Hipertensi&#243;n Pulmonar Primaria
+137,5,1 1
+	Existen evidencias de Fibrosis Qu&#237;stica
+138,5,1 1
+	Existen evidencias de Neumopat&#237;a Intersticial
+139,5,1 1
+	Existen evidencias de Aspiraci&#243;n Cuerpo Extra&#241;o
+140,5,1 1
+	Existen evidencias de S&#237;ndrome Carcinoide
+141,5,1 1
+	Existen evidencias de S&#237;ndrome de Pickwick
+142,5,1 1
+	CMBD de Hipertensi&#243;n Pulmonar Primaria (Dolor Tor&#225;cico)
+143,5,1 1
+	El Dolor Tor&#225;cico se desencadena o agudiza con: Traumatismos
+144,5,1 1
+	CMBD de Traqueobronquitis Aguda (Dolor Tor&#225;cico)
+145,5,1 1
+	CMBD Neumonia Bacteriana (Tos y por Expectoraci&#243;n)
+146,5,1 1
+	CMBD Neumonia At&#237;pica (Tos o Expectoraci&#243;n)
+147,5,1 1
+	Comod&#237;n de la variable 11
+148,5,1 1
+	Comod&#237;n de la variable 27
+149,5,1 1
+	El Dolor Tor&#225;cico se desencadena o agudiza: Espont&#225;neamente
+150,5,1 1
+	El Dolor Tor&#225;cico se alivia con: Ejercicio f&#237;sico
+151,5,1 1
+	CMBD de Neumonia Bacteriana
+152,5,1 1
+	No se usa
+153,5,1 1
+	CMBD de Enfermedad Pulmonar Obstructiva Cr&#243;nica (Tos)
+154,5,1 1
+	CMBD de de Enfermedad Pulmonar Obstructiva Cr&#243;nica (Disnea)
+155,5,1 1
+	Intermedio 45 V 47
+156,5,1 1
+	CMBD de de Enfermedad Pulmonar Obstructiva Cr&#243;nica (Expectoraci&#243;n)
+157,5,1 1
+	CMBD de Neoplasia Pulmonar (S&#237;ndrome General)
+158,5,1 1
+	CMBD de S&#237;ndrome Carcinoide (Disnea)
+159,5,1 1
+	CMBD de S&#237;ndrome de Pickwic (Disnea)
+160,5,1 1
+	CMBD de Dolor Tor&#225;cico de Pared (Dolor Tor&#225;cico)
+161,5,1 1
+	Intermedio 1 Bronquiectasias
+162,5,1 1
+	Intermedio 2 Bronquiectasias
+163,5,1 1
+	Intermedio 3 Bronquiectasias
+164,5,1 1
+	Intermedio 4 Bronquiectasias
+165,5,1 1
+	Intermedio 5 Bronquiectasias
+166,5,1 1
+	Intermedio 6 Bronquiectasias
+167,5,1 1
+	Intermedio 7 Bronquiectasias
+168,5,1 1
+	Intermedio 8 Bronquiectasias
+169,5,1 1
+	CMBD Bronquiectasia Infectada (Dolor Tor&#225;cico)
+170,5,1 1
+	CMBD DE Hiperventilaci&#243;n Emocional (Disnea)
+171,5,1 1
+	Intermedio 4 Tuberculosis Pulmonar
+172,5,1 1
+	Intermedio 5 Tuberculosis pulmonar
+173,5,1 1
+	Intermedio 6 Tuberculosis pulmonar
+174,5,1 1
+	Intermedio para 45{1,1}
+175,5,1 1
+	Intermedio 4 Neumotorax
+176,5,1 1
+	Intermedio 5 Neumotorax
+177,5,1 1
+	Intermedio 2 Neumonia Bacteriana
+178,5,1 1
+	Intermedio de Hemoptisis
+179,5,1 1
+	Intermedio 5 Neoplasia Pulmonar
+180,5,1 1
+	CMBD de Enfermedad Pulmonar Obstructiva Cr&#243;nica (Tos)
+181,5,1 1
+	CMBD de Enfermedad Pulmonar Obstructiva Cr&#243;nica (Disnea)
+182,5,1 1
+	Intermedio 10 Enfermedad Pulmonar Obstructiva Cr&#243;nica
+183,5,1 1
+	Intermedio 5 Asma Bronquial
+184,5,1 2
+	El paciente ha recibido tratamiento con Inmunosupresores, es Drogadicto u
+	 Homosexual
+185,5,1 1
+	Intermedio Tuberculosis Pulmonar
+186,5,1 1
+	Intermedio Tuberculosis Pulmonar
+187,5,1 1
+	Intermedio Tuberculosis Pulmonar
+188,5,1 1
+	Intermedio Tuberculosis Pulmonar
+189,5,1 1
+	Intermedio Tuberculosis Pulmonar
+190,5,1 1
+	Intermedio Tuberculosis Pulmonar
+191,5,1 1
+	Intermedio Tuberculosis Pulmonar
+192,5,1 1
+	Intermedio Tuberculosis Pulmonar
+193,5,1 1
+	Intermedio Neoplasia Pulmonar
+194,5,1 1
+	Intermedio Neoplasia Pulmonar
+195,5,1 1
+	Intermedio para 105{2,1}
+196,5,1 1
+	Intermedio para 17{2,1}
+197,5,1 1
+	CMBD de Tromboembolismo Pulmonar Agudo (Dolor Tor&#225;cico)
+198,5,1 1
+	Intermedio Tromboembolismo Pulmonar Agudo
+199,5,1 1
+	Intermedio Neumon&#237;a
+200,5,1 1
+	Intermedio Neumon&#237;a
+201,5,1 1
+	no se usa
+202,5,1 1
+	Existen evidencias de Laringitis Aguda
+203,5,1 1
+	Existen evidencias de Faringitis Aguda
+204,5,1 1
+	no se usa
+205,5,1 1
+	Intermedio General
+206,5,1 1
+	Intermedio 2 para algunos S&#237;ntomas Respiratorios de V&#237;as Altas
+207,5,1 1
+	CMBD de Laringitis (Tos)
+208,5,1 1
+	CMBD de Laringitis (V&#237;as Alta)
+209,5,1 1
+	no se usa
+210,5,1 1
+	no se usa
+211,5,1 1
+	no se usa
+212,5,1 1
+	Intermedio General
+213,5,1 1
+	Intermedio Asma Bronquial
+214,5,1 1
+	Intermedio Asma Bronquial
+215,5,1 1
+	Intermedio Asma Bronquial
+216,5,1 1
+	CMBD de Laringitis Aguda (Disnea)
+217,5,1 1
+	CMBD Asma Bronquial (Disnea)
+218,5,1 1
+	Intermedio 3 para algunos S&#237;ntomas Respiratorios de V&#237;as Altas
+219,5,1 1
+	CMBD de Neumopat&#237;a Intersticial (Disnea)
+220,5,1 1
+	Intermedio Asma Bronquial
+221,5,1 1
+	Intermedio General
+222,5,1 1
+	no se usa
+223,5,1 1
+	No se usa
+224,5,1 1
+	No se usa
+225,5,1 1
+	Existen evidencias de Neumoconiosis por Carb&#243;n
+226,5,1 1
+	Existen evidencias de Silicosis
+227,5,1 1
+	No se usa
+228,5,1 1
+	No se usa
+229,5,1 1
+	No se usa
+230,5,1 1
+	No se usa
+231,5,1 1
+	No se usa
+232,5,1 1
+	No se usa
+233,5,1 1
+	No se usa
+234,5,1 1
+	No se usa
+235,5,1 1
+	Intermedio General
+236,5,1 1
+	Tiempo de duraci&#243;n del Dolor Tor&#225;cico: Segundos
+237,5,1 1
+	Tiempo de duraci&#243;n del Dolor Tor&#225;cico: Minutos
+238,5,1 1
+	Tiempo de duraci&#243;n del Dolor Tor&#225;cico: Horas
+239,5,1 1
+	El paciente refiere tener Disnea Parox&#237;stica Nocturna
+240,5,1 1
+	El Dolor Tor&#225;cico se alivia con: Reposo
+241,5,1 1
+	Comodin para la variable de S&#237;ntomas Acompa&#241;antes de Tos
+242,5,1 1
+	Comodin para la variable de S&#237;ntomas Acompa&#241;antes de Disnea
+243,5,1 1
+	Comodin para la variable de S&#237;ntomas Acompa&#241;antes de Hemoptisis
+244,5,1 2
+	Comodin para la variable de S&#237;ntomas Acompa&#241;antes de
+	 Expectoraci&#243;n
+245,5,1 2
+	Comodin para la variable de S&#237;ntomas Acompa&#241;antes de Dolor
+	 Tor&#225;cico
+246,5,1 1
+	Tose con la degluci&#243;n
+247,5,1 1
+	El paciente presenta Infecci&#243;n Respiratoria de Repetici&#243;n
+248,5,1 1
+	no se usa
+249,5,1 1
+	no se usa
+250,5,1 1
+	no se usa
+251,5,1 1
+	Intermedio expectoraci&#243;n es mucosa-purulenta &#34;40 V 41&#34;
+252,5,1 1
+	Intermedio expectoraci&#243;n es mucosa-purulenta-f,tida &#34;40 V 41 V 42&#34;
+253,5,1 1
+	no se usa
+254,5,1 1
+	no se usa
+255,5,1 1
+	Intermedio &#34;100{2,1} V 101{2,1}&#34;
+256,5,1 1
+	Intermedio &#34;53 V 54&#34;
+257,5,1 1
+	no se usa
+258,5,1 1
+	no se usa
+259,5,1 1
+	Intermedio &#34;49 V 45 V 47&#34;
+260,5,1 1
+	no se usa
+261,5,1 1
+	no se usa
+262,5,1 1
+	Intermedio &#34;11 V 15&#34;
+263,5,1 1
+	Intermedio &#34;15 V 3&#34;
+264,5,1 1
+	Alternando con la Hemoptisis presenta Expectoraci&#243;n
+265,5,1 1
+	Intermedio &#34;36 V 105&#34;
+266,5,1 1
+	Intermedio &#34;105 V 115{2,1}&#34;
+267,5,1 1
+	Intermedio &#34;265 V 115{2,1}&#34;
+268,5,1 1
+	Intermedio &#34;105 V 105{2,1}&#34;
+269,5,1 1
+	Intermedio &#34;20 V 21&#34;
+270,5,1 1
+	Intermedio &#34;21{1,1} V 105&#34;
+271,5,1 1
+	no se usa
+272,5,1 1
+	Intermedio &#34;36 V 25{1,1}&#34;
+273,5,1 1
+	no se usa
+274,5,1 1
+	no se usa
+275,5,1 1
+	no se usa
+276,5,1 1
+	no se usa
+277,5,1 1
+	Intermedio &#34;53 V 101{2,1} V 114{2,1} V 42{1,1}&#34;
+278,5,1 1
+	Intermedio &#34;114{2,1} V 184&#34;
+279,5,1 1
+	Intermedio &#34;184 V 221&#34;
+280,5,1 1
+	Intermedio &#34;53 V 221&#34;
+281,5,1 1
+	Intermedio &#34;184 V 114{2,1}&#34;
+282,5,1 1
+	Intermedio &#34;101{2,1} V 43{1,1}&#34;
+283,5,1 1
+	Intermedio &#34;2{2,1} V 101{2,1}&#34;
+284,5,1 1
+	Intermedio &#34;101{2,1} V 107{2,1}&#34;
+285,5,1 1
+	no se usa
+286,5,1 1
+	no se usa
+287,5,1 1
+	Intermedio &#34;21{1,1} V 23{1,1}&#34;
+288,5,1 1
+	no se usa
+289,5,1 1
+	Intermedio &#34;1 v 2&#34;
+290,5,1 1
+	no se usa
+291,5,1 1
+	no se usa
+292,5,1 1
+	Intermedio &#34;82 V 83&#34;
+293,5,1 1
+	Intermedio &#34;23{1,1} V 24{1,1}&#34;
+294,5,1 1
+	Existen evidencias de C&#225;ncer Metast&#225;sico
+295,5,1 1
+	Intermedio &#34;22{1,1} V 25{1,1}&#34;
+296,5,1 1
+	No se usa
+297,5,1 1
+	No se usa
+298,5,1 1
+	No se usa
+299,5,1 1
+	No se usa
+300,5,1 1
+	No se usa
+301,5,1 1
+	No se usa
+302,5,1 1
+	No se usa
+303,5,1 1
+	Intermedio &#34;2 V 39&#34;
+304,5,1 1
+	Intermedio &#34;21{1,1} V 25{1,1} V 104 V 24{1,1}&#34;
+305,5,1 1
+	no se usa
+306,5,1 1
+	no se usa
+307,5,1 1
+	Intermedio &#34;58{1,1} V 45{1,1}&#34;
+308,5,1 1
+	Intermedio &#34;45{1,1} V 58{1,1}&#34;
+309,5,1 1
+	Intermedio &#34;45{1,1} V 17{2,1}&#34;
+310,5,1 1
+	Intermedio &#34;6{2,1} V 7{2,1}&#34;
+311,5,1 1
+	Intermedio &#34;34 V 30 V 9{2,1}&#34;
+312,5,1 1
+	no se usa
+313,5,1 1
+	Intermedio &#34;21{1,1} V 25{1,1} V 24{1,1}&#34;
+314,5,1 1
+	Intermedio &#34;28 V 29 V 31 V 32 V 33&#34;
+315,5,1 1
+	No se usa
+316,5,1 1
+	Intermedio &#34;9{2,1} V 19{2,1}&#34;
+317,5,1 1
+	Intermedio &#34;9{2,1} V 45{1,1}&#34;
+318,5,1 1
+	Intermedio &#34;84 V 85 V 86 V 87 V 88&#34;
+319,5,1 1
+	no se usa
+320,5,1 1
+	no se usa
+321,5,1 1
+	Intermedio &#34;17 V 18&#34;
+322,5,1 1
+	Intermedio &#34;22{1,1} V 21{1,1}&#34;
+323,5,1 1
+	no se usa
+324,5,1 1
+	Intermedio &#34;46{1,1} v 21{2,1}&#34;
+325,5,1 1
+	no se usa
+326,5,1 1
+	Intermedio &#34;2{4,1} V 116{2,1} V 117{2,1}&#34;
+327,5,1 1
+	No se usa
+328,5,1 1
+	No se usa
+329,5,1 1
+	Intermedio &#34;44{1,1} V 3&#34;
+330,5,1 1
+	Intermedio &#34;121{1,1} V 43{1,1}&#34;
+331,5,1 1
+	Intermedio &#34;28 V 21{1,1}&#34;
+332,5,1 1
+	El paciente presenta Tos o Expectoraci&#243;n o Disnea

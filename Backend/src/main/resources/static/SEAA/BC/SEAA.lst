@@ -1,0 +1,62 @@
+DOMINIO 1 {
+	1 gener11.kb gener11.ptx gener11.vtx 
+	1 gener12.kb gener12.ptx NULL 
+}
+DOMINIO 2 {
+	1 otros21.kb otros21.ptx otros21.vtx 
+	1 otros22.kb otros22.ptx otros22.vtx 
+}
+DOMINIO 3 {
+	1 exfis31.kb exfis31.ptx exfis31.vtx 
+	* 1 exfis32.kb exfis32.ptx NULL 
+	* 1 exfis33.kb exfis33.ptx NULL 
+	* 1 exfis34.kb exfis34.ptx NULL 
+	* 1 exfis35.kb exfis35.ptx NULL 
+	* 1 exfis36.kb exfis36.ptx NULL 
+	* 1 exfis37.kb exfis37.ptx NULL 
+	* 1 exfis38.kb exfis38.ptx NULL 
+	* 1 exfis39.kb exfis39.ptx NULL 
+	* 1 exfi310.kb exfi310.ptx NULL 
+	* 1 exfi311.kb exfi311.ptx NULL 
+	* 1 exfi312.kb exfi312.ptx NULL 
+	* 1 exfi313.kb exfi313.ptx NULL 
+}
+DOMINIO 4 {
+	1 diges41.kb diges41.ptx diges41.vtx 
+	1 diges42.kb diges42.ptx NULL 
+}
+DOMINIO 5 {
+	1 resp51.kb resp51.ptx resp51.vtx 
+}
+DOMINIO 6 {
+	1 locom61.kb locom61.ptx locom61.vtx 
+}
+DOMINIO 7 {
+	1 hemat71.kb hemat71.ptx hemat71.vtx 
+}
+DOMINIO 8 {
+	1 cardi81.kb cardi81.ptx cardi81.vtx 
+}
+DOMINIO 9 {
+	1 genur91.kb genur91.ptx genur91.vtx 
+}
+DOMINIO 10 {
+	1 oftl101.kb oftl101.ptx oftl101.vtx 
+}
+DOMINIO 11 {
+	1 neur111.kb neur111.ptx neur111.vtx 
+}
+DOMINIO 12 {
+	1 endo121.kb endo121.ptx endo121.vtx 
+}
+DOMINIO 13 {
+	1 otor131.kb otor131.ptx otor131.vtx 
+}
+DOMINIO 14 {
+	1 mult141.kb mult141.ptx mult141.vtx 
+}
+DOMINIO 15 {
+	1 derm151.kb derm151.ptx derm151.vtx 
+}
+IMPLICACIONES
+SadClin.ie

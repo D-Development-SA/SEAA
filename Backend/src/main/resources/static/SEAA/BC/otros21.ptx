@@ -1,0 +1,1952 @@
+1,2,1 1
+	Antecedentes Personales de Tabaquismo
+2,2,1 2
+	Antecedentes Personales de Bebedor Habitual (M&#225;s de 80 gramos
+	 etanol/d&#237;a)
+3,2,1 1
+	El paciente ha estado relacionado con Carb&#243;n
+4,2,1 1
+	El paciente ha estado relacionado con S&#237;lice
+5,2,1 1
+	El paciente ha estado relacionado con Amianto (Asbesto)
+6,2,1 1
+	El paciente ha estado relacionado con Polvos Org&#225;nicos (Heno, etc)
+7,2,1 1
+	El paciente ha estado relacionado con Aves
+8,2,1 1
+	El paciente ha estado relacionado con Aire Acondicionado
+9,2,1 1
+	Tratamiento Farmacol&#243;gico reciente con Anticonceptivos
+10,2,1 1
+	Tratamiento Farmacol&#243;gico con Quimioterap&#233;uticos e Inmunosupresores
+11,2,1 1
+	Tratamiento Farmacol&#243;gico con Anticoagulantes
+12,2,1 1
+	Antecedentes Personales de Toxicoman&#237;a
+13,2,1 1
+	Antecedentes Personales de Enfermedades Neopl&#225;sicas Extrapulmonares
+14,2,1 1
+	Antecedentes Personales de Obesidad
+15,2,1 1
+	Antecedentes Personales de Coagulopat&#237;as (Hemofilia, P&#250;rpura)
+16,2,1 1
+	Antecedentes Personales de Cirrosis Hep&#225;tica
+17,2,1 1
+	Antecedentes Personales de Traumatismo Tor&#225;cico Previo
+18,2,1 1
+	Antecedentes Personales de Ingesta-Aspiraci&#243;n de Cuerpo Extra&#241;o
+19,2,1 1
+	Antecedentes Personales de Encamamiento Prolongado
+20,2,1 1
+	Antecedentes Personales de Radiaciones en Regi&#243;n Tor&#225;cica
+21,2,1 1
+	Antecedentes Personales de Patolog&#237;a Psicosom&#225;tica
+22,2,1 1
+	El paciente realiza Actividades Laborales Intensas en Posiciones Anormales
+23,2,1 1
+	Tratamiento Farmacol&#243;gico con Salicilatos
+24,2,1 1
+	Antecedentes Personales de Enfermedad Drepranoc&#237;tica
+25,2,1 1
+	Antecedentes Personales de Traumatismo
+26,2,1 1
+	Antecedentes Personales de Infecciones Postoperatorias
+27,2,1 3
+	El paciente ha realizado alguna actividad que requiera la utilizaci&#243;n
+	 intensa de las articulaciones de las Extremidades Superiores: Tenis de Campo,
+	 Nataci&#243;n, Baseball, etc.
+28,2,1 1
+	El paciente ha ingerido Mariscos
+29,2,1 1
+	El paciente reside o ha residido en Areas End&#233;micas Boci&#243;genas
+30,2,1 1
+	El paciente ha tomado Bebidas Acidas y/o Bicarbonatadas
+31,2,1 1
+	El paciente ha tomado Leche y/o Derivados
+32,2,1 1
+	El paciente ha ingerido Huevos
+33,2,1 1
+	El paciente ha ingerido Carnes
+34,2,1 1
+	El paciente presenta una Ingesta de Agua
+35,2,1 1
+	El paciente ha ingerido Aves
+36,2,1 1
+	El paciente ha ingerido Arroz
+37,2,1 1
+	El paciente ha ingerido Pescados Ahumados
+38,2,1 1
+	El paciente ha ingerido Conservas
+39,2,1 1
+	El paciente ha ingerido Gluten
+40,2,1 1
+	El paciente est&#225; en la Pubertad
+41,2,1 1
+	Antecedentes Personales de Cirug&#237;a Hipofisiaria
+42,2,1 1
+	Antecedentes Personales de Radiaciones con Contraste
+43,2,1 1
+	La paciente est&#225; Embarazada
+44,2,1 1
+	Antecedentes Familiares de Otras Enfermedades de la Sangre
+45,2,1 1
+	El paciente mantiene Dieta Pobre en Fibras Vegetales
+46,2,1 1
+	El paciente ingiere Poco L&#237;quido
+47,2,1 1
+	El paciente es Sedentario
+48,2,1 1
+	El paciente retiene de Forma Voluntaria el Deseo de Defecaci&#243;n
+49,2,1 1
+	El paciente Abusa del Uso de Enemas
+50,2,1 1
+	Tratamiento Farmacol&#243;gico con Opi&#225;ceos
+51,2,1 1
+	Tratamiento Farmacol&#243;gico con Antidepresivos Tric&#237;clicos
+52,2,1 1
+	Tratamiento Farmacol&#243;gico con Anticolin&#233;rgicos
+53,2,1 1
+	Tratamiento Farmacol&#243;gico con Anti&#225;cidos
+54,2,1 1
+	Tratamiento Farmacol&#243;gico con Hierro
+55,2,1 1
+	Tratamiento Farmacol&#243;gico con Antihipertensivos
+56,2,1 1
+	Tratamiento Farmacol&#243;gico con Diur&#233;ticos
+57,2,1 1
+	El paciente tiene Antecedentes de Abuso de Laxantes
+58,2,1 1
+	Antecedentes Personales de Intervenciones Quir&#250;rgicas
+59,2,1 1
+	Antecedentes Personales de Homosexualidad
+60,2,1 1
+	Antecedentes Personales de Toxicoman&#237;a Parenteral
+61,2,1 1
+	Antecedentes Personales de Pinchazos o Cortes
+62,2,1 1
+	Antecedentes Personales de Transfusiones Recientes
+63,2,1 1
+	Antecedentes Personales de Pr&#225;ctica Sexual de Riesgo
+64,2,1 1
+	Tratamiento Farmacol&#243;gico con Anovulatorios o Anticonceptivos
+65,2,1 1
+	La paciente tiene retraso de m&#225;s de 7 d&#237;as de la Menstruaci&#243;n
+66,2,1 1
+	El paciente est&#225; en la Menopausia
+67,2,1 1
+	El paciente ha ingerido Preparado de Hierro
+68,2,1 1
+	El paciente ha ingerido Bismuto
+69,2,1 1
+	El paciente ha ingerido Vino Tinto
+70,2,1 1
+	El paciente ha ingerido Calamares en su Tinta
+71,2,1 1
+	El paciente ha ingerido Remolacha
+72,2,1 1
+	Antecedentes Familiares de Coagulopatias Hereditarias
+73,2,1 1
+	Tratamiento Farmacol&#243;gico con Corticoides
+74,2,1 1
+	La paciente est&#225; en fecha Premenstrual
+75,2,1 1
+	La paciente est&#225; en mitad del Ciclo Menstrual
+76,2,1 1
+	Tratamiento Farmacol&#243;gico con Salicilatos y AINES
+77,2,1 1
+	H&#225;bitos Diet&#233;ticos del paciente
+78,2,1 1
+	Antecedentes Personales de Cirug&#237;a G&#225;strica
+79,2,1 1
+	Tratamiento Farmacol&#243;gico con Antibi&#243;ticos
+80,2,1 1
+	Tratamiento Farmacol&#243;gico con Colin&#233;rgicos
+81,2,1 1
+	Tratamiento Farmacol&#243;gico con Colchicina
+82,2,1 1
+	Tratamiento Farmacol&#243;gico con Digital
+83,2,1 1
+	Comod&#237;n de Antiarr&#237;tmicos que ha tomado el paciente
+84,2,1 1
+	Tratamiento Farmacol&#243;gico con Antimal&#225;rico
+85,2,1 1
+	El paciente ha ingerido Setas
+86,2,1 1
+	El paciente ha ingerido Pescados
+87,2,1 1
+	El paciente ha ingerido Embutidos
+88,2,1 1
+	Antecedentes Personales de Panhipopitituarismo
+89,2,1 1
+	Antecedentes Personales de Cirug&#237;a del Aparato Digestivo
+90,2,1 1
+	Ha realizado alg&#250;n viaje recientemente a pa&#237;ses tropicales
+91,2,1 1
+	Antecedentes Personales de Radiaciones en Regi&#243;n Abdominal
+92,2,1 1
+	Antecedentes Personales de Intolerancia al Gluten
+93,2,1 2
+	El paciente tiene Tratamiento Farmacol&#243;gico Previo o ha Ingerido
+	 Medicamentos
+94,2,1 1
+	El paciente tiene antecedentes de ingesta de F&#225;rmacos Gastroerosivos
+95,2,1 1
+	Antecedentes Personales de Derrame Pleural
+96,2,1 1
+	Antecedentes Personales de Derrame Peric&#225;rdico
+97,2,1 1
+	Antecedentes Personales de Diabetes Mellitus
+98,2,1 1
+	Antecedentes Personales de Hipertiroidismo
+99,2,1 1
+	Antecedentes Personales de Hipotiroidismo
+100,2,1 1
+	Antecedentes Personales de Neumon&#237;a
+101,2,1 1
+	Antecedentes Personales de Tuberculosis
+102,2,1 1
+	Antecedentes Personales de Bronquiectasia
+103,2,1 1
+	Antecedentes Personales de Tumores Pulmonares
+104,2,1 1
+	Antecedentes Personales de Enfermedades Pleurales
+105,2,1 1
+	Antecedentes Personales de Asma Bronquial
+106,2,1 1
+	Antecedentes Personales de Broncopat&#237;a Cr&#243;nica
+107,2,1 1
+	Antecedentes Personales de Neumoconiosis
+108,2,1 1
+	Antecedentes Personales de Neumotorax
+109,2,1 1
+	Antecedentes Personales de Enfermedad Respiratoria
+110,2,1 1
+	Antecedentes Personales de Micro o Macroadenomas Hipofisiarios producto de ACTH
+111,2,1 1
+	Antecedentes Personales de Enfermedad Cardiovascular
+112,2,1 1
+	Antecedentes Personales de Enfermedad Digestiva
+113,2,1 1
+	Antecedentes Personales de Enfermedad Hematol&#243;gica
+114,2,1 1
+	Antecedentes Familiares de Tuberculosis
+115,2,1 1
+	Antecedentes Familiares de Asma Bronquial
+116,2,1 1
+	Antecedentes Familiares de D&#233;ficit de Alfaantitripsina
+117,2,1 1
+	Antecedentes Familiares de Fibrosis Qu&#237;stica
+118,2,1 1
+	Antecedentes Familiares de Anemia Ferrop&#233;nica
+119,2,1 1
+	El paciente ha estado relacionado con Hierro
+120,2,1 1
+	El paciente ha estado relacionado con Esta&#241;o
+121,2,1 1
+	El paciente ha estado relacionado con Bario
+122,2,1 1
+	El paciente ha estado relacionado con Silicato de Magnesio
+123,2,1 1
+	El paciente ha estado relacionado con Arena, Mica, Silicato
+124,2,1 1
+	El paciente ha estado relacionado con Polvo de Aluminio
+125,2,1 1
+	El paciente ha estado relacionado con Berilio
+126,2,1 1
+	Tratamiento Farmacol&#243;gico con Hidanto&#237;nas
+127,2,1 1
+	Tratamiento Farmacol&#243;gico con Amiodarona
+128,2,1 1
+	Antecedentes Personales de Enfermedades Sist&#233;micas e Infecciosas
+129,2,1 1
+	Comod&#237;n de Enfermedades Sist&#233;micas
+130,2,1 1
+	Embarazo mayor de 3 meses
+131,2,1 2
+	El paciente est&#225; o ha estado bajo Tratamiento Farmacol&#243;gico con
+	 Anticoagulantes
+132,2,1 1
+	Antecedentes Personales de Neumon&#237;a a Repetici&#243;n
+133,2,1 1
+	Comod&#237;n de &#34;Relaci&#243;n del paciente con Polvos Org&#225;nicos&#34;
+134,2,1 1
+	El paciente ha estado relacionado con Heno
+135,2,1 1
+	El paciente ha estado relacionado con Ca&#241;a de Az&#250;car
+136,2,1 1
+	El paciente ha estado relacionado con Abono
+137,2,1 1
+	El paciente ha estado relacionado con Corcho
+138,2,1 1
+	Antecedentes Personales de Aborto o Embarazo Recientes
+139,2,1 1
+	La dieta diaria es normal y equilibrada
+140,2,1 1
+	La dieta diaria excluye alimentos (Dietas Peculiares)
+141,2,1 1
+	El paciente refiere tener Malos H&#225;bitos Alimenticios
+142,2,1 1
+	La dieta diaria es Insuficiente (Dieta Estricta)
+143,2,1 1
+	Tratamiento Farmacol&#243;gico con Bloqueadores de los Canales del Calcio
+144,2,1 1
+	Tratamiento Farmacol&#243;gico con Manitol
+145,2,1 1
+	Tratamiento Farmacol&#243;gico con Indometacina
+146,2,1 1
+	Tratamiento Farmacol&#243;gico con Testosterona
+147,2,1 1
+	Tratamiento Farmacol&#243;gico con Amantadina
+148,2,1 1
+	Antecedentes Familiares de Neoplasias
+149,2,1 1
+	Antecedentes Personales de Otras Enfermedades Neopl&#225;sicas
+150,2,1 1
+	Antecedentes Personales de Alergia
+151,2,1 1
+	Tratamiento Farmacol&#243;gico con 6-Mercaptopurina
+152,2,1 1
+	Antecedentes Personales de Inmunodeficiencia
+153,2,1 2
+	Antecedentes Personales de Drogadicci&#243;n y/o Homosexualidad y/o
+	 Inmunodeprimido
+154,2,1 1
+	Antecedentes Familiares de Enfermedades Respiratorias
+155,2,1 1
+	Antecedentes Familiares de Feocromocitoma
+156,2,1 1
+	Antecedentes Familiares de Enfermedades Cardiovasculares
+157,2,1 1
+	Antecedentes Familiares de Enfermedades Digestivas
+158,2,1 1
+	Antecedentes Familiares de Enfermedades Hematol&#243;gicas
+159,2,1 1
+	Antecedentes Familiares de Anemia Hemol&#237;tica o Hereditaria
+160,2,1 1
+	Antecedentes Familiares de Alergia
+161,2,1 1
+	Antecedentes Familiares de Ictericia Org&#225;nica
+162,2,1 1
+	Antecedentes Familiares de Ictericia Funcional
+163,2,1 1
+	Antecedentes Familiares de Anemia Ferrop&#233;nica
+164,2,1 1
+	Antecedentes Personales de Gastritis
+165,2,1 1
+	Antecedentes Personales de Esofagitis
+166,2,1 1
+	Antecedentes Personales de V&#225;rices Esof&#225;gicas
+167,2,1 1
+	Antecedentes Personales de Tumores Digestivos Altos
+168,2,1 1
+	Antecedentes Personales de Mallory-Weiss
+169,2,1 1
+	Antecedentes Personales de Disfagia
+170,2,1 1
+	Antecedentes Personales de Dolor Abdominal
+171,2,1 1
+	Antecedentes Personales de Ardor Epig&#225;strico
+172,2,1 1
+	Antecedentes Personales de Pirosis
+173,2,1 1
+	Antecedentes Personales de Lesi&#243;n Hep&#225;tica
+174,2,1 1
+	Antecedentes Personales de Colelitiasis
+175,2,1 1
+	Antecedentes Personales de Litiasis Renal
+176,2,1 1
+	Antecedentes Personales de Intususcepci&#243;n
+177,2,1 1
+	Antecedentes Personales de Adherencias Intra-Abdominales
+178,2,1 1
+	Antecedentes Personales de Neoplasias de Colon
+179,2,1 1
+	Antecedentes Personales de Neoplasias G&#225;stricas
+180,2,1 1
+	Antecedentes Personales de Neoplasias del P&#225;ncreas
+181,2,1 1
+	Antecedentes Personales de Enfermedad Inflamatoria P&#233;lvica
+182,2,1 1
+	Antecedentes Personales de Pancreatitis
+183,2,1 1
+	Antecedentes Personales de V&#243;lvulo
+184,2,1 1
+	Antecedentes Personales de P&#243;lipos en el Colon
+185,2,1 1
+	Antecedentes Personales de Diverticulosis
+186,2,1 1
+	Antecedentes Personales de Enfermedad Inflamatoria Intestinal
+187,2,1 1
+	Antecedentes Personales de Ulcera P&#233;ptica
+188,2,1 1
+	Antecedentes Personales de Manipulaciones Esof&#225;gicas Recientes
+189,2,1 1
+	Antecedentes Personales de Enfermedades Esof&#225;gicas
+190,2,1 1
+	Se indag&#243; sobre los Antecedentes Patol&#243;gicos Familiares
+191,2,1 1
+	Se indag&#243; sobre los H&#225;bitos T&#243;xicos
+192,2,1 1
+	Se indag&#243; sobre los Antecedentes Laborales
+193,2,1 1
+	Se indag&#243; sobre los Antecedentes Patol&#243;gicos Personales
+194,2,1 1
+	Antecedentes Personales de Neuralgia del Ganglio Geniculado
+195,2,1 1
+	Se indag&#243; sobre Otros Datos de Inter&#233;s
+196,2,1 1
+	Antecedentes Personales de Neuralgias en Aur&#237;culos Temporales IX y X Par
+197,2,1 1
+	Antecedentes Personales de Lesiones de la Par&#243;tida
+198,2,1 1
+	Ingesta de Alimentos
+199,2,1 1
+	Antecedentes Personales de Lesiones en la Base de la Lengua
+200,2,1 1
+	Antecedentes Personales de Traumatismos Oticos o Peri&#243;ticos
+201,2,1 1
+	Antecedentes Personales de Neoplasias
+202,2,1 1
+	El paciente ha estado relacionado con polvos inorg&#225;nicos
+203,2,1 1
+	El paciente tiene Antecedentes de Radiaciones
+204,2,1 1
+	Antecedentes Personales de Fracturas Oseas
+205,2,1 1
+	Antecedentes Personales de Luxaciones
+206,2,1 1
+	Antecedentes Personales de Bursitis
+207,2,1 1
+	Antecedentes Personales de Osteoartrosis
+208,2,1 1
+	Antecedentes Personales de Espondilopat&#237;as
+209,2,1 1
+	Antecedentes Personales de Lupus Eritomatoso Sist&#233;mico
+210,2,1 1
+	Antecedentes Personales de Artritis Reumatoidea
+211,2,1 1
+	Antecedentes Personales de Fiebre Reum&#225;tica
+212,2,1 1
+	Antecedentes Personales de Enfermedad Mixta del Tejido conectivo
+213,2,1 1
+	Antecedentes Personales de Esclerodermia
+214,2,1 1
+	Antecedentes Personales de Miastenias Graves
+215,2,1 1
+	Antecedentes Personales de Enfermedad de Behcet
+216,2,1 1
+	Antecedentes Familiares de Lupus Eritomatoso Sist&#233;mico
+217,2,1 1
+	Antecedentes Familiares de Artritis Reumatoidea
+218,2,1 1
+	Antecedentes Familiares de Fiebre Reum&#225;tica
+219,2,1 1
+	Antecedentes Familiares de Enfermedad Mixta del Tejido conectivo
+220,2,1 1
+	Antecedentes Familiares de Esclerodermia
+221,2,1 1
+	Antecedentes Familiares de Miastenias Graves
+222,2,1 1
+	Antecedentes Familiares de Enfermedad de Behcet
+223,2,1 1
+	Antecedentes Familiares de Vasculitis
+224,2,1 1
+	Antecedentes Familiares de Espondilopat&#237;as
+225,2,1 1
+	Antecedentes Familiares de Gota
+226,2,1 1
+	Antecedentes Familiares de Enfermedades del Aparato Osteomioarticular
+227,2,1 1
+	Antecedentes Personales de Enfermedades del Aparato Osteomioarticular
+228,2,1 1
+	Antecedentes Personales de Enfermedades del Aparato Miscelaneas
+229,2,1 1
+	Antecedentes Personales de Laparotom&#237;a
+230,2,1 1
+	Antecedentes Personales de Rinitis Aguda o Cr&#243;nica
+231,2,1 1
+	Antecedentes Personales de Mononucleosis Infecciosa
+232,2,1 1
+	Antecedentes Personales de Anemia
+233,2,1 1
+	Antecedentes Personales de Anemia Microc&#237;tica
+234,2,1 1
+	Antecedentes Personales de Anemia Macroc&#237;tica
+235,2,1 1
+	Antecedentes Personales de Anemia Normoc&#237;tica
+236,2,1 1
+	Antecedentes Familiares de Intervenciones Quir&#250;rgicas
+237,2,1 1
+	Antecedentes Personales de Flebitis a Repetici&#243;n
+238,2,1 1
+	Antecedentes Personales de Ulcera G&#225;strica
+239,2,1 1
+	Antecedentes Personales de Ulcera Duodenal
+240,2,1 1
+	Antecedentes Personales de Enfermedades del P&#225;ncreas
+241,2,1 1
+	Antecedentes Personales de Enfermedades Neurol&#243;gicas
+242,2,1 1
+	Antecedentes Personales de Colecistitis
+243,2,1 1
+	Antecedentes Personales de Coledocolitiasis
+244,2,1 1
+	Antecedentes Personales de Otitis agudas y/o Cr&#243;nicas
+245,2,1 1
+	Antecedentes Personales de Ictericia Funcional
+246,2,1 1
+	Antecedentes Personales de Anemia Hemol&#237;tica
+247,2,1 1
+	Antecedentes Personales de Patologias Hep&#225;ticas
+248,2,1 1
+	Antecedentes Personales de Adenopatias
+249,2,1 1
+	Antecedentes Personales de Neuropatia
+250,2,1 1
+	Antecedentes Personales de Hipotension Postural
+251,2,1 1
+	Antecedentes Personales de Enfermedad Pulmonar Cr&#243;nica
+252,2,1 1
+	Antecedentes Personales de Hiperpigmentaci&#243;n
+253,2,1 1
+	Antecedentes Personales de Enfermedades del Es&#243;fago
+254,2,1 1
+	Antecedentes Personales de Uve&#237;tis-Iritis
+255,2,1 1
+	Antecedentes Personales de Eritema Nodoso
+256,2,1 1
+	Antecedentes Personales de Pioderma Gangrenoso
+257,2,1 2
+	Antecedentes Personales de Cirug&#237;a por Resecci&#243;n del Intestino
+	 delgado
+258,2,1 1
+	Antecedentes Personales de Cirug&#237;a por Resecci&#243;n del P&#225;ncreas
+259,2,1 1
+	Antecedentes Personales de Apendicectom&#237;a
+260,2,1 1
+	Antecedentes Personales de Colecistectom&#237;a
+261,2,1 1
+	Antecedentes Personales de Enfermedades del Est&#243;mago o Duodeno
+262,2,1 1
+	Antecedentes Personales de Hepatopat&#237;a Cr&#243;nica con/sin Ascitis
+263,2,1 1
+	Antecedentes Personales de Ingesta de C&#225;usticos
+264,2,1 1
+	Tratamiento Farmacol&#243;gico con 5-Fluorouracilo
+265,2,1 1
+	Antecedentes Personales de Tumores en el Es&#243;fago
+266,2,1 1
+	Antecedentes Personales de Tumores en el Est&#243;mago
+267,2,1 1
+	Antecedentes Familiares de Enfermedades de la Sangre
+268,2,1 1
+	Tratamiento Farmacol&#243;gico con Azatioprina
+269,2,1 1
+	Comod&#237;n de Neoplasias detectadas al paciente
+270,2,1 2
+	Antecedentes Personales de Cauterizaciones, Extirpaciones de Cornetes y/o
+	 Cirug&#237;as del Tabique
+271,2,1 1
+	Comod&#237;n de &#34;H&#225;bitos T&#243;xicos...&#34;
+272,2,1 1
+	Antecedentes Personales de Reflujo Gastroesof&#225;gico
+273,2,1 1
+	Antecedentes Personales de Acalasia
+274,2,1 1
+	Antecedentes Personales de Obstrucci&#243;n Esof&#225;gica
+275,2,1 1
+	Antecedentes Personales de Lesiones de la Faringe
+276,2,1 1
+	Antecedentes Personales de Enfermedades del Arbol Biliar
+277,2,1 1
+	Antecedentes Personales de Enfermedades Intestinales
+278,2,1 1
+	Antecedentes Personales de Estados Malabsortivos
+279,2,1 1
+	Antecedentes Personales de Obstrucci&#243;n Intestinal Intermitente
+280,2,1 1
+	Antecedentes Personales de S&#237;ndrome de Colon Irritable
+281,2,1 1
+	Antecedentes Personales de Angina Abdominal
+282,2,1 1
+	Antecedentes Personales de Colitis Isqu&#233;mica
+283,2,1 1
+	Antecedentes Personales de Cardiopat&#237;as
+284,2,1 1
+	Antecedentes Personales de Insuficiencia Renal
+285,2,1 1
+	Antecedentes Personales de Artritis
+286,2,1 1
+	Antecedentes Personales de Gastrectom&#237;a
+287,2,1 1
+	Antecedentes Personales de Patolog&#237;a Renal
+288,2,1 1
+	Comod&#237;n de &#34;Antecedentes Personales del Aparato Respiratorio&#34;
+289,2,1 1
+	Comod&#237;n de &#34;Antecedentes Personales por Aparatos&#34;
+290,2,1 1
+	Comod&#237;n de &#34;Antecedentes Familiares Respiratorios&#34;
+291,2,1 1
+	Comod&#237;n de &#34;Antecedentes Personales Hematol&#243;gicos&#34;
+292,2,1 1
+	Comod&#237;n de &#34;Relaci&#243;n del paciente con Polvos Org&#225;nicos&#34;
+293,2,1 1
+	Comod&#237;n de &#34;Tratamiento Farmacol&#243;gico&#34;
+294,2,1 1
+	Comod&#237;n de &#34;Antiinflamatorios no esteroideos&#34;
+295,2,1 1
+	Comod&#237;n de &#34;Otros datos de inter&#233;s del paciente&#34;
+296,2,1 1
+	Comod&#237;n de &#34;El paciente trabaja o ha trabajado con...&#34;
+297,2,1 1
+	Comod&#237;n de &#34;Informaci&#243;n General sobre el paciente&#34;
+298,2,1 1
+	Comod&#237;n de &#34;Antecedentes Familiares por aparatos...&#34;
+299,2,1 1
+	Antecedentes Personales de Abortos Repetitivos
+300,2,1 1
+	Comod&#237;n de &#34;H&#225;bitos Diet&#233;ticos del paciente&#34;
+301,2,1 1
+	Antecedentes Personales de Intoxicaci&#243;n por Plomo o Mercurio
+302,2,1 1
+	Comod&#237;n de &#34;Radioterapia recibida por el paciente&#34;
+303,2,1 1
+	Antecedentes Personales de Enfermedades Endocrinas
+304,2,1 1
+	Comod&#237;n de &#34;Alimentos ingeridos recientemente por el paciente&#34;
+305,2,1 1
+	Tratamiento Farmacol&#243;gico con Sulfamidicos
+306,2,1 1
+	Tratamiento Farmacol&#243;gico con Sales de Oro
+307,2,1 1
+	Tratamiento Farmacol&#243;gico con Barbit&#250;ricos
+308,2,1 1
+	Tratamiento Farmacol&#243;gico con Arsenicales Org&#225;nicos
+309,2,1 1
+	Tratamiento Farmacol&#243;gico con Antitiroideos
+310,2,1 1
+	Tratamiento Farmacol&#243;gico con Antiinflamatorios no Esteroideos
+311,2,1 1
+	Antecedentes Personales de Cirug&#237;a de la Fosa Anterior del craneo
+312,2,1 1
+	Tratamiento Farmacol&#243;gico con Antagonistas del Folato
+313,2,1 1
+	Antecedentes Personales de C&#225;ncer de Mama
+314,2,1 1
+	El paciente presenta Otros Antecedentes Personales
+315,2,1 1
+	Antecedentes Personales de Hemorragia
+316,2,1 1
+	Antecedentes Personales de Hemorragia por Traumatismos
+317,2,1 1
+	Antecedentes Personales de Hemorragia por Accidente
+318,2,1 1
+	Antecedentes Personales de Hemorragia por Extracci&#243;n Dentaria
+319,2,1 1
+	Antecedentes Personales de Hemorragia por Cirug&#237;a Menor
+320,2,1 1
+	Antecedentes Personales de Infecciones del Sistema Nervioso Central
+321,2,1 1
+	Antecedentes Personales de S&#237;filis
+322,2,1 1
+	Antecedentes Personales de Enfermedades de Genito-Urinario
+323,2,1 1
+	Antecedentes Personales de Infecciones Recurrentes
+324,2,1 1
+	Antecedentes Personales de Insuficiencia Renal Cr&#243;nica
+325,2,1 1
+	Antecedentes Personales de Cirug&#237;a Intestinal
+326,2,1 1
+	Antecedentes Personales de Ulceras Cr&#243;nicas en las Piernas
+327,2,1 1
+	Antecedentes Personales de Enfermedad Tiroidea
+328,2,1 1
+	Tratamiento Farmacol&#243;gico con Metotrexate
+329,2,1 1
+	Tratamiento Farmacol&#243;gico con Paracetamol
+330,2,1 1
+	Antecedentes Personales de Traumatismos Recientes
+331,2,1 1
+	Antecedentes Personales de Vasculitis
+332,2,1 1
+	Antecedentes Personales de Sinusitis Aguda
+333,2,1 1
+	El paciente es Veterinario y/o trabajador de mataderos
+334,2,1 1
+	Antecedentes Familiares de Otoesclerosis
+335,2,1 1
+	Antecedentes laborales de relaci&#243;n con sustancias t&#243;xicas
+336,2,1 1
+	El paciente tiene relaci&#243;n con sustancias pulidoras de muebles
+337,2,1 1
+	El paciente tiene relaci&#243;n con Detergentes
+338,2,1 1
+	El paciente tiene relaci&#243;n con Desengrasantes
+339,2,1 1
+	Antecedentes Familiares de Laberintopatias
+340,2,1 1
+	Antecedentes Familiares de Esplenectom&#237;a
+341,2,1 1
+	Comod&#237;n de &#34;Antecedentes Familiares de Digestivo&#34;
+342,2,1 1
+	Comod&#237;n de &#34;Antecedentes Personales de Hematol&#243;gico&#34;
+343,2,1 1
+	Comod&#237;n de &#34;Antecedentes Personales de Digestivo&#34;
+344,2,1 1
+	Comod&#237;n de &#34;Antecedentes Familiares de Osteomioarticular&#34;
+345,2,1 1
+	Antecedentes Personales de Hipertensi&#243;n Arterial
+346,2,1 1
+	Comod&#237;n de &#34;Antecedentes Personales de Endocrino&#34;
+347,2,1 1
+	Comod&#237;n &#34;Intervenciones Quir&#250;rgicas practicadas al paciente&#34;
+348,2,1 1
+	Antecedentes Familiares de Enfermedades Endocrinas
+349,2,1 1
+	Antecedentes Familiares de de Diabetes Mellitus
+350,2,1 1
+	Antecedentes Familiares de Hiperlipemia
+351,2,1 1
+	Antecedentes Familiares de Muerte Subita
+352,2,1 1
+	Antecedentes Familiares de Hipertensi&#243;n Arterial
+353,2,1 1
+	Antecedentes Personales de Hiperlipemia
+354,2,1 1
+	Antecedentes Familiares de Otros (Generales)
+355,2,1 1
+	Antecedentes Personales de Angina de Pecho
+356,2,1 1
+	Antecedentes Personales de Infarto del Miocardio Previo
+357,2,1 1
+	Antecedentes Personales de Valvulopat&#237;as
+358,2,1 1
+	Antecedentes Personales de Insuficiencia card&#237;aca
+359,2,1 1
+	Antecedentes Personales de Patolog&#237;a Venosa
+360,2,1 1
+	Antecedentes Personales de Isquemia Perif&#233;rica
+361,2,1 1
+	Antecedentes Personales de Claudicaci&#243;n Intermitente
+362,2,1 2
+	Comod&#237;n de &#34;Intervenciones Quir&#250;rgicas como Antecedente
+	 Familiar&#34;
+363,2,1 1
+	Tratamiento Farmacol&#243;gico con Bloqueantes B-adren&#233;rgicos
+364,2,1 1
+	Tratamiento Farmacol&#243;gico con Antiarr&#237;tmicos
+365,2,1 2
+	Comod&#237;n de Tratamiento Farmacol&#243;gico con Quimioterap&#233;uticos e
+	 Inmunosupresores
+366,2,1 1
+	Antecedentes Personales de Cefalea
+367,2,1 1
+	Antecedentes Personales de Hiperunicemia o episodios de Gota
+368,2,1 1
+	Comod&#237;n de Enfermedades del aparato Osteomioarticular
+369,2,1 1
+	Rubeola durante el embarazo de la madre del paciente
+370,2,1 1
+	Antecedentes Personales de Traumatismos Oseos y/o Musculares
+371,2,1 1
+	Antecedentes Personales de Paratiroidectom&#237;a
+372,2,1 1
+	Antecedentes Personales de Pericarditis
+373,2,1 1
+	Antecedentes Personales de Enfermedad del Fen&#243;meno de Raynaud
+374,2,1 1
+	Antecedentes Personales de Demencia
+375,2,1 1
+	El paciente mantiene una Dieta Hiperproteica
+376,2,1 1
+	Tratamiento Farmacol&#243;gico con Difenilhidanto&#237;na
+377,2,1 1
+	Tratamiento Farmacol&#243;gico con Decongestionantes Nasales
+378,2,1 1
+	Tratamiento Farmacol&#243;gico con Eritromicina
+379,2,1 1
+	Tratamiento Farmacol&#243;gico con Clorotiazida
+380,2,1 1
+	Antecedentes Personales de Dolor Abdominal y/o Ardor Epig&#225;strico
+381,2,1 2
+	Comod&#237;n de &#34;Antecedentes Personales de Oftalmol&#243;gico,
+	 Dermatol&#243;gico y Otorrino&#34;
+382,2,1 1
+	Comod&#237;n de &#34;Antecedentes Personales de Neurol&#243;gico&#34;
+383,2,1 1
+	Comod&#237;n de &#34;Antecedentes Personales de Cardiovascular&#34;
+384,2,1 1
+	Comod&#237;n de &#34;Antecedentes Familiares de Neoplasias&#34;
+385,2,1 1
+	Comod&#237;n de &#34;Antecedentes Personales de Hemorragia&#34;
+386,2,1 1
+	Comod&#237;n de &#34;Antecedentes Personales de Genito-Urinario&#34;
+387,2,1 1
+	Comod&#237;n de &#34;Tratamiento Farmacol&#243;gico con Antibi&#243;ticos&#34;
+388,2,1 1
+	Comod&#237;n de &#34;Antecedentes Familiares de Endocrino&#34;
+389,2,1 1
+	Comod&#237;n de &#34;Antecedentes Familiares de Cardiovascular&#34;
+390,2,1 1
+	Comod&#237;n de &#34;Antecedentes Personales de Traumatismos&#34;
+391,2,1 2
+	Antecedentes Familiares y/o Personales de Alteraci&#243;n de la
+	 Coagulaci&#243;n
+392,2,1 1
+	Antecedentes Personales de Dolor en el Hombro
+393,2,1 1
+	Antecedentes Personales de Tiroiditis de Hashimoto
+394,2,1 1
+	Antecedentes Personales de Otras Hipercalcemias
+395,2,1 1
+	Antecedentes Personales de Hiperparatiroidismo
+396,2,1 1
+	Antecedentes Personales de Hipopotasemia
+397,2,1 1
+	Antecedentes Personales de Porfiria
+398,2,1 1
+	Antecedentes Personales de Feocromocitoma
+399,2,1 1
+	Antecedentes Personales de Pirosis
+400,2,1 1
+	Antecedentes Personales de SIDA
+401,2,1 1
+	Anoxia o Traumatismos en el parto del paciente
+402,2,1 1
+	S&#237;filis durante el embarazo de la madre del paciente
+403,2,1 1
+	Antecedentes Personales de Carditis Reumatoidea
+404,2,1 1
+	Antecedentes Personales recientes de Infecci&#243;n Amigdalina
+405,2,1 1
+	Antecedentes Personales recientes de Escarlatina
+406,2,1 1
+	Antecedentes Personales recientes de Infecci&#243;n Faringea
+407,2,1 1
+	Antecedentes Personales recientes de Influenza o Catarro Com&#250;n
+408,2,1 1
+	Tratamiento Farmacol&#243;gico con Metildopa
+409,2,1 1
+	Tratamiento Farmacol&#243;gico con Penicilina
+410,2,1 1
+	Tratamiento Farmacol&#243;gico con Quinidina
+411,2,1 1
+	Tratamiento Farmacol&#243;gico con Isoniacida
+412,2,1 1
+	Antecedentes Personales de Enfermedades del Tejido Conectivo
+413,2,1 1
+	Antecedentes Familiares de Colecistectom&#237;a
+414,2,1 1
+	Antecedentes Familiares de Enfermedades Genito-Urinarias
+415,2,1 1
+	Antecedentes Personales de Na&#250;seas y V&#243;mitos a Repetici&#243;n
+416,2,1 1
+	Tratamiento Farmacol&#243;gico con Alopurinol
+417,2,1 1
+	Tratamiento Farmacol&#243;gico con Fenilbutazona
+418,2,1 1
+	Tratamiento Farmacol&#243;gico con Clotrimazol
+419,2,1 1
+	Tratamiento Farmacol&#243;gico con Estr&#243;genos
+420,2,1 1
+	Tratamiento Farmacol&#243;gico con Rifampicina
+421,2,1 1
+	Tratamiento Farmacol&#243;gico con Cefalosporina
+422,2,1 1
+	Tratamiento Farmacol&#243;gico con Levodopa
+423,2,1 1
+	Tratamiento Farmacol&#243;gico con Carbamazepina
+424,2,1 1
+	Tratamiento Farmacol&#243;gico con Cloranfenicol
+425,2,1 1
+	Antecedentes Personales de Pancreatitis Aguda
+426,2,1 1
+	Antecedentes Personales de Pancreatitis Cr&#243;nica
+427,2,1 1
+	Ingesta de F&#225;rmacos durante el embarazo de la madre del paciente
+428,2,1 1
+	Antecedentes Personales de Linfomas
+429,2,1 1
+	Antecedentes Personales de Leucemias
+430,2,1 1
+	Antecedentes Personales de Herpes Zoster
+431,2,1 1
+	Tratamiento Farmacol&#243;gico con Metimazole
+432,2,1 1
+	Antecedentes Familiares de Anemias
+433,2,1 1
+	Antecedentes Familiares de Policitemias
+434,2,1 1
+	Antecedentes Familiares de Neoplasias Hematol&#243;gicas
+435,2,1 1
+	Antecedentes Familiares de Anemia Megalobl&#225;stica
+436,2,1 1
+	Comod&#237;n de &#34;Antiparkinsoniano que ha tomado el paciente&#34;
+437,2,1 1
+	Comod&#237;n de &#34;Antihipertensivos que ha tomado el paciente&#34;
+438,2,1 1
+	Antecedentes Personales de Enfermedades de la Sangre
+439,2,1 1
+	Antecedentes Personales de Esplenectomia
+440,2,1 1
+	El paciente tiene contacto habitual con Perros
+441,2,1 1
+	Antecedentes Personales de Anemia Megalobl&#225;stica
+442,2,1 1
+	Tratamiento Farmacol&#243;gico con Clorpropramida
+443,2,1 1
+	Tratamiento Farmacol&#243;gico con Clorpromazina
+444,2,1 1
+	Tratamiento Farmacol&#243;gico con Fenotiazinas
+445,2,1 1
+	Tratamiento Farmacol&#243;gico con Metiltestosterona
+446,2,1 1
+	Antecedentes Personales de Traumatismo Testicular
+447,2,1 1
+	Antecedentes Personales de Enfermedad de Transmisi&#243;n Sexual
+448,2,1 1
+	Antecedentes Personales de Sepsis Urinaria
+449,2,1 1
+	Antecedentes Personales de Prostatitis
+450,2,1 1
+	Antecedentes Personales de Criptorquidia
+451,2,1 1
+	Antecedentes Personales de Insuficiencia Renal Aguda
+452,2,1 1
+	Antecedentes Personales de Amigdalitis Pult&#225;cea
+453,2,1 1
+	Antecedentes Personales de Faringitis
+454,2,1 1
+	Antecedentes Personales de Infecci&#243;n Cut&#225;nea
+455,2,1 2
+	Antecedentes Personales de C&#225;lculos Renales y/o Expulsi&#243;n de
+	 Arenillas
+456,2,1 1
+	Antecedentes Familiares de Insuficiencia Renal Aguda
+457,2,1 1
+	Antecedentes Familiares de Insuficiencia Renal Cr&#243;nica
+458,2,1 1
+	Antecedentes Familiares de Ri&#241;ones Poliqu&#237;sticos
+459,2,1 1
+	Antecedentes Familiares de Glomerulonefritis
+460,2,1 1
+	Antecedentes Familiares de C&#225;lculos Renales
+461,2,1 1
+	Tratamiento Farmacol&#243;gico reciente con Fenitoina
+462,2,1 1
+	Antecedentes Personales de Trombosis Venosa Profunda
+463,2,1 1
+	Tratamiento Farmacol&#243;gico reciente con Inhibidores de la Monoaminooxidasa
+464,2,1 1
+	Tratamiento Farmacol&#243;gico reciente con Hidralazina
+465,2,1 1
+	Tratamiento Farmacol&#243;gico reciente con L&#237;tio
+466,2,1 1
+	Tratamiento Farmacol&#243;gico reciente con Anfotericina
+467,2,1 1
+	Tratamiento Farmacol&#243;gico reciente con Tioridazina
+468,2,1 1
+	Tratamiento Farmacol&#243;gico reciente con Cloropromacina
+469,2,1 1
+	Tratamiento Farmacol&#243;gico reciente con Vitamina D
+470,2,1 1
+	Antecedentes Personales de Infecci&#243;n Urinaria
+471,2,1 1
+	Antecedentes Personales de Enfermedad Prost&#225;tica
+472,2,1 1
+	Antecedentes Personales de Mult&#237;para
+473,2,1 1
+	Antecedentes Personales de Prolapso
+474,2,1 1
+	Antecedentes Personales de C&#237;stoceles
+475,2,1 1
+	Antecedentes Personales de Infecci&#243;n Urinaria a Repetici&#243;n
+476,2,1 1
+	Antecedentes Personales de Ansiedad, Depresi&#243;n
+477,2,1 1
+	Antecedentes Familiares de Diabetes Ins&#237;pida
+478,2,1 1
+	Antecedentes Personales recientes de Dolor de Garganta
+479,2,1 2
+	Antecedentes Personales recientes de Tratamiento Quir&#250;rgico o
+	 Postoperatorio Mediato
+480,2,1 2
+	Antecedentes Personales recientes de Quemaduras que lleven Tratamiento
+	 Intrahospitalario
+481,2,1 1
+	Antecedentes Personales recientes de Uso de productos de Limpieza, Quitamanchas
+482,2,1 1
+	Antecedentes Personales recientes de Hematuria
+483,2,1 1
+	Tratamiento Farmacol&#243;gico reciente con Ciclosporinas
+484,2,1 1
+	Tratamiento Farmacol&#243;gico reciente con Aminogluc&#243;cidos
+485,2,1 1
+	Tratamiento Farmacol&#243;gico reciente con Cisplatino
+486,2,1 1
+	Tratamiento Farmacol&#243;gico reciente con Tetracloruro de carbono
+487,2,1 2
+	Tratamiento Farmacol&#243;gico reciente con Inhibidores de Enzima Convertidora
+	 de Angiotensina
+488,2,1 1
+	Antecedentes Personales recientes de Sondaje Vesical
+489,2,1 1
+	Tratamiento Farmacol&#243;gico con Penicilamina
+490,2,1 1
+	Antecedentes Personales de Radiografia con Contraste
+491,2,1 1
+	Comod&#237;n de &#34;Antecedentes Familiares Genito-Urinarios&#34;
+492,2,1 1
+	El paciente mantiene r&#233;gimen diet&#233;tico (Dieta Hipocal&#243;rica)
+493,2,1 1
+	Tratamiento Farmacol&#243;gico con Anfetaminas
+494,2,1 1
+	Antecedentes Familiares de Hipertiroidismo
+495,2,1 1
+	Antecedentes Familiares de Hipotiroidismo
+496,2,1 1
+	Antecedentes Familiares de Tiroiditis
+497,2,1 1
+	Antecedentes Familiares de Hipogonadismo
+498,2,1 1
+	Antecedentes Personales de Tiroiditis
+499,2,1 1
+	Antecedentes Personales de Cirug&#237;a del Tiroide
+500,2,1 1
+	Antecedentes Personales de Radioterapia en la Cabeza o Regi&#243;n Cervical
+501,2,1 1
+	Antecedentes Personales de Varicoceles
+502,2,1 1
+	Antecedentes Personales de Hipoparatiroidismo
+503,2,1 1
+	Antecedentes Personales de Candiadiasis Orofaringea
+504,2,1 1
+	Antecedentes Personales de Enfermedad de la Mama
+505,2,1 1
+	Antecedentes Personales de Psicosis
+506,2,1 1
+	Antecedentes Personales de Infecci&#243;n en las V&#237;as Respiratorias Altas
+507,2,1 1
+	Antecedentes Personales de Tumores Testiculares
+508,2,1 1
+	Antecedentes Personales de C&#225;ncer de Pr&#243;stata
+509,2,1 1
+	Tratamiento Farmacol&#243;gico con Vasocontrictores Nasales
+510,2,1 1
+	Tratamiento Farmacol&#243;gico con Sustitutos Hormonales
+511,2,1 1
+	Antecedentes Personales de Prostatismo
+512,2,1 1
+	Tratamiento Farmacol&#243;gico con Anab&#243;licos
+513,2,1 1
+	Tratamiento Farmacol&#243;gico con Ansiol&#237;ticos
+514,2,1 1
+	Tratamiento Farmacol&#243;gico con Antihem&#233;ticos
+515,2,1 1
+	Tratamiento Farmacol&#243;gico con Derivados de la Anilina
+516,2,1 1
+	Tratamiento Farmacol&#243;gico con Yoduros
+517,2,1 1
+	Tratamiento Farmacol&#243;gico con Ergotamina
+518,2,1 1
+	Tratamiento Farmacol&#243;gico con Medios de Contraste yodados
+519,2,1 1
+	Tratamiento Farmacol&#243;gico con Yodo Radioactivo
+520,2,1 1
+	Tratamiento Farmacol&#243;gico con Cimetidina
+521,2,1 1
+	Antecedentes Personales de Radiaciones Externas al Cuello
+522,2,1 1
+	Tratamiento Farmacol&#243;gico reciente con Ketoconazol
+523,2,1 1
+	Antecedentes Personales de Hipotensi&#243;n Arterial
+524,2,1 1
+	Tratamiento Farmacol&#243;gico con Gotas Oticas
+525,2,1 1
+	Tratamiento Farmacol&#243;gico con Estreptomicina
+526,2,1 1
+	Tratamiento Farmacol&#243;gico con Imidazolina
+527,2,1 1
+	Tratamiento Farmacol&#243;gico con Gotas Nasales
+528,2,1 1
+	Afecciones de la madre durante el embarazo
+529,2,1 1
+	Actividad laboral en Ambiente Ruidoso
+530,2,1 1
+	Actividad laboral en Ambiente de Vapores T&#243;xicos
+531,2,1 1
+	Actividad laboral en Ambiente de Irritantes Inhalantes
+532,2,1 2
+	Antecedentes Personales de Ba&#241;os recientes en Piscinas, Playas, Rios,
+	 etc...
+533,2,1 1
+	Antecedentes Personales recientes de Manipulaciones Oticas
+534,2,1 1
+	Actividad Laboral que requiere hablar mucho
+535,2,1 1
+	Antecedentes Familiares de C&#225;ncer de Mama
+536,2,1 1
+	Antecedentes Familiares de Lesiones Benignas de Mamas
+537,2,1 1
+	Antecedentes Personales de Esterilidad o Fertilidad Escasa
+538,2,1 1
+	Antecedentes Personales de Trastornos Menstruales
+539,2,1 1
+	Antecedentes Personales de Anexectom&#237;a y/o Histerectom&#237;a
+540,2,1 1
+	Antecedentes Personales de Embarazo Ect&#243;pico Reciente
+541,2,1 1
+	Antecedentes Familiares de C&#225;ncer de Utero
+542,2,1 1
+	Antecedentes Familiares de Esterilidad
+543,2,1 1
+	El paciente es de raza Negra
+544,2,1 1
+	Antecedentes Personales de Psoriasis
+545,2,1 1
+	Antecedentes Personales de Tuberculosis Renal
+546,2,1 1
+	Antecedentes Personales de Aneurisma de Aorta Tor&#225;cica
+547,2,1 1
+	Antecedentes Personales de Ulceras Genitales y/o Maleolares
+548,2,1 1
+	Antecedentes Personales de Malnutrici&#243;n
+549,2,1 1
+	Antecedentes Personales de Sepsis Oral
+550,2,1 1
+	Antecedentes Personales de Jaqueca
+551,2,1 1
+	Antecedentes Personales de Cuerpo Extra&#241;o en el O&#237;do
+552,2,1 1
+	Antecedentes Familiares de Facomatosis
+553,2,1 1
+	Antecedentes Familiares de Epilepsia
+554,2,1 1
+	Tratamiento Farmacol&#243;gico con Metisergida
+555,2,1 2
+	Comod&#237;n de &#34;Tratamiento Farmacol&#243;gico con Sustitutos
+	 Hormonales&#34;
+556,2,1 1
+	Comod&#237;n de &#34;Tratamiento Farmacol&#243;gico con Yodo&#34;
+557,2,1 1
+	Comod&#237;n de &#34;Tratamiento Farmacol&#243;gico con Antimic&#243;ticos&#34;
+558,2,1 1
+	Tratamiento Farmacol&#243;gico con Anticonvulsivantes
+559,2,1 1
+	Tratamiento Farmacol&#243;gico con Antiparkinsonianos
+560,2,1 1
+	Tratamiento Farmacol&#243;gico con Neurol&#233;pticos
+561,2,1 1
+	Tratamiento Farmacol&#243;gico con Antimic&#243;ticos
+562,2,1 1
+	Tratamiento Farmacol&#243;gico con Antigotosos
+563,2,1 1
+	Comod&#237;n de &#34;Tratamiento Farmacol&#243;gico con Anticolvulsivantes&#34;
+564,2,1 1
+	Comod&#237;n de &#34;Tratamiento Farmacol&#243;gico con Neurol&#233;pticos&#34;
+565,2,1 1
+	Comod&#237;n de &#34;Tratamiento Farmacol&#243;gico con Antigotosos&#34;
+566,2,1 2
+	Comod&#237;n de &#34;Tratamiento Farmacol&#243;gico con
+	 Antiarr&#237;tmicos&#34;
+567,2,1 1
+	Tratamiento Farmacol&#243;gico con Vasocontrictores
+568,2,1 2
+	Contacto habitual con Benzidina o Naftilamina (Petr&#243;leo, Colorantes,
+	 Curtidos)
+569,2,1 1
+	Antecedentes Personales de Pielonefritis Aguda
+570,2,1 2
+	Antecedentes Personales de Traumatismo reciente en Regi&#243;n Lumbar o
+	 P&#233;lvica
+571,2,1 1
+	Antecedentes Personales de Traumatismo Perineal
+572,2,1 1
+	Antecedentes Personales de Traumatismo Uretral
+573,2,1 1
+	Antecedentes Personales de C&#243;lico Nefr&#237;tico
+574,2,1 1
+	Actividad Laboral que requiere esfuerzo visual
+575,2,1 1
+	Utilizaci&#243;n de medios de protecci&#243;n para los ojos
+576,2,1 1
+	Antecedentes Personales de Traumatismo Ocular reciente
+577,2,1 1
+	Antecedentes Personales de Traumatismo ocular pasado
+578,2,1 1
+	Antecedentes Personales de Cirug&#237;a Ocular
+579,2,1 1
+	Antecedentes Personales de Gonorrea
+580,2,1 1
+	Antecedentes Familiares de Gonorrea
+581,2,1 1
+	Tratamiento Farmacol&#243;gico con Citost&#225;ticos
+582,2,1 1
+	Antecedentes Personales de Enfermedad de Reiter
+583,2,1 1
+	Antecedentes Personales de Infecci&#243;n reciente por Sarampi&#243;n
+584,2,1 1
+	Antecedentes Personales de Infecci&#243;n reciente por Rubeola
+585,2,1 1
+	Antecedentes Personales de Infecci&#243;n reciente por Varicela
+586,2,1 1
+	Antecedentes Personales de Infecci&#243;n reciente por Herpes
+587,2,1 1
+	El paciente usa Lentes Intraoculares
+588,2,1 1
+	El paciente usa Lentes de Contacto
+589,2,1 1
+	Antecedentes Personales de Conjuntivitis
+590,2,1 1
+	Antecedentes Personales de Iridociclitis
+591,2,1 2
+	Antecedentes Personales de Obstrucci&#243;n de la Arteria o Vena Central de la
+	 Retina
+592,2,1 1
+	Antecedentes Personales de Desprendimiento de la Retina
+593,2,1 1
+	Antecedentes Personales de Luxaci&#243;n o Subluxaci&#243;n de la Retina
+594,2,1 1
+	Antecedentes Personales de Tumores Oculares
+595,2,1 1
+	Tratamiento Farmacol&#243;gico con Pilocarpina
+596,2,1 1
+	Antecedentes Personales de Mioma Uterino
+597,2,1 1
+	Puerperio Actual
+598,2,1 1
+	Antecedentes Personales de Hernia Hiatal
+599,2,1 1
+	Antecedentes Personales de Enfermedad Cerebrovascular
+600,2,1 1
+	Antecedentes Personales de Donaciones de Sangre Frecuentes
+601,2,1 1
+	Antecedentes Personales de Lepra
+602,2,1 1
+	Antecedentes Personales de Colitis Ulcerativa Idiop&#225;tica
+603,2,1 1
+	Antecedentes Personales de Histoplasmosis
+604,2,1 1
+	Antecedentes Personales de Toxoplasmosis
+605,2,1 1
+	Antecedentes Personales de Sarcoidosis
+606,2,1 1
+	Antecedentes Personales de Par&#225;lisis Facial
+607,2,1 1
+	Tratamiento Farmacol&#243;gico con Colirios en general
+608,2,1 1
+	Antecedentes Personales de Respiraci&#243;n Bucal Patol&#243;gica
+609,2,1 1
+	Antecedentes Personales de Laringitis Cr&#243;nica
+610,2,1 1
+	Antecedentes Personales de C&#225;ncer de Tiroides
+611,2,1 1
+	Antecedentes Personales de C&#225;ncer de Laringe
+612,2,1 1
+	Antecedentes Personales de Traumatismo Cervical
+613,2,1 1
+	Antecedentes Personales de Esclerosis Lateral Amiotr&#243;fica
+614,2,1 1
+	Antecedentes Personales de Par&#225;lisis de Pares Craneales
+615,2,1 1
+	Antecedentes Personales de Balanitis
+616,2,1 1
+	Antecedentes Personales de Estomatitis
+617,2,1 1
+	Antecedentes Personales de Diarrea
+618,2,1 1
+	Tiene antecedentes de Fracturas Oseas en Hombros
+619,2,1 1
+	Tiene antecedentes de Luxaciones en Hombros
+620,2,1 1
+	Tiene antecedentes de Osteoartrosis en Hombros
+621,2,1 1
+	El paciente tiene antecedentes de Traumatismo en Extremidades Superiores
+622,2,1 1
+	El paciente tiene antecedentes de Acromegalia
+623,2,1 1
+	El paciente tiene Antecedentes Familiares de S&#237;ndrome del Tunel del Carpo
+624,2,1 1
+	Actividad laboral que requiere de mucho esfuerzo con las manos
+625,2,1 1
+	Antecedentes Personales de Cirug&#237;a Articular reciente
+626,2,1 1
+	Antecedentes Personales de Enfermedad de Wilson
+627,2,1 1
+	Antecedentes Familiares de Condrocalcinosis
+628,2,1 1
+	Antecedentes Personales de Lupus Discoide
+629,2,1 1
+	Antecedentes Personales de Traumatismo Articular
+630,2,1 1
+	Practica o practic&#243; otras labores de Marcada Actividad Articular
+631,2,1 1
+	Antecedentes Personales de Marcada Actividad Articular
+632,2,1 1
+	Antecedentes Personales de Cervicitis
+633,2,1 1
+	Compa&#241;era sexual de varones con Uretritis No Gonoc&#243;cica
+634,2,1 1
+	Antecedentes Personales de Periarteritis Nodosa
+635,2,1 1
+	Antecedentes Personales de Estreches Uretral
+636,2,1 1
+	Antecedentes Personales de Vejiga Neur&#243;gena
+637,2,1 1
+	Tratamiento Farmacol&#243;gico reciente de Acetozolamida
+638,2,1 1
+	Tratamiento Farmacol&#243;gico reciente de Sales de C&#225;lcio
+639,2,1 1
+	Tratamiento Farmacol&#243;gico reciente de Vitamina C
+640,2,1 1
+	Antecedentes Personales de Uretritis
+641,2,1 1
+	Antecedentes Personales de Picadura de Abejas
+642,2,1 1
+	Antecedentes Personales de Glomerulopat&#237;as
+643,2,1 1
+	Antecedentes Personales de Endocarditis Bacteriana
+644,2,1 1
+	Antecedentes Personales de Tumor de Wills
+645,2,1 1
+	Antecedentes Personales de Paludismo
+646,2,1 1
+	Antecedentes Personales de Equistosomiasis
+647,2,1 1
+	Antecedentes Familiares de C&#225;ncer Prost&#225;tico
+648,2,1 1
+	Antecedentes Personales de Esfuerzo F&#237;sico Intenso
+649,2,1 1
+	Antecedentes Personales de Gran Exitaci&#243;n Sexual
+650,2,1 1
+	Antecedentes Personales de Insuficiencia Suprarrenal
+651,2,1 1
+	Antecedentes Personales de Candidiasis
+652,2,1 1
+	Antecedentes Personales de Vitiligo
+653,2,1 1
+	Antecedentes Familiares de C&#225;ncer Renal
+654,2,1 1
+	Antecedentes Personales de S&#237;ndrome Nefr&#243;tico
+655,2,1 1
+	Antecedentes Personales de Tratamiento Hemodial&#237;tico
+656,2,1 1
+	Antecedentes Personales de Pielonefritis Cr&#243;nica
+657,2,1 1
+	Antecedentes Personales de Anomalias del Pez&#243;n
+658,2,1 1
+	Antecedentes Personales de Examen y/o Tratamiento Ginecol&#243;gico
+659,2,1 2
+	Comod&#237;n de Antecedentes Personales de Examen y/o Tratamiento
+	 Ginecol&#243;gico
+660,2,1 1
+	Antecedentes Personales de Histerosalpingograf&#237;a
+661,2,1 1
+	Antecedentes Personales de Conizaci&#243;n
+662,2,1 1
+	Antecedentes Personales de Electrocoagulaci&#243;n del Cuello Uterino
+663,2,1 2
+	Antecedentes Personales de Colocaci&#243;n o Retirada de Dispositivo
+	 Intrauterino
+664,2,1 1
+	Antecedentes Personales de Exploraci&#243;n Ginecol&#243;gica
+665,2,1 1
+	Antecedentes Personales de Vulvovaginitis Bacteriana
+666,2,1 1
+	Antecedentes Personales de Vulvovaginitis Gonoc&#243;ccica
+667,2,1 1
+	Antecedentes Personales de Hipoestrogenismo
+668,2,1 1
+	Antecedentes Personales de F&#237;stulas Uretrovaginales
+669,2,1 1
+	Antecedentes Personales de F&#237;stulas Vesicouterinas
+670,2,1 1
+	Antecedentes Personales de F&#237;stulas Vesicovaginales
+671,2,1 1
+	Antecedentes Personales de F&#237;stulas Uretrovaginales
+672,2,1 1
+	Antecedentes Personales de Tumores Medulares
+673,2,1 1
+	Antecedentes Personales de Mielitis Transversa
+674,2,1 1
+	Antecedentes Personales de Traumatismo por el Parto
+675,2,1 1
+	Antecedentes Personales de Traumatismo por el Coito
+676,2,1 1
+	Antecedentes Personales recientes de Duchas o Lavados Vaginales Tras el Coito
+677,2,1 1
+	Antecedentes Personales de Embarazo Molar
+678,2,1 1
+	El paciente tiene antecedente de Traumatismo Craneal
+679,2,1 1
+	El paciente tiene antecedente de S&#237;ndrome del Tunel del Carpo
+680,2,1 1
+	Antecedentes Personales de Infecci&#243;n Cut&#225;nea a Repetici&#243;n
+681,2,1 1
+	Antecedentes Personales de Vulvovaginitis por C&#225;ndida
+682,2,1 1
+	Antecedentes Personales de Macrofeto o Polidramnio
+683,2,1 1
+	Antecedentes Personales de Aldosteronismo
+684,2,1 1
+	Antecedentes Personales de Enfermedad Fibroqu&#237;stica del P&#225;ncreas
+685,2,1 1
+	El paciente tiene antecedentes de Ingesta de Hormona Tiroidea
+686,2,1 1
+	El paciente tiene antecedentes de Ingesta de Simpaticomim&#233;ticos
+687,2,1 1
+	Tiene antecedentes Familiares de Temblor Esencial Benigno
+688,2,1 1
+	Tiene antecedentes Familiares de Convulsiones
+689,2,1 1
+	El paciente presenta Antecedentes Familiares de Enfermedades Neurol&#243;gicas
+690,2,1 1
+	Comod&#237;n de &#34;Antecedentes Familiares Neurol&#243;gicos
+691,2,1 1
+	Antecedentes Personales de Bacteriemia
+692,2,1 2
+	Antecedentes Personales de Punci&#243;n Lumbar, Anestesia Raqu&#237;dea o
+	 Heridas en Columna
+693,2,1 1
+	Antecedentes de bebedor habitual de Caf&#233;
+694,2,1 1
+	Antecedentes Personales de Tratamiento Farmacol&#243;gico con Ibuprofeno
+695,2,1 1
+	Antecedentes Personales de Tratamiento Farmacol&#243;gico con Piroxican
+696,2,1 1
+	Antecedentes personoales Farmacol&#243;gicos de Antinflamatorios no Esteroides
+697,2,1 1
+	Antecedentes Personales de Esofagitis de Reflujo
+698,2,1 1
+	Antecedentes Personales de Esofagitis por Radiaci&#243;n
+699,2,1 1
+	Antecedentes Personales de Esofagitis C&#225;ustica
+700,2,1 1
+	Antecedentes Personales de Ulcera Esof&#225;gica
+701,2,1 1
+	Antecedentes Personales de Epilepsia
+702,2,1 1
+	Antecedentes Personales de Melanoma
+703,2,1 1
+	Historia previa de ingesti&#243;n copiosa de Bebidas Calientes
+704,2,1 1
+	Historia previa de ingesti&#243;n copiosa de Especies Irritantes
+705,2,1 1
+	Mala Higiene Bucal
+706,2,1 2
+	Antecedentes Personales de Estenosis Esof&#225;gica por Sustancias
+	 C&#225;usticas
+707,2,1 1
+	Antecedentes Personales de S&#237;ndrome de Plummer - Vinson
+708,2,1 1
+	Antecedentes Personales de Enfermedad Cel&#237;aca
+709,2,1 1
+	Antecedentes Familiares de Ulcus Duodenal
+710,2,1 1
+	Antecedentes Personales de Gastritis Cr&#243;nica Atr&#243;fica
+711,2,1 2
+	Antecedentes Personales de Ulcera G&#225;strica o Duodenal Resistente a
+	 Tratamiento M&#233;dico y Quir&#250;rgico
+712,2,1 1
+	Antecedentes Personales de Diarrea por Yersinia Enterocol&#237;tica
+713,2,1 1
+	Antecedentes Personales de Ictericia Org&#225;nica
+714,2,1 1
+	Antecedentes Personales de Ictericia
+715,2,1 2
+	El pacienta ha estado relacionado con animales (p&#225;jaros, gatos,
+	 murci&#233;lagos)
+716,2,1 1
+	El pacienta ha recibido recientemente mordedura por Roedores u otros animales
+717,2,1 1
+	El paciente ha sido picado recientemente por Garrapatas o Piojos
+718,2,1 1
+	El paciente ha sido picado recientemente por Mosquitos
+719,2,1 1
+	El paciente ha recibido recientemente Pinchazos o Cortes Cut&#225;neos
+720,2,1 1
+	El paciente ha tenido recientemente Relaciones Sexuales no Habituales
+721,2,1 2
+	El pacienta ha estado en Contacto Recientemente con Aguas Estancadas o Terrenos
+	 H&#250;medos
+722,2,1 1
+	El paciente ha ingerido recientemente Leche o Queso sin Pasteurizar
+723,2,1 1
+	El paciente ha sufrido recientemente Manipulaciones o Cirug&#237;a Dentaria
+724,2,1 2
+	El paciente ha sufrido recientemente Manipulaciones o Cirug&#237;a
+	 Genito-Urinaria
+725,2,1 1
+	Antecedentes Personales de Colitis Granulomatosa
+726,2,1 1
+	Antecedentes de Poliposis Familiar
+727,2,1 1
+	Antecedentes de Tratamiento Farmacol&#243;gico con Reserpina
+728,2,1 1
+	Antecedentes de Ingesta de Sustancias Irritantes o Corrosivas
+729,2,1 2
+	Antecedentes Personales de permanencia o convivencia en comunidades cerradas (
+	 Becas, Albergues, Prisiones, etc.)
+730,2,1 2
+	El paciente labora o ha laborado en actividades que requieren la
+	 manipulaci&#243;n de sangre y/o hemoderivados
+731,2,1 2
+	El paciente labora o ha laborado recientemente en Centros Asistenciales de
+	 Salud
+732,2,1 1
+	El paciente presenta o ha presentado recientemente intolerancia al cigarro
+733,2,1 1
+	El paciente ha ingerido Legumbres
+734,2,1 1
+	El paciente ha ingerido Vegetales
+735,2,1 1
+	Antecedentes Personales de Trasplante Renal
+736,2,1 1
+	Antecedentes Personales de Trasplante de M&#233;dula Osea
+737,2,1 2
+	Antecedentes patol&#243;gicos Personales de intoxicaci&#243;n alimentaria
+	 reciente
+738,2,1 1
+	Antecedentes Personales de Mastoiditis
+739,2,1 1
+	Antecedentes Familiares de Migra&#241;a Hemipl&#233;jica
+740,2,1 1
+	El paciente tiene o ha tenido Malos H&#225;bitos de Higiene
+741,2,1 1
+	El paciente vive o ha visitado recientemente Zonas Rurales
+742,2,1 1
+	Antecedentes Personales de C&#225;ncer de H&#237;gado
+743,2,1 1
+	Antecedentes Personales de Giardiasis
+744,2,1 1
+	Antecedentes Personales de S&#237;ndrome de mala absorci&#243;n intestinal
+745,2,1 1
+	Antecedente Familiar de Esprue no Tropical
+746,2,1 1
+	Antecedentes Familiares de P&#243;lipos de Colon y/o Recto
+747,2,1 1
+	Antecedentes Personales de Diarrea Aguda
+748,2,1 1
+	Antecedentes Personales de Diarrea Cr&#243;nico
+749,2,1 1
+	El paciente es de raza Blanca
+750,2,1 1
+	Antecedentes Familiares de Enfermedad Inflamatoria Intestinal
+751,2,1 1
+	Antecedentes Familiares de Enfermedad de Crohn
+752,2,1 1
+	Antecedentes Familiares de Colitis Ulcerosa
+753,2,1 1
+	Antecednetes Personales de Espondilitis
+754,2,1 1
+	Antecedentes Personales de Hepatitis Cr&#243;nica Activa
+755,2,1 1
+	Antecedentes Personales de Hemocromatosis
+756,2,1 1
+	Antecedentes Familiares de Enfermedad de Wilson
+757,2,1 1
+	Antecedentes Personales de Hepatomegalia
+758,2,1 1
+	Antecedentes Personales de lesi&#243;n Hep&#225;tica
+759,2,1 1
+	Antecedentes Personales de Hepatitis Viral Aguda
+760,2,1 1
+	Antecedentes Personales de Hepatitis T&#243;xica por F&#225;rmacos
+761,2,1 1
+	Antecedentes Personales de Otros Tipos de Hepatitis Aguda
+762,2,1 1
+	Antecedentes Familiares de Enfermedades Sist&#233;micas
+763,2,1 1
+	Antecedentes Familiares de Fiebre Mediterranea Familiar
+764,2,1 2
+	El paciente recide o ha recidido en areas end&#233;micas de C&#243;lera, ha
+	 viajado a zonas end&#233;micas o ha tenido contacto con personas infectadas
+765,2,1 1
+	Antecedentes Personales de Colitis Ulcerosa Inmunol&#243;gica
+766,2,1 1
+	Tiene antecedentes Familiares de Enfermedad de Parkinson
+767,2,1 1
+	Antecedentes Personales de Meningitis o Encefalitis
+768,2,1 1
+	Antecedentes Personales de Esclerosis M&#250;ltiple
+769,2,1 1
+	Antecedentes Personales de Tumor Cerebral
+770,2,1 1
+	Antecedentes Personales recientes de Neuritis Optica
+771,2,1 1
+	Antecedentes Familiares de Esclerosis M&#250;ltiple
+772,2,1 1
+	Antecedentes Personales de Mieloma M&#250;ltiple
+773,2,1 1
+	Antecedentes Personales de osteomelitis
+774,2,1 1
+	Antecedentes Personales de Cultivos Oticos, Nasales o Far&#237;ngeos Positivos
+775,2,1 2
+	Existen casos con sintomatolog&#237;a de Cefalea, V&#243;mito y Fiebre en su
+	 entorno
+776,2,1 1
+	Se han diagnosticado casos de Meningitis Aguda en su entorno
+777,2,1 1
+	El paciente tiene Antecedentes Familiares de Jaqueca o Migra&#241;a
+778,2,1 1
+	El paciente tiene Antecedentes Farmacol&#243;gicos de Vasodilatadores
+779,2,1 1
+	El paciente tiene Stress
+780,2,1 1
+	Antecedentes Personales de enfermedad Infecciosa Gastrointestinal
+781,2,1 1
+	El paciente tiene Antecedentes Farmacol&#243;gicos de Nitrofuranto&#237;na
+782,2,1 1
+	El paciente tiene Tratamiento Farmacol&#243;gico de Vincristina
+783,2,1 1
+	Antecedentes Personales de Ingesta de Venenos Org&#225;nicos
+784,2,1 1
+	El paciente tiene antecedentes recientes de Vacunaci&#243;n
+785,2,1 1
+	Antecedentes Personales de Depranocitemia
+786,2,1 1
+	Antecedentes Personales de S&#237;ndrome de Hiperviscosidad
+787,2,1 1
+	El paciente tiene antecedentes de Protesis Valvular
+788,2,1 1
+	El paciente tiene antecedentes de Miocardiopat&#237;a Dilatada
+789,2,1 1
+	Antecedentes Personales de Prolapso de la V&#225;lvula Mitral
+790,2,1 1
+	El paciente tiene antecedentes de Ateroesclerosis
+791,2,1 1
+	El paciente tiene antecedentes de Enfermedad del Suero
+792,2,1 1
+	El paciente tiene antecedentes de Polimiositis
+793,2,1 1
+	El paciente tiene antecedentes de Amiloidosis
+794,2,1 1
+	Antecedentes Personales de Epididimitis Reciente
+795,2,1 2
+	El paciente tiene antecedentes de vivir en malas condiciones higi&#233;nicas o
+	 asinamiento o en presencia de vectores o en mala deposici&#243;n de las escretas
+796,2,1 2
+	El paciente reside en un lugar donde no hay cuidado en la captaci&#243;n,
+	 transporte y purificaci&#243;n del agua potable
+797,2,1 1
+	El paciente convive o tiene Familiar con diagn&#243;stico de Fiebre Tifoidea
+798,2,1 1
+	El paciente ha visitado o recidido en zonas end&#233;micas de Paludismo
+799,2,1 1
+	Antecedentes Personales de Fiebre Tifoidea
+800,2,1 1
+	El paciente es Agricultor
+801,2,1 1
+	El paciente es Agricultor en Campos de Arroz
+802,2,1 1
+	El paciente es obrero de Alcantarillado o Aguas Residuales
+803,2,1 1
+	El pacienta ha presentado Picadura por la Mosca de la arena
+804,2,1 1
+	Ha visitado o recidido recientemente en Asia
+805,2,1 2
+	Antecedentes Personales de no estar inmunizado total o parcialmente contra el
+	 T&#233;tano
+806,2,1 2
+	El paciente tiene antecedentes de dos o m&#225;s episodios de D&#233;ficit
+	 Neurol&#243;gico Focal
+807,2,1 1
+	Antecedentes Personales de Nevus Pigmentario
+808,2,1 1
+	Antecedentes Familiares de Mixoma Auricular
+809,2,1 1
+	Antecedentes Personales de Miocarditis
+810,2,1 1
+	Antecedentes Personales de Miositis
+811,2,1 1
+	Antecedentes Personales de Glomenulonefritis
+812,2,1 1
+	Antecedentes Personales de Polineuropat&#237;a
+813,2,1 1
+	Antecedentes Personales de Neuritis Perif&#233;rica
+814,2,1 1
+	Antecedentes Personales de Ant&#237;geno para la Hepatitis B(+)
+815,2,1 1
+	Antecedentes Personales de Neurinoma del Ac&#250;stico
+816,2,1 1
+	Antecedentes Personales de Intoxicaciones
+817,2,1 1
+	Antecedentes de madre con Toxoplasmosis durante el embarazo
+818,2,1 1
+	Carnes poco cocidas (Cerdo, Corderos, Vacas)
+819,2,1 1
+	Antecedentes Personales de poliradiculoneuritis aguda
+820,2,1 1
+	Antecedentes Personales de Queratitis
+821,2,1 1
+	Ha visitado o recidido recientemente Otros Pa&#237;ses
+822,2,1 1
+	Ha visitado o recidido recientemente en Africa del Norte
+823,2,1 1
+	Ha visitado o recidido recientemente en Africa Oriental
+824,2,1 1
+	Ha visitado o recidido recientemente en Australia
+825,2,1 1
+	Ha visitado o recidido recientemente en Europa
+826,2,1 1
+	Ha visitado o recidido recientemente en Am&#233;rica del Norte
+827,2,1 1
+	Ha visitado o recidido recientemente en Am&#233;rica del Sur
+828,2,1 1
+	Ha visitado o recidido recientemente en Am&#233;rica Central
+829,2,1 1
+	Ha visitado o recidido recientemente en Africa Central
+830,2,1 1
+	Ha visitado o recidido recientemente en Estados Unidos
+831,2,1 1
+	Ha visitado o recidido recientemente en Canad&#225;
+832,2,1 1
+	Ha visitado o recidido recientemente en M&#233;xico
+833,2,1 1
+	Ha visitado o recidido recientemente en Colombia
+834,2,1 1
+	Ha visitado o recidido recientemente en Brasil
+835,2,1 1
+	Ha visitado o recidido recientemente en Oriente Medio
+836,2,1 1
+	Ha visitado o recidido recientemente en India
+837,2,1 1
+	Ha visitado o recidido recientemente en Arabia
+838,2,1 1
+	Ha visitado o recidido recientemente en Armenia
+839,2,1 1
+	Ha visitado o recidido recientemente en Inglaterra
+840,2,1 1
+	El paciente ha vivido o visit&#243; paises subdesarrollados
+841,2,1 1
+	Antecedentes Personales de Peritonitis
+842,2,1 1
+	El paciente es Minero
+843,2,1 1
+	El paciente tiene antecedentes Familiares de Porfiria
+844,2,1 2
+	El paciente tiene antecedentes de Mutilaciones M&#250;ltiples (Nariz, Oreja,
+	 Dedos)
+845,2,1 1
+	Ha visitado o recidido recientemente en Italia
+846,2,1 1
+	Ha visitado o recidido recientemente en Sud&#225;n
+847,2,1 1
+	Ha visitado o recidido recientemente en China
+848,2,1 1
+	Ha visitado o recidido recientemente en Etiop&#237;a
+849,2,1 1
+	Antecedentes Personales de leucoplasia pilosa
+850,2,1 1
+	Antecedentes Personales de Sarcoma de Kaposi
+851,2,1 1
+	Antecedentes Personales de Neumonia por Pneumocystis Carinii
+852,2,1 1
+	Antecedentes Personales de Criptosporidiasis
+853,2,1 1
+	Antecedentes Personales de Citomegalovir&#243;sis
+854,2,1 1
+	Antecedentes Personales de Leucoencefalopat&#237;a Multifocal Progresiva
+855,2,1 2
+	Antecedentes Personales de Contacto Sexual con Sero Positivos al VIH y/o
+	 enfermos de SIDA
+856,2,1 1
+	Antecedentes Personales de Pr&#225;ctica de Coito Anal o por Via Contranatura
+857,2,1 1
+	Antecedentes Personales de Heterosexualidad o Bisexualidad
+858,2,1 1
+	Historia de Promiscuidad
+859,2,1 1
+	Antecedentes Personales de Prostituci&#243;n o Aberraci&#243;n Sexual
+860,2,1 1
+	Antecedentes Personales de NO Utilizaci&#243;n del Cond&#243;n
+861,2,1 1
+	Antecedentes Personales de Pruebas Intrad&#233;rmicas Positivas a Hongos
+862,2,1 2
+	Antecedentes Personales de trabajos o visitas a Gallineros, Pajareras,
+	 Palomares, T&#250;neles o Minas
+863,2,1 1
+	Antecedentes Personales de explorar Cuevas
+864,2,1 1
+	Antecedentes Personales de Asma Bronquial Rebelde al Tratamiento
+865,2,1 1
+	Antecedentes Personales de Insuficiencia A&#243;rtica
+866,2,1 1
+	Antecedentes Personales de Glomerulonefritis Aguda
+867,2,1 1
+	Antecedentes Personales de Tromboflebitis Superficial
+868,2,1 1
+	Antecedentes Personales de Cirug&#237;a Cardiovascular
+869,2,1 1
+	Antecedentes de Prueba Cut&#225;nea de Histoplasmina con Resultados Positivos
+870,2,1 1
+	El paciente es Judio
+871,2,1 1
+	El paciente es o ha sido Ganadero
+872,2,1 1
+	Antecedentes Personales de Plaquetopenia
+873,2,1 1
+	Antecedentes Personales de Granulocitopenia
+874,2,1 1
+	Antecedentes Personales de Ascitis
+875,2,1 1
+	Antecedentes Personales de Epiescleritis
+876,2,1 1
+	Historia Sexual del Paciente
+877,2,1 1
+	Antecedentes Personales de Enfermedad de Addison
+878,2,1 1
+	Antecedentes patol&#243;gicos Familiares de Lepra
+879,2,1 2
+	El paciente convive, ha convivido o ha tenido contacto con personas que padecen
+	 de Lepra
+880,2,1 2
+	El paciente reside o ha residido en paises subdesarrollados o
+	 Socio-economicamente afectados
+881,2,1 1
+	El paciente tiene antecedentes Familiares de Afecciones Dermatol&#243;gicas
+882,2,1 2
+	Comod&#237;n de Antecedente Patol&#243;gicos Familiares de Afecciones
+	 Dermatol&#243;gicas
+883,2,1 1
+	Antecedentes Familiares de Dermatitis de Contacto
+884,2,1 1
+	El paciente tiene Antecedentes Farmacol&#243;gicos de Neomicina
+885,2,1 1
+	El paciente tiene Antecedentes Farmacol&#243;gicos de Meprobamato
+886,2,1 1
+	El paciente tiene antecedentes Farmacol&#243;gicos de Mertiolato o Timerosal
+887,2,1 1
+	El paciente tiene Antecedentes Farmacol&#243;gicos de Mercuro Cromo
+888,2,1 1
+	El paciente tiene Antecedentes Farmacol&#243;gicos de Alcohol Salic&#237;lico
+889,2,1 1
+	El paciente tiene Antecedentes Farmacol&#243;gicos de Picrato de Butesina
+890,2,1 1
+	Antecedentes Familiares de Fiebre del Heno
+891,2,1 1
+	Antecedentes Familiares de Dermatitis
+892,2,1 1
+	Antecedentes Familiares de Dermatitis Medicamentosa
+893,2,1 1
+	Antecedentes Familiares de Dermatitis Piogena
+894,2,1 1
+	Antecedentes Familiares de Dermatitis At&#243;pica
+895,2,1 1
+	Antecedentes Familiares de Otras Dermatitis
+896,2,1 1
+	Antecedentes Familiares de Atopia
+897,2,1 1
+	Antecedentes Personales de Fiebre del Heno
+898,2,1 1
+	Antecedentes Personales de Atopia
+899,2,1 2
+	Antecedentes Personales de Eczema Al&#233;rgico &#243; At&#243;pico del
+	 Ni&#241;o
+900,2,1 1
+	Antecedentes Personales de Catarata
+901,2,1 1
+	El paciente ha tenido contacto con lana
+902,2,1 1
+	Antecedentes Personales de Dermatitis de Contacto
+903,2,1 1
+	Antecedente Familiares de Psoriasis
+904,2,1 1
+	Antecedentes Personales de Micosis Profunda
+905,2,1 1
+	Antecedentes Personales de Infecciones Virales
+906,2,1 1
+	Antecedentes Personales de Otras Infecciones Virales
+907,2,1 1
+	Antecedentes de ttmto Farmacol&#243;gico con Bromuros
+908,2,1 1
+	Antecedentes Personales de Brucelosis
+909,2,1 1
+	Antecedentes Personales de Leptospirosis
+910,2,1 1
+	Antecedentes Personales de Tularemia
+911,2,1 1
+	Antecedentes Personales de Trasplantes
+912,2,1 1
+	Antecedentes Personales de Otros Trasplantes
+913,2,1 1
+	Antecedentes Personales de No Secado Adecuado de los Pies
+914,2,1 1
+	Antecedentes Personales de Epidermofitosis de los Pies
+915,2,1 2
+	Antecedentes de Uso en com&#250;n de zapatos, deambular descalzos por gimnasios
+	 o ba&#241;os contaminados
+916,2,1 1
+	Antecedentes Personales de uso de calzado h&#250;medo o muy cerrado
+917,2,1 1
+	Alimentos y sustancias ingeridas recientemente por el paciente
+918,2,1 1
+	Antecedentes de trabajar como Fot&#243;grafo o T&#233;cnico de Rayos X
+919,2,1 1
+	Antecedentes de trabajar como T&#233;cnico de Yeso
+920,2,1 1
+	Antecedentes de trabajar como Violinista o similar
+921,2,1 1
+	Antecedentes de trabajar en la Industria del Pl&#225;stico
+922,2,1 1
+	Antecedentes Personales de Convulsiones
+923,2,1 1
+	El paciente padece de Retraso Mental
+924,2,1 1
+	Antecedentes Familiares de Neurofibromatosis
+925,2,1 2
+	Antecedentes Personales de contacto con personas que padecen de S&#237;fils
+	 Infecciosa
+926,2,1 1
+	Antecedentes Personales de Serolog&#237;a VDRL positiva
+927,2,1 1
+	Antecedentes Personales de Policitemia Verdadera
+928,2,1 1
+	Antecedentes Personales de Hipercolesterolemia
+929,2,1 1
+	Antecedentes Personales de Hiperlipidemia
+930,2,1 1
+	Antecedentes Personales de Dislipidemia
+931,2,1 1
+	Antecedentes Personales de Cardiopat&#237;a Isqu&#233;mica
+932,2,1 1
+	Antecedentes Personales de Enfermedad Coronaria
+933,2,1 1
+	Paciente consumidor de Sodio (Incluye la SAL com&#250;n)
+934,2,1 1
+	Antecedentes Personales de Edema Agudo de Pulm&#243;n
+935,2,1 1
+	Antecedentes Personales de Edema Agudo de Pulm&#243;n (Recurrente)
+936,2,1 2
+	Antecedentes Personales de Nefropat&#237;a Diab&#233;tica o S&#237;ndrome de
+	 Kimmelstiel-Wilson
+937,2,1 1
+	Antecedentes Personales de Tumor Renal
+938,2,1 1
+	Antecedentes Personales de Ri&#241;ones Poliqu&#237;sticos
+939,2,1 1
+	Antecedentes Personales de S&#237;ndrome de Cushing
+940,2,1 1
+	Antecedentes Personales de Coartaci&#243;n de la Aorta
+941,2,1 1
+	Antecedentes Personales de Secci&#243;n Medular
+942,2,1 1
+	Antecedentes Personales de Neuroblastoma
+943,2,1 1
+	Antecedentes Personales de Hipernefroma
+944,2,1 1
+	Antecedentes Personales de S&#237;ndrome Carcinoide
+945,2,1 1
+	Antecedentes Personales de Policitemia Vera
+946,2,1 1
+	Antecedentes Personales de Hipertensi&#243;n Endocraneana
+947,2,1 1
+	Antecedentes Familiares de Cardiopat&#237;a
+948,2,1 1
+	Antecedentes de Tratamiento Farmacol&#243;gico con Eritroproyetina
+949,2,1 1
+	Antecedentes Personales de Eclampsia
+950,2,1 1
+	Antecedentes Personales de Disecci&#243;n Aortica
+951,2,1 1
+	Antecedentes Personales de Encefalopat&#237;a Hipertensiva

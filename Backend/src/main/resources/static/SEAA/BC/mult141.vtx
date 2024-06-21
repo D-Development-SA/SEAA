@@ -1,0 +1,108 @@
+1,14,1 1 3
+	Desde cu&#225;ndo presenta Fiebre:
+		Menos de una semana
+		Entre una y tres semanas
+		M&#225;s de tres semanas
+2,14,1 1 2
+	C&#243;mo fue el comienzo de la Fiebre:
+		Brusco
+		Gradual
+3,14,1 1 3
+	C&#243;mo se manifiesta la Fiebre:
+		Constantemente elevada
+		Picos febriles bruscos
+		Fiebre de d&#237;as de duraci&#243;n con per&#237;odos de remisi&#243;n
+4,14,1 1 27
+	Qu&#233; s&#237;ntomas acompa&#241;antes presenta la Fiebre:
+		Tos
+		Disnea
+		Dolor Tor&#225;cico
+		Cefalea
+		Dolor Abdominal
+		Dolor Lumbar
+		Dolor Articular
+		Dolor Muscular
+		Odinofagia
+		Diarrea
+		Alteraciones del Ritmo Intestinal
+		Ictericia
+		Disuria
+		Polaquiuria
+		Hematuria
+		Rash Cut&#225;neo
+		Adenopat&#237;as
+		P&#233;rdida de Peso
+		Astenia
+		Anorexia
+		Sudoraci&#243;n Profusa
+		P&#250;rpura
+		Rinorrea
+		Obstrucci&#243;n Nasal
+		Estornudos
+		Movimientos Involuntarios
+		Contractura Muscular
+5,14,1 1 9
+	El paciente ha presentado recientemente:
+		Contacto con personas con procesos febriles
+		Contacto con animales
+		Viaje a pa&#237;ses tropicales
+		Mordedura de roedores &#250; otros animales
+		Picadura por garrapata o piojos
+		Picadura por mosquitos
+		Pinchazos o cortes cut&#225;neos
+		Relaciones sexuales no habituales
+		Contacto con aguas estancadas o terrenos h&#250;medos
+6,14,1 1 2
+	El paciente ha consumido:
+		Leche &#243; queso sin pausterizar
+		Drogas por v&#237;a parenteral
+7,14,1 1 2
+	El paciente ha sufrido recientemente:
+		Manipulaci&#243;n &#243; cirug&#237;a dentaria
+		Manipulaci&#243;n &#243; cirug&#237;a Genito-Urinaria
+8,14,1 1 3
+	Desde cu&#225;ndo presenta Astenia:
+		Menos de un mes
+		Entre uno y tres meses
+		M&#225;s de tres meses
+9,14,1 1 2
+	C&#243;mo fue el comienzo de la Astenia:
+		Brusco
+		Gradual
+10,14,1 1 2
+	C&#243;mo se manifiesta la Astenia:
+		Constantemente
+		Intermitente
+11,14,1 1 3
+	C&#243;mo se desencadena la Astenia:
+		Con el ejercicio
+		Con stress o trastornos emocionales
+		Sin relaci&#243;n aparente
+12,14,1 1 2
+	C&#243;mo disminuye la Astenia:
+		Con el reposo f&#237;sico
+		Con la actividad f&#237;sica
+13,14,1 1 18
+	Qu&#233; s&#237;ntomas acompa&#241;antes presenta la Astenia:
+		Tos
+		Disnea
+		Dolor Tor&#225;cico
+		Fiebre
+		Febr&#237;cola
+		Dolor Abdominal
+		P&#233;rdida de Peso
+		Aumento de Peso
+		Disminuci&#243;n de Apetito
+		Aumento de Apetito
+		Sudoraci&#243;n Nocturna
+		Alteraci&#243;n del Ritmo Intestinal
+		Diarrea
+		Adenopat&#237;as
+		Ictericia
+		Ansiedad &#243; Depresi&#243;n
+		Dolor Articular
+		Dolor Muscular
+17,14,1 1 2
+	La Fiebre se presenta:
+		Durante todo el d&#237;a
+		Durante la tarde y/o la noche

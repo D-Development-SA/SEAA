@@ -1,0 +1,682 @@
+1,8,1 1
+	Las Palpitaciones se presentan: Cont&#237;nuas
+2,8,1 1
+	Las Palpitaciones se presentan: Recurrentes
+3,8,1 1
+	Las Palpitaciones se presentan: Como un &#34;vuelco&#34;
+4,8,1 1
+	Las Palpitaciones duran: Minutos a horas
+5,8,1 1
+	Las Palpitaciones duran: D&#237;as a meses
+6,8,1 1
+	Las Palpitaciones tienen ritmo: Regular
+7,8,1 1
+	Las Palpitaciones tienen ritmo: Irregular
+8,8,1 1
+	Las Palpitaciones tienen relaci&#243;n con: Estados de ansiedad
+9,8,1 2
+	Las Palpitaciones tienen relaci&#243;n con: Ingesta de f&#225;rmacos o
+	 t&#243;xicos
+10,8,1 1
+	Las Palpitaciones tienen relaci&#243;n con: Ejercicio
+11,8,1 2
+	Causa desencadenante del Cambio de la Coloraci&#243;n en Extremidades
+	 Superiores: Fr&#237;o
+12,8,1 2
+	Causa desencadenante del Cambio de la Coloraci&#243;n en Extremidades
+	 Superiores: Calor
+13,8,1 2
+	Causa desencadenante del Cambio de la Coloraci&#243;n en Extremidades
+	 Superiores: Ejercicio
+14,8,1 2
+	Mantiene en las Extremidades Superiores la misma coloraci&#243;n durante los
+	 episodios
+15,8,1 2
+	Var&#237;a la Coloraci&#243;n en las Extremidades Superiores de Palidez a
+	 Eritema
+16,8,1 1
+	Las Palpitaciones tienen relaci&#243;n con la ingesta de hormona tiroidea
+17,8,1 1
+	Es el primer episodio de S&#237;ncope
+18,8,1 1
+	Situaci&#243;n en que se produjo el S&#237;ncope: Ninguna especial
+19,8,1 1
+	Situaci&#243;n en que se produjo el S&#237;ncope: Cambio postural brusco
+20,8,1 1
+	Situaci&#243;n en que se produjo el S&#237;ncope: Giro cef&#225;lico
+21,8,1 1
+	Situaci&#243;n en que se produjo el S&#237;ncope: Elevaci&#243;n del brazo
+22,8,1 2
+	Situaci&#243;n en que se produjo el S&#237;ncope: Micci&#243;n o
+	 defecaci&#243;n
+23,8,1 2
+	Situaci&#243;n en que se produjo el S&#237;ncope: Ambiente cerrado, caluroso,
+	 con multitudes
+24,8,1 2
+	Situaci&#243;n en que se produjo el S&#237;ncope: Crisis de ansiedad o stress
+	 agudo
+25,8,1 1
+	Situaci&#243;n en que se produjo el S&#237;ncope: Acceso de tos
+26,8,1 1
+	Situaci&#243;n en que se produjo el S&#237;ncope: Con ingesta de f&#225;rmacos
+27,8,1 1
+	Situaci&#243;n en que se produjo el S&#237;ncope: Hiperventilaci&#243;n
+28,8,1 1
+	Situaci&#243;n en que se produjo el S&#237;ncope: Ortostatismo prolongado
+29,8,1 1
+	Situaci&#243;n en que se produjo el S&#237;ncope: Dec&#250;bito
+30,8,1 1
+	Situaci&#243;n en que se produjo el S&#237;ncope: Ayuno
+31,8,1 1
+	Situaci&#243;n en que se produjo el S&#237;ncope: Ejercicio
+32,8,1 1
+	Situaciones predisponentes del S&#237;ncope: Fiebre
+33,8,1 1
+	Situaciones predisponentes del S&#237;ncope: Diarrea
+34,8,1 1
+	Situaciones predisponentes del S&#237;ncope: Hambre o fatiga
+35,8,1 1
+	Situaciones predisponentes del S&#237;ncope: Ingesta de f&#225;rmacos
+36,8,1 1
+	Situaciones predisponentes del S&#237;ncope: Hemorragia
+37,8,1 1
+	Desde c&#250;ando tiene Dolor en las Extremidades Inferiores: Menos de 48 horas
+38,8,1 2
+	Desde c&#250;ando tiene Dolor en las Extremidades Inferiores: M&#225;s de 48
+	 horas
+39,8,1 1
+	D&#243;nde se localiza el Dolor de las Extremidades Inferiores: Muslo
+40,8,1 1
+	D&#243;nde se localiza el Dolor de las Extremidades Inferiores: Pantorrilla
+41,8,1 1
+	D&#243;nde se localiza el Dolor de las Extremidades Inferiores: Pie
+42,8,1 2
+	Ha tenido antecedente traum&#225;tico previo reciente en las Extremidades
+	 Inferiores
+43,8,1 2
+	Antecedente traum&#225;tico previo reciente en las Extremidades Inferiores:
+	 Herida superficial
+44,8,1 2
+	Antecedente traum&#225;tico previo reciente en las Extremidades Inferiores:
+	 Contusi&#243;n sin herida
+45,8,1 1
+	C&#243;mo es el Dolor en las Extremidades Inferiores: Fijo
+46,8,1 1
+	C&#243;mo es el Dolor en las Extremidades Inferiores: Irradiado
+47,8,1 2
+	C&#243;mo se desencadena el Dolor en las Extremidades Inferiores:
+	 Espont&#225;neamente
+48,8,1 2
+	C&#243;mo se desencadena el Dolor en las Extremidades Inferiores: Al inicio de
+	 la deambulaci&#243;n
+49,8,1 2
+	C&#243;mo se desencadena el Dolor en las Extremidades Inferiores:
+	 Deambulaci&#243;n
+50,8,1 2
+	C&#243;mo se desencadena el Dolor en las Extremidades Inferiores: Con la
+	 elevaci&#243;n de la extremidad
+51,8,1 2
+	C&#243;mo se desencadena el Dolor en las Extremidades Inferiores: Con el
+	 fr&#237;o
+52,8,1 2
+	C&#243;mo se desencadena el Dolor en las Extremidades Inferiores: Con la
+	 bipedestaci&#243;n prolongada
+53,8,1 2
+	C&#243;mo se desencadena el Dolor en las Extremidades Inferiores: Con
+	 flexoextensi&#243;n del tronco
+54,8,1 2
+	C&#243;mo se alivia el Dolor en las Extremidades Inferiores:
+	 Espont&#225;neamente
+55,8,1 1
+	C&#243;mo se alivia el Dolor en las Extremidades Inferiores: Con el reposo
+56,8,1 2
+	C&#243;mo se alivia el Dolor en las Extremidades Inferiores: Con cese de la
+	 deambulaci&#243;n
+57,8,1 2
+	C&#243;mo se alivia el Dolor en las Extremidades Inferiores: Descenso de la
+	 extremidad
+58,8,1 2
+	C&#243;mo se alivia el Dolor en las Extremidades Inferiores: Elevaci&#243;n de
+	 la extremidad
+59,8,1 1
+	El Edema de Extremidades Inferiores deja fovea
+60,8,1 1
+	Intermedio de 14{2,1} V 175{1,1} V 345{2,1} V 353{2,1} V 97{2,1}
+61,8,1 2
+	Desde cu&#225;ndo tiene el Edema de las Extremidades Inferiores: Menos de 48
+	 horas
+62,8,1 2
+	Desde cu&#225;ndo tiene el Edema de las Extremidades Inferiores: M&#225;s de 48
+	 horas
+63,8,1 2
+	D&#243;nde se localiza el Edema de las Extremidades Inferiores: Zonas de
+	 declives
+64,8,1 2
+	D&#243;nde se localiza el Edema de las Extremidades Inferiores: Otras
+	 localizaciones
+65,8,1 2
+	Factor desencadenante del Edema de las Extremidades Inferiores:
+	 Bipedestaci&#243;n
+66,8,1 2
+	Factor desencadenante del Edema de las Extremidades Inferiores: Traumatismo
+	 previo
+67,8,1 2
+	Factor desencadenante del Edema de las Extremidades Inferiores: Infecci&#243;n
+	 local
+68,8,1 2
+	Factor desencadenante del Edema de las Extremidades Inferiores: Picaduras de
+	 insectos
+69,8,1 2
+	Factor desencadenante del Edema de las Extremidades Inferiores: Agente
+	 irritante local
+70,8,1 1
+	Factor desencadenante del Edema de las Extremidades Inferiores: F&#225;rmacos
+71,8,1 1
+	CMBD de caso especial de Infarto Agudo del Miocardio
+72,8,1 1
+	En qu&#233; extremidades es la Alteraci&#243;n en Coloraci&#243;n: Superiores
+73,8,1 1
+	En qu&#233; extremidades es la Alteraci&#243;n en Coloraci&#243;n: Inferiores
+74,8,1 2
+	La Alteraci&#243;n de Coloraci&#243;n en las Extremidades Superiores es
+	 Unilateral
+75,8,1 2
+	La Alteraci&#243;n de Coloraci&#243;n en las Extremidades Superiores es
+	 Bilateral
+76,8,1 2
+	La Alteraci&#243;n de Coloraci&#243;n en las Extremidades Inferiores es
+	 Unilateral
+77,8,1 2
+	La Alteraci&#243;n de Coloraci&#243;n en las Extremidades Inferiores es
+	 Bilateral
+78,8,1 2
+	La Alteraci&#243;n de Coloraci&#243;n en las Extremidades Inferiores es en la
+	 Regi&#243;n Distal
+79,8,1 2
+	La Alteraci&#243;n de Coloraci&#243;n en las Extremidades Inferiores es en
+	 Regi&#243;n Proximal y Distal
+80,8,1 1
+	Coloraci&#243;n de la Piel de las Extremidades Inferiores: Cianosis
+81,8,1 1
+	Coloraci&#243;n de la Piel de las Extremidades Inferiores: Palidez
+82,8,1 1
+	Coloraci&#243;n de la Piel de las Extremidades Inferiores: Eritema
+83,8,1 1
+	La Piel de las Extremidades Inferiores es necr&#243;tica
+84,8,1 2
+	Mantiene en las Extremidades Inferiores la misma Coloraci&#243;n durante los
+	 episodios
+85,8,1 2
+	Var&#237;a la Coloraci&#243;n en las Extremidades Inferiores de Palidez a
+	 Eritema
+86,8,1 2
+	Var&#237;a la Coloraci&#243;n en las Extremidades Inferiores de Palidez a
+	 Necrosis
+87,8,1 2
+	Var&#237;a la Coloraci&#243;n en las Extremidades Inferiores de Palidez a
+	 Cianosis a Eritema
+88,8,1 2
+	Causa desencadenante del Cambio de Coloraci&#243;n en Extremidades Inferiores:
+	 Frio
+89,8,1 2
+	Causa desencadenante del Cambio de Coloraci&#243;n en Extremidades Inferiores:
+	 Calor
+90,8,1 2
+	Causa desencadenante del Cambio de Coloraci&#243;n en Extremidades Inferiores:
+	 Ejercicio
+91,8,1 1
+	CMBD 2 para Fen&#243;meno de Raynaud
+92,8,1 1
+	Comod&#237;n para Ingesta de f&#225;rmacos previa
+93,8,1 1
+	La Piel de las Extremidades Superiores es Necr&#243;tica
+94,8,1 1
+	El paciente refiere tener Hiperemia
+95,8,1 2
+	El paciente refiere Signos Inflamatorios Locales Venosos en Extremidades
+	 Inferiores
+96,8,1 1
+	El paciente refiere tener Ulceras en los Dedos de los Pies
+97,8,1 1
+	El paciente refiere tener Raynaud en Extremidades Inferiores
+98,8,1 1
+	El paciente tiene Hiperestesia en Extremidades Inferiores
+99,8,1 1
+	Existen evidencias de Tromboangeitis Obliterante
+100,8,1 1
+	CMBD de Tromboangeitis Obliterante
+101,8,1 1
+	Existen evidencias de Tromboflebitis Superficial
+102,8,1 1
+	CMBD de Tromboflebitis Superficial
+103,8,1 1
+	Comod&#237;n de la variable 29
+104,8,1 1
+	El paciente tiene V&#225;rices en las Extremidades Inferiores
+105,8,1 1
+	Existen evidencias de Trombosis Venosa Profunda
+106,8,1 1
+	CMBD de Trombosis Venosa Profunda (Dolor)
+107,8,1 1
+	Coloraci&#243;n de la Piel de las Extremidades Inferiores: Mel&#225;nica
+108,8,1 1
+	Intermedio de 49 &#38; (55 V 56)
+109,8,1 1
+	Intermedio de 95 V 26{1,1}
+110,8,1 1
+	CMBD de Trombosis Venosa Profunda (Edema)
+111,8,1 2
+	Intermedio de 41{1,1} V 9{2,1} V 103{2,1} V 13{2,1} V 14{2,1} V 175{1,1} V
+	 359{2,1} V 19{2,1}
+112,8,1 1
+	Existen evidencias de Arritmia Card&#237;aca
+113,8,1 2
+	El paciente refiere tener S&#237;ncope Brusco sin m&#225;s S&#237;ntomas
+	 Acompa&#241;antes
+114,8,1 1
+	El paciente refiere tener Sensaci&#243;n de &#34;Vuelco&#34; en T&#243;rax
+115,8,1 1
+	El paciente refiere tener Aura Previa
+116,8,1 1
+	Intermedio de 82 V 95 V 96
+117,8,1 2
+	El Edema en las Extremidades Inferiores disminuye con la elevaci&#243;n del
+	 miembro afectado
+118,8,1 1
+	El paciente refiere tener Sensaci&#243;n de Hambre y Sudoraci&#243;n
+119,8,1 1
+	El paciente refiere tener Disnea Parox&#237;stica Nocturna
+120,8,1 1
+	Existen evidencias de Edema Agudo de Pulm&#243;n
+121,8,1 1
+	CMBD de Edema Agudo de Pulm&#243;n
+122,8,1 1
+	Intermedio de 356{2,1} V 357{2,1} V 358{2,1}
+123,8,1 1
+	Existen evidencias de Insuficiencia Card&#237;aca
+124,8,1 1
+	CMBD 1 de Insuficiencia Card&#237;aca
+125,8,1 1
+	Intermedio de 36{5,1} V 31{5,1}
+126,8,1 1
+	Existen evidencias de Pericarditis Aguda
+127,8,1 1
+	CMBD de Pericarditis Aguda
+128,8,1 1
+	Intermedio de 88{5,1} V 91{5,1}
+129,8,1 1
+	Intermedio de 41{1,1} V 40{1,1}
+130,8,1 1
+	Existen evidencias de Pericarditis Constrictiva
+131,8,1 1
+	CMBD de Pericarditis Constrictiva (Disnea)
+132,8,1 2
+	El paciente presenta Aura Previa, Convulsiones, Relajaci&#243;n de
+	 Esf&#237;nteres
+133,8,1 1
+	Intermedio de 101{2,1} V 20{2,1} V 13{2,1} V 103{2,1}
+134,8,1 1
+	El paciente refiere tener Ulceras en el Pie
+135,8,1 1
+	El paciente refiere tener Ulceras en la Pierna
+136,8,1 1
+	CMBD de caso especial de Angina de Pecho (Angor)
+137,8,1 1
+	CMBD 2 de Insuficiencia Card&#237;aca con Edema
+138,8,1 1
+	El paciente presenta Dolor Far&#237;ngeo, Mareo y Bradicardia
+139,8,1 2
+	El paciente presenta Frialdad en Extremidades, Entumecimiento, Parestesias
+	 generalizadas u Hormigueo
+140,8,1 2
+	El paciente refiere Signos Inflamatorios Locales no vasculares en Extremidades
+	 inferiores
+141,8,1 1
+	Existen evidencias de Isquemia Aguda de Extremidades Inferiores
+142,8,1 2
+	Existen evidencias de Isquemia Cr&#243;nica de Extremidades Inferio- res grado
+	 II (Claudicaci&#243;n Intermitente en Extremidades Inferiores)
+143,8,1 1
+	CMBD de Claudicaci&#243;n Intermitente en Extremidades Inferiores
+144,8,1 1
+	Intermedio de 55 V 56
+145,8,1 2
+	Existen evidencias de Isquemia Cr&#243;nica de Extremidades Inferiores grado
+	 III-IV
+146,8,1 1
+	CMBD de Isquemia Cr&#243;nica de Extremidades Inferiores
+147,8,1 1
+	Intermedio de S&#237;ncope Brusco sin mas S&#237;ntomas Acompa&#241;antes
+148,8,1 1
+	Intermedio de 186 V 190 V 80
+149,8,1 1
+	Intermedio de 1{2,1} V 97{2,1}
+150,8,1 1
+	Existen evidencias de Lipotimia. Hipotensi&#243;n Ortost&#225;tica
+151,8,1 1
+	Existen evidencias de Lipotimia de Probable Origen Emocional
+152,8,1 1
+	Existen evidencias de S&#237;ncope Miccional
+153,8,1 1
+	Existen evidencias de S&#237;ncope Tus&#237;geno
+154,8,1 1
+	Intermedio de 19 V 23 V 28
+155,8,1 1
+	Existen evidencias de Linfedema
+156,8,1 1
+	CMBD de Linfedema
+157,8,1 1
+	Existen evidencias de Angina de Pecho (Angor)
+158,8,1 1
+	CMBD de Angor
+159,8,1 1
+	Intermedio de 1{2,1} V 14{2,1} V 175{2,1} V 345{2,1} V 353{2,1} V 97{2,1}
+160,8,1 1
+	Intermedio de 355{2,1} V 356{2,1}
+161,8,1 1
+	Intermedio de 87{5,1} V 240{5,1}
+162,8,1 1
+	Intermedio caso especial de Angina de Pecho (Angor)
+163,8,1 1
+	Existen evidencias de Infarto Agudo del Miocardio
+164,8,1 1
+	CMBD de Infarto Agudo del Miocardio
+165,8,1 1
+	Intermedio caso especial de Infarto Agudo del Miocardio
+166,8,1 1
+	CMBD #2 de Angina de Pecho (Angor)
+167,8,1 1
+	CMBD #3 de Angina de Pecho (Angor)
+168,8,1 1
+	Intermedio de (166 y 167) &#38; 87{5,1}
+169,8,1 1
+	CMBD #2 de Infarto Agudo del Miocardio
+170,8,1 1
+	CMBD #3 de Infarto Agudo del Miocardio
+171,8,1 1
+	Intermedio de 169 y 170
+172,8,1 2
+	C&#243;mo es la Alteraci&#243;n de la Coloraci&#243;n en las Extremidades
+	 Superiores : Regi&#243;n Distal
+173,8,1 1
+	Existen evidencias de Insuficiencia Venosa Perif&#233;rica
+174,8,1 2
+	CMBD de Insuficiencia Venosa Perif&#233;rica con Dolor en Extremidades
+	 Inferiores
+175,8,1 2
+	CMBD de Insuficiencia Venosa Perif&#233;rica con Edema en Extremidades
+	 Inferiores
+176,8,1 1
+	Intermedio 134 V 135
+177,8,1 1
+	Intermedio 65 V 117
+178,8,1 1
+	Existen evidencias de S&#237;ndrome de Robo de la Subclavia
+179,8,1 2
+	C&#243;mo es la Alteraci&#243;n de la Coloraci&#243;n en las Extremidades
+	 Superiores: Regi&#243;n Proximal y Distal
+180,8,1 2
+	El tiempo de duraci&#243;n del Dolor Tor&#225;cico est&#225; entre 30 minutos y
+	 una hora
+181,8,1 1
+	El paciente presenta P&#233;rdida de Fuerza en un hemicuerpo
+182,8,1 1
+	Intermedio de 1 V 2 V 3
+183,8,1 1
+	Intermedio de 25{1,1} V 22{1,1} V 29{1,1} V 113{1,1}
+184,8,1 1
+	El paciente presenta Dolor Far&#237;ngeo
+185,8,1 1
+	El paciente presenta Bradicardia
+186,8,1 1
+	El paciente presenta Frialdad en Extremidades Inferiores
+187,8,1 1
+	CMBD de Eritromelalgia
+188,8,1 1
+	Intermedio de 25{1,1} V 27{1,1} V 114
+189,8,1 1
+	El paciente presenta Ulceras en las Extremidades Inferiores
+190,8,1 1
+	El paciente presenta Hipoestesia o Anestesia en Extremidades Inferiores
+191,8,1 1
+	El paciente presenta P&#233;rdida de Fuerza en Extremidades Inferiores
+192,8,1 1
+	D&#243;nde se localiza el Dolor de las Extremidades Inferiores: Pierna
+193,8,1 1
+	El paciente presenta Signos Inflamatorios Locales en Extremidades Inferiores
+194,8,1 1
+	El paciente presenta Prurito en Extremidades
+195,8,1 1
+	El paciente presenta Calor Local en Extremidades
+196,8,1 1
+	Comod&#237;n de la variable 28
+197,8,1 1
+	Comod&#237;n de la variable 15
+198,8,1 1
+	Comod&#237;n de la variable 14
+199,8,1 1
+	Existen evidencias de Eritromelalgia
+200,8,1 1
+	Comod&#237;n de la variable 16
+201,8,1 1
+	Existen evidencias de Linfangitis
+202,8,1 1
+	Intermedio de 68{5,1} V 70{5,1}
+203,8,1 1
+	Intermedio de 20{5,1} V 21{5,1}
+204,8,1 1
+	Intermedio de 21{1,1} &#38; (10{5,1} V 15{5,1})
+205,8,1 1
+	Intermedio de 357{2,1} V 358{2,1}
+206,8,1 1
+	Intermedio de 356{2,1} V 357{2,1} V 358{2,1}
+207,8,1 1
+	Intermedio de 22{1,1} V 28{1,1}
+208,8,1 1
+	CMBD de Eritema Pernio
+209,8,1 1
+	Intermedio de 32 V 33
+210,8,1 1
+	Intermedio de 13{9,1} V 12{9,1}
+211,8,1 1
+	Intermedio de 78{5,1} V 161 V 45{1,1}
+212,8,1 2
+	Forma de comienzo del Dolor en las Extremidades Inferiores: Lenta
+	 (Meses-a&#241;os)
+213,8,1 1
+	Intermedio de 113 V 181
+214,8,1 1
+	Intermedio de 39 V 40 V 41
+215,8,1 2
+	CMBD de Dolor Extremidades Superiores para Isquemia Aguda de Extremidades
+	 Superiores
+216,8,1 1
+	El paciente presenta Dolor en Extremidades
+217,8,1 1
+	El paciente presenta Sudoraci&#243;n en Extremidades
+218,8,1 1
+	D&#243;nde se localiza el Dolor de las Extremidades Superiores: Brazo
+219,8,1 1
+	Existen evidencias del Fen&#243;meno de Raynaud
+220,8,1 1
+	CMBD del Fen&#243;meno de Raynaud
+221,8,1 1
+	Intermedio de 216 V 194
+222,8,1 1
+	Intermedio de 81 V 268 V 85 V 15 V 87 V 277
+223,8,1 1
+	Existen evidencias de Acrocian&#243;sis
+224,8,1 1
+	CMBD de Acrocian&#243;sis
+225,8,1 1
+	Existe evidencias de Aneurisma Disecante de Aorta Tor&#225;cica
+226,8,1 1
+	Existen evidencias de L&#237;vedo-Reticularis
+227,8,1 1
+	Existen evidencias de Vasoespasmo Secundario a Ingesta Farmacol&#243;gica
+228,8,1 1
+	CMBD de Vasoespasmo Secundario a Ingesta Farmacol&#243;gica
+229,8,1 1
+	Existen evidencias de Eritema Pernio
+230,8,1 1
+	D&#243;nde se localiza el Dolor de las Extremidades Superiores: Antebrazo
+231,8,1 1
+	D&#243;nde se localiza el Dolor de las Extremidades Superiores: Mano
+232,8,1 1
+	Desde c&#250;ando tiene Dolor en las Extremidades Superiores: Menos de 48 horas
+233,8,1 2
+	Desde c&#250;ando tiene Dolor en las Extremidades Superiores: M&#225;s de 48
+	 horas
+234,8,1 2
+	Ha tenido antecedente traum&#225;tico previo reciente en las Extremidades
+	 Superiores
+235,8,1 2
+	Antecedente traum&#225;tico previo reciente en las Extremidades Superiores:
+	 Herida superficial
+236,8,1 2
+	Antecedente traum&#225;tico previo reciente en las Extremidades Superiores:
+	 Contusi&#243;n sin herida
+237,8,1 1
+	C&#243;mo es el Dolor en las Extremidades Superiores: Fijo
+238,8,1 1
+	C&#243;mo es el Dolor en las Extremidades Superiores: Irradiado
+239,8,1 2
+	C&#243;mo se desencadena el Dolor en las Extremidades Superiores:
+	 Espont&#225;neamente
+240,8,1 2
+	C&#243;mo se desencadena el Dolor en las Extremidades Superiores: Con la
+	 elevaci&#243;n de la extremidad
+241,8,1 1
+	C&#243;mo se desencadena el Dolor en las Extremidades Superiores: Con el frio
+242,8,1 2
+	C&#243;mo se alivia el Dolor en las Extremidades Superiores:
+	 Espont&#225;neamente
+243,8,1 1
+	C&#243;mo se alivia el Dolor en las Extremidades Superiores: Con el reposo
+244,8,1 2
+	C&#243;mo se alivia el Dolor en las Extremidades Superiores: Descenso de la
+	 extremidad
+245,8,1 2
+	C&#243;mo se alivia el Dolor en las Extremidades Superiores: Elevaci&#243;n de
+	 la extremidad
+246,8,1 1
+	El paciente refiere tener Ulceras en Extremidades Superiores
+247,8,1 1
+	El paciente refiere tener Ulceras en los Dedos de la Mano
+248,8,1 1
+	El paciente refiere tener Ulceras en la Mano
+249,8,1 1
+	El paciente refiere tener Ulceras en el Brazo
+250,8,1 1
+	Comod&#237;n de la variable 38
+251,8,1 1
+	CMBD de Dolor Extremidades Superiores para Fenomeno de Reynaud
+252,8,1 1
+	Existen evidencias de Isquemia Aguda de Extremidades Superiores
+253,8,1 1
+	CMBD de Pericarditis Constrictiva por S&#237;ncope
+254,8,1 1
+	CMBD de Pericarditis Constrictiva por Edema en Extremidades Inferiores
+255,8,1 1
+	Hint de Pericarditis Constrictiva
+256,8,1 1
+	El Dolor de Extremidades Superiores es Unilateral
+257,8,1 1
+	Las Palpitaciones tienen relaci&#243;n con: El reposo
+258,8,1 1
+	Las Palpitaciones se presentan: Epis&#243;dicas
+259,8,1 1
+	CMBD de Tromboflebitis Superficial (Dolor Extremidades Superiores)
+260,8,1 1
+	Existen evidencias de S&#237;ndrome Postfleb&#237;ticos
+261,8,1 1
+	CMBD de  S&#237;ndrome Postfleb&#237;ticos (Edema en Extremidades Inferiores)
+262,8,1 1
+	CMBD de Aneurisma Disecante de Aorta Tor&#225;cica (Dolor Tor&#225;xico)
+263,8,1 2
+	Forma de comienzo del Dolor en las Extremidades Inferiores: Aguda
+	 (horas-d&#237;as)
+264,8,1 1
+	El Edema en las Extremidades Inferiores apareci&#243; R&#225;pidamente
+265,8,1 1
+	El Edema en las Extremidades Inferiores apareci&#243; Gradualmente
+266,8,1 2
+	Factores desencadenantes del Edema en Extremidades Inferiores: Ciclos
+	 menstruales
+267,8,1 2
+	Factores desencadenantes del Edema en Extremidades Inferiores: Elevada
+	 temperatura del ambiente
+268,8,1 1
+	Coloraci&#243;n de la Piel de las Extremidades Superiores: Palidez
+269,8,1 1
+	Coloraci&#243;n de la Piel de las Extremidades Superiores: Cianosis
+270,8,1 1
+	Coloraci&#243;n de la Piel de las Extremidades Superiores: Eritema
+271,8,1 2
+	El paciente presenta Signos Inflamatorios Locales en las Extremidades
+	 Superiores
+272,8,1 1
+	El paciente presenta Frialdad en Extremidades Superiores
+273,8,1 1
+	El paciente presenta Hipoestesia o Anestesia en Extremidades Superiores
+274,8,1 2
+	El paciente tiene Signos Inflamatorios Locales venosos en Extremidades
+	 Superiores
+275,8,1 1
+	Comod&#237;n de la variable 42
+276,8,1 1
+	Comod&#237;n de la variable 21
+277,8,1 2
+	Var&#237;a la coloraci&#243;n en las Extremidades Inferiores: Palidez a
+	 Cianosis a Eritema
+278,8,1 2
+	C&#243;mo se desencadena el Dolor en las Extremidades Inferiores: Con
+	 exacerbaci&#243;n nocturna
+279,8,1 1
+	C&#243;mo se alivia el Dolor en las Extremidades Inferiores: Con Colchisina
+280,8,1 2
+	Forma de comienzo del Dolor en las Extremidades Superiores: Lenta (meses -
+	 a&#241;os)
+281,8,1 2
+	Forma de comienzo del Dolor en las Extremidades Superiores: Aguda (horas -
+	 d&#237;as)
+282,8,1 2
+	C&#243;mo se desencadena el Dolor en las Extremidades Superiores: Con la
+	 presi&#243;n sobre zona afectada
+283,8,1 2
+	D&#243;nde se localiza el Dolor de las Extremidades Inferiores: En toda la
+	 extremidad
+284,8,1 2
+	El paciente presenta Entumecimiento, Hormigueo o Calambres en Extremidades
+	 Superiores
+285,8,1 1
+	El paciente presenta Frialdad en Extremidades Superiores
+286,8,1 2
+	El paciente presenta Entumecimiento, Hormigueo o Calambres en Extremidades
+	 Inferiores
+287,8,1 1
+	Existen evidencias de Hipertemsi&#243;n Arterial
+288,8,1 1
+	CMBD1 de Hipertensi&#243;n Arterial
+289,8,1 1
+	CMBD2 de Hipertensi&#243;n Arterial
+290,8,1 2
+	Se cumple UN Antecedente Patol&#243;gico Personal que apunta a
+	 Hipertensi&#243;n Arterial
+291,8,1 2
+	Se cumplen DOS Antecedentes Patol&#243;gicos Personales que apuntan a
+	 Hipertensi&#243;n Arterial
+292,8,1 2
+	Se cumplen TRES O MAS Antecedentes Patol&#243;gicos Personales que apuntan a
+	 Hipertensi&#243;n Arterial
+293,8,1 2
+	Intermedio de Antecedentes Patol&#243;gicos Personales para Insuficiencia
+	 Card&#237;aca
+294,8,1 1
+	CMBD 2 de Insuficiencia Card&#237;aca
+295,8,1 1
+	CMBD 5 de Insuficiencia Card&#237;aca
+296,8,1 1
+	Hint de Insuficiencia Card&#237;aca
+297,8,1 1
+	Algoritmo para Infarto Agudo del Miocardio y Angina de Pecho (Angor)

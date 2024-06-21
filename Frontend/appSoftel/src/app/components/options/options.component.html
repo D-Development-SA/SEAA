@@ -1,0 +1,301 @@
+<div @moveAnimation (@moveAnimation.done)="doneAnimation()">
+  <ng-container *ngIf="userServ.containsRol('ROLE_EXPERT')">
+
+    <section class="mt-2 mb-5">
+        <h1>Crear y asociar un sistema experto</h1>
+        <p class="text-secondary mb-3">Rellene los campos correctamente para agregar un sistema experto a su perfil</p>
+
+        <form @expandHeight class="d-flex flex-wrap gap-4 mt-5 mb-3" *ngIf="show">
+            <mat-form-field class="flex-grow-1">
+                <mat-label>nombre</mat-label>
+                <input matInput placeholder="Nombre" type="text" [(ngModel)]="seaa.name" name="name">
+            </mat-form-field>
+            <mat-form-field class="flex-grow-1">
+                <mat-label>problema</mat-label>
+                <input matInput placeholder="Problema" type="text" [(ngModel)]="seaa.problem" name="problem">
+            </mat-form-field>
+            <mat-form-field class="flex-grow-1">
+                <mat-label>opción</mat-label>
+                <input matInput placeholder="Opción" type="text" [(ngModel)]="seaa.option" name="option">
+            </mat-form-field>
+            <mat-form-field class="flex-grow-1">
+                <mat-label>descripción</mat-label>
+                <input matInput placeholder="Descripción" type="text" [(ngModel)]="seaa.description" name="description">
+            </mat-form-field>
+            <mat-form-field class="flex-grow-1">
+                <mat-label>año</mat-label>
+                <input matInput placeholder="Año" type="number" [(ngModel)]="seaa.year" name="year">
+            </mat-form-field>
+            <mat-form-field class="flex-grow-1">
+                <mat-label>versión</mat-label>
+                <input matInput placeholder="Versión" type="text" [(ngModel)]="seaa.version" name="version">
+            </mat-form-field>
+        </form>
+
+        <div class="my-3">
+            <h5>Subir sistema experto</h5>
+            <div class="input-group mb-3 border border-success-subtle rounded">
+                <label class="input-group-text">Cargar</label>
+                <input type="file" class="form-control" (change)="loadFile($event)" accept=".rar,.zip">
+            </div>
+        </div>
+
+        <div *ngIf="show">
+            <button mat-raised-button class="w-100 mt-3" (click)="send()" [disabled]="loadSpinner || !isFileSelected">
+                <span class="d-flex alig-items-center gap-2" style="width: 10rem;">
+                    Crear y asociar
+                    <mat-spinner *ngIf="loadSpinner"
+                        style="width: 15%;height: 20px;--mdc-circular-progress-active-indicator-color: #006633!important;"></mat-spinner>
+                </span>
+            </button>
+        </div>
+
+        <p class="m-0 mt-2 text-secondary">{{textInfoLoading}}</p>
+    </section>
+
+    <section class="mt-2 mb-5">
+        <mat-divider></mat-divider>
+        <h1 class="mt-3">Compartir sistema experto con un especialista</h1>
+
+        <div>
+            <mat-stepper linear #stepper>
+                <mat-step label="Paso 1" state="add_circle" [completed]="isCompletedStep1">
+                    <ng-container *ngIf="user?.specialist?.seaaList;else noSeaa">
+                        <p>Selecciona el sistema experto a compartir</p>
+                        <div>
+                            <mat-radio-group [(ngModel)]="seaaSelected"
+                                (change)="isCompletedStep1 = seaaSelected != undefined">
+                                <mat-radio-button *ngFor="let seaa of user?.specialist?.seaaList" [value]="seaa">
+                                    {{seaa.name}}
+                                </mat-radio-button>
+                            </mat-radio-group>
+                        </div>
+                        <div>
+                            <button mat-button matStepperNext class="bg-green text-light">Próximo</button>
+                        </div>
+                    </ng-container>
+                    <ng-template #noSeaa>
+                        <p>No tienes ningún sistema asociado</p>
+                    </ng-template>
+                </mat-step>
+
+                <mat-step label="Paso 2" state="shared" [completed]="isCompletedStep2">
+                    <div>
+                        <p>Selecciona los usuarios con los que desea compartir el sistema experto</p>
+                        <div>
+                            <app-t-multiple-selection [isUsers]="true"
+                                (usersSelected)="getUsersSelected($event)"></app-t-multiple-selection>
+                        </div>
+                    </div>
+                    <div class="d-flex gap-2">
+                        <button mat-button matStepperPrevious>Regresar</button>
+                        <button mat-button matStepperNext class="bg-green text-light">Próximo</button>
+                    </div>
+                </mat-step>
+
+                <mat-step label="Paso 3">
+                    <p>Seguro de compartir el sistema experto {{seaaSelected!.name}} con </p>
+                    <div>
+                        <label *ngFor="let userSelected of usersSelected"> - {{ userSelected.name }} {{
+                            userSelected.lastName }}</label>
+                    </div>
+                    <div class="d-flex gap-2">
+                        <mat-spinner *ngIf="loadSpinnerStepper"
+                            style="width: 2%;height: 20px;--mdc-circular-progress-active-indicator-color: #006633!important;"></mat-spinner>
+                        <button mat-raised-button color="primary" (click)="save()">Guardar</button>
+                        <button mat-button matStepperPrevious class="bg-green text-light mx-2">Regresar</button>
+                        <button mat-button color="warn" (click)="stepper.reset()">Resetear</button>
+                    </div>
+
+                </mat-step>
+
+                <!-- Icon overrides. -->
+                <ng-template matStepperIcon="add_circle">
+                    <mat-icon>add_circle_outline</mat-icon>
+                </ng-template>
+                <ng-template matStepperIcon="shared">
+                    <mat-icon>share</mat-icon>
+                </ng-template>
+            </mat-stepper>
+        </div>
+    </section>
+  </ng-container>
+
+  <section class="mt-2 mb-5">
+    <mat-divider *ngIf="userServ.containsRol('ROLE_EXPERT')"></mat-divider>
+
+    <div class="mb-2 mt-5">
+      <h1>Ser un especialista</h1>
+      <p class="text-secondary">Como especialista se le asignará nuevas funcionalidades y atribuciones. Si es
+        considerado
+        en el sistema especialista y aún no aparece como tal, <strong>presione la mano de color verde.</strong></p>
+    </div>
+    <div class="p-2 border-end border-start border-secondary border-5 bg-secondary-subtle bg-opacity-25">
+      <div class="d-flex justify-content-center align-items-center">
+        <p class="mt-3 me-2">Solicitar ser especialista</p>
+        <button class="d-flex justify-content-center" (click)="requestSpecialist()" [disabled]="isSpecialist()"
+                mat-icon-button>
+          <mat-icon
+            [ngClass]="isSpecialist() ? 'text-secondary' : 'text-forest'">back_hand
+          </mat-icon>
+        </button>
+      </div>
+      <div>
+        <p class="d-flex justify-content-center">¿Soy especialista?
+          <mat-icon *ngIf="isSpecialist();else done"
+                    class="text-forest">check_circle
+          </mat-icon>
+        <p>
+          <ng-template #done>
+            <mat-icon color="warn">highlight_off</mat-icon>
+          </ng-template>
+      </div>
+    </div>
+  </section>
+
+  <section class="mt-2" style="height: 34.2rem;">
+    <mat-divider></mat-divider>
+    <div class="h-100 overflow-hidden position-relative">
+      <div [@moveInfoPerfil]="showForm ? 'left' : 'center'"
+           class="d-flex align-items-center bg-light z-1 w-50 h-100 position-absolute"
+           style="left: 25%;">
+        <div>
+          <h1 class="text-center mb-3">Editar información de perfil</h1>
+          <p class="text-secondary text-center">La información de su perfil si editada puede repercutir en
+            registros y operaciones. Debe estar seguro
+            de realizar esta acción.
+          </p>
+          <div class="d-flex justify-content-center">
+            <button mat-raised-button class="bg-green text-light px-3"
+                    (click)="showForm = !showForm">{{ showForm ? 'Volver' : 'Editar' }}
+            </button>
+          </div>
+        </div>
+      </div>
+      <div [@opacity]="showForm ? 'left' : 'center'" class="bg-light position-absolute w-50 h-100"
+           style="box-shadow: lightgrey 13px 0px 15px 0px">
+
+      </div>
+
+      <div *ngIf="showForm" @moveForm class="w-50 h-100 px-5 pt-3 bg-body-secondary bg-opacity-50 position-absolute"
+           style="right: 0;">
+
+        <form [formGroup]="formUserUpdate!" (ngSubmit)="submit()" class="vstack p-3">
+          <mat-form-field class="m-1">
+            <mat-label>Nombre</mat-label>
+            <input matInput placeholder="Nombre" formControlName="name">
+            <mat-error *ngIf="formUserUpdate!.get('name')?.hasError('required')">*Campo
+              Requerido
+            </mat-error>
+            <mat-error *ngIf="formUserUpdate!.get('name')?.hasError('pattern')">*Nombre
+              incorrecto
+            </mat-error>
+          </mat-form-field>
+
+          <mat-form-field class="m-1">
+            <mat-label>Apellido</mat-label>
+            <input matInput placeholder="Apellido" formControlName="lastName">
+            <mat-error *ngIf="formUserUpdate!.get('lastName')?.hasError('required')">*Campo
+              Requerido
+            </mat-error>
+            <mat-error *ngIf="formUserUpdate!.get('lastName')?.hasError('pattern')">*Apellidos
+              incorrectos
+            </mat-error>
+          </mat-form-field>
+
+          <mat-form-field class="m-1">
+            <mat-label>Número de teléfono</mat-label>
+            <input matInput placeholder="Número de teléfono" formControlName="phoneNumber">
+            <mat-error *ngIf="formUserUpdate!.get('phoneNumber')?.hasError('required')">*Campo
+              Requerido
+            </mat-error>
+            <mat-error *ngIf="formUserUpdate!.get('phoneNumber')?.hasError('pattern')">*Número de
+              teléfono incorrecto
+            </mat-error>
+            <mat-hint class="me-2" [align]="'end'">{{
+                formUserUpdate!.get('phoneNumber')?.value?.length ?
+                  formUserUpdate!.get('phoneNumber')?.value.length : 0
+              }}/8
+            </mat-hint>
+          </mat-form-field>
+
+          <mat-form-field class="m-1">
+            <mat-label>Contraseña</mat-label>
+            <input matInput [type]="hide ? 'password' : 'text'" placeholder="Contraseña"
+                   formControlName="password">
+            <mat-error class="d-flex gap-2">
+              <mat-error *ngIf="formUserUpdate!.get('password')?.hasError('required')">*Campo
+                Requerido
+              </mat-error>
+              <mat-error *ngIf="formUserUpdate!.get('password')?.hasError('minlength')">*Min 8
+                caracteres
+              </mat-error>
+              <mat-error *ngIf="formUserUpdate!.get('password')?.hasError('pattern')">*Debe contener
+                Mayus,minus,dígitos y &#64;#$%&*_+
+              </mat-error>
+            </mat-error>
+            <button mat-icon-button matSuffix (click)="hide = !hide">
+              <mat-icon>{{ hide ? 'visibility_off' : 'visibility' }}</mat-icon>
+            </button>
+          </mat-form-field>
+
+          <mat-form-field class="m-1">
+            <mat-label>Confirmar contraseña</mat-label>
+            <input matInput [type]="hideC ? 'password' : 'text'" placeholder="Confirmar contraseña"
+                   formControlName="confirmPassword">
+            <mat-error *ngIf="formUserUpdate!.get('confirmPassword')?.hasError('required')">*Campo
+              Requerido
+            </mat-error>
+            <mat-hint class="text-danger" *ngIf="formUserUpdate!.hasError('mismatch')">*No
+              coincide
+            </mat-hint>
+            <button mat-icon-button matSuffix (click)="hideC = !hideC">
+              <mat-icon>{{ hideC ? 'visibility_off' : 'visibility' }}</mat-icon>
+            </button>
+          </mat-form-field>
+
+          <div class="my-2 w-50">
+            <button mat-raised-button class="w-100"
+                    [ngClass]="formUserUpdate!.valid ? 'bg-success text-white' : ''" type="submit"
+                    [disabled]="!formUserUpdate!.valid">Enviar
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </section>
+  <section class="pt-3">
+    <mat-divider></mat-divider>
+    <h1 class="mt-3">Tú información</h1>
+    <div class="d-flex justify-content-between mt-4 pe-3 text-secondary">
+      <div>
+        <p>Nombre completo: {{ user?.name + ' ' + user?.lastName }}</p>
+        <p class="d-flex gap-2"
+          [matTooltip]="'Oculto por cuestiones de seguridad'"
+           [matTooltipShowDelay]="800">
+          Número de teléfono:
+          <mat-icon>visibility_off</mat-icon>
+        </p>
+        <p>Cantidad de consultas guardadas: {{ user?.queries?.length }}</p>
+        <p>En el sistema desde : {{ user?.date | date: 'dd/MM/yyyy' }}</p>
+        <p>Especialista: {{ isSpecialist() ? 'Sí' : 'No' }}</p>
+      </div>
+      <div *ngIf="isSpecialist()">
+        <p>Carnet de identidad: {{ user?.specialist?.ci }}</p>
+        <p *ngIf="user?.specialist?.knowledgeArea">Área de conocimiento: {{ user?.specialist?.knowledgeArea }}</p>
+        <p *ngIf="user?.specialist?.professionalRegister">Registro profesional:
+          {{ user?.specialist?.professionalRegister }}</p>
+        <p *ngIf="user?.specialist?.scientificCategory">Categoría científica:
+          {{ user?.specialist?.scientificCategory }}</p>
+        <div *ngIf="user?.specialist?.seaaList">
+          <p>Sistemas expertos asociados</p>
+          <p *ngFor="let seaa of user?.specialist?.seaaList">- {{ seaa.name }}</p>
+        </div>
+        <div *ngIf="user?.specialist?.seaaShared">
+          <p>Sistemas expertos otorgados: {{ user?.specialist?.seaaShared }}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</div>

@@ -1,0 +1,12 @@
+<div class="d-flex justify-content-between align-items-center">
+  <span matSnackBarLabel class="me-5 fs-5" style="color: springgreen;">
+    {{data}}
+  </span>
+  <span matSnackBarActions class="ms-5">
+    <button mat-icon-button matSnackBarAction (click)="snackBarRef.dismissWithAction()">
+      <mat-icon class="fs-5" style="color: springgreen;">
+        offline_pin
+      </mat-icon>
+    </button>
+  </span>
+</div>

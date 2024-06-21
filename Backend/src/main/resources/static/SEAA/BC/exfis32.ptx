@@ -1,0 +1,322 @@
+1,3,2 1
+	Hepatitis Aguda de Probable Origen T&#243;xico (F&#225;rmacos)
+2,3,2 1
+	Diarrea Secundaria a Recceci&#243;n del Intestino Delgado
+3,3,2 1
+	Estre&#241;imiento Secundario a Embarazo
+4,3,2 1
+	Esofagitis por Reflujo
+5,3,2 1
+	Esofagitis C&#225;ustica Aguda
+6,3,2 1
+	Esofagitis Infecciosa
+7,3,2 1
+	Espasmo Esof&#225;gico Difuso
+8,3,2 1
+	Perforaci&#243;n Esof&#225;gica
+9,3,2 1
+	Cuerpo Extra&#241;o Esof&#225;gico
+10,3,2 1
+	Acalasia
+11,3,2 1
+	Divert&#237;culo de Zenker (Diagn&#243;stico Intermedio)
+12,3,2 1
+	Hepatopat&#237;a Cr&#243;nica por V&#225;rices Esof&#225;gicas
+13,3,2 1
+	Estenosis C&#225;ustica
+14,3,2 1
+	Estre&#241;imiento Secundario a Malos H&#225;bitos de Vida
+15,3,2 1
+	Estre&#241;imiento Secundario a Toma de F&#225;rmacos
+16,3,2 1
+	Esofagitis Secundaria a Esclerodermia
+17,3,2 1
+	C&#225;ncer Esof&#225;gico
+18,3,2 1
+	Ulcus P&#233;ptico
+19,3,2 1
+	Estre&#241;imiento Funcional
+20,3,2 1
+	Hepatopat&#237;a Cr&#243;nica
+21,3,2 1
+	Colon Irritable o S&#237;ndrome del Intestino Irritable
+22,3,2 1
+	Ulcus Duodenal
+23,3,2 1
+	Enfermedad de Crohn o Enteritis Regional
+24,3,2 1
+	Dispepsia Funcional No Ulcerosa
+25,3,2 1
+	Gastritis-Duodenitis
+26,3,2 1
+	Estenosis Pil&#243;rica
+27,3,2 1
+	S&#237;ndrome de Zollinger-Ellison
+28,3,2 1
+	C&#225;ncer G&#225;strico
+29,3,2 1
+	Pancreatitis Aguda
+30,3,2 1
+	Pancreatitis Cr&#243;nica
+31,3,2 1
+	C&#225;ncer de P&#225;ncreas
+32,3,2 1
+	Colelitiasis
+33,3,2 2
+	Coledocolitiasis o Estenosis Papilar o Carcinoma Ampular o Compresi&#243;n
+	 Extr&#237;nseca
+34,3,2 1
+	Colitis Ulcerosa Inmunol&#243;gica
+35,3,2 1
+	Colecistitis Aguda
+36,3,2 1
+	Neoplasia Biliar
+37,3,2 1
+	Ictericia Funcional
+38,3,2 1
+	Ictericia Secundaria a S&#237;ndrome Hemol&#237;tico
+39,3,2 1
+	Diverticulosis del Colon en Brote
+40,3,2 1
+	Colestasis por Embarazo
+41,3,2 1
+	Obstrucci&#243;n Intestinal Aguda
+42,3,2 1
+	Diverticulitis Aguda
+43,3,2 1
+	Diverticulosis del Colon
+44,3,2 1
+	Absceso Hep&#225;tico
+45,3,2 1
+	C&#225;ncer Hep&#225;tico
+46,3,2 1
+	Apendicitis Aguda
+47,3,2 1
+	Hepatitis Aguda
+48,3,2 1
+	Hepatitis Aguda de Origen Alcoh&#243;lico
+49,3,2 1
+	Hepatitis Aguda de Origen Viral
+50,3,2 1
+	Abdomen Agudo
+51,3,2 1
+	C&#225;ncer de Colon
+52,3,2 1
+	Angiodisplasia de Colon
+53,3,2 1
+	P&#243;lipos de Colon y/o Recto
+54,3,2 1
+	Hemorroides
+55,3,2 1
+	Diarrea Secundaria a Insuficiencia Pancre&#225;tica
+56,3,2 1
+	Diarrea Secundaria a Abuso de Laxantes
+57,3,2 1
+	Diarrea Postgastrectom&#237;a
+58,3,2 1
+	Diarrea Secundaria a Hipertiroidismo
+59,3,2 1
+	Enfermedad de Whipple
+60,3,2 1
+	Linfoma Intestinal Primario
+61,3,2 1
+	Enteritis por Radioterapia
+62,3,2 1
+	Diarrea por D&#233;ficit de Lactosa del Adulto
+63,3,2 1
+	Enteropat&#237;a por Gluten
+64,3,2 1
+	Diarrea Secundaria a Diabetes Mellitus
+65,3,2 1
+	Estenosis P&#233;ptica
+66,3,2 1
+	Dolor de Pared
+67,3,2 1
+	Enfermedad de Wilson
+68,3,2 1
+	Hepatopat&#237;a En&#243;lica
+69,3,2 1
+	Hemocromatosis
+70,3,2 1
+	Cirrosis Biliar Primaria
+71,3,2 1
+	Colangitis Aguda
+72,3,2 1
+	Dispepsia Secundaria a Pancreatitis Cr&#243;nica
+73,3,2 1
+	Insuficiencia Pancre&#225;tica Exocrina
+74,3,2 1
+	Fisura Anal
+75,3,2 1
+	Absceso Anal
+76,3,2 1
+	Hipertensi&#243;n Portal
+77,3,2 1
+	Intermedio de C&#225;ncer de P&#225;ncreas
+78,3,2 1
+	Hematemesis y/o Melena por probable Gastritis Erosiva
+79,3,2 1
+	Intermedio de Varias
+80,3,2 1
+	S&#237;ndrome de Mallory Weiss
+81,3,2 1
+	Intermedio de palpaci&#243;n de masa abdominal
+82,3,2 1
+	Diarrea Aguda por Ingesta de Pescados y Mariscos
+83,3,2 1
+	Diarrea Aguda por Ingesta de Setas
+84,3,2 1
+	Diarrea Estafiloc&#243;cica Aguda o por Staphylococcus Aureus
+85,3,2 1
+	Diarrea Aguda por Salmonella o Salmonelosis no Tifoidica
+86,3,2 1
+	Diarrea Aguda por Clostridium Perfringes
+87,3,2 1
+	Diarrea Aguda por Bacilo Cereus
+88,3,2 1
+	Diarrea por Entoamebas
+89,3,2 1
+	Diarrea Aguda por Escherichia Coli Enterotox&#237;geno
+90,3,2 1
+	Diarrea Aguda por Shigella
+91,3,2 1
+	Diarrea Aguda por Escherichia Coli Invasivo
+92,3,2 1
+	Diarrea Aguda por Campilob&#225;cter
+93,3,2 1
+	Diarrea Aguda por Yersinia Enterocol&#237;tica
+94,3,2 1
+	Diarrea Aguda por Vitrio Parahemol&#237;tico
+95,3,2 1
+	Diarrea Aguda por Clostridium Dificile
+96,3,2 1
+	Diarrea Aguda por Vibrio Cholerae
+97,3,2 1
+	Diarrea Aguda por Clostridium Botul&#237;nico
+98,3,2 1
+	Diarrea por Giardia Lamblie
+99,3,2 1
+	Diarrea Aguda por Rota Virus o Virus de Norwalk
+100,3,2 1
+	Dispepsia Secundaria a Reflujo Gastroesof&#225;gico
+101,3,2 1
+	Dispepsia Secundaria a Acalasia
+102,3,2 1
+	Dispepsia Secundaria a Obstrucci&#243;n Esof&#225;gica
+103,3,2 1
+	Dispepsia Secundaria a Gastritis
+104,3,2 1
+	Dispepsia Secundaria a Ulcera G&#225;strica
+105,3,2 1
+	Dispepsia Secundaria a Ulcera Duodenal
+106,3,2 1
+	Dispepsia Secundaria a Carcinoma G&#225;strico
+107,3,2 1
+	Dispepsia Secundaria a Colecistitis
+108,3,2 1
+	Dispepsia Secundaria a Colelitiasis
+109,3,2 1
+	Dispepsia Secundaria a Coledocolitiasis
+110,3,2 1
+	Dispepsia Secundaria a Pancreatitis
+111,3,2 1
+	Dispepsia Secundaria a Carcinoma del P&#225;ncreas
+112,3,2 1
+	Dispepsia Secundaria a Estados Malabsortivos
+113,3,2 1
+	Dispepsia Secundaria a Obstrucci&#243;n Intestinal Intermitente
+114,3,2 1
+	Dispepsia Secundaria a S&#237;ndrome de Col&#243;n Irritable
+115,3,2 1
+	Dispepsia Secundaria a Angina Abdominal
+116,3,2 1
+	Dispepsia Secundaria a Colitis Isqu&#233;mica
+117,3,2 1
+	Dispepsia Secundaria a Tuberculosis
+118,3,2 1
+	Dispepsia Secundaria a Cardiopatias
+119,3,2 1
+	Dispepsia Secundaria a Insuficiencia Renal
+120,3,2 1
+	Dispepsia Secundaria a Epatopatia Cr&#243;nica
+121,3,2 1
+	Dispepsia Secundaria a Diabetes Mellitus
+122,3,2 1
+	Dolor Abdominal por Pancreatitis Cr&#243;nica
+123,3,2 1
+	Quiste Hidat&#237;dico Hep&#225;tico
+124,3,2 1
+	Intermedio de Quiste hidat&#237;dico hep&#225;tico
+125,3,2 1
+	Hematemesis por Hepatopat&#237;a Cr&#243;nica
+126,3,2 1
+	Estre&#241;imiento Secundario a Hipotiroidismo
+127,3,2 1
+	Estre&#241;imiento Secundario a Hiperparatiroidismo
+128,3,2 1
+	Estre&#241;imiento Secundario a Otras Hipercalcemias
+129,3,2 1
+	Estre&#241;imiento Secundario a Hipopotasemia
+130,3,2 1
+	Estre&#241;imiento Secundario a Diabetes Mellitus
+131,3,2 1
+	Estre&#241;imiento Secundario a Porfiria
+132,3,2 1
+	Intermedio de 30{3,1} V 38{3,1}
+133,3,2 1
+	Estre&#241;imiento Secundario a Feocromocitoma
+134,3,2 1
+	Posible Color Oscuro de las Heces por Ingesti&#243;n de Productos Qu&#237;micos
+135,3,2 1
+	Posible Color Oscuro de las Heces por Ingesti&#243;n de Calamares en su Tinta
+136,3,2 1
+	Posible Color Oscuro de las Heces por Ingesti&#243;n de Vino Tinto
+137,3,2 1
+	C&#225;ncer G&#225;strico con Met&#225;stasis Hep&#225;tica
+138,3,2 1
+	C&#225;ncer G&#225;strico con Met&#225;stasis Ganglionar
+139,3,2 1
+	S&#237;ndrome Colest&#225;sico por F&#225;rmacos
+140,3,2 1
+	Diarrea Cr&#243;nica Secundaria a Ingesta de F&#225;rmacos
+141,3,2 1
+	Tumor de la Cabeza Pancre&#225;tica
+142,3,2 2
+	Abdomen Agudo probablemente secundario a: Rotura Espl&#233;nica (o de Bazo)
+	 Ulcus Perforado Pancreatitis Pielonefritis Aneurisma Disecante
+143,3,2 3
+	Abdomen Agudo probablemente secundario a: Apendicitis Aguda Enfermedad
+	 P&#233;lvica Aguda Embarazo Ect&#243;pico Rotura Quiste Ov&#225;rico
+	 Diverticulitis Enfermedad de Crohn Hernia Incarcelada
+144,3,2 3
+	Abdomen Agudo probablemente secundario a: Enfermedad P&#233;lvica Aguda
+	 Embarazo Ect&#243;pico Rotura Quiste Ov&#225;rico Diverticulitis Enfermedad de
+	 Crohn Hernia Incarcelada
+145,3,2 2
+	Abdomen Agudo probablemente secundario a: Ulcus G&#225;strico Ulcus Duodenal
+	 Perforado Rotura Esof&#225;gica
+146,3,2 3
+	Abdomen Agudo probablemente secundario a: Obstrucci&#243;n Intestinal
+	 Pancreatitis Apendicitis Aguda Infarto Mesent&#233;rico Aneurisma A&#243;rtico
+	 Diverticulitis Ulcus Duodenal Perforado
+147,3,2 2
+	Abdomen Agudo probablemente secundario a: Colecistitis Aguda Pancreatitis
+	 Pielonefritis Aguda Ulcus Perforado
+148,3,2 1
+	Hepatitis Cr&#243;nica
+149,3,2 1
+	Cirrosis Hep&#225;tica
+150,3,2 1
+	Cirrosis Hep&#225;tica Alcoh&#243;lica o de Laennec
+151,3,2 1
+	Cirrosis Hep&#225;tica Posnecr&#243;tica
+152,3,2 1
+	Cirrosis Criptogen&#233;tica
+153,3,2 1
+	Encefalopat&#237;a Hep&#225;tica
+154,3,2 1
+	Colitis Ulcerosa Inmunol&#243;gica en Brote
+155,3,2 1
+	Intermedio para Signo Tumor Blando... en Divert. de Zenker
+156,3,2 1
+	Divert&#237;culo de Zenker

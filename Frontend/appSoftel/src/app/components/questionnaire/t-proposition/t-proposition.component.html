@@ -1,0 +1,9 @@
+<div *ngIf="disabledAll">
+    <p>{{value === '1.00' ? 'Sí 👍' : value === '-1.00' ? 'No ❌' : 'No sé ❔'}}</p>
+</div>
+<div class="d-flex gap-2 col-8 ms-3">
+    <button [disabled]="disabled || disabledAll" (click)="sendAnswer('1.00')" class="btn btn-success flex-grow-1" >Sí 👍</button>
+    <button [disabled]="disabled || disabledAll" (click)="sendAnswer('-1.00')" class="btn btn-danger flex-grow-1" >No ❌</button>
+    <button [disabled]="disabled || disabledAll" (click)="sendAnswer('0.00')" class="btn btn-secondary flex-grow-1" >No sé ❔</button>
+    <button [disabled]="disabledAll" (click)="sendCancel()" class="btn btn-danger flex-grow-1" >Cancelar</button>
+</div>
