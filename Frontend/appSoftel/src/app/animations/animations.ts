@@ -133,7 +133,7 @@ export let fade = trigger('fade', [
         ),
         animate(
           '0.5s 1s cubic-bezier( 0, 1, 0.5, 1 )',
-          style({ height: '0.5%', top: '15rem' })
+          style({ height: '0.5%', top: '16.5rem' })
         ),
         animate('0.5s cubic-bezier( 0, 1, 0.5, 1 )', style({ width: '50%' })),
         animate(
@@ -142,7 +142,7 @@ export let fade = trigger('fade', [
         ),
         animate(
           '0.5s cubic-bezier( 0, 1, 0.5, 1 )',
-          style({ height: '22%', top: '8.5rem' })
+          style({ height: '22%', top: '9rem' })
         ),
       ]),
 

@@ -14,7 +14,7 @@
 	<name>seaa</name>
 	<description>Expert System for determining disease conclusions </description>
 	<properties>
-		<java.version>20</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

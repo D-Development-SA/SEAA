@@ -6,14 +6,16 @@
             <form  class="d-flex flex-wrap gap-4 my-4">
                 <mat-form-field class="flex-grow-1 w-35">
                     <mat-label>Carnet de Identidad</mat-label>
-                    <input matInput type="number" 
-                                    placeholder="CI" 
-                                    [(ngModel)]="user.user.specialist!.ci" 
-                                    name="CI" 
+                    <input matInput type="text"
+                                    placeholder="CI"
+                                    [(ngModel)]="user.user.specialist!.ci"
+                                    name="CI"
                                     #ci="ngModel"
                                     (ngModelChange)="validCiWithPattern($event)"
+                                    (keydown)="allowOnlyNumbers($event)"
+                                    maxlength="11"
                                     required>
-                    <mat-hint [align]="'end'"><span [ngClass]="user.user.specialist?.ci?.toString()?.length != 11 ? 'text-danger' : 'text-forest'">{{user.user.specialist?.ci?.toString()?.length}}</span>/11</mat-hint>
+                    <mat-hint [align]="'end'"><span [ngClass]="user.user.specialist?.ci?.length != 11 ? 'text-danger' : 'text-forest'">{{user.user.specialist?.ci?.length}}</span>/11</mat-hint>
                     <mat-hint class="text-danger" *ngIf="ci.invalid && (ci.dirty || ci.touched)">Campo requerido</mat-hint>
                     <mat-hint class="text-danger ms-2" *ngIf="!validCi && (ci.dirty || ci.touched)">Invalid</mat-hint>
                 </mat-form-field>
@@ -62,12 +64,12 @@
                     </mat-form-field>
                     <mat-form-field class="flex-grow-1">
                         <mat-label>Opción</mat-label>
-                        <input matInput placeholder="Opción" [(ngModel)]="seaa.option" name="option" #seaaOption="ngModel" (ngModelChange)="valid(1, seaaOption.invalid)" requerid>
+                        <input matInput placeholder="Opción" [(ngModel)]="seaa.option" name="option" #seaaOption="ngModel" (ngModelChange)="valid(1, seaaOption.invalid)" required>
                         <mat-hint class="text-danger" *ngIf="seaaOption.invalid && (seaaOption.dirty || seaaOption.touched)">Campo requerido</mat-hint>
                     </mat-form-field>
                     <mat-form-field class="flex-grow-1">
                         <mat-label>Problema</mat-label>
-                        <input matInput placeholder="Problema" [(ngModel)]="seaa.problem" #seaaProblem="ngModel" name="problem" (ngModelChange)="valid(2, seaaProblem.invalid)" requerid>
+                        <input matInput placeholder="Problema" [(ngModel)]="seaa.problem" #seaaProblem="ngModel" name="problem" (ngModelChange)="valid(2, seaaProblem.invalid)" required>
                         <mat-hint class="text-danger" *ngIf="seaaProblem.invalid && (seaaProblem.dirty || seaaProblem.touched)">Campo requerido</mat-hint>
                     </mat-form-field>
                     <mat-form-field class="flex-grow-1">
@@ -94,6 +96,11 @@
             </div>
         </mat-tab>
     </mat-tab-group>
+  <div>
+    <p class="text-danger" *ngFor="let err of errors">
+      - {{err}}
+    </p>
+  </div>
 </mat-dialog-content>
 <mat-dialog-actions class="d-flex gap-2 bg-green rounded-0">
     <button mat-raised-button class="ms-2" (click)="update()"

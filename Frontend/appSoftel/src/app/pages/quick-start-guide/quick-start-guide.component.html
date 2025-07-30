@@ -1,11 +1,11 @@
 <div class="position-relative h-100 d-flex overflow-hidden">
 
-        <div @initCard class="d-flex flex-column justify-content-center mt-5 pt-5 px-5">
+        <div @initCard class="d-flex flex-column justify-content-center mt-5 pt-5 px-5 w-100">
             <div class="position-absolute" style="top: 15%;width: 93%;">
                 <hr>
             </div>
 
-            <div class="h-75 d-flex flex-column justify-content-center">
+            <div class="h-75 d-flex flex-column justify-content-center z-2">
 
                 <ng-container *ngFor="let _ of title; let i = index">
                     <div *ngIf="i === count" @contentFade>
@@ -25,7 +25,7 @@
 
             <hr>
 
-            <div class="d-flex justify-content-between">
+            <div class="d-flex justify-content-between z-3">
                 <button mat-icon-button class="d-flex justify-content-center align-items-center"
                  (click)="previous()" [disabled]="btnDisabledLeft"><mat-icon>arrow_back_ios</mat-icon></button>
 
@@ -52,7 +52,7 @@
             <div class="position-relative h-75 w-100">
                 <div class="d-flex justify-content-around w-100">
                     <div class="overflow-hidden opacity-50">
-                        <img id="imgPresentation" class="img-presentation" src="../../../assets/presentation.png">
+                        <img alt="presentation" id="imgPresentation" class="img-presentation" src="../../../assets/presentation.png">
                     </div>
                     <div id="lineAnimation" class="position-absolute bg-primary line">
                     </div>
